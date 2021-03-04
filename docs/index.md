@@ -5,8 +5,8 @@ Fue construido como un "kit" por la empresa Westsail en la ciudad de
 Costa Mesa en California, en la costa occidental de los
 Estados Unidos.
 
-Brisa fue comprado por un Estadounidense que ama a Uruguay.
+Brisa fue comprado por un Estadounidense que ama Uruguay.
 Lo compró en diciembre de 2020 en La Paz, Baja California Sur, México.
 Como residente
-de Uruguay el se va a navegarlo con destino eventual allí.
+Uruguayo el va a navegarlo con destino a Uruguay.
 Estas son las historias del velero Brisa navegando rumbo a Uruguay.
