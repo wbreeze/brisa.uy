@@ -8,6 +8,6 @@ Estados Unidos.
 Brisa fue comprado por un Estadounidense que ama a Uruguay.
 Lo compró en diciembre del 2020 en La Paz, Baja California Sur, México.
 Como residente
-de Uruguay el se va a navegarlo con destino eventual en Uruguay.
+de Uruguay el se va a navegarlo con destino eventual allí.
 Estos son las historias del velero Brisa navegando rumbo a Uruguay.
 
