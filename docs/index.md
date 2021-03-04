@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Brisa
 
-You can use the [editor on GitHub](https://github.com/wbreeze/brisa.uy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![vista por la proa]({{ '/assets/images/2021/proa.jpeg' | relative_url }})
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Brisa es un velero Westsail 32 con diez(10) metros de eslora.
+Fue construido como un "kit" por la empresa Westsail en la ciudad de
+Costa Mesa en el estado de California, en la costa occidental de los
+Estados Unidos.
 
-### Markdown
+Brisa fue comprado por un Estadounidense que ama a Uruguay.
+Lo compró en diciembre del 2020 en La Paz, Baja California Sur, México.
+Como residente
+de Uruguay el se va a navegarlo con destino eventual en Uruguay.
+Estos son las historias del velero Brisa navegando rumbo a Uruguay.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wbreeze/brisa.uy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
