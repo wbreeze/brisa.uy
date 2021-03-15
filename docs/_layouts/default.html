@@ -39,14 +39,14 @@
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
-        {%- include list_of_posts.html -%}
       </header>
+
       <section>
-
-      {{ content }}
-
+        {{ content }}
       </section>
+
       <footer>
+        {%- include list_of_posts.html -%}
         <p>{{ site.license }}</p>
         {% if false and site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
