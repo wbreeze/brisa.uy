@@ -46,11 +46,14 @@
 
       </section>
       <footer>
-        {{ site.license }}
+        <p>{{ site.license }}</p>
         {% if false and site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        {% if site.github.is_project_page %}
+        <p class="view"><a href="{{ site.github.repository_url }}">A ver el fuente del código en GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
+        {% endif %}
+        <p><small>Alojado por GitHub Pages &mdash; Deseño por <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
