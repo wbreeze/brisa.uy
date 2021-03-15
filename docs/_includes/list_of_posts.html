@@ -1,0 +1,21 @@
+{% if site.posts.size > 0 %}
+  <p class="rss-subscribe">subscribe
+    <a href="{{ "/feed.xml" | relative_url }}">via RSS</a>
+  </p>
+
+  <ul>
+    {% assign date_format = site.date_format | default: "%-d %b %Y" %}
+    {% for post in site.posts limit: 12 %}
+      <li>
+        {{ post.date | date: date_format }}
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="navigation"><a href="{{ "/posts" | relative_url }}"
+      >...all posts</a>
+  </p>
+{% endif %}
