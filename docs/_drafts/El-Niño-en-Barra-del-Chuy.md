@@ -2,7 +2,7 @@
 layout: post
 title: El Niño en Barra del Chuy
 date: 2021-03-14
-tags: climate science uruguay
+tags: clima ciencia uruguay
 ---
 Como escritô Leo Lagos en [la diaria, 13 de marzo 2021](
   https://ladiaria.com.uy/ciencia/articulo/2021/3/el-nino-sumado-al-calentamiento-global-ya-quebro-la-capacidad-de-resiliencia-de-la-playa-de-barra-del-chuy/
