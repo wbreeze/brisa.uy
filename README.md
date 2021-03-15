@@ -2,6 +2,8 @@
 
 Fuente de código para Brisa.uy
 
+![Jeff Schmaltz, MODIS Rapid Response Team, NASA/GSFC, Public domain, via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/a/ac/Uruguay_T2.png)
+
 La meta, el propsito del sitio es hacer algo, contribuir,
 brindar reconocimientos, aportar, elevar percepciones de Uruguay
 como un país maritimo. Uruguay tiene seis cientos sesenta kilometros
