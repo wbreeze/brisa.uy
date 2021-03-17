@@ -1,0 +1,65 @@
+.subhead {
+  display: grid;
+}
+
+.tagline {
+  grid-column: 2;
+  margin-left: 1em;
+}
+
+.site-nav {
+  display: inline-block;
+  grid-column: 1;
+  background-color: $background-color;
+  border: 1px solid $grey-color-light;
+  border-radius: 5px;
+
+  .nav-trigger {
+      display: none;
+  }
+
+  .menu-icon {
+    float: left;
+    width: 36px;
+    height: 26px;
+    line-height: 0;
+    padding-top: 10px;
+    text-align: center;
+
+    > svg path {
+      fill: $grey-color-dark;
+    }
+  }
+
+  label[for="nav-trigger"] {
+    display: block;
+    float: left;
+    width: 36px;
+    height: 36px;
+    z-index: 2;
+    cursor: pointer;
+  }
+
+  input ~ .trigger {
+    clear: both;
+    display: none;
+  }
+
+  input:checked ~ .trigger {
+    display: block;
+    padding-bottom: 5px;
+  }
+
+  .page-link {
+    color: $text-color;
+    line-height: $base-line-height;
+    display: block;
+    padding: 5px 10px;
+
+    // Gaps between nav items, but not on the last one
+    &:not(:last-child) {
+      margin-right: 0;
+    }
+    margin-right: 20px;
+  }
+}
