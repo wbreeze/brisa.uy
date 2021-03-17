@@ -1,7 +1,4 @@
 {% if site.posts.size > 0 %}
-  <p class="rss-subscribe">subscribe
-    <a href="{{ "/feed.xml" | relative_url }}">via RSS</a>
-  </p>
 
   <ul>
     {% assign date_format = site.date_format | default: "%-d %b %Y" %}
@@ -15,7 +12,11 @@
     {% endfor %}
   </ul>
 
-  <p class="navigation"><a href="{{ "/posts" | relative_url }}"
-      >...all posts</a>
+  <p class="navigation">
+  Ve
+    <a href="{{ "/posts" | relative_url }}">la lista de los artículos.</a>
+  Suscríbese
+    <a href="{{ "/feed.xml" | relative_url }}">por RSS</a>
+  </p>
   </p>
 {% endif %}
