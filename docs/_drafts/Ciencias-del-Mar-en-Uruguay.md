@@ -3,10 +3,13 @@ layout: post
 title: Ciencias del Mar en Uruguay
 date: 2021-03-17
 tags: ciencia uruguay
-excerpt:
-link_note: "[internal link]({% link _posts/2019-07-30-post.md | relative_url %})"
-image_note: "![image]({% link /assets/images/image.jpg | relative_url %})"
+excerpt: Uruguay tiene una soberanía marítima extensa en el oceano Atlántico
+  y el Rio de la Plata.
 ---
+
+![Playa en la costa de Uruguay](
+  {{ "/assets/images/2021/playa.jpeg" | relative_url }}
+)
 
 Como ha escrito Leo Lagos en La Diaria,
 ["La producción científica de las ciencias del mar"](
@@ -24,14 +27,15 @@ mapping of science and bibliometric indexes" ["Análisis de tres décadas de
 investigación en ciencias del mar en Uruguay a
 través del mapeo e índices bibliométricos"](
   https://doi.org/10.3856/vol49-issue1-fulltext-2584
-), del
-Laboratorio de Ciencias del Mar del Departamento de Ecología y Evolución de la
+).
+Lercari es un investigador del Laboratorio de Ciencias del Mar, del
+Departamento de Ecología y Evolución de la
 Facultad de Ciencias de la Universidad de la República.
 
-El analisis tiene un católogo de las contribuciones brindadas por
-científicos uruguayos del conocimiento sobre
-temas relacionados con el ambiente y la vida marítima.
-Los temas de investigación predominantes eran, entro otros, la aguacultura,
+El analisis conta y categoriza las contribuciones brindadas
+al conocimiento sobre temas relacionados con el ambiente y la vida marítima
+por científicos uruguayos.
+Los temas de investigación predominantes eran, entro otros, la acuacultura,
 el cambio climático, vida estuarina, polución, biología, conservación,
 y vida marina de la costa.
 
