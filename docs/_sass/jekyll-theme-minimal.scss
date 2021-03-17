@@ -1,11 +1,22 @@
+$spacing-unit: 30px;
+$base-line-height: 1.5;
+$text-color: #727272;
+$background-color: #fff;
+$grey-color:       #828282 !default;
+$grey-color-light: lighten($grey-color, 40%) !default;
+$grey-color-dark:  darken($grey-color, 25%) !default;
+$on-medium: 720px;
+$on-large: 960px;
+
 @import "fonts";
 @import "rouge-github";
+@import "site-menu";
 
 body {
-  background-color: #fff;
+  background-color: $background-color;
   padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#727272;
+  color:$text-color;
   font-weight:400;
 }
 
@@ -159,7 +170,7 @@ footer {
   }
 }
 
-@media print, screen and (max-width: 960px) {
+@media print, screen and (max-width: $on-large) {
 
   div.wrapper {
     width:auto;
@@ -187,7 +198,7 @@ footer {
   }
 }
 
-@media print, screen and (max-width: 720px) {
+@media print, screen and (max-width: $on-medium) {
   body {
     word-wrap:break-word;
   }
