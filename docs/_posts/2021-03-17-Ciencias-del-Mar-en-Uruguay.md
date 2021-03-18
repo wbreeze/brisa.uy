@@ -53,5 +53,5 @@ en la Barra de Chuy por la Facultad de Ciencias.
 
 El análisis de Lercari destaca las buenas contribuciones que ya ha hecho la comunidad
 cientifica uruguaya, y concluyó que Uruguay podría hacer más para estudiar la
-vida ecológica, desorollar y aprovechar su gran recurso marítimo, y brindar
+vida ecológica, desarrollar y aprovechar su gran recurso marítimo, y brindar
 contribuciones al conocimiento mundial sobre el mar y el clima.
