@@ -32,18 +32,18 @@ Lercari es un investigador del Laboratorio de Ciencias del Mar, del
 Departamento de Ecología y Evolución de la
 Facultad de Ciencias de la Universidad de la República.
 
-El analisis conta y categoriza las contribuciones brindadas
+El análisis cuenta y categoriza las contribuciones brindadas
 al conocimiento sobre temas relacionados con el ambiente y la vida marítima
 por científicos uruguayos.
-Los temas de investigación predominantes eran, entro otros, la acuacultura,
-el cambio climático, vida estuarina, polución, biología, conservación,
+Los temas de investigación predominantes eran, entre otros, la acuacultura,
+el cambio climático, vida estuarina, contaminación, biología, conservación,
 y vida marina de la costa.
 
-Las contribuciones vienen por lo mayor desde la Universidad de la República,
+Las contribuciones vienen, en gran parte, desde la Universidad de la República,
 y también desde la Dirección Nacional de Recursos Acuáticos,
 Museo Nacional de Historia Natural, y Centro de Investigación y Conservación
-Marina entre otros. El estudio muestra un buen intercambio entre científicos
-uruguayos y la comunidad científica mundiál.
+Marina, entre otros. El estudio muestra un buen intercambio entre científicos
+uruguayos y la comunidad científica mundial.
 
 Un ejemplo de las contribuciones es un estudio de cambios en la vida
 costera de La Barra de Chuy que vienen por cambios del clima, como
