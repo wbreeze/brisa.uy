@@ -11,5 +11,6 @@ plugins:
  - jekyll-seo-tag
 
 header_pages:
- - about.md
- - posts.md
+ - artículos.md
+ - sobre.md
+ - index.md
