@@ -1,3 +1,6 @@
+---
+title: Inicio
+---
 ![vista por la proa]({{ '/assets/images/2021/proa.jpeg' | relative_url }})
 
 Brisa es un velero Westsail 32 con diez metros (10m) de eslora.
