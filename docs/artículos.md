@@ -2,6 +2,9 @@
 title: Artículos
 permalink: /artículos/
 ---
+
+# Lista de los Artículos
+
 {% if site.posts.size > 0 %}
   <ul class="post-list">
     {% for post in site.posts %}
