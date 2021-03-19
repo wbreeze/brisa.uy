@@ -1,7 +1,6 @@
 ---
-layout: page
-title: Posts
-permalink: /posts/
+title: Artículos
+permalink: /artículos/
 ---
 {% if site.posts.size > 0 %}
   <ul class="post-list">
