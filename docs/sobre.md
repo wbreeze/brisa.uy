@@ -26,7 +26,7 @@ y Raquel Nuñez. Gracias por los contribuciones de artículos cuyos sean
 reconocido en los mismos.
 
 Gracias por el
-[Yacht Club Nautilus](https://nyc.com.uy/)
+[Nautilus Yachting Club](https://nyc.com.uy/)
 donde he aprendido por gran parte como navegar.
 
 Sobre todo, gracias por Uruguay, para sus politicas que me permiten
