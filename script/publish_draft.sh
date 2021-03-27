@@ -11,6 +11,7 @@ src="$1"
 base_name=${src##*/}
 ymd=`date +%Y-%m-%d`
 post_dir="./docs/_posts"
+aspell -M -l es check "${src}"
 dest="${post_dir}/${ymd}-${base_name}"
 subst="s/date: .+/date: ${ymd}/"
 sed -E "${subst}" "${src}" >"${dest}"
@@ -22,4 +23,4 @@ ls -lt ${post_dir} | head -n 6
 echo
 echo "Remove the draft?"
 echo "Press enter to leave it, or type \"y\" and then enter to delete it."
-rm -i "${src}"
+rm -i "${src}" "${src}.bak"
