@@ -31,7 +31,9 @@ Para mejorar las ampollas, seguimos los procesos descrito por la guía
 Repair and Prevention Manual][WestRepair]
 (Ampollas gelcoat: guía por diagnóstico, reparación, y prevención), una guía
 en inglés cual cuenta con los prácticos mejores y experiencia larga por la
-industria.
+industria. Además, toman referencia al artículo publicado (en inglés) por
+BoatUS, [Fiberglass Blister Repair][BoatUS] (Reparación de ampollas en
+fibra de vidrio).
 
 Primeramente quebraron las ampollas para liberar el líquido
 adentro. Esto puede ser con cuidado porque es ácido sobre la tensión. Lo hacemos
@@ -217,3 +219,7 @@ y los trabajadores, incluso especialmente a Cezár para la buena obra.
 
 [KISS]: https://es.wikipedia.org/wiki/Principio_KISS
   "sistemas funcionan mejor si se mantienen simples"
+
+[BoatUS]: https://www.boatus.com/expert-advice/expert-advice-archive/2019/march/blister-repair
+  "Fiberglass Blister Repair (inglés)"
+
