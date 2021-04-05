@@ -2,25 +2,27 @@
 layout: post
 title: Un Botiquín
 date: 2021-04-04
-author: Fernando Villalba, M.D.
 tags: médico equipo
 excerpt: primeros auxilios por el alta mar
 ---
 
-En el alta mar, no hay ningúna farmácia cerca, ni medicos, ni servicio SEMM.
+En el alta mar, no hay ningúna farmácia cerca, ni medicos, ni servicios de
+emergencia móvil.
 Lo que sigue es un botiquín de primeros auxilios como remedio por
-problemas medicas comunes, y heridas levas.
+problemas medicos comunes, y heridas levas.
+
+> Este material es solo una guía realizada por profesionales médicos, necesariamente incompleta dada la cantidad y diversidad de travesías posibles que debe actualizarse periódicamente. No sustituye la consulta médica virtual o presencial.
 
 ## Materiales
 - TIJERA
-- PINZA RECTA (tipo pinza de cejas pero mas grande9
+- PINZA RECTA (tipo pinza de cejas pero mas grande)
 - HOJAS DE BISTURÍ (4 UNIDADES)
-- AGUJAS DE SUTURA RECTAS PARA PIEL ENHEBRADAS, tipo ETHILON o ETHICON ETHILON (4 UNIDADES)
+- AGUJAS DE SUTURA RECTAS PARA PIEL ENHEBRADAS, tipo ETHILON o ETHICON (4 unidades)
 - GASA ESTÉRIL 10 x10 (10 sobres)
 - ALGODÓN uno o dos paquetes
 - COMPRESAS (Si no hay, se arman como un sándwich con dos hojas de gasa y algodón en el medio.) Son para cubrir heridas de mediano tamaño que sangran. Se fijan comprimiendo levemente con cinta adhesiva.
 - VENDA AUTOADHESIVA, tipo TENSOPLAST, (uno o dos rollos)
-- MALLA TUBULAR ELASTICA, para mantener curaciones (dos unidades)
+- MALLA TUBULAR ELASTICA, para curaciones (dos unidades)
 - “CURITAS IMPERMEABLES” waterproof band aids
 - GUANTES DE LATEX ESTÉRILES, talle 8 (4 pares)
 - TORNIQUETE (LIGADURAS DE GOMA) 
@@ -31,18 +33,22 @@ problemas medicas comunes, y heridas levas.
     - Diarreal leve: Dieta e hidratación
     - Diarrea mod: FADAL comprimidos, o CREMA DE BISMUTO (BISMUTOL), un frasco
     - Severa o infecciosa:
-        - EFTIAZOL N comprimidos, o NORFLOXACINA comprimidos
-        - METRONIDAZOL Soluciones hidratantes, polvo como para preparar 5 o 10 lts
+        - EFTIAZOL N comprimidos o NORFLOXACINA comprimidos (uno u otro)
+          **y asociar** (sumar, agregar, tomar simultaneamente)
+        - METRONIDAZOL 500mg c/8 hs v/o, **y además**
+        - **lo más importante,** SOLUCIONES HIDRATANTES, polvo como para preparar 5 o 10 lts
 - Dolor abdominal (tipo colico)(cramps): BUSCAPINA, compuesta comprimidos o gotas
 - Antiacidos: RANITIDINA/TAURAL, comprimidos
-- Mareos (sea sickness): AEROMAR, comprimidos, Tambien se puede usar
+- Mareos (sea sickness): AEROMAR, comprimidos, Tambien se puede usar BENADRYL
 
 ## Skin and soft tissue infections
 - Antiseptico para heridas:
     - CLORHEXIDINA, 1 Litro **No se precisa ni es util ningun otro**
     - EFA TRIPLE POMADA (Topic antiobiotics)
-- Antiseptico y calmante topico: Sumergir en agua helada NO HIELO los primeros 15 minutos
-- En quemaduras: SEDANSIL (sufadiazina argentica), pomada o UNGÚENTO, 4 frascos, 50 grms
+- Quemaduras antiseptico y calmante topico: Sumergir en agua helada NO HIELO
+  los primeros 15 minutos, luego
+  SEDANSIL (sufadiazina argentica), pomada o frasco, 50 grs curar dos o tres
+  veces por día
 - Heridas infectadas:
     - CIPROFLOXACINA, comprimidos, 500 mgrs cada 12 hs o
     - BACTRIM FORTE, un comprimido cada 12 hs
@@ -54,7 +60,7 @@ problemas medicas comunes, y heridas levas.
     - FLOGOL, antinflamatorio, pomada
 
 ## Probables fracturas de miembros
-Férulas inflables para miembro superior e inferior (una de cada una) es la medida analgesica mas eficaz
+Férulas inflables para miembro superior e inferior (una de cada una)
 
 ## Anaphylaxis
 - Leve:
@@ -83,7 +89,8 @@ Ordenados por potencia analgesica:
 
 ## Antibioticos
 - AMPICILLIN 500: Example pharingitis con placas blancas, respiratory infection (fever, purulent sputum), otitis media, every 8 hours during 7 days.
-- AMOXI CLAVULANICO 875+125 same indications with more severe infection, same dosage as AMPICILLIN
+- AMOXI CLAVULANICO 875+125 same indications and dosage scheme as AMPICILLIN,
+  every 8 hours during 7 days. Use in place of AMPICILLIN in more severe cases.
 - BACTRIM FORTE Skin & soft tissue infections (foruncula, abcesses, suppurated wounds), one comprimido cada 12 hs durante 7 días
 
 ## Miscelaneous
@@ -91,3 +98,10 @@ Ordenados por potencia analgesica:
 - REPELENTE DE INSECTOS
 - FILTRO SOLAR
 - POMADA ANTIHEMORROIDAL
+
+## Fuentes
+- Sabiduria del Nautilus Yacht Club, Montevideo, Uruguay
+- Isaac, Jeffrey. _Outward Bound Wilderness First-Aid Handbook_, Fourth Edition.
+  Falcon Guides, 2013. (Inglés)
+- Leonard, Beth A. _The Voyager's Handbook_, Second Edition. McGraw Hill, 2007.
+  (Inglés)
