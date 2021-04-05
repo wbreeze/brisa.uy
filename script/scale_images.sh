@@ -1,7 +1,7 @@
 #!/bin/bash
 #create reduced versions of images in named directory 
 SRC_DIR=$1
-size="1200x"
+size="1200x>"
 if [[ -n ${SRC_DIR} && -e ${SRC_DIR} && -d ${SRC_DIR} ]]; then
   echo converting in "${SRC_DIR}"
   DEST_DIR="${SRC_DIR}/reduced"
