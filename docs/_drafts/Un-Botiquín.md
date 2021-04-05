@@ -6,10 +6,10 @@ tags: médico equipo
 excerpt: primeros auxilios por el alta mar
 ---
 
-En el alta mar, no hay ningúna farmácia cerca, ni medicos, ni servicios de
+En el alta mar, no hay ninguna farmacia cerca, ni médicos, ni servicios de
 emergencia móvil.
 Lo que sigue es un botiquín de primeros auxilios como remedio por
-problemas medicos comunes, y heridas levas.
+problemas médicos comunes, y heridas levas.
 
 > Este material es solo una guía realizada por profesionales médicos, necesariamente incompleta dada la cantidad y diversidad de travesías posibles que debe actualizarse periódicamente. No sustituye la consulta médica virtual o presencial.
 
@@ -34,18 +34,18 @@ problemas medicos comunes, y heridas levas.
     - Diarrea mod: FADAL comprimidos, o CREMA DE BISMUTO (BISMUTOL), un frasco
     - Severa o infecciosa:
         - EFTIAZOL N comprimidos o NORFLOXACINA comprimidos (uno u otro)
-          **y asociar** (sumar, agregar, tomar simultaneamente)
+          **y asociar** (sumar, agregar, tomar simultáneamente)
         - METRONIDAZOL 500mg c/8 hs v/o, **y además**
         - **lo más importante,** SOLUCIONES HIDRATANTES, polvo como para preparar 5 o 10 lts
-- Dolor abdominal (tipo colico)(cramps): BUSCAPINA, compuesta comprimidos o gotas
-- Antiacidos: RANITIDINA/TAURAL, comprimidos
+- Dolor abdominal (tipo cólico)(cramps): BUSCAPINA, compuesta comprimidos o gotas
+- Antiácidos: RANITIDINA/TAURAL, comprimidos
 - Mareos (sea sickness): AEROMAR, comprimidos, Tambien se puede usar BENADRYL
 
 ## Skin and soft tissue infections
 - Antiseptico para heridas:
-    - CLORHEXIDINA, 1 Litro **No se precisa ni es util ningun otro**
+    - CLORHEXIDINA, 1 Litro **No se precisa ni es útil ningún otro**
     - EFA TRIPLE POMADA (Topic antiobiotics)
-- Quemaduras antiseptico y calmante topico: Sumergir en agua helada NO HIELO
+- Quemaduras antiséptico y calmante tópico: Sumergir en agua helada NO HIELO
   los primeros 15 minutos, luego
   SEDANSIL (sufadiazina argentica), pomada o frasco, 50 grs curar dos o tres
   veces por día
@@ -53,7 +53,7 @@ problemas medicos comunes, y heridas levas.
     - CIPROFLOXACINA, comprimidos, 500 mgrs cada 12 hs o
     - BACTRIM FORTE, un comprimido cada 12 hs
 
-## Trauma inflamacion partes blandas
+## Trauma inflamación partes blandas
 - Golpes torceduras pequeños hematomas:
     - hielo
     - DICLOFENAC (COMP), antinflamatorio comprimidos
@@ -66,41 +66,41 @@ Férulas inflables para miembro superior e inferior (una de cada una)
 - Leve:
     - ALLEGRA comprimidos o
     - KALITRON comprimidos o
-    - BENADRYL Salvo el allegra pueden causar somnolencia y sedación leve
-- Severe:
-    - Adrenalina EPIPEN (tres ampollas s/c injection) 
+    - BENADRYL Salvo el alivia pueden causar somnolencia y sedación leve
+- Severo:
+    - Adrenalina EPIPEN (tres ampollas s/c inyección) 
     - PREDNISONE 5 mg comprimidos
     - KALITRON comprimidos
 
 ## Otorhino/OFT
-- Conjuntivitis infecciosa (parpados inflamados y pegados por secreción): purulenta TOBREX ungüento Y TOBREX gotas/colirio
-- Congestión ocular (ojos rojos, lagrimeo): NABOR gotas oftalmicas
+- Conjuntivitis infecciosa (párpados inflamados y pegados por secreción): purulenta TOBREX ungüento Y TOBREX gotas/colirio
+- Congestión ocular (ojos rojos, lagrimeo): NABOR gotas oftálmicas
 - Otitis externa (NO sale pus por el conducto auditivo externo, duele mucho): CIRIAX OTIC
-- Otitis media (sale pus por el conducto auditivo externo): NO USAR GOTAS. USAR ANTIBIOTICOS VIA ORAL
+- Otitis media (sale pus por el conducto auditivo externo): NO USAR GOTAS. USAR ANTIBIÓTICOS VÍA ORAL
 
-## Analgesia/antipyretics
-Ordenados por potencia analgesica:
+## Analgesia/antipiréticos
+Ordenados por potencia analgésica:
 - ASPIRINA
 - PARACETAMOL
 - DICLOFENAC
 - NOVEMINA CON CODEINA comprimidos (por receta)
 - TRAMADOL gotas (por receta)
-- MORFINA: (por receta) Recurso extremo por via subcutanea o intramuscular. **Hay que estar seguro de NO pasarla por via intravenosa**
+- MORFINA: (por receta) Recurso extremo por vía subcutánea o intramuscular. **Hay que estar seguro de NO pasarla por vía intravenosa**
 
-## Antibioticos
-- AMPICILLIN 500: Example pharingitis con placas blancas, respiratory infection (fever, purulent sputum), otitis media, every 8 hours during 7 days.
+## Antibióticos
+- AMPICILLIN 500: Por ejemplo faringitis con placas blancas, respiratory infection (fever, purulent sputum), otitis media, cada 8 horas durante 7 días.
 - AMOXI CLAVULANICO 875+125 same indications and dosage scheme as AMPICILLIN,
-  every 8 hours during 7 days. Use in place of AMPICILLIN in more severe cases.
-- BACTRIM FORTE Skin & soft tissue infections (foruncula, abcesses, suppurated wounds), one comprimido cada 12 hs durante 7 días
+  cada 8 horas durante 7 días. Use in place of AMPICILLIN in more severe cases.
+- BACTRIM FORTE Skin & soft tissue infections (forúnculo, abcesses, suppurated wounds), un comprimido cada 12 hs durante 7 días
 
-## Miscelaneous
-- LIDOCAINA VISCOSA (anestesico local sobretodo para mucosas gingival y anorectal)
+## Misceláneos
+- LIDOCAINA VISCOSA (anestésico local sobretodo para mucosas gingival y ano-rectal)
 - REPELENTE DE INSECTOS
 - FILTRO SOLAR
 - POMADA ANTIHEMORROIDAL
 
 ## Fuentes
-- Sabiduria del Nautilus Yacht Club, Montevideo, Uruguay
+- Sabiduría del Nautilus Yacht Club, Montevideo, Uruguay
 - Isaac, Jeffrey. _Outward Bound Wilderness First-Aid Handbook_, Fourth Edition.
   Falcon Guides, 2013. (Inglés)
 - Leonard, Beth A. _The Voyager's Handbook_, Second Edition. McGraw Hill, 2007.
