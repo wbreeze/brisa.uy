@@ -3,9 +3,13 @@ layout: post
 title: Un Botiquín
 date: 2021-04-04
 author: Fernando Villalba, M.D.
-tags:
-excerpt:
+tags: médico equipo
+excerpt: primeros auxilios por el alta mar
 ---
+
+En el alta mar, no hay ningúna farmácia cerca, ni medicos, ni servicio SEMM.
+Lo que sigue es un botiquín de primeros auxilios como remedio por
+problemas medicas comunes, y heridas levas.
 
 ## Materiales
 - TIJERA
