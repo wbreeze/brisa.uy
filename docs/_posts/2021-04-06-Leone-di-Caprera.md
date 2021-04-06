@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Leone di Caprera
-date: 2021-04-05
+date: 2021-04-06
 author: Edgar Ecker
 tags: historia veleros
 excerpt: De Montevideo a Italia en velero …en 1880!
@@ -25,9 +25,10 @@ El Leone di Caprera es una goleta de 9 metros de largo, tres toneladas de tonela
   {{ '/assets/images/2021/ilLeoneDiCaprera/popa.png' | relative_url }}
 )
 
-El nombre del barco surge de la isla de Caprera cerca de Cerdeña, Italia, donde Garibaldi se encontraba exiliado luego de una intensa vida dedicada a las luchas revolucionarias en America y Europa que le valio el moto de “eroe dei due mondi”
+El nombre del barco surge de la isla de Caprera cerca de Cerdeña, Italia, donde Garibaldi se encontraba exiliado luego de una intensa vida dedicada a las luchas revolucionarias en América y Europa que le valió el moto de “eroe dei due mondi”
 
 Con sus ciento veinte años de antigüedad, el Leone di Caprera, además de ser un ejemplo único en términos de mano de obra y aparejo, cuenta con un récord mundial de navegación. De hecho, fue el primer barco de ese tamaño que en 1880 hizo la primera travesía atlántica de Uruguay a Italia con solo tres tripulantes a bordo.
+Increíble pensar que lo hicieron sin GPS, radio, AIS, balsas salvavidas y demás elementos de seguridad que hoy damos por descontados.
 
 ## La Travesía
 
@@ -100,7 +101,7 @@ Murió en Montevideo en 1939.
 
 Por la travesía los tres tripulantes fueron condecorados por el rey de Italia con la medalla de oro.
 
-## Cuaderno de bitacora
+## Cuaderno de bitácora
 
 La primera edición del cuaderno de bitácora del cruce se imprimió en 1881. En 1884 se dio una segunda edición. El diario se reimprimió en 2002 (Vincenzo Fondacaro, De América a Europa. Viaje a través del océano. Giuseppe Galzerano editore, 2002)
 
