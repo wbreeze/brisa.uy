@@ -1,7 +1,7 @@
 {% if site.posts.size > 0 %}
 
   <ul>
-    {% assign date_format = site.date_format | default: "%-d %b %Y" %}
+    {% assign date_format = "%d %b %Y" %}
     {% for post in site.posts limit: 12 %}
       <li>
         {{ post.date | date: date_format }}
