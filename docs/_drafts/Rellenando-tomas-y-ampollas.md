@@ -3,7 +3,9 @@ layout: post
 title: Rellenando tomas y ampollas
 date: 2021-03-25
 tags: mantenimiento casco
-excerpt:
+excerpt: La pintura del fondo tiene dos funciones. Primeramente, rechaza la
+  cría de las plantas y los percebes en el casco. Además, se pone una barrera
+  entre el casco y el agua.
 ---
 
 Al empieza de Febrero, Brisa estaba sacando desde el agua para:
@@ -199,11 +201,15 @@ y los trabajadores, incluso especialmente a Cezár para la buena obra.
 
 ## Materiales
 
-- 105 resína
-- 205 endurecedor
-- 206 endurecedor
-- 406 tela fibra de vidrio
-- 879 release fabric
+- West System
+  - 105 resína
+  - 205 endurecedor curado rápido
+  - 206 endurecedor curado lento
+  - 404 material de relleno alta densidad
+  - 406 material de relleno sílice coloidal
+  - 740 tela fibra de vidrio
+  - 879 release fabric
+
 
 [WestRepair]: https://www.westsystem.com/wp-content/uploads/Gelcoat-Blisters-Diagnosis-Repair-and-Prevention.pdf
   "West System reparación de las ampollas (inglés, PDF)"
