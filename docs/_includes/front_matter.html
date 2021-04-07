@@ -1,6 +1,16 @@
 <div class='front-matter'>
-  <div class='copyright'>©{{ Time.now | date: "%Y" }} Douglas Lovell &mdash;</div>
-  <div class='license'>{{ site.license }} &mdash;</div>
+  <div class='copyright'>©{{ site.time | date: "%Y" }} Douglas Lovell &mdash;</div>
+  <div class='license'>
+    <a rel="license"
+       href="http://creativecommons.org/licenses/by-nc-sa/4.0/"
+    ><img alt="Licencia Creative Commons"
+      src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"
+    /></a>Esta
+    obra está bajo una
+    <a rel="license"
+       href="http://creativecommons.org/licenses/by-nc-sa/4.0/"
+    >{{ site.license }}</a> &mdash;
+  </div>
   {% if site.github.is_project_page %}
     <div class="fuente">
       <a href="{{ site.github.repository_url }}">A
