@@ -1,0 +1,24 @@
+<div class='front-matter'>
+  <div class='copyright'>©{{ site.time | date: "%Y" }} Douglas Lovell &mdash;</div>
+  <div class='license'>
+    <a rel="license"
+       href="http://creativecommons.org/licenses/by-nc-sa/4.0/"
+    ><img alt="Licensia Creative Commons"
+        src={{ '/assets/images/CreativeCommons_by_sa_88x31.png' | relative_url }}
+    /></a>Esta
+    obra está bajo una
+    <a rel="license"
+       href="http://creativecommons.org/licenses/by-nc-sa/4.0/"
+    >{{ site.license }}</a> &mdash;
+  </div>
+  {% if site.github.is_project_page %}
+    <div class="fuente">
+      <a href="{{ site.github.repository_url }}">A
+        ver el fuente del código en GitHub {{ site.github.repository_nwo }}
+        &mdash; </a>
+    </div>
+  {% endif %}
+  <div class='credits'>Alojado por GitHub Pages &mdash;
+    Deseño por <a href="https://github.com/orderedlist">orderedlist</a>
+  </div>
+</div>
