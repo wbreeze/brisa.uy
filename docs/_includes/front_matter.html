@@ -1,11 +1,14 @@
 <div class='front-matter'>
-  <div class='copyright'>©{{ date }} Douglas Lovell</div>
-  <div class='license'>{{ site.license }}</div>
+  <div class='copyright'>©{{ Time.now | date: "%Y" }} Douglas Lovell &mdash;</div>
+  <div class='license'>{{ site.license }} &mdash;</div>
   {% if site.github.is_project_page %}
     <div class="fuente">
       <a href="{{ site.github.repository_url }}">A
-        ver el fuente del código en GitHub {{ site.github.repository_nwo }}</a>
+        ver el fuente del código en GitHub {{ site.github.repository_nwo }}
+        &mdash; </a>
     </div>
   {% endif %}
-  <div class='credits'>Alojado por GitHub Pages &mdash; Deseño por <a href="https://github.com/orderedlist">orderedlist</a></div>
+  <div class='credits'>Alojado por GitHub Pages &mdash;
+    Deseño por <a href="https://github.com/orderedlist">orderedlist</a>
+  </div>
 </div>
