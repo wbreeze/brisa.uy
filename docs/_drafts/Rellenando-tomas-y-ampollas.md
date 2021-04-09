@@ -169,7 +169,7 @@ Aplicamos el epóxico utilizando un rodillo de espuma estrecho. Seguimos con una
 espátula de caucho de plástico para eliminar cualquier poros y asegurar que
 no haya ningunas burbujas del aire. La primera capa
 fue con epóxico puro. Para los seguimientos capas añadimos el West System
-422 capa de barrera aditivo. El aditivo se pone la mezcla opaco para que
+422 aditivo de revestimiento de barrera. El aditivo se pone la mezcla opaco para que
 podríamos ver que las capas fueron regular y completo. Además, el aditivo
 se pone la barrera más resistente contra abrasión.
 
@@ -202,11 +202,12 @@ y los trabajadores, incluso especialmente a Cezár para la buena obra.
 ## Materiales
 
 - West System
-  - 105 resína
+  - 105 resína de epóxico
   - 205 endurecedor curado rápido
   - 206 endurecedor curado lento
   - 404 material de relleno alta densidad
   - 406 material de relleno sílice coloidal
+  - 422 aditivo de revestimiento de barrera
   - 740 tela fibra de vidrio
   - 879 release fabric
 
