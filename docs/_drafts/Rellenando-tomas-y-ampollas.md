@@ -3,12 +3,10 @@ layout: post
 title: Rellenando tomas y ampollas
 date: 2021-03-25
 tags: mantenimiento casco
-excerpt: La pintura del fondo tiene dos funciones. Primeramente, rechaza la
-  cría de las plantas y los percebes en el casco. Además, se pone una barrera
-  entre el casco y el agua.
+excerpt: La pintura del fondo tiene dos funciones. Primeramente, rechaza el
+  crecimiento de las plantas y los percebes en el casco. Además, crea una
+  barrera entre el casco y el agua.
 ---
-
-# Rellenando tomas y ampollas
 
 Al comienzo de Febrero, Brisa salió del agua para que puedan:
 - pintar su fondo
