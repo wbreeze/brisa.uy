@@ -8,196 +8,196 @@ excerpt: La pintura del fondo tiene dos funciones. Primeramente, rechaza la
   entre el casco y el agua.
 ---
 
-Al empieza de Febrero, Brisa estaba sacando desde el agua para:
-- pintar el fondo
+# Rellenando tomas y ampollas
+
+Al comienzo de Febrero, Brisa salió del agua para que puedan:
+- pintar su fondo
 - rellenar tomas inútiles
-- reemplazar un válvula de cierre
+- reemplazar una válvula de cierre
 
-La pintura del fondo tiene dos funciones. Primeramente, rechaza la cría de
-las plantas y los percebes en el casco. Además, se pone una barrera entre
-el casco y el agua.
+La pintura del fondo tiene dos funciones. Primeramente, rechaza el crecimiento
+de las plantas y los percebes en el casco. Además, crea una barrera entre el
+casco y el agua.
 
-El dueño anterior, sin embargo su servicio como barrera, decidió que no hay
-propósito pintar el fondo porque necesitaba de cualquier modo rascar las crías
-de las plantas. Como resultado, había una cosa más que presta atención– las
-ampollas.
+El dueño anterior, a pesar de que la pintura sirve como barrera, decidió que no
+tenía sentido pintar el fondo porque de cualquier modo él necesitaba rasquetear
+las plantas que habían crecido. Como resultado, había una cosa más para
+preocuparse– las ampollas.
 
-Las ampollas se desarrollan por un proceso de ósmosis en que pocas cantidades de
-ácidos en el casco atraen agua a través del gelcoat a fin de diluir su
+Las ampollas se desarrollan por un proceso de ósmosis en que pocas cantidades
+de ácidos en el casco atraen agua a través del gelcoat a fin de diluir su
 concentración.
 
-## Cómo tratamos las ampollas
+## ¿Cómo tratamos las ampollas?
 
-Para mejorar las ampollas, seguimos los procesos descrito por la guía
-[West System Gelcoat Blisters: Diagnosis,
-Repair and Prevention Manual][WestRepair]
-(Ampollas gelcoat: guía por diagnóstico, reparación, y prevención), una guía
-en inglés cual cuenta con los prácticos mejores y experiencia larga por la
-industria. Además, toman referencia al artículo publicado (en inglés) por
-BoatUS, [Fiberglass Blister Repair][BoatUS] (Reparación de ampollas en
-fibra de vidrio).
+Para mejorar las ampollas, seguimos los procesos descritos por la guía de West
+System, "[Gelcoat Blisters: Diagnosis, Repair and Prevention Manual][WestRepair]"
+(Ampollas gelcoat: guía por diagnóstico, reparación, y prevención), una guía en
+inglés que cuenta con las mejores prácticas y experiencias de la industria.
+Ademas, seguimos recomendaciones de BoatUS, [Fiberglass Blister Repair][BoatUS]
+(Reparación de ampollas de fibre de vidrio), también en inglés.
 
-Primeramente quebraron las ampollas para liberar el líquido
-adentro. Esto puede ser con cuidado porque es ácido sobre la tensión. Lo hacemos
-con gafas protectoras para los ojos.
+Primeramente quebraron las ampollas para liberar el líquido de adentro. Esto
+debió ser hecho con cuidado porque el ácido puede saltar por la presión. Por
+esta razón lo hacemos con gafas protectoras para los ojos.
 
-Con un disco lija, removemos la resina y la fibra dañado por la ampolla.
-Este resulta en un hueco poco profundo en el casco. El casco de Brisa fue
-hecho con fibra de vídeo sólido. No hay ningún centro de otro material.
-El espesor del casco es de quince milímetros, bien sólido. La profundidad
-máxima de los huecos salía menos que cinco milímetros.
+Con un disco lija, removimos la resina y la fibra dañada por la ampolla. Esto
+da como resultado un hueco poco profundo en el casco. El casco de Brisa fue
+hecho con fibra de vídeo sólido. No es un sándwich con relleno de otro
+material. El espesor del casco es de quince milímetros, bien sólido. La
+profundidad máxima de los huecos era de menos de cinco milímetros.
 
-Después de un día, lavamos todos los huecos con jabón y agua para
-limpiarlos bien y aclararlos de los ácidos. Ahora el casco se descansa
-en el aire árido del desierto allí en La Paz, México por dos meses.
-Durante este tiempo, a la vez aclaramos los huecos con un poco de chorro de
-agua para remover cualquier ácidos adicionales emergen desde la fibra de vidrio.
+Después de un día, lavamos todos los huecos con jabón y agua para limpiarlos
+bien y quitar el ácido. Después de eso, el casco estuvo descansando en el aire
+árido del desierto allí en La Paz, México por dos meses. Durante ese tiempo,
+limpiábamos los huecos con un chorro de agua para remover los ácidos
+adicionales que emergen desde la fibra de vidrio.
 
-El navegador aproveché este tiempo para visitar en Uruguay, ¡qué alegría!
-Lo único impedimento fue la pandemia global sobre COVID-19, que resulta en
-pocos vuelos, un viaje largo, hisopados, y cuarentena. Vale la pena estar
-en Montevideo entre queridos y queridas.
+El navegante aprovechó este tiempo para visitar Uruguay, ¡Qué alegría! El único
+impedimento fue la pandemia global de COVID-19, que dio como resultado pocos
+vuelos, un viaje largo, hisopados, y cuarentena. Vale la pena estar en
+Montevideo entre queridos y queridas.
 
 Con los huecos bien secos, estábamos listos para rellenarlos.
 
 ### Rellenando las ampollas
 
-El epóxico que utilizamos para las reparaciones fue West System 105
-resina con West System 205 endurecedor.
-Hay un [manual extensivo sobre los productos West System][ManualGougeon]
-publicado en español por la fábrica.
+El epóxico que utilizamos para las reparaciones fue West System 105 resina con
+West System 205 endurecedor. Hay un manual extenso sobre estos productos
+[publicado en español][ManualGougeon] por la fábrica.
 
-Cada hueco en el casco recibe el mismo tratamiento inicial.
-Primeramente lo limpiamos
-con isopropyl alcohol para remover grasas y otros contaminantes.
-La guía recomienda no utilizar solventes como acetona.
+Cada hueco en el casco recibe el mismo tratamiento inicial. Primeramente lo
+limpiamos con isopropyl alcohol para remover grasas y otros contaminantes. La
+guía recomienda no utilizar solventes como acetona.
 
-Los huecos más profundos rellenamos y reforzamos con fibra de vidrio. Les
-mojamos con epóxico espesado con West System 406 material de relleno hasta la
-consistencia de mayonesa. Después, aplicamos capas de fibra de vidrio fino,
-West System 740, mojado con epóxico puro de tamaño menos y menos grande. El
-tamaño de la primera capa fue poco menos que el tamaño del hueco. El último
-tiene el tamaño del interior del hueco.
+Los huecos más profundos los rellenamos y reforzamos con fibra de vidrio. Los
+mojamos con epóxico espesado con West System 406 material de relleno hasta
+obtener la consistencia de mayonesa. Después, aplicamos capas de fibra de
+vidrio fino (6 onz), West System 742, mojado con epóxico puro, disminuyendo el
+tamaño para cada capa. El tamaño de la primera capa fue un poco más pequeño que
+el tamaño del hueco. El último tiene el tamaño del interior del hueco.
 
-Empezando con una capa grande y reduciendo el tamaño de cada capa asegura que
-no hay espacios entre los bordes de las capas más profundas y las más cerca al
-superficie. El 406 material de relleno es de silicona coloidal que tiene
-beneficio que no absorba agua. Una desventaja de este material es que no es
-fácil lijarlo. Por eso, dejamos un hueco de poca profundidad para la capa
-final.
+Empezando con una capa grande y reduciendo el tamaño de cada capa nos
+aseguramos de que no haya espacios entre los bordes de las capas más profundas
+y las más cercanas a la superficie. El 406 material de relleno es de silicona
+coloidal que tiene el beneficio de no absorber agua. Una desventaja de este
+material es que no es fácil lijarlo. Por eso, dejamos un hueco de poca
+profundidad para la capa final.
 
-Para los huecos menos profundos, y los más cuando han curado las capas
-de fibra de vidrio, pintamos una
-capa delgada de nueva epóxico antes que proceder con la rellena final
-utilizando un pincel. Lo dejamos curar media hora, no más que una hora.
+Para los huecos menos profundos, y los otros, cuando se han curado las capas de
+fibra de vidrio, pintamos una capa delgada con epóxico puro utilizando un
+pincel, antes de proceder al relleno final. Lo dejamos curar media hora, no más
+que una hora.
 
-Para la rellena final, antes que la capa delgada de epóxico ha curado
-enteramente, rellenamos el hueco con epóxico espesado con West System 407
-material de relleno hasta la consistencia de maní mantequilla, una consistencia
-plástica que no se cae cuando lo aplicamos.
+Para el relleno final, antes de que la capa delgada de epóxico se haya curado
+completamente, rellenamos el hueco con epóxico espesado con West System 404
+material de relleno hasta obtener la consistencia de mantequilla de maní, una
+consistencia plástica que no se cae cuando la aplicamos. El material de relleno
+404 es lo mejor para el último rellenado de huecos porque es más fácil para
+lijar.
 
-Con la rellena inicial bien curado, lijamos y aplicamos material de relleno
-hasta que la superficie del casco estaba liso.
+Con el relleno inicial bien curado, lijamos y aplicamos material de relleno
+hasta que la superficie del casco quedó lisa.
 
-## Cómo tratamos las tomas
+## ¿Como trataban las tomas?
 
-Habían tres tomas no utilizadas en el casco de Brisa. Dos estuvieron en
-la banda de babor, adelante, al lodo con el baño. Fueron las tomas para
-el inodoro, que fue reemplazado con un inodoro compostaje. Ese es bueno
-porque, además que ser más sano para el ambiente, elimina la necesidad tener
-un tanque del agua negro adentro el velero. Como beneficio extra, la reducción
-del número de tomas reduce la potencial para que el agua entra al interior
-del casco, a la cabina, donde no lo queremos.
+Habían tres tomas no utilizadas en el casco de Brisa. Dos estuvieron en la
+banda de babor, adelante, al lado del baño. Eran las tomas para el inodoro, que
+fue reemplazado con un inodoro de compostaje. Esto es bueno porque, además de
+ser más sano para el medioambiente, elimina la necesidad de tener un tanque
+séptico dentro del velero. Como beneficio extra, la reducción del número de
+tomas reduce la potencia para que el agua entre al interior del casco, a la
+cabina, donde no la queremos.
 
-La tercer toma fue para el instrumento de velocidad. Este instrumento es
-siempre melindroso. Hay otras opciones menos melindrosas que no requieren un
-agujero en el casco. Menos mal, reducimos el riesgo de que entra agua con la
-cerrada de una más toma. Aplicamos el principio KISS– lo más simple posible,
-sin complejidad innecesaria. Esta toma fue en la banda estribor, al fondo de un
-armario en parte del salón a popa.
+La tercera toma era para el instrumento de velocidad. Este instrumento es
+siempre problemático. Hay otras opciones menos problemáticas que no requieren
+un agujero en el casco. Menos mal, reducimos el riesgo de que entre el agua con
+el cierre de una toma más. Aplicamos el [principio KISS][KISS]– lo más simple
+posible, sin complejidad innecesaria. Esta toma estaba en la banda de estribor,
+al fondo de un armario como parte del salón, hacia la popa.
 
 El tratamiento de rellenar las tomas fue, primero, remover los hongos y las
-válvulas de cierre. Estos fueron bien pegado. Con empeño, un poco de calor,
-y persistencia, podríamos removerlos. Lo que quedó fue el agujero en el casco
-bien limpio y pulcro.
+válvulas de cierre. Estas estaban bien pegadas. Con empeño, un poco de calor, y
+persistencia, pudimos removerlas. Lo que quedó fue el agujero en el casco bien
+limpio y pulcro.
 
-Para la siguiente, un artículo publicado por Epoxyworks sobre [reparación de
-agujeros mecanizados en la construcción fibra de vidrio][Epoxyworks], además
-de la [guía de reparaciones de fibra de vidrio][WestFibra] de West System fueron
-de beneficio para planear este proyecto.
+A continuación, un artículo publicado por Epoxyworks sobre [reparación de
+agujeros mecanizados en la construcción fibra de vidrio][Epoxyworks], además de
+la [guía de reparaciones de fibra de vidrio][WestFibra] de West System fueron
+útiles para planear este proyecto.
 
-Hicimos un disco de resina y fibra de vidrio con un diámetro
-poco pequeño que el tamaño del agujero, con espesor la mitad del espesor del casco.
-Como ya hemos decidido, el espesor del casco es de quince milímetros. Lo del
-disco fue de seis o siete milímetros.
+Hicimos un disco de resina y fibra de vidrio con un diámetro un poco más
+pequeño que el tamaño del agujero, con espesor de la mitad del espesor del
+casco. Como ya hemos dicho, el espesor del casco es de quince milímetros. El
+espesor del disco es de seis o siete milímetros.
 
 Pegamos el disco en el agujero con epóxico espesado con West System 406
-material de relleno. Lijamos un hueco con doce milímetros de diámetro para
-cada milímetro de profundidad alrededor el disco, para que la inclinación
-del borde era gradual. Este hicimos por ambos lados del disco, en el interior
-y el exterior del casco.
+material de relleno. Lijamos un hueco con doce milímetros de diámetro para cada
+milímetro de profundidad alrededor el disco, para que la inclinación del borde
+sea gradual. Esto hicimos para ambos lados del disco, en el interior y el
+exterior del casco.
 
-Desde allí, tratamos el hueco, por ambos lados, como los huecos profundos--
-con epóxico espesado con West System 406 material de relleno y
-capas de fibra de vidrio mojado con epóxico puro.
+Desde allí, tratamos el hueco, en ambos lados, como los huecos profundos– con
+epóxico espesado con West System 406 material de relleno y capas de fibra de
+vidrio mojado con epóxico puro.
 
-De esta manera, las tomas desaparecieron entre el casco con seguridad casi
-como nunca existen.
+De esta manera, las tomas desaparecieron del casco como si  nunca hubieran
+existido.
 
-## Los tratamientos últimos
+## Los últimos tratamientos
 
-Con las tomas rellenado, las ampollas eliminados, y todos lijando para conformar
-con la superficie del casco; con todo la pintura antigua removida hasta que
-solo permanece gelcoat bien lijada y limpia, fuimos preparados a poner una
-capa de barrera y las capas de pintura del fondo.
+Con las tomas rellenadas, las ampollas eliminadas, y todo lijado para formar la
+superficie del casco; con toda la pintura antigua removida hasta que solo quedó
+el “gelcoat” bien lijado y limpio, estábamos listos para poner una capa de
+barrera y las capas de pintura del fondo.
 
 ### Capa de barrera
 
 Para la capa de barrera seguimos las recomendaciones para el tratamiento de las
-ampollas. Ponemos cinco capas de epóxico sobre el casco, todas en el mismo
-día.  Para poder hacer todas las capas en el mismo día, pintamos un lado del casco un
-día y el otro un segundo día. Hicimos la preparación– lijando, limpiando,
-poniendo la cinta por el borde –el día anterior.
+ampollas. Ponemos cinco capas de epóxico sobre el casco, todas en el mismo día.
+Para poder hacer todas las capas el mismo día, pintamos un lado del casco un
+día y el otro al día siguiente. Hicimos la preparación– lijando, limpiando,
+poniendo la cinta en el borde –el día anterior.
 
 La capa de barrera fue con West System 105 resina y 206 endurecedor. Utilizamos
-el 206 endurecedor porque las temperaturas fueron cálidas. Esto nos dio un poco más
-de tiempo para aplicar el epóxico, después de mezclarlo, cuidadosamente y con coherencia.
-Además, permite que, cuando habíamos poniendo una capa a devolver a poner la
-próxima capa antes de que lo del anterior he curado demasiado.
+el 206 endurecedor porque las temperaturas eran cálidas. Esto nos dio más
+tiempo para aplicar el epóxico, después de mezclarlo, cuidadosamente y con
+consistencia. Además, permite que, cuando ponemos una capa, podemos volver a
+poner otra capa encima antes de que la anterior se haya curado completamente.
 
-Aplicamos el epóxico utilizando un rodillo de espuma estrecho. Seguimos con una
-espátula de caucho de plástico para eliminar cualquier poros y asegurar que
-no haya ningunas burbujas del aire. La primera capa
-fue con epóxico puro. Para los seguimientos capas añadimos el West System
-422 aditivo de revestimiento de barrera. El aditivo se pone la mezcla opaco para que
-podríamos ver que las capas fueron regular y completo. Además, el aditivo
-se pone la barrera más resistente contra abrasión.
+Aplicamos el epóxico utilizando un rodillo de espuma angosto. Seguimos con una
+espátula de caucho de plástico para eliminar cualquier poros y asegurar de que
+no queden burbujas de aire. La primera capa fue con epóxico puro. Para las
+siguientes capas añadimos el West System 422 capa de barrera aditivo. El
+aditivo hace la mezcla opaca para que podamos ver que las capas fueron parejas
+y completas. Además, el aditivo hace que la barrera sea más resistente contra
+la abrasión.
 
-### Pinta al fondo
+### Pintar el fondo
 
-Después de veinticuatro (24) horas para curar la barrera de epóxico, limpiamos
-el casco con agua y 3M Scotch Brite™️. Lijamos muy ligeramente la superficie con papel
-de lija ochenta (80). Lijamos muy ligeramente y por mano para que no deshacemos el trabajo
-de poner la capa de barrera.
+Después de veinticuatro (24) horas de dejar curar la barrera de epóxico,
+limpiamos el casco con agua y una esponja de raspado 3M Scotch Brite™️. Lijamos
+muy ligeramente la superficie con papel de lija ochenta (80). Lijamos muy
+suavemente y a mano para no arruinar el trabajo que hicimos en la capa de
+barrera.
 
-La pintura que utilizamos fue el Interlux con óxido de cobre. Es una pinta
-ablativo bien recomendado por la literatura. Cualquier pintura del fondo es
-temporario. Vamos a ver cómo salió esta selección con la próxima
-salida del agua.
+La pintura que utilizamos fue el Interlux con óxido de cobre. Es una pintura
+ablativa bien recomendada por la literatura. Cualquier pintura del fondo será
+temporaria. Vamos a ver cómo resultó esta selección con la próxima salida al
+agua.
 
-Seguimos las instrucciones de la fábrica de pintura.
-Ponemos dos capas, con una tercera sobre la línea del agua.
-La guía de reparación de las ampollas recomienda que no se utilice ninguna capa
-de imprimación sobre la capa de barrera.
+Seguimos las instrucciones de la fábrica de pintura. Ponemos dos capas, con una
+tercera sobre la línea del agua. La guía de reparación de las ampollas
+recomienda que no se utilice ninguna capa primaria sobre la capa de barrera.
 
-## A zafar
+## A zarpar
 
 Con este tratamiento, el fondo de Brisa emerge como nuevo, o mejor que nuevo,
-listo para años del servicio, aplicación regular de la pintura del fondo, y
-libertad de la amenaza de las ampollas.
+listo para años de servicio, sin olvidarnos de aplicar regularmente la pintura
+del fondo. Nos sentiremos libres de la amenaza de las ampollas.
 
-Brisa agradece al varadero Don José en La Paz, su gerente Enrique Aboroa,
-y los trabajadores, incluso especialmente a Cezár para la buena obra.
+Brisa agradece al varadero Don José en La Paz, su gerente Enrique Aboroa, y los
+trabajadores, incluso especialmente a Cesar por el excelente trabajo.
 
 ## Materiales
 
@@ -209,8 +209,6 @@ y los trabajadores, incluso especialmente a Cezár para la buena obra.
   - 406 material de relleno sílice coloidal
   - 422 aditivo de revestimiento de barrera
   - 740 tela fibra de vidrio
-  - 879 release fabric
-
 
 [WestRepair]: https://www.westsystem.com/wp-content/uploads/Gelcoat-Blisters-Diagnosis-Repair-and-Prevention.pdf
   "West System reparación de las ampollas (inglés, PDF)"
