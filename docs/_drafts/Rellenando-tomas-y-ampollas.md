@@ -32,8 +32,8 @@ Para mejorar las ampollas, seguimos los procesos descritos por la guía de West
 System, "[Gelcoat Blisters: Diagnosis, Repair and Prevention Manual][WestRepair]"
 (Ampollas gelcoat: guía por diagnóstico, reparación, y prevención), una guía en
 inglés que cuenta con las mejores prácticas y experiencias de la industria.
-Ademas, seguimos recomendaciones de BoatUS, [Fiberglass Blister Repair][BoatUS]
-(Reparación de ampollas de fibre de vidrio), también en inglés.
+Además, seguimos recomendaciones de BoatUS, [Fiberglass Blister Repair][BoatUS]
+(Reparación de ampollas de fibra de vidrio), también en inglés.
 
 Primeramente quebraron las ampollas para liberar el líquido de adentro. Esto
 debió ser hecho con cuidado porque el ácido puede saltar por la presión. Por
@@ -102,7 +102,7 @@ hasta que la superficie del casco quedó lisa.
 Habían tres tomas no utilizadas en el casco de Brisa. Dos estuvieron en la
 banda de babor, adelante, al lado del baño. Eran las tomas para el inodoro, que
 fue reemplazado con un inodoro de compostaje. Esto es bueno porque, además de
-ser más sano para el medioambiente, elimina la necesidad de tener un tanque
+ser más sano para el medio-ambiente, elimina la necesidad de tener un tanque
 séptico dentro del velero. Como beneficio extra, la reducción del número de
 tomas reduce la potencia para que el agua entre al interior del casco, a la
 cabina, donde no la queremos.
