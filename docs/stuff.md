@@ -13,8 +13,6 @@ Offer sufficient coconuts for, or trade for an item in the
     ![Achiles]({{ '/assets/images/stuff/AchilesInflatableRollup.jpeg' | relative_url }})
     - sectional hard floor
     - hard, stap-on transom board for mounting outboard motor
-  - A/C five gallon wet/dry shop vac
-    ![Shop Vac]({{ '/assets/images/stuff/ShopVac.jpeg' | relative_url }})
   - Jabsco Y valve model 45490-1000
     ![Jabsco]({{ '/assets/images/stuff/YValveDiaElev.jpeg' | relative_url }})
   - Jabsco macerator pump model 18590-2092
