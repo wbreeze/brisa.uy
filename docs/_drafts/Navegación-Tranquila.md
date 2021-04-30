@@ -8,25 +8,25 @@ excerpt:
 ---
 
 Replicamos acá un [manifiesto por Joan Sol Pérez][sol].
-Joan Sol es escritor de un blog,
-en Catalán, tutulado [_El mar és el camí_][camí]. Los últimos escritos,
-actualmente, fueron en 2013. La que siga [había publicado en el blog][slow]
-en 2009, en Catalán.
-En la [página de documentos en el blog][SolDocs]
-hay vinculos al manifesto traducido a cinco otros idiomas.
-Joan Sol tiene en su página de FB un vinculo con el "Club Nàutic Vilanova, un
+Joan Sol es escritor de un blog, en Catalán, titulado
+[_El mar és el camí_][camí]. Los últimos escritos, fueron en 2013. El que sigue
+[fue publicado en el blog][slow] en 2009, en Catalán.
+
+En la [página de documentos del blog][SolDocs]
+hay vínculos al manifiesto traducido a cinco otros idiomas.
+Joan Sol tiene en su página de FB un vínculo con el "Club Nàutic Vilanova”, un
 club de vela en [Vilanova i la Geltrú][Vilanova],
 en la costa de la provincia de Barcelona en España.
 
-Replicamos el manifiesto porque comunica un sentido de ser en relación con
-el velero y el mar como pareja, como amante. Es un actitud que esforzarnos
-por lograr.
+Replicamos el manifiesto porque comunica un modo de ser en relación con
+el velero y el mar, como pareja, como amante. Es una actitud que nos esforzarnos
+para lograrla.
 
-Cierto que todos no habían de acuerdo con todos los decritos de cualquier
-manifesto. Conozemos por ejemplo personas que aman a ganar la regata sobre
-todos. Para ellos los técnicos son una medida para el hito a ganar.
-Sin embargo cada persona pueda tomar algo desde estas palabras sabidurias
-del Catalán Joan Sol.
+Es cierto que todos no estarían de acuerdo con todos los escritos de cualquier
+manifiesto. Conocemos por ejemplo personas que lo que más aman es ganar
+regatas. Para ellos los técnicos son un medio para el hito de ganar.  Sin
+embargo cada persona puede tomar algo de estas palabras sabias del Catalán Joan
+Sol.
 
 - Lo importante no es el barco, sino tu relación con él y con el mar. No
   importa la eslora, el precio o el equipamiento de tu barco. Da igual que sea
