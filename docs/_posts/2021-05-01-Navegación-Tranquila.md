@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Navegación Tranquila
-date: 2021-04-09
+date: 2021-05-01
 author: Joan Sol Pérez
 tags: filosofía navegación
 excerpt: Replicamos acá un manifiesto por Joan Sol Pérez sobre la navegación
@@ -107,4 +107,4 @@ Sol.
 [SolDocs]: http://elmareselcami.blogspot.com/p/documents.html
   "Documentos vinculados por Joan Sol"
 [slow]: http://elmareselcami.blogspot.com/2009/01/slow-sailing.html
-  "Publicación originál del manifiesto navegación tranquilo, en Catalán"
+  "Publicación original del manifiesto navegación tranquilo, en Catalán"
