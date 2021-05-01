@@ -1,22 +1,22 @@
 {% if site.posts.size > 0 %}
-
-  <ul>
-    {% assign date_format = "%d %b %Y" %}
-    {% for post in site.posts limit: 12 %}
-      <li>
-        {{ post.date | date: date_format }}
-        <a class="post-link" href="{{ post.url | relative_url }}">
-          {{ post.title | escape }}
-        </a>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="navigation">
-  Ve
-    <a href="{{ "/artículos" | relative_url }}">la lista de los artículos.</a>
-  Suscríbese
-    <a href="{{ "/feed.xml" | relative_url }}">por RSS</a>
-  </p>
-  </p>
+  <div class='recents'>
+    <ul>
+      {% assign date_format = "%d %b %Y" %}
+      {% for post in site.posts limit: 12 %}
+        <li>
+          {{ post.date | date: date_format }}
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
 {% endif %}
+
+<p class="navigation">
+Ve
+  <a href="{{ "/artículos" | relative_url }}">la lista de los artículos.</a>
+Suscríbese
+  <a href="{{ "/feed.xml" | relative_url }}">por RSS</a>
+</p>

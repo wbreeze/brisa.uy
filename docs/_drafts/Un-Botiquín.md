@@ -6,6 +6,10 @@ tags: médico equipo
 excerpt: primeros auxilios por el alta mar
 ---
 
+![Botiquín de primeros auxilios](
+  {{ '/assets/images/2021/botiquín.png' | relative_url }}
+)
+
 En el alta mar, no hay ninguna farmacia cerca, ni médicos, ni servicios de
 emergencia móvil.
 Lo que sigue es un botiquín de primeros auxilios como remedio por
@@ -105,3 +109,6 @@ Ordenados por potencia analgésica:
   Falcon Guides, 2013. (Inglés)
 - Leonard, Beth A. _The Voyager's Handbook_, Second Edition. McGraw Hill, 2007.
   (Inglés)
+- Foto desde Wikimedia Commons
+  [Quelle, Schutz, Prävention, First Aid Kit, Erste-Hilfe-Kasten](
+    https://commons.wikimedia.org/wiki/File:First_Aid_Kit.png)

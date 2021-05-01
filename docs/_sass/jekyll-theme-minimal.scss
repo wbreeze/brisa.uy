@@ -152,7 +152,7 @@ section {
   padding-bottom:50px;
 }
 
-small {
+small, div.categories {
   font-size:11px;
 }
 
@@ -228,5 +228,9 @@ footer {
     padding:0.4in;
     font-size:12pt;
     color:#444;
+  }
+
+  nav, div.categories, p.navigation, div.recents {
+    display: none;
   }
 }
