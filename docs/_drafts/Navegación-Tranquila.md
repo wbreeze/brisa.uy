@@ -3,11 +3,22 @@ layout: post
 title: Navegación Tranquila
 date: 2021-04-09
 author: Joan Sol Pérez
-tags:
-excerpt:
+tags: filosofía navegación
+excerpt: Replicamos acá un manifiesto por Joan Sol Pérez sobre la navegación
+  tranquila. Replicamos el manifiesto porque comunica un modo de ser en
+  relación con el velero y el mar, como pareja, como amante. Es una actitud que
+  nos esforzarnos para lograrla.
 ---
 
+![Atardecer de popa, Caleta Lobos](
+  {{ '/assets/images/2021/AtardecerDePopa.jpeg' | relative_url }}
+  )
+
 Replicamos acá un [manifiesto por Joan Sol Pérez][sol].
+Replicamos el manifiesto porque comunica un modo de ser en relación con
+el velero y el mar, como pareja, como amante. Es una actitud que nos esforzarnos
+para lograrla.
+
 Joan Sol es escritor de un blog, en Catalán, titulado
 [_El mar és el camí_][camí]. Los últimos escritos, fueron en 2013. El que sigue
 [fue publicado en el blog][slow] en 2009, en Catalán.
@@ -17,10 +28,6 @@ hay vínculos al manifiesto traducido a cinco otros idiomas.
 Joan Sol tiene en su página de FB un vínculo con el "Club Nàutic Vilanova”, un
 club de vela en [Vilanova i la Geltrú][Vilanova],
 en la costa de la provincia de Barcelona en España.
-
-Replicamos el manifiesto porque comunica un modo de ser en relación con
-el velero y el mar, como pareja, como amante. Es una actitud que nos esforzarnos
-para lograrla.
 
 Es cierto que todos no estarían de acuerdo con todos los escritos de cualquier
 manifiesto. Conocemos por ejemplo personas que lo que más aman es ganar
@@ -56,6 +63,10 @@ Sol.
   Olvídate de los catavientos: siente el viento en la cara o en la nuca.
   Aprende el arte de navegar que es lo que define los navegantes de verdad.
 
+![Playa en Bahia Balandra](
+  {{ '/assets/images/2021/PlayaEnBalandra.jpeg' | relative_url }}
+  )
+
 > "Continuo sin escala hacia las islas del Pacífico, porque soy feliz en el
 > mar, y quizás también para salvar mi alma.” - Bernard Moitessier,
 > __El Largo Viaje__, 1969.
@@ -84,6 +95,9 @@ Sol.
 - Contempla el mar un rato cada día, imprégnate de su energía y llévatela allí
   donde vayas.
 
+![Atardecer, Bahia Balandra](
+  {{ '/assets/images/2021/AtardecerBalandra.jpeg' | relative_url }}
+  )
 
 [sol]: www.vidamarinera.com/blog/wp-content/uploads/Manifiesto-de-la-Navegaci%C3%B3n-Tranquila2.pdf
   "Manifiesto de la navegación tranquila"
