@@ -13,6 +13,8 @@ Al comienzo de Febrero, Brisa salió del agua para que puedan:
 - rellenar tomas inútiles
 - reemplazar una válvula de cierre
 
+![Sacando]({{ '/assets/images/2021/Ampollas/0210Sacando.jpeg' | relative_url }})
+
 La pintura del fondo tiene dos funciones. Primeramente, rechaza el crecimiento
 de las plantas y los percebes en el casco. Además, crea una barrera entre el
 casco y el agua.
@@ -25,6 +27,8 @@ preocuparse– las ampollas.
 Las ampollas se desarrollan por un proceso de ósmosis en que pocas cantidades
 de ácidos en el casco atraen agua a través del gelcoat a fin de diluir su
 concentración.
+
+![Ampollas]({{ '/assets/images/2021/Ampollas/0211Estribor.jpeg' | relative_url }})
 
 ## ¿Cómo tratamos las ampollas?
 
@@ -51,6 +55,8 @@ bien y quitar el ácido. Después de eso, el casco estuvo descansando en el aire
 limpiábamos los huecos con un chorro de agua para remover los ácidos
 adicionales que emergen desde la fibra de vidrio.
 
+![Playa]({{ '/assets/images/2021/Ampollas/0301Playa.jpeg' | relative_url }})
+
 El navegante aprovechó este tiempo para visitar Uruguay, ¡Qué alegría! El único
 impedimento fue la pandemia global de COVID-19, que dio como resultado pocos
 vuelos, un viaje largo, hisopados, y cuarentena. Vale la pena estar en
@@ -63,6 +69,8 @@ Con los huecos bien secos, estábamos listos para rellenarlos.
 El epóxico que utilizamos para las reparaciones fue West System 105 resina con
 West System 205 endurecedor. Hay un manual extenso sobre estos productos
 [publicado en español][ManualGougeon] por la fábrica.
+
+![Epoxy]({{ '/assets/images/2021/Ampollas/0506Epoxy.jpeg' | relative_url }})
 
 Cada hueco en el casco recibe el mismo tratamiento inicial. Primeramente lo
 limpiamos con isopropyl alcohol para remover grasas y otros contaminantes. La
@@ -96,6 +104,8 @@ lijar.
 
 Con el relleno inicial bien curado, lijamos y aplicamos material de relleno
 hasta que la superficie del casco quedó lisa.
+
+![Barrera]({{ '/assets/images/2021/Ampollas/0506Popa.jpeg' | relative_url }})
 
 ## ¿Como trataban las tomas?
 
@@ -149,6 +159,8 @@ superficie del casco; con toda la pintura antigua removida hasta que solo quedó
 el “gelcoat” bien lijado y limpio, estábamos listos para poner una capa de
 barrera y las capas de pintura del fondo.
 
+![Barrera]({{ '/assets/images/2021/Ampollas/0506Estribor.jpeg' | relative_url }})
+
 ### Capa de barrera
 
 Para la capa de barrera seguimos las recomendaciones para el tratamiento de las
@@ -171,6 +183,8 @@ aditivo hace la mezcla opaca para que podamos ver que las capas fueron parejas
 y completas. Además, el aditivo hace que la barrera sea más resistente contra
 la abrasión.
 
+![Pinta]({{ '/assets/images/2021/Ampollas/0519Estribor.jpeg' | relative_url }})
+
 ### Pintar el fondo
 
 Después de veinticuatro (24) horas de dejar curar la barrera de epóxico,
@@ -188,14 +202,22 @@ Seguimos las instrucciones de la fábrica de pintura. Ponemos dos capas, con una
 tercera sobre la línea del agua. La guía de reparación de las ampollas
 recomienda que no se utilice ninguna capa primaria sobre la capa de barrera.
 
+![Lanzando]({{ '/assets/images/2021/Ampollas/0524Lanzando.jpeg' | relative_url }})
+
 ## A zarpar
 
 Con este tratamiento, el fondo de Brisa emerge como nuevo, o mejor que nuevo,
 listo para años de servicio, sin olvidarnos de aplicar regularmente la pintura
 del fondo. Nos sentiremos libres de la amenaza de las ampollas.
 
+![Cesar]({{ '/assets/images/2021/Ampollas/0515PrimeraFranca.jpeg' | relative_url }})
+
+## Agradezco
+
 Brisa agradece al varadero Don José en La Paz, su gerente Enrique Aboroa, y los
-trabajadores, incluso especialmente a Cesar por el excelente trabajo.
+trabajadores, incluso especialmente a Cesar quien hice la obra.
+
+![BrisaDePopa]({{ '/assets/images/2021/Ampollas/0519Popa.jpeg' | relative_url }})
 
 ## Materiales
 
