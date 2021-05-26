@@ -103,6 +103,13 @@ Ordenados por potencia analgésica:
 - FILTRO SOLAR
 - POMADA ANTIHEMORROIDAL
 
+## Tabla de compras
+Proveemos una tabla de compras como:
+- [PDF]({{ '/assets/documentos/2021/Botiquín-Compras.pdf' | relative_url }})
+- [CSV]({{ '/assets/documentos/2021/Botiquín-Compras.csv' | relative_url }})
+- [XLSX]({{ '/assets/documentos/2021/Botiquín-Compras.xlsx' | relative_url }})
+- [Numbers]({{ '/assets/documentos/2021/Botiquín-Compras.numbers' | relative_url }})
+
 ## Fuentes
 - Sabiduría del Nautilus Yacht Club, Montevideo, Uruguay
 - Isaac, Jeffrey. _Outward Bound Wilderness First-Aid Handbook_, Fourth Edition.
