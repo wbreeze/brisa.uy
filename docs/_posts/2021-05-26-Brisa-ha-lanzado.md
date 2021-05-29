@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Brisa ha lanzado
+title: Brisa se lanzó
 date: 2021-05-26
 tags: navegación mantenimiento
 excerpt: El 24 de Mayo Brisa se lanzó desde el astillero naval para entrar al
