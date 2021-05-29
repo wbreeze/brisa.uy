@@ -55,7 +55,7 @@ bien y quitar el ácido. Después de eso, el casco estuvo descansando en el aire
 limpiamos los huecos con un chorro de agua para remover los ácidos
 adicionales que emergen desde la fibra de vidrio.
 
-![Playa]({{ '/assets/images/2021/Ampollas/0301Playa.jpeg' | relative_url }})
+![Playa]({{ '/assets/images/2021/Ampollas/0306Playa.jpeg' | relative_url }})
 
 El navegante aprovechó este tiempo para visitar Uruguay, ¡Qué alegría! El único
 impedimento fue la pandemia global de COVID-19, que dio como resultado pocos
@@ -201,7 +201,7 @@ Seguimos las instrucciones de la fábrica de pintura. Pusimos
 tercera sobre la línea del agua. La guía de reparación de las ampollas
 recomienda que no se utilice ninguna capa primaria sobre la capa de barrera.
 
-![Lanzando]({{ '/assets/images/2021/Ampollas/0524Lanzando.jpeg' | relative_url }})
+![BrisaDePopa]({{ '/assets/images/2021/Ampollas/0519Popa.jpeg' | relative_url }})
 
 ## A zarpar
 
@@ -216,7 +216,7 @@ del fondo. Nos sentiremos libres de la amenaza de las ampollas.
 Brisa agradece al varadero Abaroa Don Cano en La Paz, su gerente Enrique
 Aboroa, y los trabajadores, incluso especialmente a Cesar quien hizo la obra.
 
-![BrisaDePopa]({{ '/assets/images/2021/Ampollas/0519Popa.jpeg' | relative_url }})
+![Lanzando]({{ '/assets/images/2021/Ampollas/0524Lanzando.jpeg' | relative_url }})
 
 ## Materiales
 
