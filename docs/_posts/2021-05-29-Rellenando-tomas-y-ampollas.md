@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rellenando tomas y ampollas
-date: 2021-03-25
+date: 2021-05-29
 tags: mantenimiento casco
 excerpt: La pintura del fondo tiene dos funciones. Primeramente, rechaza el
   crecimiento de las plantas y los percebes en el casco. Además, crea una
@@ -44,7 +44,7 @@ debió ser hecho con cuidado porque el ácido puede saltar por la presión. Por
 esta razón lo hacemos con gafas protectoras para los ojos.
 
 Con un disco lija, removimos la resina y la fibra dañada por la ampolla. Esto
-dá como resultado un hueco poco profundo en el casco. El casco de Brisa fue
+dé como resultado un hueco poco profundo en el casco. El casco de Brisa fue
 hecho con fibra de vídeo sólido. No es un sándwich con relleno de otro
 material. El espesor del casco es de quince milímetros, bien sólido. La
 profundidad máxima de los huecos era de menos de cinco milímetros.
@@ -70,16 +70,16 @@ El epoxi que utilizamos para las reparaciones fue West System 105 resina con
 West System 205 endurecedor. Hay un manual extenso sobre estos productos
 [publicado en español][ManualGougeon] por la fábrica.
 
-![Epoxy]({{ '/assets/images/2021/Ampollas/0506Epoxy.jpeg' | relative_url }})
+![Epoxi]({{ '/assets/images/2021/Ampollas/0506Epoxy.jpeg' | relative_url }})
 
 Cada hueco en el casco recibió el mismo tratamiento inicial. Primeramente lo
-limpiamos con isopropyl alcohol para remover grasas y otros contaminantes. La
+limpiamos con isopropílico alcohol para remover grasas y otros contaminantes. La
 guía recomienda no utilizar solventes como acetona.
 
 Los huecos más profundos los rellenamos y reforzamos con fibra de vidrio. Los
 mojamos con epoxi espesado con West System 406 material de relleno hasta
 obtener la consistencia de mayonesa. Después, aplicamos capas de fibra de
-vidrio fino (6 onz), West System 742, mojado con epoxi puro, disminuyendo el
+vidrio fino (6 onza), West System 742, mojado con epoxi puro, disminuyendo el
 tamaño para cada capa. El tamaño de la primera capa fue un poco más pequeño que
 el tamaño del hueco. El último tiene el tamaño del interior del hueco.
 
@@ -192,12 +192,12 @@ muy ligeramente la superficie con papel de lija ochenta (80). Lijamos muy
 suavemente y a mano para no arruinar el trabajo que hicimos en la capa de
 barrera.
 
-La pintura que utilizamos fue el Internacionál con óxido de cobre. Es una pintura
+La pintura que utilizamos fue el Internacional con óxido de cobre. Es una pintura
 ablativa bien recomendada por la literatura. Cualquier pintura del fondo será
 temporaria. Vamos a ver cómo resultó esta selección con la próxima salida al
 agua.
 
-Seguimos las instrucciones de la fábrica de pintura. Pusimo
+Seguimos las instrucciones de la fábrica de pintura. Pusimos
 tercera sobre la línea del agua. La guía de reparación de las ampollas
 recomienda que no se utilice ninguna capa primaria sobre la capa de barrera.
 
