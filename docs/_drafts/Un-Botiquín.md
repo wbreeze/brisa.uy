@@ -6,16 +6,20 @@ tags: médico equipo
 excerpt: primeros auxilios por el alta mar
 ---
 
+<!--
 ![Botiquín de primeros auxilios](
   {{ '/assets/images/2021/botiquín.png' | relative_url }}
 )
+-->
 
 En el alta mar, no hay ninguna farmacia cerca, ni médicos, ni servicios de
-emergencia móvil.
-Lo que sigue es un botiquín de primeros auxilios como remedio por
-problemas médicos comunes, y heridas levas.
+emergencia móvil.  Lo que sigue es un botiquín de primeros auxilios como
+remedio por problemas médicos comunes, y heridas levas.
 
-> Este material es solo una guía realizada por profesionales médicos, necesariamente incompleta dada la cantidad y diversidad de travesías posibles que debe actualizarse periódicamente. No sustituye la consulta médica virtual o presencial.
+> Este material es solo una guía realizada por profesionales médicos,
+> necesariamente incompleta dada la cantidad y diversidad de travesías posibles
+> que debe actualizarse periódicamente. No sustituye la consulta médica virtual
+> o presencial.
 
 ## Materiales
 - TIJERA
@@ -24,84 +28,155 @@ problemas médicos comunes, y heridas levas.
 - AGUJAS DE SUTURA RECTAS PARA PIEL ENHEBRADAS, tipo ETHILON o ETHICON (4 unidades)
 - GASA ESTÉRIL 10 x10 (10 sobres)
 - ALGODÓN uno o dos paquetes
-- COMPRESAS (Si no hay, se arman como un sándwich con dos hojas de gasa y algodón en el medio.) Son para cubrir heridas de mediano tamaño que sangran. Se fijan comprimiendo levemente con cinta adhesiva.
+- COMPRESAS (Si no hay, se arman como un sándwich con dos hojas de gasa y
+  algodón en el medio.) Son para cubrir heridas de mediano tamaño que sangran.
+  Se fijan comprimiendo levemente con CINTA ADHESIVA.
 - VENDA AUTOADHESIVA, tipo TENSOPLAST, (uno o dos rollos)
 - MALLA TUBULAR ELASTICA, para curaciones (dos unidades)
 - “CURITAS IMPERMEABLES” waterproof band aids
 - GUANTES DE LATEX ESTÉRILES, talle 8 (4 pares)
 - TORNIQUETE (LIGADURAS DE GOMA) 
+- FÉRULAS INFLABLES para miembro superior e inferior (una de cada una) en caso
+  de probables fracturas de miembros
 
 ## Gastrointestinal
-- Laxantes: LACTULON, Frasco con 120ml y 250ml, o Polvo por 8 sobres.
+- Laxantes: LACTULON o SOLUCIONES de ELECTROLITOS ORALES,
+  Frasco con 120ml y 250ml, o Polvo por 8 sobres. Para hidratarse en caso de
+  deshidratación por cualquier causa.
 - Antidiarreicos:
     - Diarreal leve: Dieta e hidratación
-    - Diarrea mod: FADAL comprimidos, o CREMA DE BISMUTO (BISMUTOL), un frasco
+    - Diarrea mod:
+      - FADAL comprimidos, o LOPREMIDA tabletas 2mg, tomar una via oral en caso
+        de diarrea moderada o severa y tomar otra tableta si la diarrea no
+        para.
+      - CREMA o SUBSALICILATO DE BISMUTO (BISMUTOL), un frasco, tomar dos
+        cucharadas en caso de diarrea, indigestión, reflujo esopagico leves a
+        moderados
     - Severa o infecciosa:
         - EFTIAZOL N comprimidos o NORFLOXACINA comprimidos (uno u otro)
           **y asociar** (sumar, agregar, tomar simultáneamente)
-        - METRONIDAZOL 500mg c/8 hs v/o, **y además**
-        - **lo más importante,** SOLUCIONES HIDRATANTES, polvo como para preparar 5 o 10 lts
-- Dolor abdominal (tipo cólico)(cramps): BUSCAPINA, compuesta comprimidos o gotas
-- Antiácidos: RANITIDINA/TAURAL, comprimidos
-- Mareos (sea sickness): AEROMAR, comprimidos, Tambien se puede usar BENADRYL
+        - METRONIDAZOL 500mg o AMOXICILINA 500mg (CLAMOXIN) uno cada 8 horas
+          via oral por 7 días, en caso de infección, **y además**
+        - **lo más importante,** SOLUCIONES HIDRATANTES, polvo como para
+          preparar 5 o 10 lts
+- Dolor abdominal (tipo cólico, cramps):
+  - BUSCAPINA compromidos, tomar uno via oral cada 8-12 horas por 2 días
+  - ESPADIVA (butilbromuro de hioscina y ibuprofeno) compromidos. Tomar uno
+    cada seis horas con alimentos o líquidos abundantes.
+- Antiácidos:
+  - RANITIDINA, TAURAL o OMEPRAZAL 20mg, tomar uno via oral cada 12
+    horas por tres meses en caso de gastritis, reflujo, etc.
+  - GALAVER (magaldrato y dimeticona) gel. Tomar dos cucharados en caso de
+    gastritis, reflujo, etc.
+
+- Mareos (sea sickness): AEROMAR, BONADOXINA o MECLISON (meclizina
+  y piridoxina). Tomar uno via oral cada 8 horas, puede dar un poco de sueño.
+  Tambien se puede usar BENADRYL
 
 ## Skin and soft tissue infections
 - Antiseptico para heridas:
     - CLORHEXIDINA, 1 Litro **No se precisa ni es útil ningún otro**
-    - EFA TRIPLE POMADA (Topic antiobiotics)
-- Quemaduras antiséptico y calmante tópico: Sumergir en agua helada NO HIELO
-  los primeros 15 minutos, luego
-  SEDANSIL (sufadiazina argentica), pomada o frasco, 50 grs curar dos o tres
-  veces por día
+    - HIDROCORTIZONA 1% crema, aplicar dos veces al día en casi todo tipo de
+      lesiones no abiertos.
+    - CLINDAMICINA gel (antibiótico), aplicar en heridos después de limpiar, en
+      la aerea afectada de dos a tre veces al día hasta que ya pasó la
+      infección unas días.
+    - EFA TRIPLE POMADA (Topic antiobióticos) o BARMISIL crema (batametasona,
+      clotrimazol, gentamicina) Aplicar en rash, pequeños heridos, raspones,
+      piquetes de mosquitos, etc.  crema cutánea, no ingerible.
+- Quemaduras antiséptico y calmante tópico:
+  - Sumergir en agua helada NO HIELO los primeros 15 minutos, luego
+  - SEDANSIL o ARGENTAL (sulfadiazina de plata argentica), crema 1%, pomada o
+    frasco.  Aplicar en quemaduras leves a severas uno o dos veces al día,
+    después de lavar la zona afectada, y cubrir con gasa no muy apretada.
+  - VITACILINA (Retinol y Neomicina) crema, aplicar para quemaduras leves de la
+    piel, tres o cuatro veces al día
 - Heridas infectadas:
-    - CIPROFLOXACINA, comprimidos, 500 mgrs cada 12 hs o
+    - CIPROFLOXACINA 500mg, tomar uno cada 12 hs, o
+    - CEFALEXINA 500mg, tomar uno cada 8 horas via oral por 5-7 días cada
+      tratamiento, o
     - BACTRIM FORTE, un comprimido cada 12 hs
 
 ## Trauma inflamación partes blandas
 - Golpes torceduras pequeños hematomas:
     - hielo
-    - DICLOFENAC (COMP), antinflamatorio comprimidos
-    - FLOGOL, antinflamatorio, pomada
-
-## Probables fracturas de miembros
-Férulas inflables para miembro superior e inferior (una de cada una)
+    - DICLOFENAC gel antinflamatorio. Aplicar en area afectada de dos a tres
+      veces al día.
+    - FLOGOL o ROBAX o DRACAENA, gel o pomada antinflamatorio. Aplicar en area
+      afectada thres veces al día por quince días.
+    - DEXAMETASONA inyeccion intramuscular (en la nalga) cuando sea necesario,
+      como traumatismos fuertes o contusiones, una sola dosis a la vez.
 
 ## Anaphylaxis
 - Leve:
-    - ALLEGRA comprimidos o
-    - KALITRON comprimidos o
-    - BENADRYL Salvo el alivia pueden causar somnolencia y sedación leve
+    - ALLEGRA o PIRQUET (fexofenadina) comprimidos 60mg o 120mg, tomar una via
+      oral cada 12 o 24 horas, o
+    - BENADRYL o BIONARYL (difenhidramina) jarabe, tomar 10ml via oral, cada
+      6-8 horas en caso de mucha comezón. Salvo el alivia pueden causar
+      somnolencia y sedación leve, o
+    - AMBROXOL CON LORATADINA jarabe. Tomar 7ml via oral cada 6 horas por
+      máximo 5-7 días cuando tenga tos y flemos.
+    - KALITRON comprimidos
 - Severo:
-    - Adrenalina EPIPEN (tres ampollas s/c inyección) 
+    - EPIPEN o EPINEFRINA (adrenalina, tres ampollas) por inyección
+      intramuscular.
     - PREDNISONE 5 mg comprimidos
     - KALITRON comprimidos
 
 ## Otorhino/OFT
-- Conjuntivitis infecciosa (párpados inflamados y pegados por secreción): purulenta TOBREX ungüento Y TOBREX gotas/colirio
-- Congestión ocular (ojos rojos, lagrimeo): NABOR gotas oftálmicas
-- Otitis externa (NO sale pus por el conducto auditivo externo, duele mucho): CIRIAX OTIC
-- Otitis media (sale pus por el conducto auditivo externo): NO USAR GOTAS. USAR ANTIBIÓTICOS VÍA ORAL
+### Ojos
+- Conjuntivitis infecciosa (párpados inflamados y pegados por secreción):
+  purulenta TOBREX ungüento Y TOBREX (Tobramicina) gotas/colirio oftalmica
+  (ojos) aplicar en caso de infección severa, dos gotas cada ojo, cada 6 horas,
+  por 5-7 días.
+- Congestión ocular (ojos rojos, lagrimeo): NABOR gotas oftálmicas o
+  SOLDRIN OFTÁLMICO (dexametasona, neomicina), dos gotas en cada
+  ojo cada seis horas por 5-7 días.
+
+### Orejas (Oidos)
+- Otitis externa (NO sale pus por el conducto auditivo externo, duele mucho):
+  CIRIAX OTIC o SOLDRIN ÓTICO (hidrocortisona, cloranfenicol, benzocaína), dos
+  gotas en cada oreja (oido) cada seis horas por 5-7 días.
+- Inyección de DEXAMETASONA en la nalga, una sola dosis a la vez.
+- Otitis media (sale pus por el conducto auditivo externo): **no usa gotas.
+  usar antibióticos vía oral.**
 
 ## Analgesia/antipiréticos
 Ordenados por potencia analgésica:
-- ASPIRINA
-- PARACETAMOL
-- DICLOFENAC
-- NOVEMINA CON CODEINA comprimidos (por receta)
-- TRAMADOL gotas (por receta)
-- MORFINA: (por receta) Recurso extremo por vía subcutánea o intramuscular. **Hay que estar seguro de NO pasarla por vía intravenosa**
+- ASPIRINA 500mg. Tomar via oral una cada 12 horas en caso de dolor de cabeza,
+  con alimento, por dos días.
+- PARACETAMOL 500mg. Tomar via oral una cada 6-8 horas en caso de dolor leve
+  de cabeza o cuerpo.
+- DICLOFENAC gel antinflamatorio. Aplicar en area afectada de dos a tres veces
+  al día.
+- NOVEMINA CON CODEINA o NAPROXENO 500mg comprimidos. Tomar una via oral, con
+  alimento, cada 8 horas en caso de dolor moderado por golpe, por tres días.
+- TRAMADOL gotas o ORDEGAN (tramadol con ketorolaco) compromidos. Tomar una via oral,
+  cada 8-12 horas en caso de dolor moderado a severo, por traumatismo.
+- TYLEX CD (paracetamol y codeina). Tomar una cada 8 horas en caso de dolor
+  severo, por 15 días.
+- MORFINA: (por receta) Recurso extremo por vía subcutánea o intramuscular.
+  **Hay que estar seguro de NO pasarla por vía intravenosa**
 
 ## Antibióticos
-- AMPICILLIN 500: Por ejemplo faringitis con placas blancas, respiratory infection (fever, purulent sputum), otitis media, cada 8 horas durante 7 días.
-- AMOXI CLAVULANICO 875+125 same indications and dosage scheme as AMPICILLIN,
-  cada 8 horas durante 7 días. Use in place of AMPICILLIN in more severe cases.
-- BACTRIM FORTE Skin & soft tissue infections (forúnculo, abcesses, suppurated wounds), un comprimido cada 12 hs durante 7 días
+- CLINDAMICINA 300mg. Tomar una via oral, con alimentos, cada 12 horas para
+  infecciones de piel y tejidos blandos, apendicitis.
+- AMPICILINA 500mg. Tomar una via oral cada 6 horas por siete días en caso de
+  infecciones de estomago, vias urinarias, faringitis con placas blancas,
+  respiratory infection (fever, purulent sputum), otitis media.
+- AMOXI CLAVULANICO 875+125 o AMOXICILINA 500mg (CLAMOXIN).  Tomar una via oral
+  cada 8 horas por 7 días. Usar en lugar de AMPICILINA en casos más severos.
+- BACTRIM FORTE Skin & soft tissue infections (forúnculo, abcesses, suppurated
+  wounds), un comprimido cada 12 hs durante 7 días
+- PIRIFUR o AZURON (acido nalidíxico y fenazopiridina). Tomar una via oral cada
+  6 horas por 5-7 días en caso de infecciones de vias urinarias
 
 ## Misceláneos
 - LIDOCAINA VISCOSA (anestésico local sobretodo para mucosas gingival y ano-rectal)
 - REPELENTE DE INSECTOS
 - FILTRO SOLAR
 - POMADA ANTIHEMORROIDAL
+- MELATONINA 5mg. Disuélvase debajo de la lengua en caso que no puedes dormir
 
 ## Tabla de compras
 Proveemos una tabla de compras como:
@@ -116,6 +191,4 @@ Proveemos una tabla de compras como:
   Falcon Guides, 2013. (Inglés)
 - Leonard, Beth A. _The Voyager's Handbook_, Second Edition. McGraw Hill, 2007.
   (Inglés)
-- Foto desde Wikimedia Commons
-  [Quelle, Schutz, Prävention, First Aid Kit, Erste-Hilfe-Kasten](
-    https://commons.wikimedia.org/wiki/File:First_Aid_Kit.png)
+- Dra. Fili, Marina de La Paz, Baja California Sur
