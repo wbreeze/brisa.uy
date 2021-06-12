@@ -73,7 +73,7 @@ remedio por problemas médicos comunes, y heridas levas.
   y piridoxina). Tomar uno via oral cada 8 horas, puede dar un poco de sueño.
   Tambien se puede usar BENADRYL
 
-## Skin and soft tissue infections
+## Infecciones de la piel y partes blandas
 - Antiseptico para heridas:
     - CLORHEXIDINA, 1 Litro **No se precisa ni es útil ningún otro**
     - HIDROCORTIZONA 1% crema, aplicar dos veces al día en casi todo tipo de
@@ -104,10 +104,12 @@ remedio por problemas médicos comunes, y heridas levas.
       veces al día.
     - FLOGOL o ROBAX o DRACAENA, gel o pomada antinflamatorio. Aplicar en area
       afectada thres veces al día por quince días.
-    - DEXAMETASONA inyeccion intramuscular (en la nalga) cuando sea necesario,
-      como traumatismos fuertes o contusiones, una sola dosis a la vez.
+- Traumatismos fuertes o contusiones:
+  - Lo anterior plus
+    DEXAMETASONA inyeccion intramuscular (en la nalga) cuando sea necesario,
+    una sola dosis a la vez.
 
-## Anaphylaxis
+## Anafilaxia
 - Leve:
     - ALLEGRA o PIRQUET (fexofenadina) comprimidos 60mg o 120mg, tomar una via
       oral cada 12 o 24 horas, o
@@ -117,7 +119,7 @@ remedio por problemas médicos comunes, y heridas levas.
     - AMBROXOL CON LORATADINA jarabe. Tomar 7ml via oral cada 6 horas por
       máximo 5-7 días cuando tenga tos y flemos.
     - KALITRON comprimidos
-- Severo:
+- Severa:
     - EPIPEN o EPINEFRINA (adrenalina, tres ampollas) por inyección
       intramuscular.
     - PREDNISONE 5 mg comprimidos
