@@ -2,10 +2,8 @@
 layout: post
 title: Dónde está Brisa?
 date: 2021-06-16
-tags:
+tags: navegación sociál
 excerpt:
-link_note: "[internal link]({{ '/2019-07-30-post.md' | relative_url }})"
-image_note: "![image]({{ '/assets/images/image.jpeg' | relative_url }})"
 ---
 
 Para seguir a Brisa hay un sitio en la red que muestra su [ubicación y
