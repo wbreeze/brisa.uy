@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Dondé está Brisa?
-date: 2021-06-08
+title: Dónde está Brisa?
+date: 2021-06-16
 tags:
 excerpt:
 link_note: "[internal link]({{ '/2019-07-30-post.md' | relative_url }})"
@@ -26,7 +26,7 @@ tres veces por hora.  Brisa solo se mueve a cinco o seis nudos. Esto implica
 que en veinte minutos, no se mueve más de dos millas náuticas.
 
 Con este equipo, no solo saben ustedes dónde está Brisa. Brisa también sabe
-dónde está. El GPS Garmin tiene una carta naútica instalada, y puede graficar
+dónde está. El GPS Garmin tiene una carta náutica instalada, y puede graficar
 la carta sobre su pequeña pantalla de seis centímetros.
 
 ![estación de navegación en Brisa](
@@ -52,7 +52,7 @@ navegar sería mucho peor.
 
 Las cartas náuticas de papel, el sextante, y los tablas para reducir las
 alturas de las estrellas a líneas de posición son equipos esenciales, y Brisa
-los lleva a bordo.  Encontromos las cartas náuticas de papel por cualquier
+los lleva a bordo.  Encontramos las cartas náuticas de papel por cualquier
 modo, incluso dibujado por mano siguientes las cartas electrónicas.
 
 En definitiva Brisa tiene cartas electrónicas actualizadas por internet, cartas
