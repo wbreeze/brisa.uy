@@ -8,52 +8,61 @@ link_note: "[internal link]({{ '/2019-07-30-post.md' | relative_url }})"
 image_note: "![image]({{ '/assets/images/image.jpeg' | relative_url }})"
 ---
 
-Para seguir a Brisa hay un sitio de la red que [comparta la ubicacción
-y movimientos de Brisa][comparta].
-Desde allí, es posible también enviar mensajes breves.
+Para seguir a Brisa hay un sitio en la red que muestra su [ubicación y
+movimientos][comparta]. Desde allí, es posible también enviar mensajes breves.
 
-La que viste en la mapa habia almacenada por equipo satélito Garmin abordo
-de Brisa. Cuando el navegador lo presta, el Garmin envia un mensaje por
-satélito a la mapa, o a una persona. Además, el navegador puede armar el
-Garmin a enviar su ubicación con periodo de dos minutos o menos.
-Generalmente, cuando navegamos, armamos el Garmin a enviar la ubicación
-tres veces por hora.
+![carta navegación de Brisa](
+  {{ '/assets/images/2021/DóndeEstáBrisa/carta.png' | relative_url }}
+)
 
-Brisa solo se mueve a los cinco o seis nudos. En veinte minutos, no se mueve
-más que dos millas nauticas.
+La ubicación que veras en el mapa es registrada por un equipo satélital Garmin
+a bordo de Brisa.  Cuando el navegante lo activa, el equipo Garmin envía un
+mensaje por satélite al mapa o a una persona. Además, el navegante puede
+programar el Garmin para enviar su ubicación con intervalos de dos minutos o
+más.
 
-Con este equipo, no solo saben ustedes dónde está Brisa. Brisa también
-sabe donde está. El GPS Garmin tiene una carta naútica instalado, y pueda
-mostrar la carta sobre su pantalla pequeña de seis centimetros.
-El Garmin pueda decir la rumba hacia qualquier punta en la carta o en
-la superficia de la tierra. ¿Rumbo a Montevideo? Actualmente es ???? grados,
-DIRR?????, pero no somos cuervos. Necesitamos irnos a Panamá al fin del
-año.
+Generalmente, cuando navegamos, programamos el Garmin para enviar la ubicación
+tres veces por hora.  Brisa solo se mueve a cinco o seis nudos. Esto implica
+que en veinte minutos, no se mueve más de dos millas náuticas.
+
+Con este equipo, no solo saben ustedes dónde está Brisa. Brisa también sabe
+dónde está. El GPS Garmin tiene una carta naútica instalada, y puede graficar
+la carta sobre su pequeña pantalla de seis centímetros.
+
+![estación de navegación en Brisa](
+  {{ '/assets/images/2021/DóndeEstáBrisa/Navegación.jpeg' | relative_url }}
+)
+
+El Garmin pueda indicar el rumbo hacia cualquier punto en la carta o en la
+superficie de la tierra. ¿Rumbo a Montevideo? Actualmente está 4686 millas
+náuticas sudeste. Necesitamos primero cruzar el Canál de Panamá hacia fin de
+este año.
 
 Para tener cartas más grandes, Brisa tiene un iPad mini con las cartas de
-Navionics. Estas cartas están por suscripción. Con la suscripción, bajan por
-la red y la aplicación los guardan cuando los miramos. Si no los miramos
-con antelación, con conneción al internet, no los teneremos cuando estaremos
-en alta mar.
+Navionics. Estas cartas se activan por suscripción. Con la suscripción podemos
+descargarlas y salvarlas en modo offline para así poder verlas en alta mar
+cuando no tengamos conexión de internet.
 
-Por eso, tenemos las cartas Garmin y tambien cartas de papel.
-Las cartas de papel son los más escasos y los más difícil para obtener.
-El mundo piense que las cartas electronicas les han ponido obsoleto las cartas
-de papél. Pero ¿que pasa si Brisa tiene una problema con sus sistemas eléctricas?
-Este sería un disastre de grán proporcion, pero si además no podía navegar
-seria mucho más por lo peor.
+A bordo tenemos las cartas electrónicas de Garmin y también cartas de papel.
+Las cartas de papel son las más escasas y difíciles de obtener.  Normalmente se
+piensa que las cartas electrónicas han vuelto obsoletas a las cartas de papel.
+Pero, ¿qué pasa si Brisa tiene un problema con sus sistemas eléctricos?  Esto
+de por si sería un desastre de gran proporción, pero si además no pudiera
+navegar sería mucho peor.
 
-Las cartas nauticas de papél, el sextante, y los tables para reducir
-las alturas de las estrellas a lineas de posición son equipos esenciales,
-y Brisa los lleva.
+Las cartas náuticas de papel, el sextante, y los tablas para reducir las
+alturas de las estrellas a líneas de posición son equipos esenciales, y Brisa
+los lleva a bordo.  Encontromos las cartas náuticas de papel por cualquier
+modo, incluso dibujado por mano siguientes las cartas electrónicas.
 
-Entonces Brisa tiene unas cartas electrónicas actualizadas por internet,
-una carta electrónica en el Garmin GPS, y cartas nauticas de papel
-encontrado por cualquier modo, incluso dibujado por mano desde las cartas
-electrónicas. Está en las cartas de papél donde Brisa recorda su historia
-de navegación. En la [carta de la red][comparta], recordado por el Garmin
-y comunicado por satélite, ustedes puedan seguir.
+En definitiva Brisa tiene cartas electrónicas actualizadas por internet, cartas
+electrónicas almacenadas para uso offline en el Garmin GPS, y cartas náuticas
+de papel.  Está en las cartas de papel donde Brisa recuerda su historia de
+navegación. En la [carta de la red][comparta], recordado por el Garmin y
+comunicado por satélite, ustedes puedan seguir.
 
-[comparta]: https://share.garmin.com/BrisaUY
-  "Ubicación del velero Brisa"
+![atardecer desde Brisa](
+  {{ '/assets/images/2021/DóndeEstáBrisa/atardecer.jpeg' | relative_url }}
+)
 
+[comparta]: https://share.garmin.com/BrisaUY "Sigan los movimientos de Brisa"
