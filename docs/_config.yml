@@ -14,4 +14,4 @@ plugins:
 header_pages:
  - artículos.md
  - sobre.md
- - index.md
+ - inicio.md
