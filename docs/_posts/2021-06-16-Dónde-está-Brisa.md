@@ -3,7 +3,9 @@ layout: post
 title: Dónde está Brisa?
 date: 2021-06-16
 tags: navegación sociál
-excerpt:
+author: Brisa con Edgar Ecker
+excerpt: Para seguir a Brisa hay un sitio en la red que muestra su [ubicación y
+  movimientos][comparta]. Desde allí, es posible también enviar mensajes breves.
 ---
 
 Para seguir a Brisa hay un sitio en la red que muestra su [ubicación y
