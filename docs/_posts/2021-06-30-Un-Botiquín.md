@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Un Botiquín
-date: 2021-04-04
+date: 2021-06-30
 tags: médico equipo
 excerpt: primeros auxilios por el alta mar
 ---
