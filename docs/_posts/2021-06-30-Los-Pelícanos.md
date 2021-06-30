@@ -1,15 +1,19 @@
 ---
 layout: post
 title: Los Pelícanos
-date: 2021-03-24
+date: 2021-06-30
 tags: naturaleza pelicanos BCS
-author: Douglas con Raquel Nuñez
+author: Brisa con Raquel Nuñez
 excerpt: Al mirarlos, todo lleva a sentir que están tan cómodos en ese lugar!
 ---
 
-Los pelícanos abundan en la Bahía de La Paz, sobre el Mar de Cortés, en Baja
-California Sur. Se adaptaron totalmente al ambiente costero porque allí
-encuentran todo lo que necesitan.
+![Pelícano en el puerto de La Paz, BCS](
+  {{ '/assets/images/2021/Pelícanos/DSC00087.JPG' | relative_url }}
+)
+
+Los pelícanos abundan en Diciembre, en la Bahía de La Paz, sobre el Mar de
+Cortés, en Baja California Sur. Se adaptaron totalmente al ambiente costero
+porque allí encuentran todo lo que necesitan.
 
 Al mirarlos, todo lleva a sentir que están tan cómodos en ese lugar!
 
@@ -26,6 +30,10 @@ agua. Cuando andan en pares, vuelan como si fueran uno solo,
 posicionándose juntos a una distancia invariable en los
 ascensos, descensos y giros. Son como pares de aviones militares volando de un
 lugar a otro en importantes misiones.
+
+![Pelícano en vuelo](
+  {{ '/assets/images/2021/Pelícanos/DSC00157.JPG' | relative_url }}
+)
 
 Sus alas se despliegan en forma curva hacia abajo formando un
 [ángulo diedro negativo][diedro]
@@ -53,11 +61,19 @@ arriba cuello y pico para deslizar el pez o los peces hacia el estómago.
 Satisfechos, porque cada zambullida es un éxito sin o con habiendo capturado un
 pez, despliegan sus alas y toman aire para cazar y zambullirse de nuevo.
 
+![Grupo de cuatro pelícanos en vuelo](
+  {{ '/assets/images/2021/Pelícanos/DSC00203.JPG' | relative_url }}
+)
+
 Algunas veces es posible verlos cazando en pares. Cuando lo hacen, mantienen en
 la zambullida la misma formación del vuelo. Impactan el agua al mismo tiempo
 con solo un metro de distancia entre cada uno. Remontan vuelo, cazan y se
 zambullen una y otra vez. Esto es lo más parecido a un ritual de apareamiento,
 que seguramente tendrán, porque si no, no habría pelícanos.
+
+![Grupo de Pelícanos migrando](
+  {{ '/assets/images/2021/Pelícanos/DSC00152.JPG' | relative_url }}
+)
 
 En ocasiones los pelícanos migran en grupos de docenas, quizás a un lugar donde
 sepan que encontrarán buena pesca, dependiendo de las condiciones del clima y
@@ -74,6 +90,10 @@ capturar los peces, que era abundantes. El sonido del chapoteo de sus impactos
 simultáneos era como el sonido de las olas rompiendo sobre la playa. Una y otra
 vez los grupos volaban y se zambullían. Una y otra vez se escuchaba el sonido
 de las olas rompiendo en la arena.
+
+![Pelícano zambullendo](
+  {{ '/assets/images/2021/Pelícanos/DSC00193.JPG' | relative_url }}
+)
 
 Son pescadores inteligentes los pelícanos. Cuando los cardúmenes de peces
 saltan para escapar de algún depredador debajo de la superficie, el sonido de
@@ -97,5 +117,9 @@ bondadosa entre sí. Nunca se les ve peleando. Es como si todos los pelícanos
 comprendieran que hay abundancia para todos y todas. De ese manera los
 pelícanos pasan sus vidas en paz, disfrutando el ahora, felices.
 
+![Pelícano en vuelo atardecer](
+  {{ '/assets/images/2021/Pelícanos/DSC00241.JPG' | relative_url }}
+)
+
 [diedro]: https://es.m.wikipedia.org/wiki/%C3%81ngulo_diedro_(aeron%C3%A1utica)
-  "Explicación por angulo dedro"
+  "Explicación por ángulo diedro"
