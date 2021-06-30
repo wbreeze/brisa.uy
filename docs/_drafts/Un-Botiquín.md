@@ -6,12 +6,6 @@ tags: médico equipo
 excerpt: primeros auxilios por el alta mar
 ---
 
-<!--
-![Botiquín de primeros auxilios](
-  {{ '/assets/images/2021/botiquín.png' | relative_url }}
-)
--->
-
 En el alta mar, no hay ninguna farmacia cerca, ni médicos, ni servicios de
 emergencia móvil.  Lo que sigue es un botiquín de primeros auxilios como
 remedio por problemas médicos comunes, y heridas levas.
@@ -20,6 +14,10 @@ remedio por problemas médicos comunes, y heridas levas.
 > necesariamente incompleta dada la cantidad y diversidad de travesías posibles
 > que debe actualizarse periódicamente. No sustituye la consulta médica virtual
 > o presencial.
+
+![Algunos ingredientes de un botiquín de primeros auxilios](
+  {{ '/assets/images/2021/Botequín/medicamentosEnCajas.JPG' | relative_url }}
+)
 
 ## Materiales
 - TIJERA
@@ -179,6 +177,10 @@ Ordenados por potencia analgésica:
 - FILTRO SOLAR
 - POMADA ANTIHEMORROIDAL
 - MELATONINA 5mg. Disuélvase debajo de la lengua en caso que no puedes dormir
+
+![El botiquín de primeros auxilios en Brisa](
+  {{ '/assets/images/2021/Botequín/completo.jpeg' | relative_url }}
+)
 
 ## Tabla de compras
 Proveemos una tabla de compras como:
