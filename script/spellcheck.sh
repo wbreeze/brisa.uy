@@ -10,7 +10,7 @@ fi
 src="$1"
 aspell -M -l es check "${src}"
 bkp_name="${src}.bak"
-if [ -z "${bkp_name}" ]; then
+if [ -f "${bkp_name}" ]; then
   dir_name=${src%/*}
   ls -lt ${dir_name}
   echo
