@@ -2,7 +2,7 @@
 layout: post
 title: Los Pelícanos
 date: 2021-06-30
-tags: naturaleza pelicanos BCS
+tags: naturaleza pelicanos BCS aves
 author: Brisa con Raquel Nuñez
 excerpt: Al mirarlos, todo lleva a sentir que están tan cómodos en ese lugar!
 ---
