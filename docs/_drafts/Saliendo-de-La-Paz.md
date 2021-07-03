@@ -2,11 +2,29 @@
 layout: post
 title: Saliendo de La Paz
 date: 2021-06-30
-tags:
+tags: navegación BCS
 excerpt:
-link_note: "[internal link]({{ '/2019-07-30-post.md' | relative_url }})"
-image_note: "![image]({{ '/assets/images/image.jpeg' | relative_url }})"
 ---
 
-- Saliendo La Paz, Caio. Los buques cruceros - otro historia
+Ciao, La Paz
+
+![Los buques de crucero afuera del puerto de La Paz, BCS](
+  {{ '/assets/images/2021/SaliendoLaPaz/DSC00090.JPG' | relative_url }}
+)
+
+![Caleta Lobos, BCS](
+  {{ '/assets/images/2021/SaliendoLaPaz/DSC00097.JPG' | relative_url }}
+)
+
+![Un arco iris en Caleta Lobos, BCS](
+  {{ '/assets/images/2021/SaliendoLaPaz/DSC00103.JPG' | relative_url }}
+)
+
+![Navegando a burro](
+  {{ '/assets/images/2021/SaliendoLaPaz/DSC00107.JPG' | relative_url }}
+)
+
+![Saliendo de la Bahía Partida, BCS](
+  {{ '/assets/images/2021/SaliendoLaPaz/DSC00114.JPG' | relative_url }}
+)
 
