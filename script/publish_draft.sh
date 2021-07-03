@@ -13,8 +13,12 @@ ymd=`date +%Y-%m-%d`
 post_dir="./docs/_posts"
 aspell -M -l es check "${src}"
 dest="${post_dir}/${ymd}-${base_name}"
-subst="s/date: .+/date: ${ymd}/"
-sed -E "${subst}" "${src}" >"${dest}"
+if [ -e "$2" "now" ]; then
+  subst="s/date: .+/date: ${ymd}/"
+  sed -E "${subst}" "${src}" >"${dest}"
+else
+  cp ${src} ${dest}
+fi
 echo
 echo "Published ${dest}"
 head -n 12 ${dest}
