@@ -16,7 +16,7 @@ viento de la mañana y la tarde habían sonidos de las drizas abofeteando los
 palos. Habían los tripulaciones de las pangas aparejando para salir o llegando,
 limpiando, bromeando entre ellos mismos.
 
-{% video {{ '/assets/video/2021/IMG_8707.mov' | relative_url }} %}
+{% include video.html source='/assets/video/2021/IMG_8707.mov' %}
 
 Siempre durante el día había sonidos de los gorriones charlando, discutiendo, y
 peleando. Algunos han incubado un grupo de crías. Las crías demandan
@@ -56,5 +56,5 @@ ellos. Dejé un montón de semillas como regalo. Ellos lo agradecen a cambio.
 Me visitan, seguro para dar las gracias. De cualquier modo, me sentía así.
 Aquí hay un recuerdo de los cantantes pajaritos del amantillo naval.
 
-{% audio '/assets/audio/2021/Cantante.m4a' %}
+{% include audio.html source='/assets/audio/2021/Cantante.m4a' %}
 
