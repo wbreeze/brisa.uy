@@ -16,6 +16,8 @@ viento de la mañana y la tarde habían sonidos de las drizas abofeteando los
 palos. Habían los tripulaciones de las pangas aparejando para salir o llegando,
 limpiando, bromeando entre ellos mismos.
 
+{% video {{ '/assets/video/2021/IMG_8707.mov' | relative_url }} %}
+
 Siempre durante el día había sonidos de los gorriones charlando, discutiendo, y
 peleando. Algunos han incubado un grupo de crías. Las crías demandan
 fuertemente la comida traída de sus padres. Entre todo eso, a veces
@@ -50,7 +52,9 @@ nosotros. Lo comparto para que ustedes disfruten. Entre sí, podés oir las driz
 tocando los mástiles para añadir un poco de percusión a la música.
 
 Antes de salir me siente la necesidad hacer algo para expresar agradezco hacía
-ellos. Dejé un montón de semillas como propina. Ellos lo agradecen a cambio.
+ellos. Dejé un montón de semillas como regalo. Ellos lo agradecen a cambio.
 Me visitan, seguro para dar las gracias. De cualquier modo, me sentía así.
 Aquí hay un recuerdo de los cantantes pajaritos del amantillo naval.
+
+{% audio '/assets/audio/2021/Cantante.m4a' %}
 
