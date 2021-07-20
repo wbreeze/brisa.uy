@@ -3,115 +3,117 @@ layout: post
 title: Bahía Agua Verde
 date: 2021-06-28
 tags: naturaleza BCS
-excerpt:
+author: Brisa con Silvia Solar
+excerpt: Cuando llegamos a la bahía Agua Verde, después de un lindo día de
+  navegación con viento de aleta, nos dimos cuenta de inmediato que queríamos
+  detenernos allí.
 link_note: "[internal link]({{ '/2019-07-30-post.md' | relative_url }})"
 ---
 
-Justo cuando llegamos al Bahía Agua Verde, después que un lindo día de
-navegación con viento de aleta, sabemos que queremos detenernos allí.
+Cuando llegamos a la bahía Agua Verde, después de un lindo día de navegación
+con viento de aleta, nos dimos cuenta de inmediato que queríamos detenernos
+allí.
 
 ![Foto aérea del Bahía Agua Verde, BCS](
   {{ '/assets/images/2021/BahíaAguaVerde/DJI_0019.JPG' | relative_url }}
 )
 
-Hemos salido del Canal de San José hace dos días con un parado en Punta San
-Telmo la noche anterior. La tierra alrededor del Punta San Telmo es
-relativamente plano con una cresta de roca estriado como fondo en la distancia.
-Por otro lado, Bahía Agua Verde tiene montañas a su alrededor.  Picas altas y
-rocosas descienden en laderas suaves hasta acantilados sobre la orilla que caen
+Salimos del canal de San José dos días antes, con una parada en Punta San Telmo
+la noche anterior. La tierra alrededor del Punta San Telmo es relativamente
+plana, con una cresta de roca estriada de fondo, en la distancia. Por otro
+lado, bahía Agua Verde tiene montañas a su alrededor. Picos altos y rocosos
+descienden en laderas suaves hasta los acantilados sobre la orilla, que caen
 precipitadamente al mar.
 
-Mirando hacia el mar hay una roca solitaria (con nombre Solitaria). Blanco
-con el guano de aves, parece un gran vela cruzando la desembocadura de la
-bahía. Pero nunca se mueve.
+Mirando hacia el mar hay una roca solitaria (se llama precisamente Solitaria).
+Está blanca por el guano de aves, parece una gran vela cruzando la
+desembocadura de la bahía. Pero nunca se mueve.
 
 ![La roca solitaria en la desembocadura del Bahía Agua Verde, BCS](
   {{ '/assets/images/2021/BahíaAguaVerde/DSC00177.JPG' | relative_url }}
 )
 
-Una isla pequeña y un punto de la roca separan dos fondeados y crean
-una playa aislada con el valle. Pelícanos y gaviotas paren allí-- los
-pelícanos silenciosos y majestuosos, las gaviotas bulliciosas.
-La isla contiene unos cactus antiguos y altos en un lado como dedos o
-plumas entre las rocas. Un gran roca que forma el centro de la isla
-tiene tres fachadas llegando junto a un punto en lo alto. Por eso la isla
-se llama roca pirámide.
+Una isla pequeña y un punto de la roca separan dos fondeaderos y crean una
+playa aislada con el valle. Pelícanos y gaviotas se reproducen allí: los
+pelícanos silenciosos y majestuosos, las gaviotas bulliciosas. La isla tiene
+cactus antiguos y altos en un lado que semejan dedos o plumas entre las rocas.
+Una gran roca en el centro de la isla tiene tres fachadas que llegan juntas a
+un punto en lo alto. Por eso la isla se llama Roca Pirámide.
+
 
 ![La roca pirámide entre los fonadores en Bahía Agua Verde, BCS](
   {{ '/assets/images/2021/BahíaAguaVerde/DSC00239.JPG' | relative_url }}
 )
 
 Entre la isla y el punto de la tierra hay un arrecife donde exploramos con
-esnórquel. Miramos:
-- el pez azul de Cortés, moreno y solitario, aunque prevalente. En su
-juventud tienen color azul brillante. Miramos un joven con puntos como
-diamantes estrellando a su lado.
-- los pintaños nadando en escualas, sus lados con rayas verticales de negro
-y amarillo brillo. No tienen ningún miedo los buceadores. A veces una visita
-curiosamente. Aunque es pequeño, me asusta. ¡No me picas!
-- una tortuga sale de un parche de arena en el fondo. La sigue un poco
-hasta ver que me mira detrás y decidí no molestarla.
-- el botete diana nadando por el fondo, con perfil desde arriba casi
-rectángulo y rayas concéntricas en su espalda. Son venenosos para comer
-si no han preparado cuidadosamente por alguien que conoce cómo prepararlos.
-Dicen que pueden crecer sus tamaños más que doble para asustar a un depredador.
-- estrellas del mar agarrando las rocas
+snorkel. En ese lugar vemos:
+- el pez azul de Cortés, moreno y solitario, aunque prevalente. En su juventud
+  tienen color azul brillante. Vimos uno de los jovenes con puntos como
+  diamantes estrellando a su lado.
+- los pintaños nadando en bancos, con rayas verticales negras y amarillas
+  brillante. No temen a los buceadores. A veces se acercan a curiosear. Aunque
+  son pequeños, me asustan. ¡No me piques!
+- una tortuga que sale de un parche de arena en el fondo (la sigo un poco hasta
+  ver que me mira y decido no molestarla).
+- el botete diana nadando por el fondo, visto desde arriba es casi un
+  rectángulo con rayas concéntricas en su espalda. Son venenosos, no se pueden
+  comer a menos que se preparen cuidadosamente por alguien que sepa cómo
+  hacerlo. Dicen que pueden aumentar su tamaño más del doble para asustar a un
+  depredador.
+- estrellas del mar agarradas a las rocas
 
 ![La orilla del Bahía Agua Verde, BCS con las montañas al atardecer](
   {{ '/assets/images/2021/BahíaAguaVerde/DSC00173.JPG' | relative_url }}
 )
 
-Un valle verde termina en la bahía con una playa rodeado con palmas.
-En un lado de la playa hay un terminal donde pescadores entregan sus cargos.
-En otro lado una familia han organizado un restaurante en la playa donde
-disfrutemos una limonada fría y conversación con otros seres humanos.
+Un valle verde termina en la bahía con una playa rodeada por palmeras. Hacia un
+lado de la playa hay una terminal donde los pescadores entregan sus cargas. En
+otro lado, una familia ha organizado un restaurante en la playa donde
+disfrutamos de una limonada fría y la conversación con otros seres humanos.
 Tienen un congelador y un refrigerador para enfriar bebidas, preservar comida y
-congelar hielo. Son alimentados por pilas y tres grandes paneles solares.
+hacer hielo, que se abastecen con baterías y tres grandes paneles solares.
 
-Pensé en la belleza. ¿Qué es la belleza? Concluye que es un sentimiento.
-Es el sentimiento que todo está bien derecho, con un orden en armonía con
-el universo. Es un sentido asombroso hacía la vida, el paisaje, las obras
-de los seres humanos y de la naturaleza.
+Pensé en la belleza. ¿Qué es la belleza? Concluyo que es un sentimiento. Es el
+sentimiento de que todo está bien, con un orden en armonía con el universo. Es
+un sentimiento asombroso hacia la vida, el paisaje, las obras de los seres
+humanos y la naturaleza.
 
 ![La orilla al oeste del Bahía Agua Verde, BCS](
   {{ '/assets/images/2021/BahíaAguaVerde/DSC00187.JPG' | relative_url }}
 )
 
-Pensé en el arrecife. Los corales eran blancos y no muy abundantes.
-Dicen que el coral blanco es una señal de estrés. Nuestro impacto, el
-impacto de los seres humanos no es sostenible. Si la chema de petrolea es
-un escalón hacia un estilo de vida y tecnología más sostenible, bien. Pero
-debemos tomar la escala pronto. No vamos a destruir el mundo. Solo vamos
-a destruir el mundo para nosotros. La naturaleza tiene sus defensas, como
-ya hemos visto. La naturaleza va a seguir con o sin nosotros.
+Pensé en el arrecife. Los corales eran blancos y no muy abundantes. Dicen que
+el coral blanco es una señal de estrés. Nuestro impacto, el impacto de los
+seres humanos no es sostenible. Había un edad en que los arrecifes abundan con
+peces, mucho más que ahora.
 
 Los días son suaves con la brisa descendente sobre las colinas. El agua
-queda calma con la bahía bien protegido de cada marca falta el noreste.
-La caleta aislada es protegido por casi todos lados. Hay bancos de arena
-como fondo, la profundidad creciendo suavemente, que sostienen bien el ancla.
+permanece calma con la bahía bien protegida. La caleta aislada está protegida
+por casi todos lados. Hay bancos de arena de fondo, la profundidad crece
+suavemente y en el fondo se sostiene bien el ancla.
 
-Las noches el cielo está lleno de estrellas. Llegamos con la luna llena.
-Disfrutamos mirar su cara con los prismáticos. Hace días la luna retrasa
-para que podríamos disfrutar la vista del constelación Scorpius con su cola
-en la vía láctea.
+Por las noches el cielo está lleno de estrellas. Llegamos con la luna llena.
+Disfrutamos mirar su cara con los prismáticos. Hace días que la luna se retrasa
+para que podamos disfrutar la vista del constelación Scorpius con su cola en la
+Vía Láctea.
 
 ![Pescador volviendo a la bahía al atardecer con la luna llena](
   {{ '/assets/images/2021/BahíaAguaVerde/DSC00163.JPG' | relative_url }}
 )
 
-Las mañanas hay calma. Me aproveché la calma para experimentar con la vela
-spinnaker, como subir y bajarlo. Tiene un calcetín para detener la tela lisa
-hasta que el momento en que estamos listo y se le despliega. También el
-calcetín dobla la vela cuando queremos bajarlo. Necesitábamos reparar un
-conexión en la cuerda que controla el calcetín para que no se detenga cuando
-intentamos subirlo. Después que eso, funciona, la vela despliega con todo su
-gran magnitud y color. Si el aire sopla solo un suspiro, con este vela, intenta
-navegar el velero contra el ancla.
+En las mañanas hay calma. Aproveché la calma para experimentar con la vela
+spinnaker, probé como subir y bajarla. Tiene un calcetín para detener la tela
+lisa hasta que el momento en que estamos listos y se despliega. También el
+calcetín dobla la vela cuando queremos bajarlo. Necesitábamos reparar una
+conexión en la cuerda que controla el calcetín para que no se detuviera cuando
+intentamos subirla. Después de la reparación, funciona, y la vela se despliega
+con toda su magnitud y color. Si el aire sopla solo como un suspiro, con este
+tipo de vela intenta navegar el velero contra el ancla.
 
-Después que cinco o seis noches sentimos la necesidad seguir adelante, pero
-nunca olvidamos este pequeño paraíso. Uno de los primeros. Uno seguramente
-de muchos otros que Brisa va a encontrar en el camino de la naturaleza, en su
-ruta hacia Uruguay.
+Después de cinco o seis noches sentimos la necesidad seguir adelante, pero
+nunca olvidamos este pequeño paraíso. Uno de los primeros; seguramente uno
+entre muchos otros que Brisa va a encontrar en el camino de la naturaleza, en
+su ruta hacia Uruguay.
 
 - Foto aérea publicado con cortesía de [Joe's AVI][joe].
 
@@ -120,5 +122,4 @@ ruta hacia Uruguay.
 )
 
 [joe]: https://joesavi.com "Joe's AVI photo and video"
-
 
