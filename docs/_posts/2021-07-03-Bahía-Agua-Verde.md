@@ -19,7 +19,7 @@ allí.
 )
 
 Salimos del canal de San José dos días antes, con una parada en Punta San Telmo
-la noche anterior. La tierra alrededor del Punta San Telmo es relativamente
+la noche anterior. La tierra alrededor de Punta San Telmo es relativamente
 plana, con una cresta de roca estriada de fondo, en la distancia. Por otro
 lado, bahía Agua Verde tiene montañas a su alrededor. Picos altos y rocosos
 descienden en laderas suaves hasta los acantilados sobre la orilla, que caen
