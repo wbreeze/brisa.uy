@@ -1,7 +1,9 @@
 ---
 title: Inicio
 ---
-![vista por la proa]({{ '/assets/images/2021/proa.jpeg' | relative_url }})
+![Brisa en Bahía de la Lancha, BCS](
+  {{ '/assets/images/2021/DSC00506.JPG' | relative_url }}
+)
 
 Estas son las historias del velero Brisa navegando rumbo a Uruguay.
 
