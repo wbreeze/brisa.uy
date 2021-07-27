@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Equipo del agua potable
+title: Equipo de agua potable
 date: 2021-07-25
 tags: agua equipo sistemas
 excerpt: Un descripción del equipo del agua potable.
