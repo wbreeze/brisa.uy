@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Equipo de agua potable
-date: 2021-07-25
+date: 2021-07-27
 tags: agua equipo sistemas
 excerpt: Un descripción del equipo del agua potable.
 ---
@@ -143,6 +143,10 @@ subimos el nivel del agua hacia arriba de todos los elementos del sistema.
 
 Con el nivel del agua tan alta, podemos eliminar aire de las mangueras,
 el filtro, y la bomba. ¡Funciona bien!
+
+![Isla Coronados, BCS](
+  {{ '/assets/images/2021/Tanques/DSC00528.jpeg' | relative_url }}
+)
 
 ## Capacidad de sostener la vida
 
