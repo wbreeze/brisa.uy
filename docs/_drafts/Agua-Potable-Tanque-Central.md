@@ -2,6 +2,7 @@
 layout: post
 title: Agua Potable Tanque Central
 date: 2021-07-06
+nolist: true
 tags: agua tanques equipo sistemas
 excerpt: Dimensiones del tanque de proa del agua potable
 ---
