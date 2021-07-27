@@ -2,6 +2,7 @@
 layout: post
 title: Agua Potable Tanque de Popa
 date: 2021-07-06
+nolist: true
 tags: agua tanques equipo sistemas
 excerpt: Dimensiones del tanque de popa del agua potable
 ---
