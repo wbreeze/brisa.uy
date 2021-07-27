@@ -8,12 +8,12 @@ excerpt: Entre todo eso, a veces
   agua, oí a un pajarito raro cuya canción suena como un discurso.
 ---
 
-Cuando fuimos en el amantillo naval, habían muchos sonidos artificiales y
+Cuando fuimos en el amantillo naval, había muchos sonidos artificiales y
 naturales. Había la música fuerte del gran parlante, llevado por un trabajador,
 con las sondas de Sinaloa y a veces los grandes éxitos de Credence Clearwater
 Revival. Había sonidos de amoladoras, lijaduras, y taladros. Con el
-viento de la mañana y la tarde habían sonidos de las drizas abofeteando los
-palos. Habían los tripulaciones de las pangas aparejando para salir o llegando,
+viento de la mañana y la tarde había sonidos de las drizas abofeteando los
+palos. Había los tripulaciones de las pangas aparejando para salir o llegando,
 limpiando, bromeando entre ellos mismos.
 
 {% include video.html source='/assets/video/2021/IMG_8707.mov' %}
@@ -36,7 +36,7 @@ Eventualmente, por supuesto, tenía curiosidad sobre este cantante. ¿Quién es?
 porque, para un cantante tan locuaz, es muy diminuto. Tiene el tamaño de los
 gorriones pero es más delgado. El macho tiene una cabeza púrpura. Perchan sobre
 las barandillas, los guardamancebos, o los amantillos y cantan. Había una
-pareja quién, podría jurar, habían construido un nido para criar. Vi al macho
+pareja quién, podría jurar, había construido un nido para criar. Vi al macho
 tirando telas desde un cuerdo en el velero vecino. Vi a ambos entrando y
 saliendo el espacio de una lancha motora cerca, en la proa
 donde entra la cadena y el eje del ancla.
