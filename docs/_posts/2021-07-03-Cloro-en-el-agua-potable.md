@@ -4,6 +4,7 @@ title: Cloro en el agua potable
 date: 2021-07-02
 tags: mantenimiento agua
 author: Brisa con Silvia Solar
+excerpt: ¿Cuánto cloro añadimos a los bidones del agua?
 ---
 
 Hemos renovado totalmente el sistema de agua potable, incluso los tanques y las
