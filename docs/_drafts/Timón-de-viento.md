@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Timón de viento
-date: 2021-06-30
+date: 2021-08-03
 tags: navegación equipo timón
 excerpt: En Brisa tenemos cuatro métodos para poner la proa en la dirección donde
   queremos irnos.
