@@ -3,8 +3,8 @@ layout: post
 title: Saliendo de La Paz
 date: 2021-06-21
 tags: navegación aventuras BCS
-excerpt:
-  A mediados de junio todavía estamos en La Paz. Al fin estamos listo.
+excerpt: A mediados de junio todavía estamos en La Paz. Al fin estamos listos
+  para irnos.
 ---
 
 A mediados de junio todavía estamos en La Paz. Al fin estamos listos.
@@ -36,7 +36,7 @@ encanta que el PN no cediera a la GACH. Los científicos no tienen el gran
 conjunto. La pandemia es un desastre natural, sin duda.  Claro que había gente
 que necesitaban tener cuidado y aislarlos, pero la ley marcial y políticas de
 la OMS lo pone como un desastre económico por encima de todo.  No tenemos el valor
-enfachar los efectos del virus. En cambio tiramos nuestros derechos a vivir
+enfrentar los efectos del virus. En cambio tiramos nuestros derechos a vivir
 libres.
 
 No es decir que la OMS no hizo nada útil. Claro que sí. Por sus actividades
@@ -78,7 +78,7 @@ Partida al norte. En este bahía tenemos nuestro
 Con el viento suave a popa, podremos navegar a burro, con la vela de proa
 desplegado al lado de babor y la vela de estay desplegada al lado de estribor.
 Este es una acta de balance que requiere un marcación más o menos directamente
-sotavento y un viento bien constante. Si había rafagas, quebra el equilibrio
+sotavento y un viento bien constante. Si había ráfagas, quiebra el equilibrio
 y una o la otra de las velas se orza.
 
 ![Navegando a burro](
@@ -88,7 +88,7 @@ y una o la otra de las velas se orza.
 Quedamos dos noches en Caleta Partida. La próxima mañana nos vamos por nuestro
 primera navegación en el mar abierto.  Entre Partida y la entrada del Canal de
 San Francisco hay la desembocadura de la Bahía de La Paz con casi veinte
-millas náuticas (aproximadamente 10 kilómentros) de ancho.  Podríamos ver
+millas náuticas (aproximadamente 10 kilómetros) de ancho.  Podríamos ver
 la Isla San Francisco adelante antes que perder la vista de Partida detrás,
 pero sólo remotamente.
 
@@ -96,10 +96,10 @@ El viento fue bien fuerte, más que hemos experimentado anteriormente.
 Navegamos con solo la vela de estay, corriendo viento a popa con velocidad
 seis y media nudos.  Las olas quiebran con ovejas alrededor, con altura igual
 con el lado del velero. Las vemos altas aproximando por la popa.  Cuando pasan,
-levantan la popa adelante y disaparecieron debajo.  El velero moverse de arriba
+levantan la popa adelante y desaparecieron debajo.  El velero moverse de arriba
 abajo como un pato sobre un lago ventoso.  Oímos el viento en las obenques.
 Oímos las burbujas de espuma quebrando al lado del velero, siseando como olas
-en un retiro sobre algúna playa.
+en un retiro sobre alguna playa.
 
 ![Saliendo de la Caleta Partida, BCS](
   {{ '/assets/images/2021/SaliendoLaPaz/DSC00114.JPG' | relative_url }}
