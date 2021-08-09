@@ -1,11 +1,10 @@
 ---
 layout: post
 title: Timón de viento
-date: 2021-08-03
+date: 2021-08-09
 tags: navegación equipo timón
 excerpt: En Brisa tenemos cuatro métodos para poner la proa en la dirección donde
   queremos irnos.
-link_note: "[internal link]({{ '/2019-07-30-post.md' | relative_url }})"
 ---
 
 En Brisa tenemos cuatro métodos para poner la proa en la dirección donde
@@ -26,7 +25,7 @@ el navegador necesita comer y descansar.
 Para navegar cuando el navegador no manda el timón, tenemos un autopiloto
 electrónico y un timón de viento.
 
-Llamamos el autopiloto electronico, "Otto," como en la película cómica
+Llamamos el autopiloto electrónico, "Otto," como en la película cómica
 Estadounidense de 1980, ["Y, ¿dónde está el piloto?"][otto].  Otto es muy firme
 con el timón.  No lo deje mover mucho. Hice ajustes precisos y minúsculos. Con
 olas de aleta queda el timón tan firme que el velero se revuelca y se mece a
@@ -88,4 +87,4 @@ la popa.
 [sulu]: https://es.wikipedia.org/wiki/Hikaru_Sulu
   "Hikaru Sulu, un oficial y piloto a bordo de la USS Enterprise (NCC-1701)"
 [ncc-1701]: https://es.wikipedia.org/wiki/Enterprise#USS_Enterprise_(NCC-1701)
-  "Crucero pesado clase Constitution"
+  "Crucero pesado clase Constitución"
