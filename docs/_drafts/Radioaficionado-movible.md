@@ -3,8 +3,8 @@ layout: post
 title: Radioaficionado movible
 date: 2021-08-09
 tags: radio equipo comunicación clima
-excerpt:
-link_note: "[internal link]({{ '/2019-07-30-post.md' | relative_url }})"
+excerpt: Brisa tiene equipo de comunicación de alta frequencia (HF), del tipo
+  utilizado por radioaficionados para comunicación por distancias largas.
 ---
 
 Adicianál con el equipo de radio marino, Brisa tiene equipo de comunicación de

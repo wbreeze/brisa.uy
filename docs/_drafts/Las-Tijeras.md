@@ -3,7 +3,7 @@ layout: post
 title: Las Tijeras
 date: 2021-08-15
 tags: naturaleza aves tijeras
-excerpt:
+excerpt: Son aviadores puros, aves de verdad, las tijeras.
 ---
 
 Las tijeras son planeadores. Conocido en inglés como "Magnificent Frigatebird"
