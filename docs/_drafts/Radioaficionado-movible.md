@@ -54,6 +54,14 @@ doce metros, atado al lado con el estay de popa.
   {{ '/assets/images/2021/equipoHF/DSC00622.JPG' | relative_url }}
 )
 
+La conección con la tierra no es con la tierra. Es con el mar. El casco tiene
+un zapato "" conectado por dos tornillos con una correa de cubre para la
+antena y un cable de cubre para el radio.
+
+![Conección con la tierra](
+  {{ '/assets/images/2021/equipoHF/DSC00638.JPG' | relative_url }}
+)
+
 El navegador tiene permiso de radioaficionado categoria iniciál emitido por
 la Unidad Reguladora de Servicios de Comunicaciones (URSEC) en Uruguay.
 Lo obtuvo con la asistencia del
