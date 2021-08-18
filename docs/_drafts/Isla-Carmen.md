@@ -49,7 +49,7 @@ Fondeamos allí y pasamos unas días.
 )
 
 ![](
-  {{ '/assets/images/2021/Julio/DSC00373.JPG' | relative_url }}
+  {{ '/assets/images/2021/Julio/DSC00376.JPG' | relative_url }}
 )
 
 ![](
