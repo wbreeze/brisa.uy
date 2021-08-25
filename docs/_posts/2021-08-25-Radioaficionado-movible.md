@@ -29,7 +29,7 @@ El transceptor HF es de marca ICOM y modelo IC-M710. Tiene capacidad transmitir
 y recibir por las bandas marinas y las bandas de radioaficionados (HAM).
 En las bandas HAM, transmite con poder ciento cincuenta vatios (150W).
 
-![ICOM AT-130 sintonizador automatico de la antena](
+![ICOM AT-130 sintonizador automático de la antena](
   {{ '/assets/images/2021/equipoHF/DSC00619.JPG' | relative_url }}
 )
 
@@ -40,10 +40,10 @@ y frecuencia de recepción y/o transmisión.
 
 Para Brisa, solo es algo mágico instalado en la taquilla de popa, conectado
 entre el transceptor y la antena, y con el plano de tierra. Nuestro es un
-sintonizador de marca ICOM y modelo AT-130 deseñado para funcionar con
+sintonizador de marca ICOM y modelo AT-130 diseñado para funcionar con
 el transceptor ICOM. Son pareja.
 
-![Conección con la antena](
+![Conexión con la antena](
   {{ '/assets/images/2021/equipoHF/DSC00620.JPG' | relative_url }}
 )
 
@@ -60,7 +60,7 @@ Brisa tiene un "zapato" de bronce sinterizado, atracado al casco y conectado por
 dos tornillos con una correa de cubre para la antena y un cable de cobre para
 el radio.
 
-![Conección con la tierra](
+![Conexión con la tierra](
   {{ '/assets/images/2021/equipoHF/DSC00638.JPG' | relative_url }}
 )
 
@@ -74,7 +74,7 @@ actuales.
 
 Adicionalmente, alguien lea los pronósticos climáticos marinos para los
 mares afuera e interior de Baja California. Este es el único pronóstico
-que tiene Brisa para la región general. (Los pronosticos del equipo satelite
+que tiene Brisa para la región general. (Los pronósticos del equipo satélite
 solo son para ubicaciones específicas.) Leen las condiciones de lo
 cocina tropical donde nacen los huracanes y comparten las ubicaciones
 actuales de cada tormenta tropical y huracán.
@@ -85,14 +85,14 @@ Es preciso hacerlos así porque cuando hablas en la radio, no puedes oír que
 hay otros hablando al mismo tiempo. Solo los que no hablan oigan un choque
 de transmisiones.
 
-![Imagen del fax climatico](
+![Imagen del fax climático](
   {{ '/assets/images/2021/equipoHF/WxFax.png' | relative_url }}
 )
 
 Los Estados Unidos transmiten dos veces al día una serie de imágenes en forma
 de telefax por bandas diversas. Depende la estación, hay series para el
-Pacífico norte, Caribe, y Atlántico norte. Las series estan compuestos de cartas
-del tamaño y dirección del oleajes, análises del superficie actual con frentes
+Pacífico norte, Caribe, y Atlántico norte. Las series están compuestos de cartas
+del tamaño y dirección del oleajes, análisis del superficie actual con frentes
 y áreas de presura altas y bajas, pronósticos de doce horas, pronósticos del
 movimiento de las tormentas tropicales, además imágenes satélites.
 
@@ -113,7 +113,7 @@ la Unidad Reguladora de Servicios de Comunicaciones (URSEC) en Uruguay.
 Lo obtuvo con la asistencia del
 [Radio Club Uruguayo (RCU)][rcu] en Montevideo donde
 es socio.
-Participa en los redes de radioaficionados naúticos y otros con distintivo de
+Participa en los redes de radioaficionados náuticos y otros con distintivo de
 llamada CX8CWB, estación móvil marino del velero Brisa.
 
 [rcu]: http://cx1aa.org/ "Radio Club Uruguayo"
