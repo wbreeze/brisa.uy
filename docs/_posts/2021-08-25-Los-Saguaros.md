@@ -6,11 +6,11 @@ tags: naturaleza plantas BCS Baja
 excerpt: El cactus saguaro son iconos de los desiertos sudoeste norteamericano.
 ---
 
-El [Carnegiea gigantea][cactus] o "saguaro" es un ícono de los desiertos
+El [Carnegiea gigantea][cactus] o "saguaro" es un icono de los desiertos
 sudoeste norteamericano. Aparecen en [los dibujos animados de Warner
 Brothers][warner]-- [Sam Bigotes][sam], [El Coyote y el Correcaminos][coyote],
 las [películas del oeste][oeste], incluso de [John Ford][ford] filmadas en
-[Valle de los Monumentos][valley]; el serie televisór (y también la película)
+[Valle de los Monumentos][valley]; el serie televisor (y también la película)
 [El Llanero Solitario][ranger], y otros. Este cactus no existe en ningún otro
 parte del mundo.
 
