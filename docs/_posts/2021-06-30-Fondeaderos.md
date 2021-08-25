@@ -77,7 +77,7 @@ Por eso, fondeamos en el lado barlovento del fondeadero, si es posible. Esa es
 la regla: tierra, orilla, bancos llanos del lado de los vientos corrientes y
 previstos.
 
-Por suerte hay una [guía publicada por una pareja estadounidense][guia] que ha
+Por suerte hay una [guía publicada por una pareja estadounidense][guía] que ha
 inspeccionado la mayoría de los fondeaderos del mar de Cortés. La guía contiene
 cartas con detalles de las profundidades y descripciones de cada uno. Es un
 recurso muy valioso para planificar la navegación.
