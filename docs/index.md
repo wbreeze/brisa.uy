@@ -1,8 +1,8 @@
 ---
 title: Inicio
 ---
-![Brisa en Bahía de la Lancha, BCS](
-  {{ '/assets/images/2021/DSC00506.JPG' | relative_url }}
+![Brisa en Bahía San Francisquito, Baja California](
+  {{ '/assets/images/delInicio/DSC00680.JPG' | relative_url }}
 )
 
 Estas son las historias del velero Brisa navegando rumbo a Uruguay.
