@@ -86,7 +86,7 @@ hay otros hablando al mismo tiempo. Solo los que no hablan oigan un choque
 de transmisiones.
 
 ![Imagen del fax climatico](
-  {{ '/assets/images/2021/equipoHF/DSC00638.JPG' | relative_url }}
+  {{ '/assets/images/2021/equipoHF/WxFax.png' | relative_url }}
 )
 
 Los Estados Unidos transmiten dos veces al día una serie de imágenes en forma
