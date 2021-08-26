@@ -22,7 +22,7 @@ Sus cuerpos son muy ligeros, incluso para un ave, y sus alas largas.
 No necesitan doblar sus alas para aterrizar, por eso las alas pueden ser
 más que doble la larga que sus cuerpos.
 
-Imagino que no tienen pies. Nunca los ví, además si no los utilicen sean
+Imagino que no tienen pies. Nunca los vi, además si no los utilicen sean
 peso inútil. Cierto que necesitan aterrizar para reproducir y incubar sus
 huevos. Me imagino que se pueden aterrizar sin pies. No se pueden caminar.
 Aterrizan sobre sus nidos.
@@ -43,12 +43,12 @@ vuelo sea eficiente, ya que son voladores perezosos.
 
 Para casar un pez de su mismo, una tijera baja sobre el agua y asusta al
 pez cerca con la superficie. Cuando el pez salta, la tijera le agarre con su
-pico. Tambien, cuando hay un banco de peces ya saltando, a veces las tijeras
+pico. También, cuando hay un banco de peces ya saltando, a veces las tijeras
 les ven y vienen para casarles.
 
 Cuando casan, son volantes ágiles. Zambullen y giran como las golondrinas.
 Se pueden cambiar su rumbo de instante, descender de repente, y ascender
-rapidamente.
+rápidamente.
 Tienen las colas tijeras como las golondrinas y las
 utilicen de manera muy parecida. Cuando casan cerca con la superficie del
 mar, casando peces, son como golondrinas gigantes.
@@ -58,8 +58,8 @@ mar, casando peces, son como golondrinas gigantes.
 )
 
 Otro modo de alimentarse que tienen las tijeras es de hostigar otro ave que
-ya tiene o recien engulló un pez. Como aves más agil, molestan el otro ave
-para que dejan o vomitan el pez. Se alimantan por peces y no se pueden bucear
+ya tiene o recién engulló un pez. Como aves más ágil, molestan el otro ave
+para que dejan o vomitan el pez. Se alimentan por peces y no se pueden bucear
 ni poner una pluma en el agua. Por eso necesitan ser oportunistas.
 
 ![tijeras hostigando a un pelícano](
