@@ -26,12 +26,12 @@ pertenece a Cesar.
 )
 
 Los residuos del huracán amenazan viento del este y lluvias intensas.
-No se sale. Sólo teníamos una mañana nubulosa y media hora de lluvia neblina
+No se sale. Sólo teníamos una mañana nublosa y media hora de lluvia neblina
 con gotas finas y ligeras.
 Lo que tenemos hacer, con una marina que pueda recibir envíos, es reemplazar
 el molinete de ancla. El molinete de ancla es de la marca Simpson Lawrence, una
 empresa que no existe hace veinte años. Necesitamos una rueda adecuada para
-nuestra cadena. Lo que tenemos no lo apreta. Es una falta que el dueño
+nuestra cadena. Lo que tenemos no lo aprieta. Es una falta que el dueño
 anterior crea y no resuelve.
 
 Habíamos tirado el ancla de forma manual, con esfuerzo de cuerpo, brazos y
@@ -97,7 +97,7 @@ luces bajo el nivel de los rodillos que se ponen patrones de flores, como
 poinsetias en las veredas.
 
 Tomé un trago en el bar de la playa. Una pareja se reúnen conmigo y me dicen
-su historia. Son de las montañas afuera de Los Ángeles. Viven en un ranchito
+su historia. Son de las montañas afuera de Los Ángeles. Viven en un ranchero
 con una colección de animales mascotas y salvajes. El trabaja en la industria
 de proteger casas de los ricos contra los fuegos que amenazan las fronteras
 de la ciudad cada año. Es un trabajo con algunos riesgos y me dijo historias
@@ -109,7 +109,7 @@ distancia. Quizá es algo distinto que les causan apreciar más su vida. Es algo
 porque han tomado una hipoteca para un porción, una semana por año, de este
 paraíso artificial.
 
-![Velero al amanaezer, BCS](
+![Velero al amanecer, BCS](
   {{ '/assets/images/2021/Julio/DSC00264.JPG' | relative_url }}
 )
 
@@ -119,7 +119,7 @@ Durante la mañana el hombre me visita con su café, remando una tabla de
 paleta. Más tarde pasa con su lanchita y me invita a ir con él al pueblo.
 
 No me di cuenta que hay un pueblo, le dije. Sí, está allí detrás con la
-aérea de la playa lo más lejos del resorte donde se estacionen los omnibuses
+aérea de la playa lo más lejos del resorte donde se estacionen los ómnibuses
 y otro equipo pesado, donde se lanzan a veces una panga. Hay una tienda, una
 escuela, y pocas casas, una comunidad.
 
