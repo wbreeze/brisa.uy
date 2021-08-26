@@ -108,7 +108,7 @@ modo de comunicación con el mundo ser humano, a veces es un buen confort.
 
 ## Quien somos como HAM
 
-El navegador tiene permiso de radioaficionado categoría inicial emitido por
+El navegante tiene permiso de radioaficionado categoría inicial emitido por
 la Unidad Reguladora de Servicios de Comunicaciones (URSEC) en Uruguay.
 Lo obtuvo con la asistencia del
 [Radio Club Uruguayo (RCU)][rcu] en Montevideo donde
