@@ -5,7 +5,7 @@ date: 2021-06-30
 tags: navegación
 author: Brisa con Silvia Solar
 excerpt: El proceso de fondear que sirve para nosotros, corto mano que
-  estamos, el navegador y el velero, es de encender el motor, poner el timón en
+  estamos, el navegante y el velero, es de encender el motor, poner el timón en
   mano de Otto, el auto-piloto, bajar las velas, mandar el timón, y navegar por
   motor en las áreas protegidas, llanas, muy de cerca con la tierra.
 ---
@@ -31,12 +31,12 @@ parte llegando a un fondeadero.
 )
 
 El proceso de fondear que nos sirve, dado que hay pocas manos para atender el
-navegador y el velero, es encender el motor, poner el timón en mano de Otto (el
+navegante y el velero, es encender el motor, poner el timón en mano de Otto (el
 auto-piloto), bajar las velas, mandar el timón y navegar por motor en las áreas
 protegidas, llanas, muy de cerca de la tierra. Hay gente que navega a vela
 hasta bajar el ancla y fondear. Navegan con una vela y la bajan con el ancla
 bien puesta en el fondo. Es posible, pero no es aconsejable para alguien tan
-inexperto como este navegador. En cualquier caso, hay pocos que lo hacen.
+inexperto como este navegante. En cualquier caso, hay pocos que lo hacen.
 
 Con la otra mano, es posible subir el ancla, poner una vela de proa y salir
 navegando sin motor. Esto sirve especialmente si el viento sopla hacia afuera
