@@ -5,7 +5,7 @@ date: 2021-08-09
 tags: navegación equipo timón
 excerpt: En Brisa tenemos cuatro métodos para poner la proa en la dirección donde
   queremos irnos.
-author: Brisa con Silvia Solar
+author: Brisa con Silvia Soler
 ---
 
 En Brisa tenemos cuatro métodos para poner la proa en la dirección que
@@ -44,7 +44,7 @@ Se queda perfectamente con el rumbo sin variación.
 
 Encima de todo, tenemos el timón de viento. El timón de viento, que se
 llama "Sulu", como el [timonel del nave estelar][sulu] [Enterprise][ncc-1701],
-es el tipo servotimón fabricado por Scanmar, con marca "Monitor." Una paleta en
+es el tipo servotimón fabricado por [Scanmar, con marca "Monitor."][monitor] Una paleta en
 el aire mueve a un lado o otro cuando no está alineada con el viento. Cuando se
 mueve, se gira un ala vertical, como una pala en el agua.
 Cuando el ala gira, el agua se puse hacia un
@@ -93,3 +93,4 @@ la popa.
   "Hikaru Sulu, un oficial y piloto a bordo de la USS Enterprise (NCC-1701)"
 [ncc-1701]: https://es.wikipedia.org/wiki/Enterprise#USS_Enterprise_(NCC-1701)
   "Crucero pesado clase Constitución"
+[monitor]: https://www.scanmarinternational.com/monitor-windvance-hp "Monitor wind vane self steering fromb Scanmar International"
