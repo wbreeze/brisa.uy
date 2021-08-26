@@ -25,17 +25,17 @@ bote que pasa sin saberlo.
 En otros países esta pica espantosa y peligrosa debajo la superficie se
 marcan bien con una boya. Quizá en México no tienen los recursos, o la
 voluntad, o las habilidades, o quizá la descuidan.
-En su carta antigua, revisado no más recien que 1984, solo dicen, "no pasar".
+En su carta antigua, revisado no más recién que 1984, solo dicen, "no pasar".
 Este se niega el cierto que todos los buques recreativos que van y vienen del
 área pasan por allí. O quizá solo Brisa piense que un boya sea aconsejable.
 
-![Carta naútica, la oficiál y la buena desde la gúia](
+![Carta náutica, la oficial y la buena desde la guía](
   {{ '/assets/images/2021/Julio/Danzante.jpeg' | relative_url }}
 )
 
-Tampoco no está en la carta naútica electrónico de Navionics que utilizamos.
+Tampoco no está en la carta náutica electrónico de Navionics que utilizamos.
 Oficialmente, no existe.
-No obstante, hemos pasado tres veces menos que una milla naútica de esta roca.
+No obstante, hemos pasado tres veces menos que una milla náutica de esta roca.
 Cada vez teníamos su posición a lo alto de nuestras mentes. Ser vigilante
 no sirve. Es invisible. Si no estaba en la guía, pasaremos sin saberlo.
 
@@ -76,20 +76,20 @@ buscando seguro que hay algo, la huelen, hasta que nos mudamos.
 En Bahía Marquer también había un grupo de delfines. Vienen por la mañana
 explorando la bahía y nadando hacia el sur. Vuelven de la tarde nadando hacia
 el norte. Aproximan debajo el velero una vez. Que grande son.  Son fuertes.
-Salen a la superficie para respirar. Soplan con sonido chuf, fuertamente y
+Salen a la superficie para respirar. Soplan con sonido chuf, fuertemente y
 rápidamente aclarando sus narinas. Chupan el aire con sonido pwah, y
 se sumergen de nuevo. Esto pasa como un latido lento del corazón-- chuf, pwah.
 
 ## Loreto y "Puerto" Ballandra
 
 Un día tenemos una tarea en el pueblo de Loreto. Hay lugar para fondear
-no protegida de ninguna. LLegamos tarde por razón de vientos ligeros.
+no protegida de ninguna. Llegamos tarde por razón de vientos ligeros.
 Fondeamos y corrimos al pueblo. Es muy lindo el malecón y aérea turística
-de Loreto, pero solo tenemos tiempo para caminar, mirar, y disfrutar un capuccino
-en la plaza con la catedral. El capuccino es una de las cosas que más extrañamos
+de Loreto, pero solo tenemos tiempo para caminar, mirar, y disfrutar un capuchino
+en la plaza con la catedral. El capuchino es una de las cosas que más extrañamos
 de la vida en tierra.
 
-Loreto es el punto de apoyo donde los Franciscos ponen su primer monasterio
+Loreto es el punto de apoyo donde los Franciscanos ponen su primer monasterio
 en la península. De allí se despliegan al norte y al sur por la costa,
 construyendo las famosas misiones españolas tan populares ahora con los turistas.
 Salía como un gran proyecto del arte. No me parece que ellos piensen del
@@ -120,7 +120,7 @@ no sabemos dónde.
 El próximo día de mañana todos los otros se van. Quizá también no les gustan
 los mosquitos. Es lindo tener el lugar a mi mismo.  Ballandra no es un puerto
 de llegada y salida para nadie. Es una caleta bien protegido por todos lados,
-falta el oeste.  Estoy disfrutando, descansando, silbando, felíz.  Al mediodía
+falta el oeste.  Estoy disfrutando, descansando, silbando, feliz.  Al mediodía
 se me ocurre que, quizá hay razón por la que todos los otros se van.  Quizá
 saben algo que yo no sé. Es un ataque de paranoia.  Obtengo el pronóstico del
 lugar por el equipo satélite y lo miro.  Hay vientos medio fuertes del oeste
@@ -176,10 +176,10 @@ Encendemos el motor y empezamos el proceso de levantar el ancla. Cada vez que
 aproximamos el ancla y tiramos una porción de la cadena, terminamos con la
 misma distancia hacia la orilla, o quizá menos. Al fin, el ancla está libre
 y lo levantamos desde su profundidad de nueve metros hacia la proa.
-No tenemos tiempo sujetarlo bien. El velero he ponido su lado al viento.
+No tenemos tiempo sujetarlo bien. El velero he puesto su lado al viento.
 He empezado moverse con determinación hacia las rocas.
 
-Solo teniámos tiempo para brincar a la bañera, apretar el acelerador adelante, y
+Solo teníamos tiempo para brincar a la bañera, apretar el acelerador adelante, y
 conducir la proa hacia el agua abierta de la caleta.
 
 Fue una experiencia atemorizante. Por otro lado, reafirmamos
