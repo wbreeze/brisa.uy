@@ -3,7 +3,7 @@ layout: post
 title: Bahía Agua Verde
 date: 2021-06-28
 tags: naturaleza BCS
-author: Brisa con Silvia Solar
+author: Brisa con Silvia Soler
 excerpt: Cuando llegamos a la bahía Agua Verde, después de un lindo día de
   navegación con viento de aleta, nos dimos cuenta de inmediato que queríamos
   detenernos allí.
