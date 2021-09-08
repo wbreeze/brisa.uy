@@ -3,7 +3,7 @@ layout: post
 title: La vida fondeado
 date: 2021-06-30
 tags: navegación
-author: Brisa con Silvia Solar
+author: Brisa con Silvia Soler
 excerpt: El proceso de fondear que sirve para nosotros, corto mano que
   estamos, el navegante y el velero, es de encender el motor, poner el timón en
   mano de Otto, el auto-piloto, bajar las velas, mandar el timón, y navegar por
