@@ -7,6 +7,11 @@ tags: agua tanques equipo sistemas
 excerpt: Dimensiones del tanque de proa del agua potable
 ---
 
+Algunos fuentes de tanques polyethylene:
+- [Ronco plastics](https://ronco-plastics.com/product/water-waste-holding-tank/)
+- [Plastic Mart](https://www.plastic-mart.com/category/30/marine-water-tanks)
+- [Tek Tanks (UK)](https://www.tek-tanks.com/custom-tanks/)
+
 El tanque de proa es el tanque lo más grande. Tiene capacidad de ochenta litros.
 
 ## Lado de proa
