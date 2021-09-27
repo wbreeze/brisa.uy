@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Bahía de los Ángeles
-date: 2021-09-22
+date: 2021-09-27
 tags: navegación lugares
 excerpt: Para las navegantes del Mar de Cortés, es un lugar de refugio
-  durante el temprano de los huracanes.
+  durante la temporada de los huracanes.
 ---
 
 ![Vista de Bahía de los Ángeles desde un cubre en Isla Corona](
