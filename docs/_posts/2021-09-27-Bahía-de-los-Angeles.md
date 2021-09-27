@@ -43,14 +43,14 @@ Tenía sólo la mitad de la eslora de Brisa, cinco metros, sin exagerar.
 Mueva lentamente y suave, con su boca abierta. La cabeza y la boca son
 muy estrechos. Desde allí su perfil se estrecha hasta la cola fina.
 En el lado tiene dos alas grandes. Su respaldo está moteado con blanco y gris
-azúl como el fondo de una riachuelo pedregoso.
+azul como el fondo de una riachuelo pedregoso.
 Tienen una aleta dorsal y su cola se extiende hacia arriba. Los dos salen del
 agua. Frecuentemente la vista de las dos aletas es la primera señal que
 están cerca.
 
 No son peligrosos porque son vegetarianos. Sin embargo, creo que la mitad
 de mi cuerpo podría caber en su boca. Algunos quieren nadar con ellos.
-A mi no me gusta! Estoy satesfecho a verlos desde arriba, seguro sobre la
+A mi no me gusta! Estoy satisfecho a verlos desde arriba, seguro sobre la
 cubierta de Brisa.
 
 ![Una tortuga marina en Puerto don Juan](
@@ -67,7 +67,7 @@ respiran tres o cuatro veces cuando vienen a la superficie a fin de aclarar
 bien los pulmones de dióxido de carbono. Parecen antiguos y sabios.
 
 En la tierra hay
-[los saguaros]({{ '/2021/08/17/Los-Saguaros.html' | relative_url }})
+[los Saguaros]({{ '/2021/08/17/Los-Saguaros.html' | relative_url }})
 y otras plantas, siempre con espinas para proteger su agua. A veces escuchamos
 los coyotes o los vemos en la playa durante el crepúsculo.
 En una excursión por los cerros rocosos alrededor de un fondeadero vimos una
@@ -114,7 +114,7 @@ Durante la noche, líneas de tormentas a veces cruzan el mar desde el
 continente al este. Similar a un huracán, con escala mucho menor,
 crecen sobre el mar y llegan con esfuerzo. Se les llama "chubascos", pero
 frecuentemente llegan con más viento que lluvia. El frente de los chubascos
-llevan vientos de treinta nudos con rafagas a veces a cuarenta o cincuenta.
+llevan vientos de treinta nudos con ráfagas a veces a cuarenta o cincuenta.
 Así tienen la fuerza de un vendaval, con duración más breve.
 
 Brisa experimenta dos o tres chubascos durante el fin de septiembre y
@@ -145,7 +145,7 @@ frecuentes. Los fondeaderos de Isla la Ventana e Isla Coronado son expuestos
 por el oeste. Es una mala sorpresa estar allí mirando el atardecer tranquilo,
 después de un día con snorkel, senderismo, y natación,
 solo para experimentar de repente vientos fuertes soplando olas
-hacía el fondero, intentando unirse con la playa al sotavento.
+hacía el fondeo, intentando unirse con la playa al sotavento.
 
 ## La fiesta de la luna llena
 
@@ -184,7 +184,7 @@ utilizar redes. Las redes capturan demasiados peces y amenazan la fuente.
 Cazan cerca con Brisa a veces porque los peces acumulan allí utilizando el
 casco como refugio. Podemos charlar con ellos. Generalmente compartimos
 saludos del día. Salieron después de una hora o menos para cazar los peces
-de deporte. Alguien me dijo que hay una gran cantidad de marlín este año.
+de deporte. Alguien me dijo que hay una gran cantidad de picudos este año.
 Me di cuenta de la historia de Hemingway sobre el hombre viejo y el gran pez.
 
 ![Pangas de pesca cazando el cebo](
@@ -232,7 +232,7 @@ con un puñado de Canadienses.
 Forman un grupo muy cerrado entre la población. Piden servicios, compran
 alimentos, y a veces toman la cena o un almuerzo en un restaurante. Tienen
 su propio canal de radio VHF donde solo escuchas intercambio en inglés.
-No vamos a invadir y colonizar como ya pasó acá. Somos un pequeño cominidad
+No vamos a invadir y colonizar como ya pasó acá. Somos un pequeño comunidad
 privilegiado entre una más grande con oportunidades menos abiertos.
 Disfrutamos el verano, nos vamos y nos vemos.
 
