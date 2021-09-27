@@ -207,6 +207,10 @@ para enseñar en casa. Estos programas son mayormente en inglés. Una pareja
 francés enseña matemáticas a sus hijos con un programa estadounidense en
 inglés. De esta manera aprenden el inglés también.
 
+![Tesoros de la playa](
+  {{ '/assets/images/2021/BLA/DSC00828.JPG' | relative_url }}
+)
+
 Las familias forman un red en el VHF para reunirse en varios lugares.
 Comparten tiempos juntos para que
 los hijos jueguen juntos cual sus parientes comparten notas.
