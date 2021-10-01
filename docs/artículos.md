@@ -12,11 +12,13 @@ permalink: /artículos/
         {% continue %}
       {% else %}
         <li>
-          {% assign date_format = "%d %B, %Y" %}
-          <span class="post-meta">{{ post.date | date: date_format }}</span>
-            <a class="post-link" href="{{ post.url | relative_url }}"
-              >{{ post.title | escape }}</a>
+          {% assign date_format = "%d %B %Y" %}
+          <a class="post-link" href="{{ post.url | relative_url }}"
+            >{{ post.title | escape }}</a>
+          -
           <span class="post-excerpt">{{ post.excerpt }}</span>
+          -
+          {{ post.date | date: date_format }}
         </li>
       {% endif %}
     {% endfor %}
