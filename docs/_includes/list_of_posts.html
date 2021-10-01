@@ -1,13 +1,13 @@
 {% if site.posts.size > 0 %}
   <div class='recents'>
     <ul>
-      {% assign date_format = "%d %b %Y" %}
+      {% assign date_format = "%d %b" %}
       {% for post in site.posts limit: 12 %}
         {% if post.nolist %}
           {% continue %}
         {% else %}
           <li>
-            {{ post.date | date: date_format }}
+            <span class="post-date">{{ post.date | date: date_format }}-</span>
             <a class="post-link" href="{{ post.url | relative_url }}">
               {{ post.title | escape }}
             </a>
