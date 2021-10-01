@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Panamá
-date: 2021-09-30
+date: 2021-10-01
 tags: ruta planes
 excerpt: Iramos a Panamá, visitando algunos lugares interesantes en la
   costa de México y Costa Rica
@@ -18,10 +18,14 @@ dijo, "Ustedes no pueden irles allí desde acá."
 Es lo mismo con la ruta desde el Már de Cortés a Uruguay. No puedes
 irte. No hay ninguna ruta directa ni sensillo.
 
+![Paisaje del mar, con el cielo jaspeado](
+  {{ '/assets/images/2021/APanamá/DSC00640.JPG' | relative_url }}
+)
+
 Si nos vamos por la costa
 oeste de sudamerica, necesitamos irnos mucho al sur para correr el Cabo
 de Horno, canal Beagle o Magellen. Es duro. Frio. Las tormentas en la
-zona del cabo son legendario. Es una tentación, pero. No.
+zona del cabo son legendario. Es una tentación, pero... no.
 
 Si nos vamos por el oeste necesitamos correr todo el Pacifico (un penal
 que no es duro a soportar. ¡Que hermosa las islas tropicales pacificos!)
@@ -36,6 +40,10 @@ No. No lo hicimos. Crucamos por el Canal de Panamá al lado este del
 continente, el Caribe y el Océano Atlantico. Desde allí nos vemos cómo irnos.
 Es un paso. No podemos irnos desde acá.
 
+![Pelicano, tijereta, gaviotas volando, Baja California](
+  {{ '/assets/images/2021/APanamá/AvesDeBajaVolando.jpg' | relative_url }}
+)
+
 ## La ruta a Panamá
 
 En el otro mano, es sensillo irnos a Panamá. Recorremos la costa oeste de
@@ -45,7 +53,7 @@ San Salvador, Nicaragua... Pah. No son amables. Quizá son hermosas, pero sus
 politicas no soporten bien visitantes, turistas, o especialmente veleros.
 Incluso Costa Rica tiene algunas politicas para franquear cuidamente.)
 
-Brisa tiene un plan provisianal a visitar a
+Brisa tiene un plan provisional a visitar a
 
 |Millas Naúticas|Días|Lugar|Lat N|Lon W|
 |380|4|Isla Isabel|21º51'|105º53'|
@@ -58,9 +66,10 @@ Brisa tiene un plan provisianal a visitar a
 
 Nota que los lugares no son los famosos lugares turisticos, como Bahía de
 Navidad y Acapulco. Estos lugares simplemente pasan demasiado cuncurridos y
-costosos. No nos interesan tanto.
+costosos. No nos interesan tanto. Con el velero tengo libertad visitar
+lugares poco afuera el paso.
 
-Saliamos de México, navegamos por el peligroso, ventoso
+Saliendo de México, nevegaré por el peligroso, ventoso
 Golfo de Tehuantepec y más al sur, en Costa Rica, el golfo Papagayo.
 En Costa Rica, entramos por Puntarenas en la Bahía Nicoya.
 De Chahué a Puntarenas es un
@@ -72,4 +81,8 @@ Viajando al sur hay Quepos y Playa Coloda en
 la Bahía llamada por el explorador Sir Frances Drake. Salimos de
 Costa Rica en Golfito, pasamos por Punta Burica y entramos a Panamá en
 Armuelos.
+
+![Bahía de los Rocas, Isla Mitlán, y Volcán Coronado en Baja California](
+  {{ '/assets/images/2021/APanamá/DSC00886.JPG' | relative_url }}
+)
 
