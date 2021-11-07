@@ -28,6 +28,11 @@ un peso inútil. Cierto es que necesitan aterrizar para reproducirse e incubar
 sus huevos. Me imagino que pueden aterrizar sin pies. No pueden caminar.
 Aterrizan sobre sus nidos.
 
+Es una broma porque siempre les visto volando.
+La verdad es que sí, por supesto, tienen piernas cortas con pies. Les he visto
+aterizando y parado sobre unos picos rocoso abajo el acantilado de Punta
+Púlpito.  Fue una vista bien raro.
+
 ![grupo de las tijeretas circulando](
   {{ '/assets/images/2021/tijeretas/DSC00049.JPG' | relative_url }}
 )
