@@ -90,16 +90,18 @@ de transmisiones.
 )
 
 Los Estados Unidos transmiten dos veces al día una serie de imágenes en forma
-de telefax por bandas diversas. Depende la estación, hay series para el
-Pacífico norte, Caribe, y Atlántico norte. Las series están compuestos de cartas
+de telefax por bandas diversas.
+Las series son compuestos de cartas
 del tamaño y dirección del oleajes, análisis del superficie actual con frentes
 y áreas de presura altas y bajas, pronósticos de doce horas, pronósticos del
 movimiento de las tormentas tropicales, además imágenes satélites.
 
-Si existen series de telefax
-para los mares del hemisferio sur, no los conocemos. Quizá en Chile tienen
-un serie para Cabo de Horno, donde hay muchas tormentas y vendavales.
-Imaginamos que Australia o Nueva Zelanda transmiten algo. No sabemos.
+Existen series de telefax para casi todo el mundo. Los estados unidos
+transmiten telefax desde sudafrica, ásia, brazíl, chile, australia, nueva
+zelanda, grecia, inglatera, y de nueve sitios norteamericanos.
+Quizá otros paises tienen sus propios series. No sé.
+El departamento de servicio meteorologico de los estados unidos publica
+su [plan de transimsión telefax][fax] actuál en la red.
 
 Así es útil tener el radio HAM y un permiso de radioaficionado, con muchas
 ventajas. Seguro que
@@ -114,7 +116,10 @@ Lo obtuvo con la asistencia del
 [Radio Club Uruguayo (RCU)][rcu] en Montevideo donde
 es socio.
 Participa en los redes de radioaficionados náuticos y otros con distintivo de
-llamada CX8CWB, estación móvil marino del velero Brisa.
+llamada CX8CWB. La estación móvil marino del velero Brisa tiene llamada
+WDM6363 porque el velero opera con registración estadounidense, vela
+recrativa, guarda de la costa numero 667041.
+Navegamos con MMSI (identidad estación) 368224550.
 
 [rcu]: http://cx1aa.org/ "Radio Club Uruguayo"
-
+[fax]: https://www.nws.noaa.gov/om/marine/radiofax.htm
