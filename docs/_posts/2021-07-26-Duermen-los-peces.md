@@ -42,7 +42,7 @@ noctilucas con sus movimientos. Son como fantasmas verdes debajo de la
 superficie. Un juego divertido es poner un luz brillante sobre el agua
 a ver cientos de peces saltando para escapar.
 
-Sentado afuera en la bañera durante la noche, con una luna gibosa, mirando el
+Sentado afuera en la cabina durante la noche, con una luna gibosa, mirando el
 mar tranquilo, nos preguntamos, ¿cómo funciona la naturaleza? ¿Duermen los
 peces?  Sentimos el misterio. Hay más preguntas que respuestas.
 
