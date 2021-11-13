@@ -7,8 +7,8 @@ excerpt: Este ketch es una belleza con la proa y la popa acantiladas.
 ---
 
 Este ketch fue en la Caleta San Juanicó cuando llegué con el atardecer
-ayer. Hoy por la mañana salió antes de que tuviero la fortuna de conocer a su padrón.
-Voló la bandera canidense. Solo ví a una persona a bordo. Posiblemente hay
+ayer. Hoy por la mañana salió antes de que tuviera la fortuna de conocer a su padrón.
+Voló la bandera canadiense. Solo vi a una persona a bordo. Posiblemente hay
 una pareja, frecuentemente es el caso, pero el navegante sube el ancla y
 se pone en camino solo. Comparto las fotos porque es un ketch impresionante
 y la mañana salió lindo acá en Caleta San Juanicó.
