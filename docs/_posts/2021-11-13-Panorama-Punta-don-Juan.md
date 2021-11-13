@@ -3,16 +3,14 @@ layout: post
 title: Panorama Punta don Juan
 date: 2021-10-13
 tags: lugares vistas senderos
-excerpt:
-link_note: "[internal link]({{ '/2019-07-30-post.md' | relative_url }})"
-image_note: "![image]({{ '/assets/images/image.jpeg' | relative_url }})"
+excerpt: Vistas desde la cumbre Punta don Juan
 ---
 
-Hicimos senderismo, yo y la pareja Canidense del velero Sara M.
+Hicimos senderismo, yo y la pareja Canadiense del velero Sara M.
 Empecemos en un rincón del Puerto don Juan que se llama "La bañera".
 Rápidamente ascendemos por los cerros rocosos sin senderos.
 Tengo mucho fortuna conocer a Alan y Robyn, porque son aventureros.
-No les molestan irles sin sendero hacía los cerros para explorar,
+No les molestan ir sin sendero hacía los cerros para explorar,
 encontrar, y disfrutar las vistas.
 La verdad es así, no hay bosques para oscurecer la ruta.
 Es fácil a ver sus pasos.
@@ -45,7 +43,7 @@ algunas plantas duras.
 
 En este cerro hay menos rocas. Las rocas son rojos, lleno de hierro.
 Otros son piedras pómez, muy ligeras, generalmente más pequeñas.
-Aún otros son obsidianos. Suenan como pedazos de vidrio cuando chocan, y
+Aún otros son obsidianas. Suenan como pedazos de vidrio cuando chocan, y
 a veces se quiebran.
 
 ![Vista alta de Puerto don Juan, Baja California](
@@ -68,7 +66,7 @@ Las islas blancas detrás son "Los Gemelos". A su derecha es la isla
 "Cabeza de Caballo".
 Podes ver, en la distancia a la derecha, el cono del volcán Coronado.
 
-![image, Punta don Juan, Baja California](
+![Vista alta de Ensenada el Quemado, Baja California](
   {{ '/assets/images/2021/Panorama/DSC00955.JPG' | relative_url }}
 )
 
