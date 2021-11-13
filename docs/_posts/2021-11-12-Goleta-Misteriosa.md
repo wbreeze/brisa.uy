@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Ketch de Misterio
+title: Goleta Misteriosa
 date: 2021-11-08
 tags: veleros BCS
-excerpt: Este ketch es una belleza con la proa y la popa acantiladas.
+excerpt: Esta goleta es una belleza con la proa y la popa acantiladas.
 ---
 
-Este ketch fue en la Caleta San Juanicó cuando llegué con el atardecer
+Esta goleta fue en la Caleta San Juanicó cuando llegué con el atardecer
 ayer. Hoy por la mañana salió antes de que tuviera la fortuna de conocer a su padrón.
 Voló la bandera canadiense. Solo vi a una persona a bordo. Posiblemente hay
 una pareja, frecuentemente es el caso, pero el navegante sube el ancla y
-se pone en camino solo. Comparto las fotos porque es un ketch impresionante
+se pone en camino solo. Comparto las fotos porque es una goleta impresionante
 y la mañana salió lindo acá en Caleta San Juanicó.
 
 ![Ketch saliendo de Caleta san Juanicó, Baja California Sur](
@@ -26,7 +26,7 @@ Mercenarios en el fondo.
 )
 
 La madrugada salió lindo, con nubes altas y lisas. Un viento suave viene
-desde el oeste. El ketch se pone hacía el norte.
+desde el oeste. La goleta se pone hacía el norte.
 
 ![Ketch en el fondo con catamarán](
   {{ '/assets/images/2021/KetchDeMisterio/DSC01030.JPG' | relative_url }}
@@ -39,6 +39,6 @@ En el primer plano hay otro tipo de vehículo para disfrutar una vida costera.
   {{ '/assets/images/2021/KetchDeMisterio/DSC01032.JPG' | relative_url }}
 )
 
-Una vista final del ketch antes que desapareciera detrás de la punta
-San Basilio. ¡Buen viaje, ketch de misterio!
+Una vista final de la goleta antes que desapareciera detrás de la punta
+San Basilio. ¡Buen viaje, goleta misteriosa!
 
