@@ -20,7 +20,7 @@ gran porte, incluido el campeonato Mundial de ORC en 2005, son los que componen
 este seleccionado."
 
 El equipo ha entrenado en octubre en la sede de competición, el lago
-Neuchate, en Suiza. La competición empieza en mayo de 2022, hace solo seis
+Neuchate, en Suiza. La competición empieza en mayo de 2022, en solo seis
 meses.
 
 ![Fondeado en Las Rocas, Bahía de los Ángeles](
