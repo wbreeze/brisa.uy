@@ -28,7 +28,7 @@ meses.
 )
 
 Además, me alegra leer que la competición, una nueva de la organización
-SSL, se organizai, no con veleros propios de los varios
+SSL, se organiza, no con veleros propios de los varios
 equipos nacionales, pero con veleros que provee SSL. Los veleros de una nueva
 clase SSL 47, de los cuales ninguno de los equipos había competido antes. De
 esta manera, el poder económico del país de origen no es tan importante. Las
