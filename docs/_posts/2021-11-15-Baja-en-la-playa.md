@@ -2,7 +2,7 @@
 layout: post
 title: Baja en la playa
 date: 2021-10-08
-tags: bcs rareza
+tags: baja rareza
 excerpt: La última vez que visité a Puerto don Juan,
   fue un velero bajado en la playa.
 ---
@@ -25,14 +25,14 @@ Por eso, el velero flota una vez por día y una vez por noche.
 )
 
 Con el mar bajo, hicieron algunas tareas. Pintan un poco el fondo. Arreglan
-la cadena del ancla y la marca.
+la cadena del ancla y la marca para saber el tamaño desplegado.
 
 ![Velero bajado en la playa en Puerto de don Juan, Baja California](
   {{ '/assets/images/2021/BajaPlaya/DSC00925.JPG' | relative_url }}
 )
 
-Después de tres días, cuando el mar fue de arriba, se mudan más lejos
-de la playa y queden flotando de nuevo.
+Después de tres días, cuando el mar fue arriba, se mudaron más lejos
+de la playa y quedaron flotando de nuevo.
 
 ![Velero bajado en la playa en Puerto de don Juan, Baja California](
   {{ '/assets/images/2021/BajaPlaya/DSC00927.JPG' | relative_url }}
