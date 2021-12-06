@@ -15,7 +15,7 @@ Estaba tan encantada con [Agua Verde en Junio](
 que decidí volver acá antes que salir de la costa para cruzar
 el Mar de Cortés a Isla María Isabela y San Blas.
 
-![image]({{
+![Punta Colorada, BCS]({{
   '/assets/images/2021/BahíaAguaVerdeNoviembre/DSC01056.jpeg' | relative_url }}
 )
 
@@ -35,7 +35,7 @@ Un poco desvío desde la ruta directa pone
 el peligroso arrecife Danzante al lado del estribor.
 Tengo la esperanza de encontrar a mis amigos queridos del velero Sara M.
 
-![image]({{
+![Sierra de la Giganta, BCS]({{
   '/assets/images/2021/BahíaAguaVerdeNoviembre/DSC01058.JPG' | relative_url }}
 )
 
@@ -53,7 +53,7 @@ está bien detrás. El viento sigue con calma, pero no me gusta irme tanto
 con el motor. Me apuro el sonido del motor y lo apago. Me quedo en paz a la
 deriva al medio del mar. Es mediodía. Hago algo de comer.
 
-![image]({{
+![Paisaje hacia el norte desde Bahía Agua Verde, BCS]({{
   '/assets/images/2021/BahíaAguaVerdeNoviembre/DSC01084.JPG' | relative_url }}
 )
 
@@ -71,7 +71,7 @@ tierra. Pongo el spini en el lado de estribor con el viento a babor.
 A la empieza solo vamos dos nudos. El viento crece para que, por un rato,
 hacemos cinco nudos.
 
-![image]({{
+![Veleros en Bahía Agua Verde, BCS]({{
   '/assets/images/2021/BahíaAguaVerdeNoviembre/DSC01070.JPG' | relative_url }}
 )
 
@@ -84,7 +84,7 @@ Isla San Cosme sobre la costa. En retrospectiva la Isla San Cosme había sido
 una buena selección. Hay termos para disfrutar allí. Pero estoy fijado con
 Agua Verde como destino. Bajo las velas y enciendo el motor.
 
-![image]({{
+![Veleros en Bahía Agua Verde, BCS]({{
   '/assets/images/2021/BahíaAguaVerdeNoviembre/DSC01082.JPG' | relative_url }}
 )
 
@@ -99,7 +99,7 @@ La única con buena protección por el viento noroeste y norte es el fondeo
 al noroeste. Además, y más importante, solo el fondeo al noroeste ofrece
 protección contra las olas que entran a la bahía desde el mar.
 
-![image]({{
+![Llanura aluvial del Río Agua Verde, BCS]({{
   '/assets/images/2021/BahíaAguaVerdeNoviembre/DSC01088.JPG' | relative_url }}
 )
 
@@ -108,7 +108,7 @@ otros veleros y un pequeño arrastrero recreativo. Las primeras dos noches
 en Agua Verde, disfruto más los sentidos distintos de una cama de cuña
 colgado en lo alto de un árbol durante una noche ventosa.
 
-![image]({{
+![Playa con arbolitos y veleros, Bahía Agua Verde, BCS]({{
   '/assets/images/2021/BahíaAguaVerdeNoviembre/DSC01094.JPG' | relative_url }}
 )
 
@@ -117,7 +117,7 @@ alguien salía del fondeo noroeste. Tengo suerte. Alguien sale y yo estoy listo
 para aprovechar el espacio abierto. Ahora disfrutaré unas semanas de paz acá
 en Agua Verde.
 
-![image]({{
+![Velero navegando y palmita de la playa]({{
   '/assets/images/2021/BahíaAguaVerdeNoviembre/DSC01100.JPG' | relative_url }}
 )
 
@@ -135,7 +135,7 @@ urgencia de mí deseo estar en Uruguay.
 
 Muy pronto me voy. Saldré del Golfo de California para la Costa de Oro.
 
-![image]({{
+![Montoñas al sur de Bahía Agua Verde, BCS]({{
   '/assets/images/2021/BahíaAguaVerdeNoviembre/DSC01108.JPG' | relative_url }}
 )
 
