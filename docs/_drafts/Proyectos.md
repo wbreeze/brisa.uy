@@ -12,4 +12,4 @@ Había un montón de proyectos y mejores para Brisa. Tengo una pila de fichas.
 Cada uno tiene un proyecto. Aquí hay algunos de los proyectos cumplidos
 durante los meses en Bahía de los Ángeles.
 
-
+Mejoré 
