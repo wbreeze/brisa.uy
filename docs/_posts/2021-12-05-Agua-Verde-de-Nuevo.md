@@ -5,7 +5,7 @@ date: 2021-11-22
 tags: navegación BCS
 excerpt: Estaba tan encantada con Agua Verde en Junio
   que decidí devolver acá antes que salir de la costa para cruzar
-  el Mar de Cortéz a Isla María Isabela y San Blas.
+  el Mar de Cortés a Isla María Isabela y San Blas.
 
 ---
 
@@ -13,7 +13,7 @@ Estaba tan encantada con [Agua Verde en Junio](
   {{ '/2021/06/28/Bahía-Agua-Verde.html' | relative_url }}
 )
 que decidí volver acá antes que salir de la costa para cruzar
-el Mar de Cortéz a Isla María Isabela y San Blas.
+el Mar de Cortés a Isla María Isabela y San Blas.
 
 ![image]({{
   '/assets/images/2021/BahíaAguaVerdeNoviembre/DSC01056.jpeg' | relative_url }}
@@ -124,16 +124,16 @@ en Agua Verde.
 Al fin pasé más que dos semanas allí en Agua Verde. Visité a algunos
 conocidos que vienen, e hice nuevos conocidos. Instalé una
 [sistema de identificación automática (AIS)][ais]. Hice poco de senderismo
-y snorkel. Ayudé a los locales con su sístema solár para la heladera en
-el café de la playa. Reemplecé un motón sobre la cubierta para la escota
-mayor. Suena como un currículum vitae.
+y snorkel. Ayudé a los locales con su sistema solar para la heladera en
+el café de la playa. Reemplacé un motón sobre la cubierta para la escota
+mayor. Suena como un currículum vítae.
 
-La verdad es que fue un buen tiempo en el paradiso Agua Verde.
+La verdad es que fue un buen tiempo en el paraíso Agua Verde.
 Es demasiado difícil salir desde allí por un viaje largo.
 Todavía hay tiempo irme a Panamá. La única prisa que siento es la
 urgencia de mí deseo estar en Uruguay.
 
-Muy pronto me voy. Saliré del Golfo de California para la Costa de Oro.
+Muy pronto me voy. Saldré del Golfo de California para la Costa de Oro.
 
 ![image]({{
   '/assets/images/2021/BahíaAguaVerdeNoviembre/DSC01108.JPG' | relative_url }}
