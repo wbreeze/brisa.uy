@@ -3,15 +3,15 @@ layout: post
 title: Bahía Banderas
 date: 2022-01-10
 tags: CostaPacíficaMéxico ballenas marinas suministros
-excerpt: Entrando a la Bahía Banderas, unas millas naúticas al oeste de
+excerpt: Entrando a la Bahía Banderas, unas millas náuticas al oeste de
   Punta de Mita, casi choqué con una ballena jorobada.
 ---
 
 Entrando a la Bahía Banderas, unas millas náuticas al oeste de Punta de Mita,
-casi choqué con una ballena jorobada. Ví su espuma delante de la popa
-un poco al babor. Corté el motor y giré a estribor. Ví a su lado con su ala
+casi choqué con una ballena jorobada. Vi su espuma delante de la popa
+un poco al babor. Corté el motor y giré a estribor. Vi a su lado con su ala
 en el agua. Era pequeña, su largo menos que el velero. Desapareció.
-Esperé un minuto y no lo ví de nuevo. Sigue viendo
+Esperé un minuto y no lo vi de nuevo. Sigue viendo
 cuidadosamente. Más allá había media docena de las pangas con clientes viendo
 a ver las ballenas.
 
@@ -19,7 +19,7 @@ a ver las ballenas.
   {{ '/assets/images/2022/Banderas/DSC01390.JPG' | relative_url }}
 )
 
-Cada vez que navegué en la bahía ví a unas ballenas en la superficie por
+Cada vez que navegué en la bahía vi a unas ballenas en la superficie por
 distancia.
 
 Es raro, después que tanto tiempo con el clima árido a ver los cerros y
@@ -35,7 +35,7 @@ modernas y lujos rodean la marina por todos lados.
 )
 
 La marina
-más amable para los navegantes de veleros es La Cruz, quince millas nauticas
+más amable para los navegantes de veleros es La Cruz, quince millas náuticas
 detrás, en el norte de la bahía. Decidí irme a Puerto Vallarta porque es
 más grande, con más servicios de provisión marina. La meta era abastecer
 el velero y irme.
@@ -45,23 +45,23 @@ Saliendo de Puerto Vallarta había abastecido lo siguiente:
 |||
 |café soluble|870g|
 |chocolate en polvo|775g|
-|cocoa para mesa|540g|
+|chocolate para mesa|540g|
 |levadura seca|mucha|
-|extracto de vanilla|100ml|
+|extracto de vainilla|100ml|
 |harina integral|5kg|
 |harina blanca|7kg|
 |te negro en bolsita|50|
 |te negro suelta|500g|
 |miel|1.5kg|
-|aceite de óliva|4L|
+|aceite de oliva|4L|
 |manteca vegetal|750g|
 |mermelada frambuesa|280g|
 |verduras en lata|20 x 100g|
 |granos de elote en lata|8 x 100g|
-|chicharos en lata|6 x 100g|
+|chícharos en lata|6 x 100g|
 |pasa de uva|4.25kg|
-|pure de tomate|6 x 210ml + 8 x 360ml|
-|leche deslactosada evaporada|5 x 360ml|
+|puré de tomate|6 x 210ml + 8 x 360ml|
+|leche desacotada evaporada|5 x 360ml|
 |mate|750g|
 |aceituna|2 x 100g|
 |pasta|5 x 450g + 22 x 200g|
@@ -73,8 +73,8 @@ Saliendo de Puerto Vallarta había abastecido lo siguiente:
 |poroto negro|4 x 900g|
 |poroto pinto|800g|
 |poroto peruana|800g|
-|poroto garbanza|3 x 500g|
-|arróz integral|13kg|
+|poroto garbanzo|3 x 500g|
+|arroz integral|13kg|
 |coco rallado sin azúcar|2 x 150g|
 |naranja|4|
 |clavo de ajo|4|
@@ -82,7 +82,7 @@ Saliendo de Puerto Vallarta había abastecido lo siguiente:
 |cebolla roja|12|
 |pepino criolla|3|
 |gasoil|95L|
-|super gas|10kg|
+|súper gas|10kg|
 |agua potable|240L|
 
 ![Entrada para Puerto Vallarta, Bahía Banderas, México](
@@ -98,7 +98,7 @@ Dicen (traduzco), "Una palapa en Yelapa está mejor que un condo en Redondo."
 pueblito y la playa.
 
 Al fin corrí a toda la costa de la bahía. Por lástima no navegué ninguna con
-vela.  Cuando llegué por Punta Mita vino viento. Ví muchas velas
+vela.  Cuando llegué por Punta Mita vino viento. Vi muchas velas
 disfrutándolo.  Fue el fin de siete horas de viaje con solo dos más. Estuve
 cansado, con hambre, además perezoso.
 
@@ -111,13 +111,13 @@ el viento ni pagar ni soportar más noches en la marina.
 )
 
 En Yelapa sale bien que no había viento porque es muy justo, con los amaras
-cercanos con la playa y las quebradas. Las olas fueron suficientamente rugosas
+cercanos con la playa y las quebradas. Las olas fueron suficientemente rugosas
 para darme prisa salir. Lo mejor que el día de salir la bahía por Cabo
 Corrientes el viento salía suave. Los vientos aceleran por el cabo.
 En combinación con las corrientes puede estar con el mar rugoso a veces.
 
 Ta. Fue así. Nunca navegué con vela por la Bahía Banderas. Me siento mal, un poco
-avergonzado. Per el otro mano debo sentir orgullo. Lo navegué seguramente con
+avergonzado. Por el otro mano debo sentir orgullo. Lo navegué seguramente con
 olas de dos, dos y media metros-- las más altas que he visto en velero.
 Abastece mi almacén. Desde ahora siendo más con viento, con menos prisa,
 disfrutando.
