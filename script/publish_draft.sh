@@ -9,11 +9,19 @@ if [ ! -f "$1" ]; then
 fi
 src="$1"
 base_name=${src##*/}
-ymd=`date +%Y-%m-%d`
+if [[ -n "$2" && "$2" == 'now' ]]; then
+  ymd=`date +%Y-%m-%d`
+else
+  ymd=`awk '/date: (.+)/  { print $2 }' ${src}`
+fi
+if [[ -z "${ymd}" ]]; then
+  echo "Unable to dermine date"
+  exit 3
+fi
 post_dir="./docs/_posts"
 aspell -M -l es check "${src}"
 dest="${post_dir}/${ymd}-${base_name}"
-if [ -e "$2" "now" ]; then
+if [[ -n "$2" && "$2" == 'now' ]]; then
   subst="s/date: .+/date: ${ymd}/"
   sed -E "${subst}" "${src}" >"${dest}"
 else
