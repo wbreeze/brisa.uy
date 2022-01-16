@@ -21,7 +21,7 @@ viaje en alta mar.
 Empezando, pensé en Colón, como nos enseñan en la escuela primaria, navegando
 hacía el horizonte estrecho, hacía el borde del mundo, hacia el desconocido.
 No soy Colón. Muchas han hecho lo que hago. Casi una docena salieron de
-Ensenada de los Muertos cuando yo esperé allí. Ese recuerdome tranquiliza.
+Ensenada de los Muertos cuando yo esperé allí. Ese recuerdo me tranquiliza.
 A mí me digo, "Ponga la proa a la marca, se vaya adelante sin
 demasiado de vela. Vas a llegar. Hace días, vas a llegar."
 
@@ -118,12 +118,12 @@ riza por el palo del timón, soplando suavemente cuando el velero estremece con
 las olas suaves. Puedo oír cualquier suspiro del viento y sentirlo por mi
 cabeza y cuerpo. Mirando el agua vidriosa puedo ver los rizos más mínimos.
 
-El agua es de color azúl zafiro. Mirando entre eso me parece profundo, sin
+El agua es de color azul zafiro. Mirando entre eso me parece profundo, sin
 defecto, como una gema libre de imperfecciones. Es difícil saber la marca o
 orientarme excepto por sol y compás. Tengo sentido estar bajo en el fondo
 de una cuenca llana.
 
-![Agua azúl zafiro](
+![Agua azul zafiro](
   {{ '/assets/images/2021/AltaMar/DSC01299.JPG' | relative_url }}
 )
 
@@ -155,7 +155,7 @@ Con Mercurio, en el oeste, tengo una mirada de todas los planetas visibles
 sin telescopio. Están en una línea por el eclíptico-- Mercurio primariamente,
 después Venus, Marte y al fin Júpiter.
 
-## Dia cinco, Lunes, 27 Diciembre
+## Día cinco, Lunes, 27 Diciembre
 
 De la mañana estoy a la deriva de nuevo. Me extraño Uruguay. Estoy soñando
 con Montevideo-- ir al cine, obras, conciertos, caminar por la rambla, visitar
@@ -196,7 +196,7 @@ una solución. No necesito encenderlo.
   {{ '/assets/images/2021/AltaMar/DSC01313.jpeg' | relative_url }}
 )
 
-## Dia seis, Martes, 28 Diciembre
+## Día seis, Martes, 28 Diciembre
 
 A las cuatro de la mañana el viento para de nuevo. Necesité bajar las velas.
 Fue tan tonto, a las cuatro de la mañana. Intenté capear con la vela estay por
@@ -254,7 +254,7 @@ arena en el fondo rocoso, al lado este de la isla al sur de un par de rocas
 cimas.
 
 Por la tarde, no hago nada. Descanso. Miro las ballenas jorobadas y las
-tijeritas pero casi no las veo. Estoy agotado, cansado. Al fin, fue un viaje de
+tijeretas pero casi no las veo. Estoy agotado, cansado. Al fin, fue un viaje de
 seis días, dos horas, veinte minutos. Navegué trescientos millas náuticas
 por una línea directa de doscientos cincuenta. He completado mi primer
 viaje con el mar abierto.
