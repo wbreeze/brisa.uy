@@ -3,8 +3,9 @@ layout: post
 title: En Alta Mar
 date: 2021-12-28
 tags: navegación
-excerpt:
-link_note: "[internal link]({{ '/2019-07-30-post.md' | relative_url }})"
+excerpt: Empecé un viaje de doscientas cincuenta millas náuticas el jueves,
+  23 de diciembre. Salí de Ensenada de los Muertos para la Isla Isabela por
+  la embocadura del Golfo de California.
 image_note: "![image]({{ '/assets/images/image.jpeg' | relative_url }})"
 ---
 
@@ -28,6 +29,10 @@ Con el atardecer el viento disminuye. Un barco crucero pasa de popa, todo
 iluminado con luces brillantes, viendo al norte con doce nudos. Parece lujoso.
 Está oscuro sin la luna. Sigo directamente hacia la constelación de Orión.
 
+![Atardecer por el punto de la península Baja California](
+  {{ '/assets/images/2021/AltaMar/DSC01278.jpeg' | relative_url }}
+)
+
 ## Día dos, Viernes, 24 Diciembre
 
 Brisa está en los trópicos. Crucé al 23º 30'N, el Trópico de Cáncer,
@@ -39,6 +44,10 @@ Mi mente empezó a reproducir música de navidad. Es raro. Posiblemente porque
 por la red de radio alta frecuencia hablan mucho sobre el tema. Necesitaba
 reproducir toda mi biblioteca de música por iTunes.
 
+![El velero Brisa a la deriva con calma](
+  {{ '/assets/images/2021/AltaMar/DSC01282.jpeg' | relative_url }}
+)
+
 Día de playa en la isla pequeñita tropical de Brisa hoy. A la deriva sin
 viento miro al mar, cocino, coso la baluma de la vela, escucho la obra
 maestra de Handel unas veces. "El Messiah" es mi tradición favorita de
@@ -46,6 +55,10 @@ temporada-- un logro magnífico de Europa y Gran Bretaña.
 
 Paz en Brisa. El mar lo he reajustado completamente con casi ninguna de olas
 y la superficie vidriosa. Paz con el mar. Paz por la tierra. Paz para todas.
+
+![Atardecer por el punto de la península Baja California](
+  {{ '/assets/images/2021/AltaMar/DSC01283.jpeg' | relative_url }}
+)
 
 ## Día tres, Sábado, 25 Diciembre
 
@@ -84,12 +97,20 @@ Nunca he visto la línea discontinua en el mar.
 Está en todas las cartas.
 Quizá pasé entre las pizcas cada vez que lo crucé.
 
+![Buque de carga se levanta el mar por la proa](
+  {{ '/assets/images/2021/AltaMar/DSC01290.JPG' | relative_url }}
+)
+
 Un buque de carga, Ci Yun Shan, con colado de once metros me pasó detrás y solo
 una y media milla náutica a estribor. Viendo con catorce nudos, se levanta el
 mar por la proa unos dos o tres metros. Me alegra que no esté cerca con
 esta ola.
 
 Otro velero me pasa cerca al babor. Va con motor. Nos compartimos saludos.
+
+![Un ketch pasa por la misma ruta, con motor](
+  {{ '/assets/images/2021/AltaMar/DSC01297.jpeg' | relative_url }}
+)
 
 A mediodía estoy a la deriva de nuevo. Nado. Almuerzo. Me preparo para la
 próxima comida. Hace mucho que estaba en cualquier lugar tan quieto. El agua se
@@ -101,6 +122,10 @@ El agua es de color azúl zafiro. Mirando entre eso me parece profundo, sin
 defecto, como una gema libre de imperfecciones. Es difícil saber la marca o
 orientarme excepto por sol y compás. Tengo sentido estar bajo en el fondo
 de una cuenca llana.
+
+![Agua azúl zafiro](
+  {{ '/assets/images/2021/AltaMar/DSC01299.JPG' | relative_url }}
+)
 
 Tengo poco tinnitus. Puedo oírlo por la tranquilidad. Por suerte la música
 repetitiva me deja mi mente clara, con su ausencia. Fue asustado saltar del
@@ -114,6 +139,10 @@ de la proa. No importa la vela gigante, mi génova, flameando adelante
 con viento ligero. Cuando les aproximo, no les importa ninguna. Quedan en su
 lugar obstinados. Se ponen sus colas afuera. Sin embargo su mierda mancha
 las barandillas y los planes del púlpito. Necesitaré limpiarlos.
+
+![Atardecer alta mar](
+  {{ '/assets/images/2021/AltaMar/DSC01301.jpeg' | relative_url }}
+)
 
 Vi al planeta Mercurio. Es una vista rara, la primera de mi vida.
 Decir la verdad, no es mucho.
@@ -148,6 +177,10 @@ la misma velocidad. La génova es suficientemente larga y más maniobrable, más
 fácil de manejar. Los bobos sobre el púlpito de proa no importan el spi
 ninguna, incluso cuando lo arreglo, desplegarlo, y sacarlo. No se mueven.
 
+![Fiesta de los bobos](
+  {{ '/assets/images/2021/AltaMar/DSC01304.JPG' | relative_url }}
+)
+
 Al atardecer los bobos hacen una fiesta. Jueguen cuantos bobos podemos ponerlos
 en el púlpito de un velero. Su récord es más de una docena. Decido que es
 bastante. Su mierda es demasiado. Para ahuyentarlos necesito grabar un palo
@@ -158,6 +191,10 @@ bobos.
 Decidí poner un palillo de incienso fijado a la luz de la proa. Posiblemente
 disuade a los bobos. Algunos vienen pero no les gusta el olor. Quizá es
 una solución. No necesito encenderlo.
+
+![Atardecer alta mar](
+  {{ '/assets/images/2021/AltaMar/DSC01313.jpeg' | relative_url }}
+)
 
 ## Dia seis, Martes, 28 Diciembre
 
@@ -172,6 +209,10 @@ A mediodía experimento la primera vista de la tierra, una isla al sur.
 Es la Isla María Madre al oeste de mi destino, Isla Isabela. Estoy desanimado
 por verlo. Es una señal que este viaje amable va a terminar.
 
+![Isla María Madre lejos al sur](
+  {{ '/assets/images/2021/AltaMar/DSC01315.jpeg' | relative_url }}
+)
+
 Mirando atrás veo una tuna saltando. Es plateado, brillante, esbelto,
 con cola bifurcada. Es gigante, con casi dos metros de largo, poderosa.
 Esa vista me hace sentir feliz de nuevo. Anoto como voluble está mi estado de
@@ -183,6 +224,10 @@ es que el viento va a girar hacia el sudeste-- la marca donde necesito irme.
 No se que va a causar el cambio de viento. Decidido ir por motor por la noche
 y ponerme más al sur, entre la Isla María Madre y Isla Isabela, a poder
 navegar con el viento más hacia la banda de estribor de la mañana.
+
+![Atardecer alta mar](
+  {{ '/assets/images/2021/AltaMar/DSC01318.jpeg' | relative_url }}
+)
 
 ## Día siete, Miércoles, 29 Diciembre
 
@@ -200,6 +245,10 @@ cómodo. Mi amigo Alan me dijo que si tengo sentido de algo debo abordarlo.
 Hay solo dieciséis millas náuticas antes de llegar. Decidido bajar la vela
 e irme por motor, para llegar tranquilo.
 
+![Aproximando a Isla Isabela desde el oeste](
+  {{ '/assets/images/2021/AltaMar/DSC01322.jpeg' | relative_url }}
+)
+
 Aproximo a la isla. Franqueo su punto al sur. Pongo el ancla en un pedazo de
 arena en el fondo rocoso, al lado este de la isla al sur de un par de rocas
 cimas.
@@ -209,4 +258,8 @@ tijeritas pero casi no las veo. Estoy agotado, cansado. Al fin, fue un viaje de
 seis días, dos horas, veinte minutos. Navegué trescientos millas náuticas
 por una línea directa de doscientos cincuenta. He completado mi primer
 viaje con el mar abierto.
+
+![Carta del viaje](
+  {{ '/assets/images/2021/AltaMar/Carta.jpeg' | relative_url }}
+)
 
