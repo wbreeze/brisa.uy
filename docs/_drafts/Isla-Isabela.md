@@ -33,7 +33,7 @@ muerto, tocándolo con sus picas.  Ninguna puede llevarlo, solo tocarlo.
   {{ '/assets/images/2021/IslaIsabela/DSC01334.JPG' | relative_url }}
 )
 
-Las ballenas jorobadas frecentemente pasan cerca.
+Las [ballenas jorobadas][jorobada] frecentemente pasan cerca.
 Chocan el agua con sus alas y sus colas.
 Soplan espuma en géiseres. A veces brocha la superficie verticalmente,
 poniendo sus cabezas y cuerpos a tres o cuatro metros de arriba.
@@ -93,7 +93,7 @@ frente a la costa.
   {{ '/assets/images/2021/IslaIsabela/DSC01354.JPG' | relative_url }}
 )
 
-En la playa y el bosque cercano con la playa, bobos se ponen sus óvulas en
+En la playa y el bosque cercano con la playa, [bobos][patiazul] se ponen sus óvulas en
 pozos llanos. Son bobos con patas azules, más guapos que los que me visitan
 en el alta mar. Tienen plumas blancas estrellado con gris y ojos intensos
 amarillos. Llevan sus patos una a la otro en pares para expresar su cariño
@@ -127,4 +127,9 @@ período jurásico. Fue un buen lugar para pasar el fin del año 2021.
   {{ '/assets/images/2021/IslaIsabela/DSC01379.JPG' | relative_url }}
 )
 
-[fregata]: "Fregata magnificens" "https://es.wikipedia.org/wiki/Fregata_magnificens"
+[fregata]: https://es.wikipedia.org/wiki/Fregata_magnificens
+  "Fregata magnificens"
+[patiazul]: https://es.wikipedia.org/wiki/Sula_nebouxii
+  "una especie de ave Suliforme de la familia Sulidae propia del Pacífico americano"
+[jorobada]: https://es.wikipedia.org/wiki/Megaptera_novaeangliae
+  "ballena jorobada"
