@@ -2,7 +2,7 @@
 layout: post
 title: Isla Isabela
 date: 2021-12-31
-tags: naturaleza
+tags: naturaleza aves ballenas fragatas bobos
 excerpt: Isla Isabela esta aislado veinte millas náuticas al este de la costa
   pacifica de México, cuarenta millas náuticas al noroeste del pueblo San Blas.
   La isla es silvestre. Es como otro planeta, o nuestro en el período jurásico.
@@ -16,7 +16,7 @@ Isla Isabela está aislada veinte millas náuticas al este de la costa
 pacífica de México, cuarenta millas náuticas al noroeste del pueblo
 de San Blas.
 
-Fondeo al sur de dos rocas pinnacles, Los Monas, en un pedazo de arena entre
+Fondeo al sur de dos rocas pináculos, Los Monas, en un pedazo de arena entre
 el fondo rocoso.
 El agua es muy transparente. Puedo mirar a mi ancla en el fondo con
 profundidad de ocho metros.
@@ -33,7 +33,7 @@ muerto, tocándolo con sus picas.  Ninguna puede llevarlo, solo tocarlo.
   {{ '/assets/images/2021/IslaIsabela/DSC01334.JPG' | relative_url }}
 )
 
-Las [ballenas jorobadas][jorobada] frecentemente pasan cerca.
+Las [ballenas jorobadas][jorobada] frecuentemente pasan cerca.
 Chocan el agua con sus alas y sus colas.
 Soplan espuma en géiseres. A veces brocha la superficie verticalmente,
 poniendo sus cabezas y cuerpos a tres o cuatro metros de arriba.
@@ -93,7 +93,7 @@ frente a la costa.
   {{ '/assets/images/2021/IslaIsabela/DSC01354.JPG' | relative_url }}
 )
 
-En la playa y el bosque cercano con la playa, [bobos][patiazul] se ponen sus óvulas en
+En la playa y el bosque cercano con la playa, [bobos][patiazul] se ponen sus ovulas en
 pozos llanos. Son bobos con patas azules, más guapos que los que me visitan
 en el alta mar. Tienen plumas blancas estrellado con gris y ojos intensos
 amarillos. Llevan sus patos una a la otro en pares para expresar su cariño
