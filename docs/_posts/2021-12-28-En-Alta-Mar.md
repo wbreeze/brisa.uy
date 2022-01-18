@@ -254,7 +254,7 @@ arena en el fondo rocoso, al lado este de la isla al sur de un par de rocas
 cimas.
 
 Por la tarde, no hago nada. Descanso. Miro las ballenas jorobadas y las
-tijeretas pero casi no las veo. Estoy agotado, cansado. Al fin, fue un viaje de
+fragatas magníficas pero casi no las veo. Estoy agotado, cansado. Al fin, fue un viaje de
 seis días, dos horas, veinte minutos. Navegué trescientos millas náuticas
 por una línea directa de doscientos cincuenta. He completado mi primer
 viaje con el mar abierto.
