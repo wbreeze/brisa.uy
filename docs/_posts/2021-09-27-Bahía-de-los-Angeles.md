@@ -67,7 +67,7 @@ respiran tres o cuatro veces cuando vienen a la superficie a fin de aclarar
 bien los pulmones de dióxido de carbono. Parecen antiguos y sabios.
 
 En la tierra hay
-[los Saguaros]({{ '/2021/08/17/Los-Saguaros.html' | relative_url }})
+[los Saguaros]({{ '/2021/08/17/Los-Saguaros' | relative_url }})
 y otras plantas, siempre con espinas para proteger su agua. A veces escuchamos
 los coyotes o los vemos en la playa durante el crepúsculo.
 En una excursión por los cerros rocosos alrededor de un fondeadero vimos una
@@ -75,7 +75,7 @@ lagartija de treinta o cuarenta centímetros. Justo cuando la vimos, se
 escondió rápido, muy rápido adentro su cobijo, un agujero en el suelo.
 
 [Las sulas][sula],
-[los pelícanos]({{ '/2021/06/30/Los-Pel%C3%ADcanos.html' | relative_url }}),
+[los pelícanos]({{ '/2021/06/30/Los-Pel%C3%ADcanos' | relative_url }}),
 y las gaviotas son siempre divertidos.
 A veces interactúan, generalmente cuando aman a la misma presa. Por lo mayor
 les dejan solo una especie a la otra. Las suelas particularmente a veces dan

@@ -42,7 +42,7 @@ bajo la ancla y ya está.
 )
 
 Como [he compartido antes](
-  {{ '/2021/10/13/Panorama-Punta-don-Juan.html' | relative_url }}
+  {{ '/2021/10/13/Panorama-Punta-don-Juan' | relative_url }}
 ), Alan es un navegante experto del mar y de la tierra.
 El día después que nuestro reunión, el nos dio paso a un arroyo y algunos
 cumbres y cadenas de la Isla Son José.

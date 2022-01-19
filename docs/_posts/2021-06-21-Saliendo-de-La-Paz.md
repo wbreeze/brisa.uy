@@ -53,7 +53,7 @@ una organización política.
 
 Me detengo en Caleta Lobos donde pasé el fin del año pasado.  Fue aquí donde
 escribí la historia sobre [los pelícanos](
-  {{ '/2021/06/30/Los-Pel%C3%ADcanos.html' | relative_url }}
+  {{ '/2021/06/30/Los-Pel%C3%ADcanos' | relative_url }}
 ). Pero nunca volvemos al mismo lugar. Nuestras sensaciones, las circunstancias
 de la vida, la experiencia y los cambios externos al ambiente, o cualquier otro
 cambio -- todo esto genera una experiencia nueva ni mejor ni peor, simplemente
@@ -75,7 +75,7 @@ Luego llegué a Caleta Partida,
 una gran caleta con un playa que conecta Isla Espíritu Santo con la isleta
 Partida al norte. En esta bahía tuve la
 [primera dificultad con el fondeo](
-  {{ '2021/06/30/Fondeaderos.html' | relative_url }}
+  {{ '2021/06/30/Fondeaderos' | relative_url }}
 ).
 
 Con el viento suave a popa, pude navegar a burro, con la vela de proa
