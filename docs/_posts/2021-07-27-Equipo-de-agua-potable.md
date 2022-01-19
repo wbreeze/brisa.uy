@@ -24,7 +24,7 @@ el espacio donde caben.
 
 Aquí hay vínculos a las medidas, y la capacidad de cada tanque:
 - [tanque de proa](
-  {{ '2021/07/06/Agua-Potable-Tanque-de-Proa.html' | relative_url }}
+  {{ '2021/07/06/Agua-Potable-Tanque-de-Proa' | relative_url }}
 ) ochenta (80) litros
 - [tanque al medio](
   {{ '2021/07/06/Agua-Potable-Tanque-Central' | relative_url }}

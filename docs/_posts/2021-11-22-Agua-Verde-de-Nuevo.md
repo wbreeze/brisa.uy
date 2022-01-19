@@ -10,7 +10,7 @@ excerpt: Estaba tan encantada con Agua Verde en Junio
 ---
 
 Estaba tan encantada con [Agua Verde en Junio](
-  {{ '/2021/06/28/Bahía-Agua-Verde.html' | relative_url }}
+  {{ '/2021/06/28/Bahía-Agua-Verde' | relative_url }}
 )
 que decidí volver acá antes que salir de la costa para cruzar
 el Mar de Cortés a Isla María Isabela y San Blas.
