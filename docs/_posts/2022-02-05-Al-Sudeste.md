@@ -20,7 +20,7 @@ En Tenacatita hay más de treinta yates. Es un parque de caravanas.  Visité
 a una pareja que conocí en el norte del Golfo de California.  Viajé con un
 grupo en nuestras lanchas por un estero, entre un bosque de mangle, a una
 laguna por detrás de una playa. Allí un hombre, Pedro, nos trajo a una hacienda
-pequeña donde, en el pasado, destilaron el agave tequilero.
+pequeña donde, en el pasado, destilaron el [agave tequilero][agave].
 
 ![Yates fondeado en Bahía Tenacatita, México](
   {{ '/assets/images/2022/AlSudeste/DSC01407.JPG' | relative_url }}
@@ -28,7 +28,7 @@ pequeña donde, en el pasado, destilaron el agave tequilero.
 
 Disfrutemos un almuerzo y después nos dijo una historia sobre la raicilla
 fabricada allí. Raicilla es tequila o mezcal. Solo el nombre cambia. Depende
-donde está despilarada. Ese lo destilaron acá en el estado Jalisco.
+donde está destilada. Ese lo destilaron acá en el estado Jalisco.
 Pedro está vendiendo, en botellas de media litro, una fuente destilada hace más
 de veinte años. Cuando he vendido toda la raicilla va estar un hombre viejo.
 
@@ -139,3 +139,5 @@ encanta.
   "Polaris es el nombre de la estrella α Ursae Minoris (α UMi, 1 UMi), la más brillante de la constelación de la Osa Menor, con magnitud aparente +1,97. También recibe el nombre de Estrella Polar o Estrella del Norte, por su cercanía al polo norte celeste."
 [ídolo]: https://es.wikipedia.org/wiki/Zanclus_cornutus
   "Tiene el cuerpo en forma de disco, muy comprimido lateralmente, mandíbula tubular con una pequeña boca conteniendo numerosos dientes largos."
+[agave]: https://es.wikipedia.org/wiki/Agave_tequilana
+  "Los agaves han sido utilizados por los habitantes de Mesoamérica desde hace aproximadamente 9000 años. En general, antes de la llegada de los españoles la utilidad de los agaves fue para la producción de azúcares y fibras. Su uso decayó cuando el cultivo de la caña de azúcar llegó a México con los conquistadores."
