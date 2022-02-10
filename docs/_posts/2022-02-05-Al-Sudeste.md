@@ -5,14 +5,12 @@ date: 2022-02-05
 tags: navegación México
 excerpt: Ya puedo ver a la cruz del sur por la mañana. Además puedo ver la estrella Polar,
   la estrella del norte. La meta es subir la cruz y bajar a Polaris.
-link_note: "[internal link]({{ '/2019-07-30-post.md' | relative_url }})"
-image_note: "![image]({{ '/assets/images/image.jpeg' | relative_url }})"
 ---
 
-Ya puedo ver a la cruz del sur por la mañana. Además puedo ver Polaris, la
-estrella del norte. La meta es subir la cruz y bajar a Polaris. Desde acá sigo
-siendo tanto al este como al sur. Bien. Más adelante hacia Panamá.  Más adelante
-hacia Uruguay.
+Ya puedo ver a la [cruz del sur][Crux] por la mañana. Además puedo ver
+[Polaris][Polaris], la estrella del norte. La meta es subir la cruz y bajar a
+Polaris. Desde acá sigo siendo tanto al este como al sur. Bien. Más adelante
+hacia Panamá.  Más adelante hacia Uruguay.
 
 ![Roca Central, Bahía Tenacatita, México](
   {{ '/assets/images/2022/AlSudeste/DSC01405.JPG' | relative_url }}
@@ -43,7 +41,7 @@ puerto más activo de la costa Mexicana oeste. Hay grandes buques de carga y de
 petróleo fondeado acá.
 
 ![El Tabernero Destilara cerca con Bahía Tenacatita, México](
-  {{ '/assets/images/2022/AlSudeste/DSC01414.JPG' | relative_url }}
+  {{ '/assets/images/2022/AlSudeste/DSC01417.JPG' | relative_url }}
 )
 
 Fondeado al lado del resorte Las Hadas, me alegra oír más de la samba y la
@@ -62,8 +60,9 @@ en la península. Necesito renovar los sellos de los tambuchos y las portillas.
   {{ '/assets/images/2022/AlSudeste/DSC01424.JPG' | relative_url }}
 )
 
-Las Hadas me da recuerdo de Casapueblo en Punta Ballena. No es tan lindo.  Es
-recta línea y descuidado. Tiene niveles múltiples e irregulares con azoteas y
+Las Hadas me da recuerdo de [Casapueblo][Casapueblo] en Punta Ballena. No es
+tan lindo.  Es recta línea y descuidado. Tiene niveles múltiples e irregulares
+con azoteas y
 balcones, situado al lado de un cerro, mirador de la bahía.  Al noreste puedo
 ver las picas de las montañas grandes de Colima, que alcanzan a los cuatro mil
 metros.
@@ -78,7 +77,7 @@ saludables y vives con peces jugando.
   {{ '/assets/images/2022/AlSudeste/DSC01436.JPG' | relative_url }}
 )
 
-Vía un par de ídolo moro, blanco con franjas verticales negros, con morros
+Vía un par de [ídolo moro][ídolo], blanco con franjas verticales negros, con morros
 largos y una ala dorsal como una tela fina y larga colgante atrás.
 
 Vi una cabrilla con marcas leopardas. Las castañuelas eran abundantes, azul,
@@ -89,8 +88,8 @@ cantan.  Oigo las olas quebrando suavemente sobre las rocas y acantilados en la
 orilla cercana.
 
 Solo me quedé allí tres noches, por lástima. Visité la última vez y
-dejé atrás un par de amigos
-queridos.  Ellos van al norte, yo al sur. Ellos vuelven al Golfo. Yo no. Son la
+dejé atrás un par de amigos queridos.
+Ellos van al norte, yo al sur. Ellos vuelven al Golfo. Yo no. Son la
 pareja que escuchó cuando leí _La Leyenda Patria_ en Puerto Escondido, para
 cualquier persona que le gusta oír el matiz rioplatense. (Mi acento no es malo.)
 Un día me visitaron en Uruguay. Puedo esperar.
@@ -108,9 +107,9 @@ frente, puedo extender mis dedos desde Polaris hasta el horizonte.
 Venus y Marte son estrellas de la madrugada. Scorpio ha aparecido bajo con el
 horizonte por la mañana. Es una de mis constelaciones favoritas porque parece
 bien lo que tiene para un nombre. Además, es brillo, como Orión.  La eclíptica
-es más alta. Híades está directamente de arriba. No es bajo en el cielo como
-estoy acostumbrado por la hemisferio norte. Pronto voy a poner la eclíptica casi
-directamente de arriba.
+es más alta. [Pléyades][Pléyades] está directamente de arriba. No es bajo en el
+cielo como estoy acostumbrado por la hemisferio norte. Pronto voy a poner la
+eclíptica casi directamente de arriba.
 
 ![Bahía Zihuatanejo, México](
   {{ '/assets/images/2022/AlSudeste/DSC01445.JPG' | relative_url }}
@@ -129,3 +128,14 @@ Una ola choca el casco con un chasquido.
 
 El mar se siente mucho más bondadoso cuando puedo verlo. Por eso la luna me
 encanta.
+
+[Pléyades]: https://es.wikipedia.org/wiki/Pl%C3%A9yades_(astronom%C3%ADa)
+  "Las Pléyades o Las siete hermanas (Messier 45 o M45) es un cúmulo estelar abierto que contiene estrellas calientes de tipo espectral B, de corta edad, ubicadas en la constelación de Tauro."
+[Casapueblo]: https://es.wikipedia.org/wiki/Casapueblo
+  "Casapueblo es una edificación construida por el artista uruguayo Carlos Páez Vilaró ubicada en Punta Ballena, a 13 km de Punta del Este, Uruguay."
+[Crux]: https://es.wikipedia.org/wiki/Crux
+  "Crux es una constelación del hemisferio sur celeste"
+[Polaris]: https://es.wikipedia.org/wiki/Polaris_(estrella)
+  "Polaris es el nombre de la estrella α Ursae Minoris (α UMi, 1 UMi), la más brillante de la constelación de la Osa Menor, con magnitud aparente +1,97. También recibe el nombre de Estrella Polar o Estrella del Norte, por su cercanía al polo norte celeste."
+[ídolo]: https://es.wikipedia.org/wiki/Zanclus_cornutus
+  "Tiene el cuerpo en forma de disco, muy comprimido lateralmente, mandíbula tubular con una pequeña boca conteniendo numerosos dientes largos."
