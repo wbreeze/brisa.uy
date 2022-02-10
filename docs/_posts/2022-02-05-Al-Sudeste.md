@@ -54,7 +54,7 @@ que escuche en el norte y en la península.
 
 Solo paré dos noches acá para encontrar sellador y rellenar mis fuentes de
 agua y gasoil. Viendo al sur, voy a encontrar la lluvia que casi nunca encontré
-en la península. Necesito renovar los sellos de los tambuchos y las portillas.
+en la península. Necesito renovar los sellados de los tambuchos y las portillas.
 
 ![Las Hadas centro turístico, Bahía Manzanillo, México](
   {{ '/assets/images/2022/AlSudeste/DSC01424.JPG' | relative_url }}
