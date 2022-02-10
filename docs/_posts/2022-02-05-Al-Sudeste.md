@@ -64,7 +64,7 @@ Las Hadas me da recuerdo de [Casapueblo][Casapueblo] en Punta Ballena. No es
 tan lindo.  Es recta línea y descuidado. Tiene niveles múltiples e irregulares
 con azoteas y
 balcones, situado al lado de un cerro, mirador de la bahía.  Al noreste puedo
-ver las picas de las montañas grandes de Colima, que alcanzan a los cuatro mil
+ver las cumbres de las montañas grandes de Colima, que alcanzan a los cuatro mil
 metros.
 
 Pronto que he dado las tareas de compras, me muevo a Ensenada Carrizal.
