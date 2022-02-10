@@ -36,7 +36,7 @@ de veinte años. Cuando he vendido toda la raicilla va estar un hombre viejo.
   {{ '/assets/images/2022/AlSudeste/DSC01409.JPG' | relative_url }}
 )
 
-En la Bahía Manzanillo encuentro playas redondas con resortes. Además es el
+En la Bahía Manzanillo encuentro playas redondas con centros turísticos. Además es el
 puerto más activo de la costa Mexicana oeste. Hay grandes buques de carga y de
 petróleo fondeado acá.
 
@@ -44,7 +44,7 @@ petróleo fondeado acá.
   {{ '/assets/images/2022/AlSudeste/DSC01417.JPG' | relative_url }}
 )
 
-Fondeado al lado del resorte Las Hadas, me alegra oír más de la samba y la
+Fondeado al lado del centro turístico Las Hadas, me alegra oír más de la samba y la
 cumbia que la de Sinaloa. La de Sinaloa, con su umpah-pah tuba, es casi todo
 que escuche en el norte y en la península.
 
@@ -56,7 +56,7 @@ Solo paré dos noches acá para encontrar sellador y rellenar mis fuentes de
 agua y gasoil. Viendo al sur, voy a encontrar la lluvia que casi nunca encontré
 en la península. Necesito renovar los sellos de los tambuchos y las portillas.
 
-![Las Hadas resorte, Bahía Manzanillo, México](
+![Las Hadas centro turístico, Bahía Manzanillo, México](
   {{ '/assets/images/2022/AlSudeste/DSC01424.JPG' | relative_url }}
 )
 
@@ -69,7 +69,7 @@ metros.
 
 Pronto que he dado las tareas de compras, me muevo a Ensenada Carrizal.
 Ensenada Carrizal es un paraíso remoto justo al lado del puerto industrial y
-las playas resortes de Bahía Manzanillo. Es redonda con cerros cubiertos con
+las playas centros turísticos de Bahía Manzanillo. Es redonda con cerros cubiertos con
 bosques, todos verdes. En el agua hay arrecifes extensos, un campo de corales
 saludables y vives con peces jugando.
 
