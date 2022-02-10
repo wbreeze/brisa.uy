@@ -2,7 +2,7 @@
 layout: post
 title: Proyectos
 date: 2022-02-02
-tags: mantenamiento
+tags: mantenimiento
 excerpt: Había un montón de proyectos y mejores para Brisa.
 ---
 
@@ -10,7 +10,7 @@ Había un montón de proyectos y mejores para Brisa. Tengo una pila de fichas.
 Cada uno tiene un proyecto. Aquí hay algunos de los proyectos cumplidos
 durante los meses en el norte del Golfo de California.
 
-![molinete electrica](
+![molinete eléctrica](
   {{ '/assets/images/2022/Proyectos/DSC00559.JPG' | relative_url }}
 )
 
@@ -26,11 +26,11 @@ este molinete ni servicio. La nueva es una Maxwell HRCFF8.
 Reemplacé las ventanas quebradas en el tambucho del salón con nuevas.
 Lija y retoca la madera.
 
-![cuello de ganzo y vía para la vela de mal tiempo](
+![cuello de ganso y vía para la vela de mal tiempo](
   {{ '/assets/images/2022/Proyectos/DSC01449.JPG' | relative_url }}
 )
 
-Desmonté y renové el cuello de ganzo para la botavara para que esté seguro.
+Desmonté y renové el cuello de garzo para la botavara para que esté seguro.
 
 Desmonté y renové la vía sobre el mástil, para la vela de mal tiempo. Había
 pintado cuando el mástil había sido pintado, para que el grátil de la vela no
@@ -48,7 +48,7 @@ gasoil no se muevan cuando navego.
   {{ '/assets/images/2022/Proyectos/IMG_8790.jpeg' | relative_url }}
 )
 
-Renové el soporte para una de las pilas que se ha pudrido y dejado la pila
+Renové el soporte para una de las pilas que se ha podrido y dejado la pila
 libre acaso que el velero se mueve violentamente o se ha derribado.
 
 ![cubierta para la escotilla](
@@ -78,12 +78,12 @@ por uno más largo para estar listo cuando el viento vuelve... Frecuentemente
 es necesario priorizar. No puedo encontrar un fin de la lista de tareas.
 
 ![cambios del estado trabajando, navegando](
-  {{ '/assets/images/2022/Proyectos/jugetes.jpg' | relative_url }}
+  {{ '/assets/images/2022/Proyectos/juguetes.jpg' | relative_url }}
 )
 
 Una cosa interesante es cómo cambia el contenido
 de la cubierta, estación de navegación, y la bañera cuando navego y cuando
-estoy en obras. Una parte de los proyectos es gerenciar la despliega de
+estoy en obras. Una parte de los proyectos es dominar la despliega de
 herramientas y equipamiento. Es preciso poner las cosas siempre en sus
 lugares. Si no, no puedo funcionar.
 
