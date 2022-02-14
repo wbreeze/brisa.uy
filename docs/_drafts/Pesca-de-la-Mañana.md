@@ -8,10 +8,10 @@ excerpt: Muy pronto empiezen sacar peces con rapidéz y devolver las lineas con
 image_note: "![image]({{ '/assets/images/image.jpeg' | relative_url }})"
 ---
 
-Hoy tuve la suerte irme con un pescador de Puerto Ángel. Milano, con dos
+Hoy tuve la suerte irme con un pescador de Puerto Ángel. Emiliano, con dos
 aprendices Ángel y Jesus fueron divinos de verdad. Ellos son conocidos con
 [Alan y Robyn]({{ '/2021/11/15/Sara-M.html' | relative_url }}). Por eso tengo
-la fortuna conectar con Milano.
+la fortuna conectar con Emiliano.
 
 Vienen con su panga, Taira Maayan, a las seis de la mañana. Con el crepúsculo
 me lleven desde Brisa.  Pescamos un rato, cercana con la playa con lineas
@@ -22,7 +22,7 @@ del mar.
 
 El cebo es vivo y nada allí al fondo de la panga cuando vamos con motor por
 la costa para pescar. La panga es hecho con fibre de vidrio y bien duro.
-Su eslora de seis o siete metros y la manga mas o menos un metro y media.
+Su eslora de ocho metros y la manga mas o menos un metro y media.
 Así es una lancha larga y estrecha. El motor es de dos ciclos, con setenta y
 cinco caballos. Todas las pangas en Puerto Ángel lleven lo mismo. Un motor
 Yamaha dos ciclos de sesenta hacía ochenta caballos.
@@ -49,9 +49,9 @@ pescaderos ya salieron.
 Seguimos por la costa. Pasamos las playas Mermejita y Ventanilla. Todas playas
 lindas sin desarollo intrusivo como playas turisticas.
 
-Milano da un señal y comienza navegar con marco afuera y perpendicular con
+Emiliano da un señal y comienza navegar con marco afuera y perpendicular con
 la costa, hacía el mar abierto. Jesús y Ángel sacan jarras blancas, de
-plastico, cuatro litros, vacíos. Esos los hubo enrollado con unos treinta
+plastico, cuatro litros, vacíos. Esos los hubo enrollado con unos cuarenta
 metros de hilo de pescar. Al fin de la linea hubo puesto plomos y anzuelos
 grandes hecho de acero inoxidable.
 
@@ -65,16 +65,16 @@ los hilos. Las jarras blancas se mueven de arriba abajo, puntas blancas
 en el mar atrás. Los cuentan cuidosamente para asegurar que recuperan todos
 antes de salir.
 
-Milano me dijo, "Ahora esperamos." Comparto un tazo del café dulce desde mi
+Emiliano me dijo, "Ahora esperamos." Comparto un tazo del café dulce desde mi
 termos. Casi de inmedietamente Jesús da un señal. He visto una de las jarras
-agarrado, parado recto. Milano enciende el motor y vamos hacia la jarra recta.
+agarrado, parado recto. Emiliano enciende el motor y vamos hacia la jarra recta.
 
 Aproximandolo, Jesús lo agarra y empiece sacar todo el hilo de pesca. Hay un
 peso al otro extremo del hilo. Salga tirante. Mueve hacia la proa y a bajo y
 atrás. Hay algo vivo en el extremo, resistiendo.
 
 Sale un [barilete][barilete]. Jesús lo choca sobre el frente con un mazo, y
-lo deja caer en el agua. Sacandalo de nuevo esta muerto. Lo pasa atrás, a
+lo deja caer en el agua. Sacandalo de nuevo, esta muerto. Lo pasa atrás, a
 Ángel. Ángel se pone sus dedos adentro al pez por las branquias. Saca el
 anzuelo y lo pasa a Jesús.
 
@@ -90,9 +90,11 @@ Con todas la jarras abordo tenemos más de una dozena de
 [salema de altura][salema],
 [piríl][piri],
 y [jurle][jurle].
-Milano, Ángel y Jesús pescan ahora con <<lures>>. Milano saca otra barilete.
+Emiliano, Ángel y Jesús pescan ahora con cebo artificiál de metal pintado para
+brillar, como un pez.
+Hecho en China Ángel me dijo. Emiliano saca otra barilete.
 
-Milano me dijo que la panga y el motor son un inversión de trescientos quince
+Emiliano me dijo que la panga y el motor son un inversión de trescientos quince
 mil pesos. Con ingreso de cinco mil pesos por semana, pescando seis mañanas
 por semana, la inversión devuelva con periodo un año y cuarto. Es necesario
 reeplezar el motor cada diez años. Por eso tienen casi nueve años de los diez
@@ -101,7 +103,7 @@ en que podrían sacar dinero desde el mar.
 Con la vuelta, los pescadores de Puerto Ángel tienen un metodo único para
 varadar. Atacan a la playa con todo velocidad, a tiempo que una ola alcanza
 a la playa. Levantan el motor con el último secondo y deslizan de arriba de
-la playa, libre de la linea de la marea alta. Dice Milano, "es adrenalina pura".
+la playa, libre de la linea de la marea alta. Dice Emiliano, "es adrenalina pura".
 
 [salema]: https://es.wikipedia.org/wiki/Sarpa_salpa
   "Es un tipo de pescado con la carne firme, roja y muy agradable al paladar. Cortado en filetes frescos, una manera de prepararlo es a la brasa o, a la plancha."
