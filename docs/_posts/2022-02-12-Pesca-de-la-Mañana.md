@@ -2,14 +2,14 @@
 layout: post
 title: Pesca de la Mañana
 date: 2022-02-12
-tags: pescador méxico
+tags: pescador México
 excerpt: Muy pronto empiezan a sacar
   peces con rapidez y devolver las líneas con cebo fresco.
 image_note: "![image]({{ '/assets/images/image.jpeg' | relative_url }})"
 ---
 
 Hoy tuve la suerte de irme con un pescador de Puerto Ángel llamado Emiliano,
-con dos aprendices Ángel y Jesus fueron divinos de verdad. Ellos son conocidos
+con dos aprendices Ángel y Jesús fueron divinos de verdad. Ellos son conocidos
 de [Alan y Robyn]({{ '/2021/11/15/Sara-M.html' | relative_url }}).  Por eso
 tengo la fortuna de conectar con Emiliano.
 
@@ -50,7 +50,7 @@ sujetos a la violencia de las olas quebradas por las rocas.
 
 Pasamos por la playa Zipolite, Rocas aisladas negra y blanca. Sobre Punta
 Cometa hay gente parada por la cresta, saludando a la madrugada, esperando a
-ver la salida del sol. Ese lugar de la costa Pacífica Méxicana es una zona muy
+ver la salida del sol. Ese lugar de la costa Pacífica Mexicana es una zona muy
 espiritual. La gente viene acá para la buena onda, como ya tiene Uruguay.
 
 Paramos al lado de un punto de roca y pescamos un rato más con las líneas para
@@ -62,7 +62,7 @@ pescadores ya habían salido.
 )
 
 Seguimos por la costa. Pasamos las playas Mermejita y Ventanilla. Todas las
-playas lindas sin desarrollo intrusivo como playas turísticas.
+playas lindas sin desarrollo intruso como playas turísticas.
 
 Emiliano da un señal y comienza navegar con marco afuera y perpendicular con la
 costa, hacía el mar abierto. Jesús y Ángel sacan jarras blancas de plástico,
@@ -88,7 +88,7 @@ agarrado, parado recto Emiliano enciende el motor y vamos hacia la jarra recta.
   {{ '/assets/images/2022/PescaPA/PezJuego.jpg' | relative_url }}
 )
 
-Aproximándose, Jesús lo agarra y empieca a sacar todo el hilo de pesca.  Hay un
+Aproximándose, Jesús lo agarra y empieza a sacar todo el hilo de pesca.  Hay un
 peso al otro extremo del hilo sale tirante se mueve hacia la proa y de abajo
 para atrás. Hay algo vivo en el extremo, resistiendo.
 
