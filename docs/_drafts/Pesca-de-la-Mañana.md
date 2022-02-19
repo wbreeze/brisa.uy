@@ -13,11 +13,19 @@ con dos aprendices Ángel y Jesus fueron divinos de verdad. Ellos son conocidos
 de [Alan y Robyn]({{ '/2021/11/15/Sara-M.html' | relative_url }}).  Por eso
 tengo la fortuna de conectar con Emiliano.
 
+![Playa Panteón de Puerto Ángel, Oaxaca, México](
+  {{ '/assets/images/2022/PescaPA/DSC01497.JPG' | relative_url }}
+)
+
 Vienen con su panga, Taira Maayan, a las seis de la mañana. Con el crepúsculo
 me llevan desde Brisa. Pescamos un rato, cerca de la playa con líneas pesadas
 con un plomo y armado con media docena de anzuelos pequeños y arreglados cada
 medio metro. Con esos capturamos cocinero y ojoton como cebo. Los tiramos
 adentro de la panga donde hay un pozo lleno con el agua del mar.
+
+![Brisa en Puerto Ángel, Oaxaca, México](
+  {{ '/assets/images/2022/PescaPA/DSC01568.JPG' | relative_url }}
+)
 
 El cebo es vivo y nada allí al fondo de la panga cuando vamos con motor por la
 costa para pescar. La panga está hecha con fibra de vidrio y bien duro. La
@@ -29,6 +37,10 @@ motor Yamaha dos ciclos de sesenta hacía ochenta caballos.
 Dependen mucho del motor. Sin motor están a la deriva, afuera de la costa.
 También hacen contacto con los otros pescadores visualmente y con señales
 manuales. Toman noticia uno al otro lo que hacen y su estado.
+
+![Puerto Ángel, Oaxaca, México](
+  {{ '/assets/images/2022/PescaPA/DSC01601.JPG' | relative_url }}
+)
 
 Navegamos de cerca con la orilla rocosa. Puedo mirar las olas subiendo y
 bajando contra ellos. Dejan un gran cantidad de espuma. Cuando regresan, dejan
@@ -44,6 +56,10 @@ espiritual. La gente viene acá para la buena onda, como ya tiene Uruguay.
 Paramos al lado de un punto de roca y pescamos un rato más con las líneas para
 capturar un poco más cebo. Capturamos algunos y salimos porque los otros
 pescadores ya habían salido.
+
+![Puerto Ángel, Oaxaca, México](
+  {{ '/assets/images/2022/PescaPA/DSC01623.JPG' | relative_url }}
+)
 
 Seguimos por la costa. Pasamos las playas Mermejita y Ventanilla. Todas las
 playas lindas sin desarrollo intrusivo como playas turísticas.
@@ -68,6 +84,10 @@ Emiliano me dijo, “Ahora esperamos.” Comparto una taza del café dulce desde
 termo. Casi de inmediato Jesús da una señal, he visto que una de las jarras ha
 agarrado, parado recto Emiliano enciende el motor y vamos hacia la jarra recta.
 
+![Puerto Ángel, Oaxaca, México](
+  {{ '/assets/images/2022/PescaPA/PezJuego.jpg' | relative_url }}
+)
+
 Aproximándose, Jesús lo agarra y empieca a sacar todo el hilo de pesca.  Hay un
 peso al otro extremo del hilo sale tirante se mueve hacia la proa y de abajo
 para atrás. Hay algo vivo en el extremo, resistiendo.
@@ -80,6 +100,10 @@ pez de cebo por el anzuelo y lo tira con el plomo. Muy pronto empiezan a sacar
 peces con rapidez y devolver las líneas con cebo fresco. Cuando el cebo está
 agotado, empiezan a enrollar las jarras de nuevo con el hilo de pesca.
 
+![Puerto Ángel, Oaxaca, México](
+  {{ '/assets/images/2022/PescaPA/Peces.jpg' | relative_url }}
+)
+
 Al final la cuenta de las jarras es igual a las diez desplegadas al comienzo.
 Con todas las jarras a bordo tenemos más de una docena de barrilete, salema de
 altura, piríl, y juruel. Emiliano, Ángel y Jesús pescan ahora con cebo
@@ -91,8 +115,14 @@ periodo de un año y cuarto. Es necesario reemplazar el motor cada diez años.
 Por eso tienen casi nueve años de los diez en que podrían sacar dinero desde el
 mar.
 
+![Panga varando a la playa, Puerto Ángel, Oaxaca, México](
+  {{ '/assets/images/2022/PescaPA/DSC01591.JPG' | relative_url }}
+)
+
 Con la vuelta, los pescadores de Puerto Ángel tienen un método único para
 varar. Atracan en la playa a toda velocidad, al tiempo que una ola alcanza a la
 playa. Levantan el motor con el último segundo y se deslizan hacia arriba de la
 playa, libre de la línea de la marea alta. Dice Emiliano, “es adrenalina pura”.
+
+{% include video.html source='/assets/video/2022/Atracando.m4v' %}
 
