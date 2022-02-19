@@ -117,6 +117,10 @@ img {
   max-width:100%;
 }
 
+video {
+  width:400px;
+}
+
 header, footer {
   width:300px;
   float:left;
@@ -198,6 +202,10 @@ footer {
   header a small {
     display:inline;
   }
+
+  video {
+    width:600px;
+  }
 }
 
 @media print, screen and (max-width: $on-medium) {
@@ -212,6 +220,10 @@ footer {
   pre, code {
     word-wrap:normal;
   }
+
+  video {
+    width:400px;
+  }
 }
 
 @media print, screen and (max-width: 480px) {
@@ -221,6 +233,10 @@ footer {
 
   header ul {
     width:99%;
+  }
+
+  video {
+    width:400px;
   }
 }
 
