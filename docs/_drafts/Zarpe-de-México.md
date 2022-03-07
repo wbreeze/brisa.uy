@@ -11,8 +11,8 @@ La hora llega para salir de México. Estoy en el estado de Chiapas,
 en Marina Chiapas, cercano al pueblo de Puerto Madero. La marina ofrece un
 servicio para las llegadas y las partidas. Es parte de su programa.
 
-![description](
-  {{ '/assets/images/image.jpeg' | relative_url }}
+![Puerto Chiapas](
+  {{ '/assets/images/2022/Zarpe/IMG_8873.jpeg' | relative_url }}
 )
 
 Somos cuatro patrones. Tres de nosotros somos de veleros recreativos. El cuarto
@@ -45,6 +45,10 @@ En la marina toman copias de todos, incluso el pasaporte.
 El gerente de la marina, se llama Memo, nos lleva a las oficinas que
 precisamos visitar antes de que nos libren con nuestros veleros.
 
+![Oficina de la Aduana](
+  {{ '/assets/images/2022/Zarpe/IMG_8871.jpeg' | relative_url }}
+)
+
 La primera es la oficina de la aduana. Está en el puerto al fondo de una gran
 plataforma de carga. Hay una chica trabajando delante de un cubículo. A frente
 ella hay otro cubículo cubierta con papeles apilados, en fardos y en cajas.
@@ -52,14 +56,26 @@ Memo pasa adentro de una oficina. Se siente allí y charla un rato con el
 hombre adentro. El revisa algunos de nuestros documentos que trae Memo 
 y se pone sellos. Muy pronto estábamos a la carrera.
 
+![Oficina del Puerto](
+  {{ '/assets/images/2022/Zarpe/IMG_8874.jpeg' | relative_url }}
+)
+
 Después de un viaje corto en el camión de Memo, a otra parte del puerto
 visitamos a una ventana con un cajero. Tiene una hoja de papel de arriba,
 encerrada en plástico, con la etiqueta "Tesorería". Pagamos algo para algo.
 Memo nos dice que es la tarifa del puerto.
 
+![Oficina de Migración](
+  {{ '/assets/images/2022/Zarpe/IMG_8876.jpeg' | relative_url }}
+)
+
 Después de otro viaje corto en el camión, a una tercera parte del puerto,
 encontramos a la migración. Allí hacen fotocopias de nuevo de nuestros
 pasaportes. Agarran nuestros visas. Dan sellos. Nos vemos.
+
+![Oficina de la Capitanía](
+  {{ '/assets/images/2022/Zarpe/IMG_8877.jpeg' | relative_url }}
+)
 
 El último lugar que visitamos es la oficina de la capitanía del puerto. Hay
 otro impuesto. Aquí esperamos lo más. Hacen algo con la computadora
@@ -71,6 +87,10 @@ el zarpe. Está llena de sellos. Me alegra la colección de sellos.
 Un agente de la capitanía llega con unos soldados para examinar el velero
 antes de mi salida. Lo hace con una forma de inspección. Lo firmo y estoy
 libre. Más que libre. Es obligatorio que me vaya inmediatamente.
+
+![Zarpe para Brisa](
+  {{ '/assets/images/2022/Zarpe/20220228_ZarpeP2.jpeg' | relative_url }}
+)
 
 Listo o no, después de una mañana en las manos de los burócratas, de
 cualquier modo puedo, debo salir. La marina está tranquila. El agua está lisa.
