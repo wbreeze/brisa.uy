@@ -26,7 +26,7 @@ Lo que pide para nuestra salida es:
 - Recibo del pago para la visa
 - Registración del embarcación
 - Licencia de Capitán
-- Zarpe internal del puerto anterior mexicana
+- Zarpe interna del puerto anterior mexicana
 
 Solo uno de nosotros tiene nuestro recibo del pago para la visa. Dice él,
 "me quedo todo". Yo presento el recuerdo de mi cuenta BROU sobre la transacción.
