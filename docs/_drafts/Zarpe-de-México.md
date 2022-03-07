@@ -3,8 +3,8 @@ layout: post
 title: Zarpe de México
 date: 2022-02-28
 tags: burócrata México
-excerpt:
-link_note: "[text for internal link]({{ '/2021/11/15/Sara-M.html' | relative_url }})"
+excerpt: Al fin levanté las velas. Al fin navegué libre de nuevo por el mar. Al
+fin me fugué de México.
 ---
 
 La hora llega para salir de México. Estoy en el estado de Chiapas,
@@ -99,5 +99,5 @@ de los rompeolas hay olas de un metro con periodo corto. Hay viento de doce
 nudos.  Me siento mal preparado.  Mis velas todavía están guardadas en sus
 cubiertas. Las escotas no están aparejadas. Al fin organicé todo, viendo con
 motor. Al fin levanté las velas.  Al fin navegué libre de nuevo por el mar. Al
-fin me fugo de México.
+fin me fugué de México.
 
