@@ -4,7 +4,7 @@ title: Zarpe de México
 date: 2022-02-28
 tags: burócrata México
 excerpt: Al fin levanté las velas. Al fin navegué libre de nuevo por el mar. Al
-fin me fugué de México.
+  fin me fugué de México.
 ---
 
 La hora llega para salir de México. Estoy en el estado de Chiapas,
