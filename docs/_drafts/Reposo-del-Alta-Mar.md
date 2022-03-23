@@ -66,7 +66,7 @@ el impulso del casco.
 )
 
 Lo que pasa capeado con solo el casco o con la vela de estay es que el
-velero para segura. Todo pasa más tranquilo, pero no tan tranquilo como
+velero se para segura. Todo pasa más tranquilo, pero no tan tranquilo como
 está cuando utilizo la vela de fortuna.
 
 Pasé un noche capeado con la vela de estay. El viento impulsa olas de un
@@ -99,7 +99,8 @@ al lado con la silla.
 Desde la silla saqué para vos un foto de la superficie del már. Podes
 ver el área liso barloviento del casco con el már rujoso alrededor.
 El casco deslizando hacía el sotaviento plega el már, creando un área
-de tranquilidad por su mismo. Las olas no quebran allí contra el casco.
+de tranquilidad por su mismo. Las olas no chocan ni se quebran allí contra el
+casco.
 
 ![capeado](
   {{ 'assets/images/2022/Capeado/DSC01755.JPG' | relative_url }}
