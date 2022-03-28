@@ -15,8 +15,10 @@ Entre los dos hay una bahía larga, de cien millas naúticas,
 que necesitaba dos días atraveser. Atravesando allí, con vientos suaves,
 a veces ausentes, el már presenta un fenómeno insólito.
 
+{% include video.html source='/assets/video/2022/CorrientesDos.mp4' %}
+
 Hay zonas acá con corrientes fuertes. Fuerte significa un nudo y media o más.
-A veces, Brisa solo mueva con un nudo y media. Un día allí, estabamos parados
+A veces, Brisa mueva solo con un nudo y media. Un día allí, estabamos parados
 por el corriente. Navegé con respeto al mar. No me moví con respeto a
 la tierra.
 
