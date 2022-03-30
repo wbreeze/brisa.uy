@@ -55,11 +55,19 @@ Otro consideración es el corriente. Con la marea creciente, hay corriente
 a favor entrando y de contra saliendo. Si el corriente no es muy fuerte,
 consideracion de la profundidad sea más relevante.
 
-Mira el último foto. En lo alto, parece bien, no? Fondeo al lado con el
-otro velero. Lo me aproximo de popa. Pah! Mirá abajo. ¡Que bueno no lo
-pruebe!
-
 ![Marea alta y baja](
   {{ '/assets/images/2022/Mareas/altaBajaDos.jpg' | relative_url }}
 )
 
+Las mareas acá son diurnal. Hay dos altas y dos bajas cada día. No tienen
+mucha infuencia por el viento como en Montevideo, por la costa del norte
+del Río de la Plata.
+Mis compañeros Montevideanos conocen bien como la marea esconda y muestra
+las rocas. Por toda la rambla hay rocas
+a veces arriba y a veces abajo el mar. Tambien mis compañeros del club
+Nautilus lo conocen.
+
+
+Mira el último foto. En lo alto, parece bien, no? Fondeo al lado con el
+otro velero. Lo me aproximo de popa. Pah! Mirá abajo. ¡Que fortuna no lo
+pruebe!
