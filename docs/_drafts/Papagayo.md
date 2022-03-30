@@ -12,6 +12,10 @@ Afuera la costa Pacifica de Nicaragua no es tan pacifica.
 Desde el puerto de Corinto al norte hasta la peninsula de Nicoya, en Costa
 Rica, al sur hay la zona vientosa conocido como "El Papagayo".
 
+![El Salvadór a Panamá](
+  {{ '/assets/images/2022/Papagayo/CartaElSalvadorPanama.png' | relative_url }}
+)
+
 Me detengué allí una semana luchando con vientos fuertes y vientos en contra.
 Presento acá mi bitacora, con comentarios, para mejor compartir la experiencia.
 Las horas son UTC, seis horas adelante de la horario locál. De noche es desde
@@ -82,6 +86,10 @@ afloja y viene de nuevo desde el sur, moderato. De cenida a babor, cuatro nudos 
 - **2200** No para tanto. Crece desde el sur a sur al sudeste. Viendo al este
   porque casi nunca puedo irme con esta marca.
 
+![Un delfín salpando](
+  {{ '/assets/images/2022/Papagayo/DSC01830.JPG' | relative_url }}
+)
+
 ## Martes 15 de Marzo, 2022
 - **0045** Aproximadamente hace una hora el viento bornea hacia el este de
   nuevo. Despues, viene de repente desde el sur con fuerza cinco.
@@ -103,6 +111,10 @@ afloja y viene de nuevo desde el sur, moderato. De cenida a babor, cuatro nudos 
 - **2200** Yendo con motor a frente viento moderato, la proa hace mucho
   de espuma cuando choca con las olas. Cinco nudos por promedio, diez millas
   naúticas desde la costa.
+- *Nota* Un pajaro se llevó conmigo. Era un pajaro de bosque. Pensé que había
+  soplado afuera la costa como yo. Fue cansado porque, por lo mayor, durmió. Le
+  dí un poco del agua y pan. Aceptó. Más tarde, cercana con la costa,
+  limpió sus plumas y se va.
 - **2350** El motor perdí poder y despues lo apagué. Decidió que hago con
   la luz del día diminuendo. Tengo viento para navegar. Tengo la luna casi
   llena. Navegaré hacia el sur, de vela con rizas.
@@ -113,6 +125,10 @@ afloja y viene de nuevo desde el sur, moderato. De cenida a babor, cuatro nudos 
   aterizado me parece. Necesitaba parar allí por un minuto. Tuve palabras con
   el hombre aterizado en el espejo. Con palabras de ánimo, se siente mejor.
   Podría seguir navegando seguro, aunque un poco cansado.
+
+![Un pajaro pasenjero](
+  {{ '/assets/images/2022/Papagayo/DSC01781.JPG' | relative_url }}
+)
 
 ## Miercoles 16 de Marzo, 2022
 - **0200** Así es. Ceñida a babor con dos risas y el yankee. Escorado diez
@@ -147,6 +163,10 @@ afloja y viene de nuevo desde el sur, moderato. De cenida a babor, cuatro nudos 
 - **2230** Como previamente. Viento moderato a ceñida de babor. Yanki y
   la vela mayor con dos rizas. Cuatro nudos hacia el sur. Habería virando.
 
+![Barcos costales de pesca](
+  {{ '/assets/images/2022/Papagayo/DSC01706.JPG' | relative_url }}
+)
+
 ## Jueves 17 de Marzo, 2022
 - **0610** Virando por la costa norte con viento fresca
 - *Nota* Esa fue interesante. Doce millas naúticas al sur habia viento fresco
@@ -167,6 +187,10 @@ afloja y viene de nuevo desde el sur, moderato. De cenida a babor, cuatro nudos 
   que el viento volverá moderato con el puesto del sol. Siento que el Papagayo
   todavía no había finito conmigo. Poní la segunda riza por el vela mayor
   ordenamente.
+
+![Buque grande de petroleo por la costa pacífica de Costa Rica](
+  {{ '/assets/images/2022/Papagayo/DSC01821.JPG' | relative_url }}
+)
 
 ## Viernes 18 de Marzo, 2022
 - **0000** Con el atardecer, el viento viene fresco. Bajé el staysail.
@@ -200,6 +224,10 @@ con rizas. Descubrí que, capeado, me voy ciento cincuenta grados afuera el
 viento con velocidad de un nudo hacia un nudo y media. Navegando de ceñida
 me voy por lo minimo cincuenticinco grados afuera el viento. Con la ronza,
 bordeando, avanzo casi nada hacía el viento.
+
+![Volcán de Nicaragua](
+  {{ '/assets/images/2022/Papagayo/DSC01787.JPG' | relative_url }}
+)
 
 Alguien me he diste consejo quedarme cercana con la costa.
 Si lo tenía hacerlo de nuevo, navegaré directamente desde
