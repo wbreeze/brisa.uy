@@ -82,6 +82,10 @@ Juego con el velero, a ver como funciona.
 - **2200** Vela mayor con una riza, staysail, drifter. Viento flojo de traves
 a estribor, cuatro nudos este de sudeste.
 
+![Delfines por la proa](
+  {{ '/assets/images/2022/Papagayo/DSC01727.JPG' | relative_url }}
+)
+
 ## Domingo 13 de Marzo, 2022
 No tengo prisa irme al sudeste. Quiza me voy un poco mas esta tarde si el
 viento está a favor. Hagaré un pan. Capeado con la vela de fortuna, el velero
