@@ -10,10 +10,11 @@ image_note: "![image description]({{ '/assets/images/image.jpeg' | relative_url 
 
 Afuera la costa Pacifica de Nicaragua no es tan pacifica.
 Desde el puerto de Corinto al norte hasta la peninsula de Nicoya, en Costa
-Rica, al sur hay la zona vientosa conocido como "El Papagayo".
+Rica, al sur hay la zona vientosa conocido como
+"[El Papagayo](https://en.wikipedia.org/wiki/Papagayo_Jet)".
 
-![El Salvadór a Panamá](
-  {{ '/assets/images/2022/Papagayo/CartaElSalvadorPanama.png' | relative_url }}
+![Viento Papagayo cortesia Windy.com](
+  {{ '/assets/images/2022/Papagayo/VientoPapagayoAnotado.jpg' | relative_url }}
 )
 
 Me detengué allí una semana luchando con brisas frescas y de contra.
@@ -26,6 +27,10 @@ vez desprecio. Algunos de los errores he hecho, los saben. Otros una persona
 solo pueda suponer. ¿Lo demás? Conjectura. Lo dejo para ti. Aquí está mi
 historia. Jurame, o simplemente disfurtarlo. Estaba allí. Te traigo un poco
 conmigo.
+
+![El Salvadór a Panamá](
+  {{ '/assets/images/2022/Papagayo/CartaElSalvadorPanama.png' | relative_url }}
+)
 
 Las horas son UTC, seis horas adelante de la horario locál. De noche es desde
 0100 UTC hasta 1100 UTC, más o menos. Por eso, las entradas empiezan con el
@@ -50,7 +55,7 @@ prefiero menos vela. Cuando me encuentro con demasiado vela es muy dificil
 manejarlo solo. Siempre me voy con menos vela de noche.
 
 ![La carta con mi ruta](
-  {{ '/assets/images/2022/Papagayo/IMG_0151.png' | relative_url }}
+  {{ '/assets/images/2022/Papagayo/RutaActuálUnoAnotado.png' | relative_url }}
 )
 
 ## Sábado 12 de Marzo, 2022
@@ -63,12 +68,12 @@ Juego con el velero, a ver como funciona.
   de sudeste.
 - **0410** Tradujé el drifter para irme hacia la costa. Viento flojito aleta a
   babor, tres nudos este. Cambié el drifter por el staysail, dos nudos este.
-- *Nota* Descansando
+- *Nota:* Descansando
 - **0600** Viento flojito por la aleta a babor, staysail, uno y media nudos este.
 - **0845** Capeado con staysail, viento flojito del sudeste, a frente.
 - **0945** Desplega el trysail en lugar del staysail, capeado a estribor,
   viento creciendo desde el sudeste.
-- *Nota* Descansando
+- *Nota:* Descansando
 - **1500** Todavia capeado, viento bonancible del sudeste.
 - **1715** Navegando tan ceñida que pueda, viento flojito a estribor, tres nudos.
 - **1815** Más o menos con calma.
@@ -85,7 +90,7 @@ la bañera. ¿La piscina? Está seguro nadar al lado sotaviento.
   nudos al este de sudeste.
 - **0145** Calma. A la deriva. Levanté el trysail para capear cuando viene el
   viento.
-- *Nota* Descansando
+- *Nota:* Descansando
 - **1400** Capeado con el trysail, viento flojo después que un periodo
   bonancible a fresca por la noche.
 - **1800** Viento bonancible desde el sur, todavía capeado.
@@ -106,6 +111,10 @@ Capeado, voy un poco más que un nudo con viento fresquito y treinta grados
 a un lado o otro de un rumbo directamente sotaviento. Acá, capeado a babor
 con viento fresquito del este, me voy al oeste de sudoeste.
 
+![Brisa navegando viento flojo](
+  {{ '/assets/images/2022/Papagayo/DSC01789.JPG' | relative_url }}
+)
+
 ## Lunes 14 de Marzo, 2022
 ¿Que hago? Estancamiento basicamente. El viento no me permite quedarme siguiendo
 a la costa. Precisaría cruzar la zona del Papagayo directamente. No pienso que
@@ -121,7 +130,7 @@ Escoro diez grados, cual no es mucho pero no es incomodo.
 Lo logré anteanoche pero fue soplado afuera la costa de nuevo anoche.
 
 - **0200** Capeado a babor con viento fresquito desde el sudeste
-- *Nota* Descansando
+- *Nota:* Descansando
 - **0630** Viento fresquito desde el este. Capeado, me muevo al oeste al sudoeste
   con más o menos un nudo.
 - **1000** Viento disminuyendo. Capeado a babor.
@@ -153,29 +162,29 @@ Lo logré anteanoche pero fue soplado afuera la costa de nuevo anoche.
   obenques. Por suerte la vela mayor ya tenía dos rizos. Lo reemplezé con
   el trysail. Ahora todo esta seguro. Capeado de babor, moviendo con un nudo
   al noroeste, hacia afuera de la costa.
-- *Nota* Descansando
+- *Nota:* Descansando
 - **1500** "Deja vu" de nuevo. Ceñida a estribor con viento bonancible, cinco
   nudos hacia el noroeste, yankee y vela mayor con dos rizos.
-- *Nota* Para quedarme cercana con la costa necesitaré navegar más lejos por
+- *Nota:* Para quedarme cercana con la costa necesitaré navegar más lejos por
   la noche, a ceñida al sur con el viento fresquito del este.
 - **1620** Viento del este baja a flojo. Levanté el staysail. Remové un rizo.
   Tres nudos al norte.
 - **1945** Calma. Baja toda vela. Viendo con motor al este del sudeste para
   llegar a la costa en cuatro horas.
-- *Nota* Los delfines me visitan allí. A veces visitan y a veces dejan algún
+- *Nota:* Los delfines me visitan allí. A veces visitan y a veces dejan algún
   consejo. Es Moitessier quien me enseño eso, sobre los delfines, en su libro,
   _La via larga_. Esta vez me dicen, "¡Encende el motar y vaya! No tardas acá".
 - **2200** Yendo con motor a frente viento bonancible, la proa hace mucho
   de espuma cuando choca con las olas. Cinco nudos por promedio, diez millas
   naúticas desde la costa.
-- *Nota* Un pajaro se llevó conmigo. Era un pajaro de bosque. Pensé que había
+- *Nota:* Un pajaro se llevó conmigo. Era un pajaro de bosque. Pensé que había
   soplado afuera la costa como yo. Fue cansado porque, por lo mayor, durmió. Le
   dí un poco del agua y pan. Aceptó. Más tarde, cercana con la costa,
   limpió sus plumas y se va.
 - **2350** El motor perdí poder y despues lo apagué. Decidido que hago con
   la luz del día diminuendo. Tengo viento para navegar. Tengo la luna casi
   llena. Navegaré hacia el sur, de vela con rizas.
-- *Nota* Cuando el motor perdí poder, con un poco de pánico, intenté aclarar
+- *Nota:* Cuando el motor perdí poder, con un poco de pánico, intenté aclarar
   los filtros. En cambio, introduje aire adentro las mangueras de combustible.
 
 ![Un pajaro pasenjero](
@@ -186,20 +195,20 @@ Lo logré anteanoche pero fue soplado afuera la costa de nuevo anoche.
 - **0200** Así es. Ceñida a babor con dos risas y el yankee. Escorado diez
   a quince grados. Yendo con el timón de viento. Choco con una ola a veces.
   El viento silba por la jarcia. Cuatro nudos al sur.
-- *Nota* Descansando
+- *Nota:* Descansando
 - **0600** Podría virar a estribor, ceñida con viento fresquito. Cuatro nudos al
   norte.
-- *Nota* Descansando
+- *Nota:* Descansando
 - **1000** Brisa he dió la vuelta. El viento afloja un poco me parece y bornea
   un poco hacia el sur.
 - **1130** Viré hacia el sur. Viento flojo, ceñida a babor, dos nudos al sur.
 - **1310** Añadé el staysail con viento flojo, cuatro y media nudos al sur.
 - **1400** Viré a estribor. Removí una riza. Viento bajando.
-- *Nota* Mirando la clima, hizo caso continuar bordeando cerca con la costa,
+- *Nota:* Mirando la clima, hizo caso continuar bordeando cerca con la costa,
   con suerte hacia el sudeste. El mediodia de jueves y viernes tienen
   pronostico viento bonancible.
 - **1445** Con calma. Bajé toda la vela.
-- *Nota* La caracteristica más notable de la costa es el Volcán Momotombo, al
+- *Nota:* La caracteristica más notable de la costa es el Volcán Momotombo, al
   lado noroeste del Lago Xolotlán, al noroeste de la ciudad de Managua. Tiene
   tamaño de un cono, altura de casi 1300 metros y nada alrededor. A pesar de
   estar muy lejos, está destacado.
@@ -215,23 +224,23 @@ Lo logré anteanoche pero fue soplado afuera la costa de nuevo anoche.
 - **2115** Me he mejorado el motor. El viento baja. Ahora con calma.
   Me voy con motor por la costa, con cinco nudos. El agua está verde, casi
   marrón. No voy a nadar. Hay olas de un metro desde el sudeste.
-- *Nota* Frecuentamente me baño por el mar cuando estoy a la deriva con calma y
+- *Nota:* Frecuentamente me baño por el mar cuando estoy a la deriva con calma y
   vela ninguna.
-- *Nota* Solo necesitaba purgar el aire desde los injectores y el motor
+- *Nota:* Solo necesitaba purgar el aire desde los injectores y el motor
   funciona de nuevo. Precisa combustible. No quema el aire.
 - **2215** El viento vuelve flojo.
 - **2230** Como previamente. Viento bonancible a ceñida de babor. Yanki y
   la vela mayor con dos rizas. Cuatro nudos hacia el sur. Habería virando.
 
   Otro día terminando con un noche largo delante. Necesito bordear para
-  quedarme cerca con la costa. Es tan ventoso que he navegado. No, más.
+  quedarme cerca con la costa. Es tan ventoso que he navegado. No. Es más.
   Justo ahora me ví por el espejo en el baño.  Me dió sorpresa como
-  aterizado me parece. Estoy asustado en serio.
+  aterizado me parece. Estaba asustado en serio.
   Necesitaba parar allí por un minuto. Tuve palabras con
   el hombre espantado en el espejo. Con palabras de ánimo, se siente mejor.
   Podría seguir navegando seguro, aunque un poco cansado.
 
-  Hoy fuí este largo. Mejoré el motor. Estoy con un buen plan. La luna
+  Hoy me fuí este distancia. Mejoré el motor. Estoy con un buen plan. La luna
   está llena. Mirando por el már, no es tan malo. Preciso hacer algo normál
   para distraerme. Hacer pan. Me encuentro dificil concentrar. Rodeo los
   escenarios por me cabeza, la situación, de nuevo y de nuevo. Necesito verlo
@@ -247,19 +256,37 @@ Lo logré anteanoche pero fue soplado afuera la costa de nuevo anoche.
 
 ## Jueves 17 de Marzo, 2022
 - **0610** Virando afuera de la costa norte con viento fresca
-- *Nota* Esa fue interesante. Ocho millas naúticas al sur habia viento fresquito
+- *Nota:* Esa fue interesante. Ocho millas naúticas al sur habia viento fresquito
   con olas de un metro y medio. Ocho millas al norte, viento flojo y olas
   casi ningunas. Allí estaban muchos pescadores.
 - **0730** Encendí al motor y casi chocé con una panga de pesca, navegando
   con la tableta a vez que mirando el compas y la alrededor. Tres nudos al
   sudeste.
 - **0930** Apagé el motor y me se pone a la deriva para descansar.
-- *Nota* Descansando
+- *Nota:* Descansando
 - **1415** Yendo ceñida a babor con viento flojo. Yanki, staysail, vela mayor
   con dos rizas. Cuatro y media nudos al sur de sudeste.
+
+Voy a cruzar la zona del viento máximo del Papagayo hoy.
+Hoy, el Papagayo entrega buen viento para navegar, olas de un metro, nada
+tanto severo que fue anoche. Los delfines han visitado y aprueban.
+Vi a un manta saltando, una grande. Me di cuenta del día que salía el Puerto
+don Juan. Hay charranes. El mar es más verde que azúl pero no como el mar
+casi marrón que he visto ayer.
+
+Este rumbo es lo mas cerca que pueda con el viento del este. Todavía me traiga
+afuera la costa, más lejos afuera el Cabo de Santa Elena y Cabo Vela que
+quería. Lucho para estar más al este en otra zona. Siento que el viento del
+Papagayo debe bordear un poca hacia el noreste cuando llego a su borde del
+sur. Vamos a ver. La aventura siga.
+
 - **1800** Ceñida a babor con viento bonancible. Cuatro y media nudos al sur.
 - **1920** Ceñida a babor con vineto flojo, bordeando al norte como esperado.
   Remové una riza. Tres nudos al sudeste.
+
+Un rorcual se va a estribor yendo a la rumba opuesta. Se pone una respira
+con géiser enorme.
+
 - **2200** Ceñida con viento flojito, Uno y media nudos al sudeste. Previsto
   que el viento volverá bonancible con el puesto del sol. Siento que el Papagayo
   todavía no había finito conmigo. Poní la segunda riza por el vela mayor
@@ -275,12 +302,12 @@ Lo logré anteanoche pero fue soplado afuera la costa de nuevo anoche.
   A frente con Cabo Santa Elena. La luna llena. Cuatro y media nudos al sur
   de sudeste.
 - **0200** De través a babor, revolcandose. Cuatro nudos al sur.
-- *Nota* Descansando
+- *Nota:* Descansando
 - **0600** Viento flojito de travás a babor.
-- *Nota* Descansando
+- *Nota:* Descansando
 - **0930** El viento bordea al norte. Necesitaba bajar la vela mayor.
   Viento flojito por aleta al babor. Un nudo al sur.
-- *Nota* Descansando
+- *Nota:* Descansando
 - **1400** Con el staysail, cambié al drifter. Viento flojo por aleta al babor.
   Una y media nudos al sur.
 - **1510** Con el drifter, tradujé a poner viento flojo de aleta a estribor.
