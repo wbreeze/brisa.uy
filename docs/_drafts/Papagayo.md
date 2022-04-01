@@ -38,7 +38,9 @@ atardecer del día previa, de la noche. Estamos en Marzo, cercanas con el
 equinoccio. Además, estoy cerca con el ecuador. El largo del día es más que
 la noche solo por cuenta de los crepusculos.
 
-Utilizo la Escala de Beaufort para describir la velocidad del viento:
+Utilizo la
+[Escala de Beaufort](https://es.wikipedia.org/wiki/Escala_de_Beaufort)
+para describir la velocidad del viento:
 - (2) **flojito**: cuatro a seis (4 - 6) nudos, crestas que no rompean
 - (3) **flojo**: siete a diez (7 - 10) nudos, pequeñas olas con crestas
   rompientes
@@ -208,7 +210,8 @@ Lo logré anteanoche pero fue soplado afuera la costa de nuevo anoche.
   con suerte hacia el sudeste. El mediodia de jueves y viernes tienen
   pronostico viento bonancible.
 - **1445** Con calma. Bajé toda la vela.
-- *Nota:* La caracteristica más notable de la costa es el Volcán Momotombo, al
+- *Nota:* La caracteristica más notable de la costa es el
+  [Volcán Momotombo](https://es.wikipedia.org/wiki/Momotombo), al
   lado noroeste del Lago Xolotlán, al noroeste de la ciudad de Managua. Tiene
   tamaño de un cono, altura de casi 1300 metros y nada alrededor. A pesar de
   estar muy lejos, está destacado.
@@ -224,8 +227,6 @@ Lo logré anteanoche pero fue soplado afuera la costa de nuevo anoche.
 - **2115** Me he mejorado el motor. El viento baja. Ahora con calma.
   Me voy con motor por la costa, con cinco nudos. El agua está verde, casi
   marrón. No voy a nadar. Hay olas de un metro desde el sudeste.
-- *Nota:* Frecuentamente me baño por el mar cuando estoy a la deriva con calma y
-  vela ninguna.
 - *Nota:* Solo necesitaba purgar el aire desde los injectores y el motor
   funciona de nuevo. Precisa combustible. No quema el aire.
 - **2215** El viento vuelve flojo.
@@ -271,8 +272,8 @@ Voy a cruzar la zona del viento máximo del Papagayo hoy.
 Hoy, el Papagayo entrega buen viento para navegar, olas de un metro, nada
 tanto severo que fue anoche. Los delfines han visitado y aprueban.
 Vi a un manta saltando, una grande. Me di cuenta del día que salía el Puerto
-don Juan. Hay charranes. El mar es más verde que azúl pero no como el mar
-casi marrón que he visto ayer.
+don Juan. Hay [charranes](https://es.wikipedia.org/wiki/Sternula_albifrons).
+El mar es más verde que azúl pero no como el mar casi marrón que he visto ayer.
 
 Este rumbo es lo mas cerca que pueda con el viento del este. Todavía me traiga
 afuera la costa, más lejos afuera el Cabo de Santa Elena y Cabo Vela que
@@ -284,7 +285,8 @@ sur. Vamos a ver. La aventura siga.
 - **1920** Ceñida a babor con vineto flojo, bordeando al norte como esperado.
   Remové una riza. Tres nudos al sudeste.
 
-Un rorcual se va a estribor yendo a la rumba opuesta. Se pone una respira
+Un [rorcual](https://es.wikipedia.org/wiki/Balaenoptera_physalus)
+se va a estribor yendo a la rumba opuesta. Se pone una respira
 con géiser enorme.
 
 - **2200** Ceñida con viento flojito, Uno y media nudos al sudeste. Previsto
