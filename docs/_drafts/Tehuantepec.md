@@ -12,8 +12,8 @@ cercana a su frontera con Guatemala. Es una parte estrecho del istmo américa
 central.  Además es una zona baja y plana entre zonas montañosas. Al norte
 del istmo es la parte oeste del Golfo de México.
 
-![Frigates magnificos volando en Puerto Ángel](
-  {{ '/assets/images/2022/Tehuantepec/DSC01656.JPG' | relative_url }}
+![Viento del Golfo de Tuhuantepec cortesía a Windy.com](
+  {{ '/assets/images/2022/Tehuantepec/VientoTehuantepec.png' | relative_url }}
 )
 
 El Golfo es una área peligrosa para los barcos pequeños como
@@ -35,8 +35,8 @@ océano pacífico. Desde entonces el pacífico no sale tan apacible.
 Sale un desastre. En tiempos pasados, cada año había barcos perdidos,
 soplados lejos o hundidos.
 
-![Viento del Golfo de Tuhuantepec cortesía a Windy.com](
-  {{ '/assets/images/2022/Tehuantepec/VientoTehuantepec.png' | relative_url }}
+![Brisa fondeado en Puerto Ángel](
+  {{ '/assets/images/2022/Tehuantepec/DSC01567.JPG' | relative_url }}
 )
 
 En esos tiempos no era método seguro ninguno para prever los vendavales del
@@ -45,8 +45,8 @@ al lado norte del istmo para descifrar el patrón que las índica.
 Ahora tenemos Windy, y las pronósticas estadounidenses de NOAA y el centro de
 huracanes.
 
-![Brisa fondeado en Puerto Ángel](
-  {{ '/assets/images/2022/Tehuantepec/DSC01567.JPG' | relative_url }}
+![Frigates magnificos volando en Puerto Ángel](
+  {{ '/assets/images/2022/Tehuantepec/DSC01656.JPG' | relative_url }}
 )
 
 Me senté en el Puerto Ángel al oeste del golfo disfrutando la zona y
