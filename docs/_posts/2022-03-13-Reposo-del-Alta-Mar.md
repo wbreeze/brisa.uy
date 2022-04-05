@@ -9,7 +9,7 @@ excerpt: A veces, lo mejor es tomar un día de descanso.
 Estoy navegando por la costa de América Central entre El Salvador y Panamá.
 Actualmente he capeado diez millas náuticas fuera de la costa de Nicaragua,
 doce millas al sudeste del puerto de Corinto. Había cuatro días peleando con
-periodos de viento en contra, períodos de viento fuertísimo, periodos de
+periodos de viento en contra, períodos de viento fortísimo, periodos de
 lluvia, periodos de calma, periodos de viento ligero a popa. Había unas horas
 cada día, de la tarde, muy lindo con viento agradable a través.
 
@@ -23,7 +23,7 @@ Adelante, tengo que trepar el área de vientos fuertes conocido como "El
 Papagayo." Es un área parecida al [Tehuantepec](
  {{ '/2022/03/09/Tehuantepec.html' | relative_url }}
 ), pero menos fuerte.
-El viento sopla allí a veces en los veintes con rafagas hasta treinta
+El viento sopla allí a veces en los veintes con ráfagas hasta treinta
 nudos. Está por la costa de Nicaragua con la frontera de Costa Rica,
 a frente con el gran Lago de Nicaragua, un lago de largo ochenta por ciento
 sesenta kilómetros.
