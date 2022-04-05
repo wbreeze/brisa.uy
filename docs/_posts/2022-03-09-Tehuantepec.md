@@ -12,15 +12,15 @@ cercana a su frontera con Guatemala. Es una parte estrecho del istmo américa
 central.  Además es una zona baja y plana entre zonas montañosas. Al norte
 del istmo es la parte oeste del Golfo de México.
 
-![Viento del Golfo de Tuhuantepec cortesía a Windy.com](
+![Viento del Golfo de Tehuantepec cortesía a Windy.com](
   {{ '/assets/images/2022/Tehuantepec/VientoTehuantepec.png' | relative_url }}
 )
 
 El Golfo es una área peligrosa para los barcos pequeños como
 Brisa. La razón es que presenta una
-[eolionimia](https://es.wikipedia.org/wiki/Eolionimia),
+[microclima](https://es.wikipedia.org/wiki/Microclima),
 conocido como
-[el Tehuano](https://es.wikipedia.org/wiki/Tehuano_(Eolionimia))
+[el Tehuantepecano](https://es.wikipedia.org/wiki/Tehuano_(Eolionimia))
 con vendavales frecuentes, y vientos fuertes.
 Lo que pasa es que, cuando hay viento del norte en el Golfo de México, el viento
 está canalizado y acelerado por las montañas a ambos lados de la tierra
@@ -30,7 +30,7 @@ kilómetros por hora). Además, el viento causa que el mar forme pilas de olas
 grandes, hasta cuatro o cinco metros, con periodo corto.
 
 El área afectada es una franja estrecha del Golfo
-de Tehuantepec hasta cientos millas naúticas afuera el golfo hacía el
+de Tehuantepec hasta cientos millas náuticas afuera el golfo hacía el
 océano pacífico. Desde entonces el pacífico no sale tan apacible.
 Sale un desastre. En tiempos pasados, cada año había barcos perdidos,
 soplados lejos o hundidos.
@@ -42,10 +42,10 @@ soplados lejos o hundidos.
 En esos tiempos no era método seguro ninguno para prever los vendavales del
 Golfo de Tehuantepec. Fue necesario mirar lo que pasa en el Golfo de México,
 al lado norte del istmo para descifrar el patrón que las índica.
-Ahora tenemos Windy, y las pronósticas estadounidenses de NOAA y el centro de
+Ahora tenemos Windy, y los pronósticos estadounidenses de NOAA y el centro de
 huracanes.
 
-![Frigates magnificos volando en Puerto Ángel](
+![Fragatas magníficos volando en Puerto Ángel](
   {{ '/assets/images/2022/Tehuantepec/DSC01656.JPG' | relative_url }}
 )
 
@@ -75,5 +75,5 @@ los bidones para que no salga agotado.
 )
 
 Me sentía un poco desanimado porque no experimenté viento ninguna. Pero no mucho.
-Poní el peligroso Golfo de Tehuantepec a mi espalda.
+Puse el peligroso Golfo de Tehuantepec a mi espalda.
 
