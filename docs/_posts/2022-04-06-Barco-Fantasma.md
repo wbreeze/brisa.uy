@@ -9,13 +9,13 @@ excerpt: Noto una luz brilla sobre el horizonte al noreste, a babor. Es un
 
 Estoy quince millas náuticas fuera de la costa de Costa Rica, la península
 de Nicoya. Es poco después de la medianoche. He puesto un poco de vela
-de proa, el yanki, para aprovechar una brisa ligera de popa. Fué lo más que
+de proa, el yanki, para aprovechar una brisa ligera de popa. Fue lo más que
 pude lograr. Estoy tan cansado. Solo me gustaría dormir.
 
 Noto una luz brilla sobre el horizonte al noreste, a babor. Es un barco,
 seguro, visible pero no cercano. Mantengo vigilancia desde la bañera.
 
-![image description](
+![Velero con barco de pesca  ](
   {{ '/assets/images/2022/Fantasma/DSC01708.JPG' | relative_url }}
 )
 
@@ -26,10 +26,10 @@ mente. ¿Qué significa tres luces blancas verticales? Espero que no esté
 remolcando algo.
 
 Lentamente las luces empiezan a moverse hacia la proa. Al principio no estoy
-seguro. Me quedo inmovil, mirándolo estrechamente. Sí, se mueve adelante.
+seguro. Me quedo inmóvil, mirándolo estrechamente. Sí, se mueve adelante.
 Va a pasar por mi proa.
 
-![image description](
+![Velero con nubes oscuros  ](
   {{ '/assets/images/2022/Fantasma/DSC01690.JPG' | relative_url }}
 )
 
@@ -45,10 +45,10 @@ Después de veinte minutos es una luz brillante por el horizonte al sudoeste.
 
 Así es. Con el estreso de navegación, la hora a la media de la noche, la
 noche oscura sin luna, el cielo nublado sin estrellas, mar y cielo negro;
-con la dificultád estimar distancia de la noche, con pocos pizclas; con todo
+con la dificultad estimar distancia de la noche, con pocos pizcas; con todo
 eso fue un evento.
 
-![image description](
+![Velero pasando por el mar abierto  ](
   {{ '/assets/images/2022/Fantasma/DSC01840.JPG' | relative_url }}
 )
 
