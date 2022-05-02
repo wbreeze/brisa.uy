@@ -9,7 +9,7 @@ excerpt: Sin cambio del rumbo ni cambio del viento, la marcación empeora más y
 
 El día diez de abril salí de la Bahía Honda al lado Pacífico de Panamá
 con intención de irme a la Isla Catalina, un viaje de veinte y pico millas
-naúticas.
+náuticas.
 
 ![La ruta de Brisa el diez de abril](
   {{ '/assets/images/2022/Corrientes/LaEmpieza.png' | relative_url }}
@@ -60,13 +60,13 @@ nudos. El mar crece con olas con alturas a veces de dos metros. Fue
 )
 de la costa nicaragüense de nuevo. Solo ahora fue del día,
 por suerte, y algo que ya he experimentado. Fue un buen sentido navegar
-con confianza en esas condiciones. Me dió la oportunidad de practicar poniendo
+con confianza en esas condiciones. Me dio la oportunidad de practicar poniendo
 un segundo rizo en la vela mayor. Lo pone un poco tarde. Fue un desafío que
 superé.
 
 Pensé por lo largo que hacer. Planifiqué una ruta por el sur y al este
 para poder entrar por la costa oriental del golfo, donde la corriente y el
-viento estarían a favor. Había añadido doscientas millas naúticas, días de
+viento estarían a favor. Había añadido doscientas millas náuticas, días de
 navegación.  No me sentía bien dispuesto a empezar esa jornada.  Además no
 sabía cuándo ni dónde podría estar libre de la corriente fuerte.
 
@@ -77,7 +77,7 @@ la costa y mi ruta directa.
 Al fin del día, como ocurrió el día anterior, el viento baja a nada.
 Con el motor, contra la corriente, solo alcancé velocidad de dos nudos y pico
 sobre la tierra. Como la noche anterior, me fue despertando cada media hora.
-Con la madrugada, sin cambio de marcación, ví que el rumbo mejoraba.
+Con la madrugada, sin cambio de marcación, vi que el rumbo mejoraba.
 Puedes ver la región marcada "CB".
 
 ![Punta Mala, Panamá, desde el sur](
@@ -91,7 +91,7 @@ prefiere irse al camino de menor resistencia.
 Sigue con motor todo el día contra la corriente y viento para llegar a Ensenada
 Benao. Allí tenía la fortuna de encontrar amigos con un gran catamarán. Tienen
 más que suficiente de gasoil y podían vender unos sesenta litros a su costo.
-Había gastado más de lo previsto y me dió seguridad tenerlo. ¡Qué suerte!
+Había gastado más de lo previsto y me dio seguridad tenerlo. ¡Qué suerte!
 
 Como pasa, navegué más al sur que va a ver Brisa por un paseo largo del tiempo.
 Quebré los siete grados de latitud al norte a ponerme a los seis. Quizá esa fue
@@ -101,9 +101,9 @@ Adelante, podrás ver el pronóstico de la corriente gracias a
 [Windy.com](https://windy.com/).
 No hube mirado esto antes de mi viaje. En retrospectiva es obvio que he llegado
 a la zona por mal momento. Además, es obvio que la corriente crece fuera de la
-costa y no disminuye desde hace decenas de millas naúticas.
+costa y no disminuye desde hace decenas de millas náuticas.
 
-![Pronóstica de corriente Windy.com doce de abril 1600 horas](
+![Pronóstico de corriente Windy.com doce de abril 1600 horas](
   {{ '/assets/images/2022/Corrientes/Corrientes.png' | relative_url }}
 )
 
