@@ -30,7 +30,7 @@ El título "consejero" es un título políticamente correcto. Es de realidad un
 dirigente. Se llamaba "valiente" por su gimnasia peligrosa para subir y bajar
 entre mi velero y la lancha.
 
-![description](
+![Buques en el Canal de Panamá saliendo las esclusa de Miraflores](
   {{ '/assets/images/2022/Canal/DSC02256.JPG' | relative_url }}
 )
 
@@ -40,7 +40,7 @@ de la autoridad, que acompaña al buque.
 Por la tercera esclusa pacífica, la esclusa Miraflores estábamos atracados
 por el centro, con líneas al muro por ambos lados.
 
-![description](
+![El buque Ocean Prince por la proa de Brisa en la esclusa de Miraflores](
   {{ '/assets/images/2022/Canal/DSC02419.JPG' | relative_url }}
 )
 
@@ -51,7 +51,7 @@ cada uno con tamaño doble el puerto de ciudad vieja, con altura de la estatua
 de Artigas en la Plaza Independencia.  Los puertos por el extremo alto son
 dobles para seguridad.
 
-![description](
+![Una grua del Canal de Panama](
   {{ '/assets/images/2022/Canal/DSC02261.JPG' | relative_url }}
 )
 
@@ -62,7 +62,7 @@ uno al otro. El sonido de las campanas me recuerdan del
 [carrito de Mr. Rogers](
   https://www.misterrogers.org/episodes/a-visit-to-the-trolley-museum/).
 
-![description](
+![Remolcadores eléctricos de las esclusas del Canal de Panamá](
   {{ '/assets/images/2022/Canal/DSC02281.JPG' | relative_url }}
 )
 
@@ -70,7 +70,7 @@ Los buques remolcadores también son preciosos. Todo pasa serio a pesar de
 que podía permitirme sentirme un poco como un niño mirando a las maniobras
 de todo el equipamiento grande alrededor.
 
-![description](
+![Buque remolcador del Canal de Panamá](
   {{ '/assets/images/2022/Canal/DSC02423.JPG' | relative_url }}
 )
 
@@ -87,7 +87,7 @@ de las lluvias, tiene fluye con capacidad trescientos metros cúbicos por
 segundo. Es el volumen de una cisterna cúbica de seis y medio metros de largo
 de cada borde cayendo al canal cada segundo.
 
-![description](
+![Gran buques saliendo de las esclusas Miraflores del Canal de Panama](
   {{ '/assets/images/2022/Canal/DSC02312.JPG' | relative_url }}
 )
 
@@ -102,7 +102,7 @@ microorganismos que enferman a los seres humanos. Nadie podía creer que la
 pica de un mosquitero pudiera matar a un hombre. De los infectados, la mitad
 falleron.
 
-![description](
+![El puente Centenario sobre la proa de Brisa](
   {{ '/assets/images/2022/Canal/DSC02428.JPG' | relative_url }}
 )
 
@@ -110,7 +110,7 @@ Los estadounidenses empiezan a construir el canal de nuevo en 1904. Los
 primeros buques cruzaron por el canal en 1914, de lo cual la edad de las
 esclusas es de más de cien años. Todavía funcionan en buen estado.
 
-![description](
+![Un buque en el Canal de Panama, Alcanza de Cucaracha, y el Puente Centenario](
   {{ '/assets/images/2022/Canal/DSC02329.JPG' | relative_url }}
 )
 
@@ -147,7 +147,7 @@ deslizar por el agua con fricción mínima.  De cualquier modo, el consejero
 insiste que pegamos al lado, con las boyas cercanas al estribor. Es un mantra
 que tienen. Pega las boyas.
 
-![description](
+![Boya verde del canal de Panamá en el lago Gatún](
   {{ '/assets/images/2022/Canal/DSC02433.JPG' | relative_url }}
 )
 
@@ -172,7 +172,7 @@ mal, una imposición muy presuntuosa. Además, fue en contra de lo que
 había previsto y esperado. He pensado en un paisaje relajado con un descanso
 para disfrutar del hermoso lago.
 
-![description](
+![El lago Gatún y la entrada a las esclusas de Gatún por la proa de Brisa](
   {{ '/assets/images/2022/Canal/DSC02430.JPG' | relative_url }}
 )
 
@@ -195,7 +195,7 @@ como "Wetsnail" (caracol mojada).
 
 Solo podía reír. Básicamente, he tenido un amotinamiento.
 
-![description](
+![Esclusas Gatún en el Canal de Panamá](
   {{ '/assets/images/2022/Canal/DSC02371.JPG' | relative_url }}
 )
 
@@ -205,7 +205,7 @@ Además de resolver el problema con la tripulación, esa posición por las
 esclusas salía muy cómoda e interesante. Atracamos en la primera de las tres
 esclusas y zarpamos cuando las puertas de la última abren al Caribe.
 
-![description](
+![Brisa atracado con un buque de mantenimiento en una de las esclusas de Gatún](
   {{ '/assets/images/2022/Canal/DSC02439.JPG' | relative_url }}
 )
 
@@ -215,7 +215,7 @@ enormes. La tripulación del buque se quedó quieta, mirando mi velero con la
 misma curiosidad que tenía por su buque. Mi tripu se reunió sobre la carroza
 charlando entre ellos mismos con felicidad.
 
-![description](
+![Gran boya amarilla sobre la cubierta del buque de mantenimiento](
   {{ '/assets/images/2022/Canal/DSC02445.JPG' | relative_url }}
 )
 
@@ -224,7 +224,7 @@ justo con los muros. Los remolcadores eléctricos de carril a ambos lados
 lo tiran cuidadosamente, lentamente de una esclusa a la otra. Por eso fue un
 descenso sin prisa.
 
-![description](
+![Buque ancho en las esclusas de Gatún, Canal de Panamá](
   {{ '/assets/images/2022/Canal/DSC02446.JPG' | relative_url }}
 )
 
@@ -234,7 +234,7 @@ gimnasio de nuevo con la lancha que nos aproxima.  Atracamos al muelle con el
 puesto del sol, a las seis y media de la tarde. Dió unas cervezas al tripu con
 su pago y ciao. Descansé con tranquilidad en el caribe.
 
-![description](
+![La puerta final de la última esclusa hacia el caribe, con el Puente Atlántico](
   {{ '/assets/images/2022/Canal/DSC02447.JPG' | relative_url }}
 )
 
