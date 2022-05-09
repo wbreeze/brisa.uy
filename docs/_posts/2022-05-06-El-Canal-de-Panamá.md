@@ -2,9 +2,8 @@
 layout: post
 title: El Canal de Panamá
 date: 2022-05-06
-tags: navegación
-excerpt: El tres de mayo cruzé el canal de Panamá.
-link_note: "[text for internal link]({{ '/2021/11/15/Sara-M.html' | relative_url }})"
+tags: navegación Panamá
+excerpt: El tres de mayo crucé el canal de Panamá.
 ---
 
 El tres de mayo crucé el [Canal de Panamá](
@@ -16,7 +15,7 @@ muchachos con cuatro líneas pesadas y ocho de las defensas, bolos grandes
 inflados con aire.
 
 ![Brisa amarrado con el Club del yates Balboa
-  a lado con el punte de los americas](
+  a lado con el punte de los américas](
   {{ '/assets/images/2022/Canal/IMG_8995.jpg' | relative_url }}
 )
 
@@ -45,13 +44,16 @@ por el centro, con líneas al muro por ambos lados.
 )
 
 La escala de los mecanismos y las esclusas es difícil de describir. Las torres
-del barrio Buceo, los del WTC en Montevideo, colocadas juntas por sus lados
+del barrio Buceo, los [del WTC en Montevideo](
+ https://es.wikipedia.org/wiki/World_Trade_Center_Montevideo),
+colocadas juntas por sus lados
 salieron menos grandes que una de las esclusas.  Entre las esclusas hay puertos
-cada uno con tamaño doble el puerto de ciudad vieja, con altura de la estatua
-de Artigas en la Plaza Independencia.  Los puertos por el extremo alto son
-dobles para seguridad.
+cada uno con tamaño doble la puerta de la ciudadela, con altura de la estatua
+de Artigas en la [Plaza Independencia](
+  https://es.wikipedia.org/wiki/Plaza_Independencia_(Montevideo)).
+Los puertos por el extremo alto son dobles para seguridad.
 
-![Una grua del Canal de Panama](
+![Una grúa del Canal de Panamá](
   {{ '/assets/images/2022/Canal/DSC02261.JPG' | relative_url }}
 )
 
@@ -87,20 +89,20 @@ de las lluvias, tiene fluye con capacidad trescientos metros cúbicos por
 segundo. Es el volumen de una cisterna cúbica de seis y medio metros de largo
 de cada borde cayendo al canal cada segundo.
 
-![Gran buques saliendo de las esclusas Miraflores del Canal de Panama](
+![Gran buques saliendo de las esclusas Miraflores del Canal de Panamá](
   {{ '/assets/images/2022/Canal/DSC02312.JPG' | relative_url }}
 )
 
 Los franceses empiezan el trabajo el primer día de febrero en 1881.  Lo colgaron
 el verano de 1885. Al final no fue por los obstáculos destacados que fallaron.
-Fue por la costa de vida de tantas almas por la enfermidad de fiebre amarillo y
+Fue por la costa de vida de tantas almas por la enfermedad de fiebre amarillo y
 la malaria. Además, les han acabado el dinero.
 
 Un médico en Cuba, Carlos Juan Finlay ya ha descrubido la causa del fiebre
 amarillo. Es la pica de un mosquitero de variedad específica infectada con
 microorganismos que enferman a los seres humanos. Nadie podía creer que la
 pica de un mosquitero pudiera matar a un hombre. De los infectados, la mitad
-falleron.
+fallaron.
 
 ![El puente Centenario sobre la proa de Brisa](
   {{ '/assets/images/2022/Canal/DSC02428.JPG' | relative_url }}
@@ -110,7 +112,7 @@ Los estadounidenses empiezan a construir el canal de nuevo en 1904. Los
 primeros buques cruzaron por el canal en 1914, de lo cual la edad de las
 esclusas es de más de cien años. Todavía funcionan en buen estado.
 
-![Un buque en el Canal de Panama, Alcanza de Cucaracha, y el Puente Centenario](
+![Un buque en el Canal de Panamá, Alcanza de Cucaracha, y el Puente Centenario](
   {{ '/assets/images/2022/Canal/DSC02329.JPG' | relative_url }}
 )
 
@@ -131,7 +133,7 @@ navegación. Casi cierra el canal.
 
 Pasando abajo el Puente Centenario y por la Alcanza Cucaracha cruzamos la
 divisoria continental. Pasamos al lado atlántico del istmo de América
-Central, a la costa orientál, al mismo lado del gran continente de los
+Central, a la costa oriental, al mismo lado del gran continente de los
 américas con Uruguay.
 
 Los paisajes entre el corte son hermosos. Además que el gran puente de
@@ -154,7 +156,7 @@ que tienen. Pega las boyas.
 Desde el comienzo tenía una problema con la tripulación. Casi inmediatamente
 se echan por las literas y se pierden en sus celulares. No prestaron atención
 cuando intenté mostrar las ubicaciones del equipo de fortuna, ni la comida,
-ni cómo utilizar el sistema de propane para encender la estufa.
+ni cómo utilizar el sistema de propano para encender la estufa.
 
 Bueno, pero lo peor fue que vienen con su propia agenda. Normalmente el
 viaje tiene un descanso por la tarde y unas horas de la noche en el lago
@@ -231,7 +233,7 @@ descenso sin prisa.
 Con la tripulación celebrando, navegamos hacia la Bahía Limón a la marina
 Shelter Bay (bahía de refugio). Al final del canal, el consejero hizo su
 gimnasio de nuevo con la lancha que nos aproxima.  Atracamos al muelle con el
-puesto del sol, a las seis y media de la tarde. Dió unas cervezas al tripu con
+puesto del sol, a las seis y media de la tarde. Dio unas cervezas al tripu con
 su pago y ciao. Descansé con tranquilidad en el caribe.
 
 ![La puerta final de la última esclusa hacia el caribe, con el Puente Atlántico](
