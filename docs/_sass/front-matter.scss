@@ -15,8 +15,12 @@
 }
 
 .navigation {
-  font-size: smaller;
-  font-variant: small-caps;
+  font-weight: bold;
   max-width: 40em;
+}
+
+li.nav-title ul {
+  list-style: circle;
+  padding-left: 2em;
 }
 
