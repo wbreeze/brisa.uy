@@ -17,7 +17,7 @@ mar como campo.
 )
 
 Brisa está en el astillero, en el área de trabajo.
-Primeramente ví todas las cosas rotas que prestan atención.
+Primeramente vi todas las cosas rotas que prestan atención.
 Subiendo el escalón y pisando la cubierta, sentía un momento de jubilación.
 Lo celebré.
 
