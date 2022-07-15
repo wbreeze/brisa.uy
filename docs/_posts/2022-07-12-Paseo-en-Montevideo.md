@@ -2,7 +2,7 @@
 layout: post
 title: Paseo en Montevideo
 date: 2022-07-12
-tags: uruguay montevideo
+tags: Uruguay Montevideo
 ---
 
 Pasé un buen estadio en Montevideo. Hace más de un año que estuve allí. De lo
@@ -23,11 +23,11 @@ dar memoria a este periodo oscuro de la historia del país, para recordarlo y
 para no repetirlo.
 
 Al empiezo de mi estadía participé en el cumpleaños de un gran amigo. El es
-guitarrista extraordinario. Era un amigo màs añoso de él quien también toca la
+guitarrista extraordinario. Era un amigo más añoso de él quien también toca la
 guitarra. Ellos tocan y nosotros cantamos por casi toda la noche hasta las
 horas pequeñas.
 
-![Rio de la Plata](
+![Río de la Plata](
   {{ '/assets/images/2022/Montevideo/IMG_9132.png' | relative_url }}
 )
 
@@ -41,7 +41,7 @@ Navegué unos domingos de la mañana en club nautilus. Probé algunos cursos en 
 gimnasio y disfruté tomar almuerzos y cortados en el restaurante con vista del
 astillero y el río de la plata. Vi a cuatro obras de teatro. Miré a unas obras
 de cinema en Life Alfabeta, en el Auditorio Nelly Goitiño y en Cinemateca.
-Atendí a un concierto en Sala Zitarrosa y uno en Teatro Solís. Ví al
+Atendí a un concierto en Sala Zitarrosa y uno en Teatro Solís. Vi al
 espectacular Gala de Ballet en el Auditorio Nacional Adela Reta de Sodre.
 
 ![Cerro de Piriápolis](
@@ -101,7 +101,7 @@ Tomé una oportunidad visitar con los médicos para revisar mi estado de salud.
 Por suerte todas las noticias son por lo mayor noticias buenas.  El sólo chasco
 que sufrí no fue médico, pero cívico. Visite con un abogado sobre mi deseo
 profundo convertirme en ciudadano. Lamentablemente mi navegación por trece
-meses interrumpe mis estadios en uruguay tantos que no estoy elegible. El rayo
+meses interrumpe mis estadios en Uruguay tantos que no estoy elegible. El rayo
 de la luz es que puedo renovar mi residencia cuántas veces sea necesario hasta
 que mis estadías sean suficientes.
 
