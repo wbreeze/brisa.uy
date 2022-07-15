@@ -61,6 +61,5 @@ los chivitos.
 
 Bueno. Hay mucho trabajo por delante. Necesito lijar el casco muerto y pintarlo.
 Es una obra más o menos grande. Brisa va a tener nuevos colores. Abandonaré
-el blanco, tan común. Lo pintaré con color de luz azul, celeste con tono de
-gris claro. Quizá es difícil describir. Como una ballena.
+el blanco, tan común. Lo pintaré con color de luz azul, celeste.
 
