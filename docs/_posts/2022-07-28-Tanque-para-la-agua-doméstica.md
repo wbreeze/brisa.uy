@@ -2,10 +2,10 @@
 layout: post
 title: Tanque para la agua doméstica
 date: 2022-07-28
-tags: mantenamiento mejoras Panamá
+tags: mantenimiento mejoras Panamá
 excerpt: Todas las mangueras y las conexiones de la agua doméstica fueron
-  abajo la línea de la agua. Un tanque con capicidad tres litros se mudó
-  la mayoría de las conexiones de ariba.
+  abajo la línea de la agua. Un tanque con capacidad tres litros se mudó
+  la mayoría de las conexiones de arriba.
 ---
 
 Brisa tiene dos fregadoras-- una para la cocina, otra pequeña para el baño.
@@ -36,7 +36,7 @@ sentina puede aguantar a condición de que haya electricidad.
 
 No, el problema más común es que hay suficiente de presura que las
 conexiones pueden desarrollar fugas lentas, gota por gota que se moja la madera
-dentro del armario. Perdí un día en [el paraiso de Isla Isabela][isabela]
+dentro del armario. Perdí un día en [el paraíso de Isla Isabela][isabela]
 arreglando una fuga lenta en este sistema. De verdad me asusta la fuga.
 La regla de flotación es aire adentro, agua afuera.
 Me gusta la cabina seca.
