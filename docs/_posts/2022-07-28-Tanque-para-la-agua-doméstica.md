@@ -26,9 +26,10 @@ Todo eso está un medio metro abajo el agua, con presura casi cinco kilopascales
 
 La toma, los tubos, y las conexiones tienen un tamaño de media pulgada.
 Si hay una fuga en cualquiera de estos, si hay una quiebra, el flujo del agua
-puede ser treinta litros por minuto, medio litro por segundo.
+puede ser [cuarenta litros por minuto][flow], dos litros cada tres segundos.
 No se va a hundir el velero antes de que cierre la válvula. La bomba de la
-sentina puede aguantar a condición de que haya electricidad.
+sentina puede aguantar a condición de que haya electricidad.  No obstante,
+sería una emergencia.
 
 ![Conexiones del tanque](
   {{ '/assets/images/2022/Tanque/IMG_9330.jpg' | relative_url }}
@@ -68,3 +69,4 @@ tres litros. Construí una caja para el contenedor y lo rellené con poliespuma
 alrededor del tanque para que no se mueve. Lo demás fue plomería.
 
 [isabela]: {{ '/2021/12/31/Isla-Isabela.html' | relative_url }}
+[flow]: https://www.tlv.com/global/ES/calculator/water-flow-rate-through-orifice.html
