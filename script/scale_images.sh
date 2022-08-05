@@ -9,12 +9,14 @@ if [[ -n ${SRC_DIR} && -e ${SRC_DIR} && -d ${SRC_DIR} ]]; then
   if [ -d ${DEST_DIR} ]; then
     while IFS= read -d $'\0' -r SRC_IMAGE ; do
       CURF=${SRC_IMAGE##*/}
-      DEST_IMAGE="${DEST_DIR}/${CURF}"
+      DEST_IMAGE="${DEST_DIR}/${CURF/%[Hh][Ee][Ii][Cc]/jpeg}"
       [ "$SRC_IMAGE" -nt "${DEST_IMAGE}" ] && echo "${DEST_IMAGE}"
       [ "$SRC_IMAGE" -nt "${DEST_IMAGE}" ] && convert \
          "${SRC_IMAGE}" -resize ${size} "${DEST_IMAGE}"
-    done < <(find -L ${SRC_DIR} -maxdepth 1 \( -iname '*.jpg' \
+    done < <(find -L ${SRC_DIR} -maxdepth 1 \( \
+          -iname '*.jpg' \
        -o -iname '*.jpeg' \
+       -o -iname '*.heic' \
        -o -iname '*.gif' \
        -o -iname '*.png' \) \
        -a -type f -print0 | sort -z )
