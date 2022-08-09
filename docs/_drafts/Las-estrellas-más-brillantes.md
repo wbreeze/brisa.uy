@@ -74,13 +74,13 @@ en tu mente.
   - 16-23: 1½
   - 24-31: 2
 - Subtrae horas antes, añade horas después de la medianoche.
-- Si la suma es más que 24 (es raro, en noviembre o diciembre), subtrae 24
+- Si la suma es más que 24 (es raro, al fin del año), subtrae 24
 
 Unos ejemplos:
   - 7 Aug, las ocho de la noche (07/08 20:00) 4½ + (8 * 2 = 16) + ½ - 4 = 17
   - 1 Jan, medianoche (01/01 24:00) 4½ + (1 * 2 = 2) + ½ = 7
   - 30 Jul, las dos de la mañana (30/07 02:00) 4½ + (7 * 2 = 14) + 2 + 2 = 22½
-  - 15 Oct, las nueve de la noche (15/10 21:00) 4½ + (10 * 2 = 20) + 1 - 2 = 23½
+  - 15 Oct, las nueve de la noche (15/10 21:00) 4½ + (10 * 2 = 20) + 1 - 3 = 22½
 
 ![Velero del amanecer, Bahía Chamela, Mexico](
   {{ '/assets/images/2022/Estrellas/DSC01401.JPG' | relative_url }}
@@ -121,8 +121,8 @@ marcado por la estrella Becrux.
 Las estrellas Rigel Centaurus y Hadar siguen la cruz como un par de corderos
 alrededor el polo del sur.
 
-He hecho un collage que se muestra el polo del sur y los dos estrellas que
-lo siguen, come están orientados el veintiuno de Marzo, Junio, Setiembre y
+He hecho un collage que se muestra la cruz del sur y los dos estrellas que
+lo siguen, como están orientados el veintiuno de Marzo, Junio, Setiembre y
 Diciembre.
 
 ![La cruz del sur en Marzo, Junio, Setiembre y Diciembre](
@@ -132,7 +132,7 @@ Diciembre.
 La cruz del sur no es muy grande. Hay una segunda cruz, la cruz falsa, en
 la parte del cielo con los constelaciones de Argo Navis. La cruz falsa es
 mucho más grande. Solo tiene una estrella brillante, Canopus, como su pie.
-Tiene una estrella extra al punto de la cruz. Podes mirar el distinto en
+Tiene una estrella extra al punto de la cruz. Podes revisar el distinto en
 las fotografías que siguen.
 
 Para identificar la cruz del sur, busca las tres estrellas brillantes y los
@@ -147,7 +147,7 @@ Las fotografías son capturas de pantalla desde la aplicación [SkySafari][sf].
 La estrella Rigel Centaurus tiene identificación astronómica, [Alfa Centauri
 A][alfa].  Es la tercera estrella más brillante del cielo, después de Sirius y
 Canopus. La luz que ves de la estralla fue emitado solo hace cuatro años y tres
-meses. Así es la estrella más cercana a nosotros. Es también conocido como,
+meses. Así es la estrella más cercana con nosotros. Es también conocido como,
 "Toliman".
 
 En el hemisferio sur tenemos la fortuna a ver Canopus. Esta estrella en la
