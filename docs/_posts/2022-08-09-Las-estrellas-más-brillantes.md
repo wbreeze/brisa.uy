@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Las estrellas más brillantes
-date: 2022-08-07
+date: 2022-08-09
 tags: astronomía navegación
 excerpt: Identificamos y ubicamos las veintiuno estrellas más brillantes.
 link_note: "[text for internal link]({{ '/2021/11/15/Sara-M.html' | relative_url }})"
@@ -36,7 +36,7 @@ cielo nocturno.
 
 ## La carta
 
-En la foto vé una carta de las estrellas más brillantes. He dejado como un
+En la foto vio una carta de las estrellas más brillantes. He dejado como un
 archivo grande para que puedas descargarlo e imprimirlo.
 
 Los bordes de ambos lados de la carta están marcados con grados de
@@ -67,7 +67,7 @@ El cálculo tiene unos pasos simples de adición y multiplicación. Podes hacerl
 en tu mente.
 
 - Empieza con cuatro y media (4½)
-- Por cada mez de la fecha, añada dos (+ mes * 2)
+- Por cada mes de la fecha, añada dos (+ mes * 2)
 - El número de la semana es uno, más cuántas veces puedes sustraer ocho del día
   del mes.  Añade el número de la semana dividido por dos.  Es así, Día:
   - 1-7: ½
