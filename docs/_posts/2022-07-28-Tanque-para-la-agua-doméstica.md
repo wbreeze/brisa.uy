@@ -70,13 +70,13 @@ alrededor del tanque para que no se mueve. Lo demás fue plomería.
 
 ## Cambio el doce de agosto
 
-Al final decidí mejorar este sistema con algo más simple. Decidí que el
-tanque no era necesario. En cambio, atraque el colador al lado del armario,
+Al final decidí mejorar este sistema con algo más simple. Decidí que el tanque
+no era necesario. Lo remové. En cambio, atraque el colador al lado del armario,
 arriba de la línea del agua. Corre la manguera de la toma directamente al
 colador (vía un codo). La manguera termina arriba de la línea del agua.
 
 ![Diagrama nueva del sistema agua del mar doméstico](
-  {{ '/assets/images/2022/Tanque/Tanque.jpg' | relative_url }}
+  {{ '/assets/images/2022/Tanque/AguaDoméstica.jpg' | relative_url }}
 )
 
 Organizaré una válvula unidireccional con conexión al respiradero exterior.
@@ -86,12 +86,12 @@ como sifón. Resulta que aire entra con el uso habitual del pulmón, pero vale
 esta perdida la seguridad que el velero no se puede hundir por causa de agua
 entrando por acción de sifón.
 
+También, cuando Brisa está en el agua y no estoy allí para atenderlo,
+cerraré la toma.
+
 ![Instalación del sistema agua del mar doméstico](
   {{ '/assets/images/2022/Tanque/IMG_9300.jpg' | relative_url }}
 )
-
-También, cuando Brisa está en el agua y no estoy allí para atenderlo,
-cerraré la toma.
 
 [isabela]: {{ '/2021/12/31/Isla-Isabela.html' | relative_url }}
 [flow]: https://www.tlv.com/global/ES/calculator/water-flow-rate-through-orifice.html
