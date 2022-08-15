@@ -68,5 +68,30 @@ El tanque es nada más que un contenedor Tupperware<sup>®</sup> polipropileno d
 tres litros. Construí una caja para el contenedor y lo rellené con poliespuma
 alrededor del tanque para que no se mueve. Lo demás fue plomería.
 
+## Cambio el doce de agosto
+
+Al final decidí mejorar este sistema con algo más simple. Decidí que el tanque
+no era necesario. Lo remové. En cambio, atraque el colador al lado del armario,
+arriba de la línea del agua. Corre la manguera de la toma directamente al
+colador (vía un codo). La manguera termina arriba de la línea del agua.
+
+![Diagrama nueva del sistema agua del mar doméstico](
+  {{ '/assets/images/2022/Tanque/AguaDoméstica.jpg' | relative_url }}
+)
+
+Organizaré una válvula unidireccional con conexión al respiradero exterior.
+De esta manera, si una de las conexiones al pulmón, o un pulmón desarrolla una
+fuga, el aire entrando por el respiradero previene que el sistema funcione
+como sifón. Resulta que aire entra con el uso habitual del pulmón, pero vale
+esta perdida la seguridad que el velero no se puede hundir por causa de agua
+entrando por acción de sifón.
+
+También, cuando Brisa está en el agua y no estoy allí para atenderlo,
+cerraré la toma.
+
+![Instalación del sistema agua del mar doméstico](
+  {{ '/assets/images/2022/Tanque/IMG_9347.jpg' | relative_url }}
+)
+
 [isabela]: {{ '/2021/12/31/Isla-Isabela.html' | relative_url }}
 [flow]: https://www.tlv.com/global/ES/calculator/water-flow-rate-through-orifice.html
