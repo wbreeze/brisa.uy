@@ -2,7 +2,7 @@
 layout: post
 title: Shelter Bay Marina
 date: 2022-08-14
-tags: marina panamá obras
+tags: marina Panamá obras
 excerpt: Un recorrido por la Marina Shelter Bay en Panamá
 ---
 
@@ -28,7 +28,7 @@ Me parece que la selva amenaza recuperar la frontera capturada por los seres
 humanos.  Adentro, hay calles y ruinas de edificios que habían ocupado solo
 hace cuarenta años.
 
-![La frontera entre la selva y el astillero de suguridad, Shelter Bay Marina](
+![La frontera entre la selva y el astillero de seguridad, Shelter Bay Marina](
   {{ '/assets/images/2022/ShelterBay/DSC02455.JPG' | relative_url }}
 )
 
@@ -52,7 +52,7 @@ cortar las vías de contrabando. Mantienen una base cercana.
 
 Hay muchos barcos cubiertos con una lámina de plástico. Hay mucho lluvia
 acá. Es por parte proteger los barcos de estancia larga. También proveen
-un refugio para trabajar sin la molestía de las tormentas. Son galpones
+un refugio para trabajar sin la molestia de las tormentas. Son galpones
 temporales.
 
 ![La piscina y la marina, Shelter Bay Marina](
@@ -81,7 +81,7 @@ El equipo de Shelter Bay cuida bien a la propiedad y ofrecen muchos servicios.
 Por los muelles, hay un equipo amable que ayuda con las zarpas y las
 amarras. En el astillero también hay un equipo que se mudan los veleros y los
 barcos, los cuidan cuando los dueños viajan afuera, y ayudan con las obras. En
-el restaurante sirven cervezas con sonrisas. Proveen un ómnibus grátis dos veces
+el restaurante sirven cervezas con sonrisas. Proveen un ómnibus gratis dos veces
 por día al ciudad de Colón, un viaje de treinta minutos, para hacer compras.
 
 ![Es el muelle trabajando con las jarcias, Shelter Bay Marina](
