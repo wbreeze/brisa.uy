@@ -2,9 +2,8 @@
 layout: post
 title: Al Varadero
 date: 2022-05-13
-tags:
-excerpt:
-link_note: "[text for internal link]({{ '/2021/11/15/Sara-M.html' | relative_url }})"
+tags: astillero mantenimiento panamá
+excerpt: Varando el velero para un descanso
 ---
 
 Brisa está en la marina Shelter Bay, adentro el malecón, en el lado occidental

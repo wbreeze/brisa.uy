@@ -3,6 +3,8 @@ layout: post
 title: Paseo en Montevideo
 date: 2022-07-12
 tags: Uruguay Montevideo
+excerpt: Pasé un buen estadio en Montevideo. Hace más de un año que estuve
+   allí. De lo cual, podría renovar amistades y hacer nuevas.
 ---
 
 Pasé un buen estadio en Montevideo. Hace más de un año que estuve allí. De lo

@@ -3,7 +3,8 @@ layout: post
 title: Encuentro de Nuevo con Brisa
 date: 2022-07-13
 tags: Astillero Montevideo Uruguay Obres
-excerpt:
+excerpt: Justo terminé el viaje desde Montevideo para reunirse con el velero,
+  Brisa.
 ---
 
 Hoy es miércoles, trece de julio de 2022. Justo terminé el viaje desde
