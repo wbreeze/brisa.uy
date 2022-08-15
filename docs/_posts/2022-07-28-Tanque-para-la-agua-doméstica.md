@@ -90,7 +90,7 @@ También, cuando Brisa está en el agua y no estoy allí para atenderlo,
 cerraré la toma.
 
 ![Instalación del sistema agua del mar doméstico](
-  {{ '/assets/images/2022/Tanque/IMG_9300.jpg' | relative_url }}
+  {{ '/assets/images/2022/Tanque/IMG_9347.jpg' | relative_url }}
 )
 
 [isabela]: {{ '/2021/12/31/Isla-Isabela.html' | relative_url }}
