@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Reemplazando las tomas
-date: 2022-08-08
-tags: mantenimiento mejoras Panamá tómas
-excerpt: Las tomas pueden hundir el velero. Por eso, reemplezé las
+date: 2022-08-18
+tags: mantenimiento mejoras Panamá tomas
+excerpt: Las tomas pueden hundir el velero. Por eso, reemplacé las
   actuales con nuevas más seguros.
 ---
 
@@ -18,7 +18,7 @@ ni navegación. Es una pesadilla.
 Para quitar esa pesadilla, en julio y agosto de 2022, en un astillero en
 Panamá, reemplace todas las tomas con nuevas más seguros.
 
-![El proceso de reemplezar una toma y una descarga](
+![El proceso de reemplazar una toma y una descarga](
   {{ '/assets/images/2022/Tomas/proceso.jpg' | relative_url }}
 )
 
@@ -36,7 +36,7 @@ de plástico (nylon reforzado, [Marelon<sup>®</sup>][marelon]) y metal
 cual el metal expanda o contrata. Esto significa que el contacto entre las
 roscas está siempre sobre movimiento. Es poco movimiento, pero es movimiento.
 
-![Conexión rota entre valvula de bronce y toma de nylon](
+![Conexión rota entre válvula de bronce y toma de nylon](
   {{ '/assets/images/2022/Tomas/IMG_9293.jpeg' | relative_url }}
 )
 
@@ -110,7 +110,7 @@ Las nuevas pueden servir por cuarenta años más de vida del velero.  Más
 importante, me hacen más tranquilo navegando, sin sentirme preocupada
 a veces con los agujeros en el casco.
 
-![Plombería removado desde Brisa](
+![Plomería removida desde Brisa](
   {{ '/assets/images/2022/Tomas/IMG_9297.jpeg' | relative_url }}
 )
 
