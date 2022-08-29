@@ -33,7 +33,7 @@ Sentía como un arqueólogo.
   {{ '/assets/images/2022/Casco/IMG_9372.jpeg' | relative_url }}
 )
 
-Podría ver un porción pequeño de su primér nombre, Elxx. Parece tener cómo
+Podría ver un porción pequeño de su tercer nombre, Elena. Parece tener cómo
 puerto, en estes tiempos, Channel Islands, CA. Este lugar está cercana con
 su lugar de fabrica, Costa Mesa, un parte del norte de la ciudád de Los Angeles
 en el estado de California, sobre la costa occidentál de Los Estados Unidos.
@@ -42,17 +42,18 @@ Sobre esto, podría ver un porción de su segundo nombre, "Smiling Dutchman" con
 puerto en Hollywood Beach, CA. Este también es un parte de Los Angeles.  El
 nombre es un juego con el nombre, "Flying Dutchman" ([El holandés
 errante][errante]), un barco fantasma de la [ópera de Wagner][wagner].  Además
-es el baco capitaneado por [Davy Jones][jones] en la películas [Pirates of the
+es el barco capitaneado por [Davy Jones][jones] en la películas [Pirates of the
 Caribbean][pirates].
 
 ### Nombres
 
 Acá hay algunos nombres que he llevado Brisa:
-- Epee. Channel Islands, CA. Builder [Dugan Essick][essick]
+- [Epee][epee]. Irvine, CA. Builder [Dugan Essick][essick]
 - SmilingDutchman. Hollywood Beach, CA
-- [Miskatonic][mu]. Arkham, MA
+- Elena. Channel Islands, CA. 1997
+- [Miskatonic][mu]. Arkham, MA. [Lugar ficticio de H.P. Lovecraft][hpl]
 - Thinkabout. San Diego, CA
-- [Brisa][brisa]. Key West, FL (Brisa jamás he estado en Florida)
+- [Brisa][brisa]. Key West, FL. 2020 (Brisa jamás he estado en Florida)
 
 [errante]: https://es.wikipedia.org/wiki/El_holand%C3%A9s_errante_(leyenda)#En_la_cultura
 [wagner]: https://es.wikipedia.org/wiki/El_holand%C3%A9s_errante_(%C3%B3pera)
@@ -61,4 +62,5 @@ Acá hay algunos nombres que he llevado Brisa:
 [essick]: https://www.essickwoodworks.com/
 [mu]: http://www.miskatonic-university.org/
 [brisa]: https://brisa.uy/
-
+[hpl]: https://es.wikipedia.org/wiki/H._P._Lovecraft
+[epee]: https://es.wikipedia.org/wiki/Espada_(esgrima)
