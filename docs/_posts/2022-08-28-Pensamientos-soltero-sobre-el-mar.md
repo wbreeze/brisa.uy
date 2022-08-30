@@ -44,10 +44,11 @@ comprensión. Que todo eso existe y funciona como funciona es un milagro y a la
 vez, completamente normal, como debe ser-- como tiene que ser porque si no, no
 sería.
 
-Nosotros miramos, testigos. Exploramos, estudiamos, utilizamos. En nuestros
-momentos más benditos, agradecemos.
+[Nosotros miramos, testigos.][xkcd] Exploramos, estudiamos, utilizamos. En
+nuestros momentos más benditos, agradecemos.
 
 ![Atardecer, Océano Pacífico, Costa Rica](
   {{ '/assets/images/2022/Soltero/DSC01858.jpeg' | relative_url }}
 )
 
+[xkcd]: https://xkcd.com/1556/
