@@ -8,8 +8,8 @@ excerpt: Todas las mangueras y las conexiones de la agua doméstica fueron
   la mayoría de las conexiones de arriba.
 ---
 
-Brisa tiene dos fregadoras-- una para la cocina, otra pequeña para el baño.
-Ambas de las fregadoras tienen una bomba de pie que entrega agua desde
+Brisa tiene dos fregaderos-- una para la cocina, otra pequeña para el baño.
+Ambas de los fregaderos tienen una bomba de pie que entrega agua desde
 el exterior del velero, por el casco, a una grifa. Es muy cómodo bombear
 con el pie, con dos manos libres para lavar los platos o las manos.
 Además, no requiere electricidad.
