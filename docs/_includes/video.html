@@ -1,5 +1,13 @@
 <video
-  controls
-  src="{{ include.source | relative_url }}">
- Disculpamos que no ponemos reproducir el video {{ include.source }}.
+   controls
+   muted=true
+   preload="metadata"
+   src="{{ include.source | relative_url }}"
+   {% if include.still %}
+     poster="{{ include.still | relative_url }}"
+   {% endif %}
+>
+ Disculpamos que su navegador no se puede reproducir el video.
+ Quizá pueda descargarlo y reproducirlo por su mismo:
+ <a href="{{ include.source }}">{{ include.source }}</a>.
 </video>
