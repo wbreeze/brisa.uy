@@ -124,5 +124,7 @@ varar. Atracan en la playa a toda velocidad, al tiempo que una ola alcanza a la
 playa. Levantan el motor con el último segundo y se deslizan hacia arriba de la
 playa, libre de la línea de la marea alta. Dice Emiliano, “es adrenalina pura”.
 
-{% include video.html source='/assets/video/2022/Atracando.m4v' %}
+{% include video.html
+  source='https://medios.brisa.uy/video/2022/AtracandoPuertoAngel.mp4'
+%}
 
