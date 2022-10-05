@@ -19,8 +19,25 @@ he empezado pelarse. Cumplí el proceso. Había áreas donde se pela facilmente
 y otros dificíles.
 
 ![image description](
-  {{ '/assets/images/2022/Casco/IMG_9177.png' | relative_url }}
+  {{ '/assets/images/2022/Casco/peel.jpg' | relative_url }}
 )
+
+Despues había mucho de lijo con la lijaradora orbital. Use discos de lijo
+con grano ochenta, removí pintura del fondo sobre la linea del agua.
+Con discos de lijo de grano ciento y cincuenta, lije el área del casco muerto
+entero.
+
+El casco fue liso después de la lija con grano ciento y cincuenta, y no fue
+listo. Había pequeños y numerosos poros ásperos cual, con la pintura de capa
+fina y glosado, sean muy visibles. Lijé la superficie una tercera vez de mano,
+con papel de lijo de grano dos cientos viente.
+
+Conté a todos que pintar no es pintar, es lijar.
+
+El proceso entero de preparación, removando el gelcoat y lijando, pasa por
+seis semanas.
+
+## La Pintura
 
 ## Arqueología
 
@@ -30,10 +47,11 @@ más que necesario en estas partes para revelar más de las letras.
 Sentía como un arqueólogo.
 
 ![Letra antigua](
-  {{ '/assets/images/2022/Casco/IMG_9372.jpeg' | relative_url }}
+  {{ '/assets/images/2022/Casco/names.jpg' | relative_url }}
 )
 
-Podría ver un porción pequeño de su tercer nombre, Elena. Parece tener cómo
+Podría ver un porción de su tercer nombre, Elena. Encuentre el "E" y
+"l" en letra cursiva. Parece tener cómo
 puerto, en estes tiempos, Channel Islands, CA. Este lugar está cercana con
 su lugar de fabrica, Costa Mesa, un parte del norte de la ciudád de Los Angeles
 en el estado de California, sobre la costa occidentál de Los Estados Unidos.
