@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nombres
+title: Archeología
 date: 2022-10-08
 tags: renovación mejores mantenimiento casco nombres panamá
 excerpt: Lijando el casco hacia la popa por ambos lados descubrí evedencia de
@@ -9,27 +9,27 @@ link_note: "[text for internal link]({{ '/2021/11/15/Sara-M.html' | relative_url
 image_note: "![image description]({{ '/assets/images/image.jpeg' | relative_url }})"
 ---
 
-Lijando el casco hacia la popa por ambos lados descubrí evedencia de etiqueta
-llevado por Brisa durante sus primeros tiempos. Cuando lo descubrí, empieze
-lijar más que necesario en estas partes para revelar más de las letras.  Sentía
-como un arqueólogo.
+Lijando el casco hacia la popa por ambos lados descubrí evidencia de etiqueta
+llevado por Brisa durante sus primeros tiempos. Cuando lo descubrí, empecé a
+lijar más que necesario en estas partes para revelar más de las letras. Me
+sentía como un arqueólogo.
 
 ![Letra antigua](
   {{ '/assets/images/2022/Casco/names.jpg' | relative_url }}
 )
 
-Podría ver un porción de su tercer nombre, Elena. Encuentre el "E" y
-"l" en letra cursiva. Parece tener cómo
-puerto, en estes tiempos, Channel Islands, CA. Este lugar está cercana con
-su lugar de fabrica, Costa Mesa, un parte del norte de la ciudád de Los Angeles
-en el estado de California, sobre la costa occidentál de Los Estados Unidos.
+Podría ver una porción de su tercer nombre, Elena. Encuentre el "E" y "l" en
+letra cursiva. Parece tener cómo puerto, en estos tiempos, Channel Islands, CA.
+Este lugar está cercano a su lugar de fábrica, Costa Mesa, una parte del norte
+de la ciudad de Los Ángeles en el estado de California, sobre la costa
+occidentál de Estados Unidos.
 
 Sobre esto, podría ver un porción de su segundo nombre, "Smiling Dutchman" con
-puerto en Hollywood Beach, CA. Este también es un parte de Los Angeles.  El
+puerto en Hollywood Beach, CA. Este también es una parte de Los Ángeles.  El
 nombre es un juego con el nombre, "Flying Dutchman" ([El holandés
 errante][errante]), un barco fantasma de la [ópera de Wagner][wagner].  Además
-es el barco capitaneado por [Davy Jones][jones] en la películas [Pirates of the
-Caribbean][pirates].
+es el barco capitaneado por [Davy Jones][jones] en las películas [Pirates of
+the Caribbean][pirates].
 
 ### Nombres
 
