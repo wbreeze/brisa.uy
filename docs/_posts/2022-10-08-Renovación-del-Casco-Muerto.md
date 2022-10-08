@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Renovación del Casco Muerto
-date: 2022-08-25
-tags: renovación mejores mantenimiento casco panamá
+date: 2022-10-08
+tags: renovación mejores mantenimiento casco Panamá
 excerpt: En julio, agosto, setiembre, y octubre, en un astillero en Panamá,
   renuevo el casco muerto de Brisa. Es una proyecta larga.
 link_note: "[text for internal link]({{ '/2021/11/15/Sara-M.html' | relative_url }})"
@@ -11,7 +11,7 @@ link_note: "[text for internal link]({{ '/2021/11/15/Sara-M.html' | relative_url
 En julio, agosto, septiembre, y octubre, en un astillero en Panamá, renuevo el
 casco muerto de Brisa. Es un proyecto largo.
 
-![image description](
+![Etapas](
   {{ '/assets/images/2022/Casco/storyboard.jpg' | relative_url }}
 )
 
@@ -19,7 +19,7 @@ Llegando Panamá Brisa era con áreas grandes donde la superficie de gelcoat
 había empezado pelarse. Cumplí el proceso. Había áreas donde se pelaba fácilmente
 y otras difíciles.
 
-![image description](
+![Pelando gelcoat](
   {{ '/assets/images/2022/Casco/peel.jpg' | relative_url }}
 )
 
@@ -50,7 +50,7 @@ dos mil tres ciento y cuatro (2 X 2 X 2 X 3 X 4 X 24).
 
 {% include video.html
   source='https://medios.brisa.uy/video/2022/20220922-BrisaLLuvia.mp4'
-  still="/assets/images/2022/CostaRica/LijandoLijando.png"
+  still="/assets/images/2022/Casco/LijandoLijando.png"
 %}
 
 El proceso entero de preparación, removiendo el gelcoat y lijando, lleva
