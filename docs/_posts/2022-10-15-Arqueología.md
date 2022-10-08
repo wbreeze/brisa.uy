@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Archeología
-date: 2022-10-08
-tags: renovación mejores mantenimiento casco nombres panamá
-excerpt: Lijando el casco hacia la popa por ambos lados descubrí evedencia de
+title: Arqueología
+date: 2022-10-15
+tags: renovación mejores mantenimiento casco nombres Panamá
+excerpt: Lijando el casco hacia la popa por ambos lados descubrí evidencia de
   etiqueta llevado por Brisa durante sus primeros tiempos.
-link_note: "[text for internal link]({{ '/2021/11/15/Sara-M.html' | relative_url }})"
-image_note: "![image description]({{ '/assets/images/image.jpeg' | relative_url }})"
 ---
 
 Lijando el casco hacia la popa por ambos lados descubrí evidencia de etiqueta
@@ -22,7 +20,7 @@ Podría ver una porción de su tercer nombre, Elena. Encuentre el "E" y "l" en
 letra cursiva. Parece tener cómo puerto, en estos tiempos, Channel Islands, CA.
 Este lugar está cercano a su lugar de fábrica, Costa Mesa, una parte del norte
 de la ciudad de Los Ángeles en el estado de California, sobre la costa
-occidentál de Estados Unidos.
+occidental de Estados Unidos.
 
 Sobre esto, podría ver un porción de su segundo nombre, "Smiling Dutchman" con
 puerto en Hollywood Beach, CA. Este también es una parte de Los Ángeles.  El
