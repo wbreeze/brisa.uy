@@ -10,7 +10,7 @@ Brisa está en la marina Shelter Bay, dentro del malecón, en el lado occidental
 de Bahía Limón, cerca de la entrada atlántica del Canal de Panamá.
 Allí me preparé para varar.
 
-![image description](
+![Brisa sin velas](
   {{ '/assets/images/2022/Varadero/IMG_9024.jpeg' | relative_url }}
 )
 
@@ -38,7 +38,7 @@ De la mañana del sábado siete de mayo zarpé la muelle y navegué a poca
 distancia hacia la grúa de veleros. Avancé dentro de las bandas de la grúa y
 apagué el motor. Dejé Brisa en los manos del equipo del astillero.
 
-![image description](
+![Brisa en el astillero](
   {{ '/assets/images/2022/Varadero/IMG_9066.jpeg' | relative_url }}
 )
 
