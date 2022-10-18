@@ -1,5 +1,9 @@
 <audio
   controls
+  preload=metadata
   src="{{ include.source | relative_url }}">
- Disculpamos que no ponemos reproducir el audio {{ include.source }}.
+ Disculpamos que su navegador no pueda reproducir el audio.
+ Quizá pueda descargarlo y reproducirlo por sí mismo:
+ <a href="{{ include.source | relative_url }}"
+   >{{ include.source | relative_url }}</a>.
 </audio>

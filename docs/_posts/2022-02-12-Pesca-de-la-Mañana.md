@@ -115,16 +115,13 @@ periodo de un año y cuarto. Es necesario reemplazar el motor cada diez años.
 Por eso tienen casi nueve años de los diez en que podrían sacar dinero desde el
 mar.
 
-![Panga varando a la playa, Puerto Ángel, Oaxaca, México](
-  {{ '/assets/images/2022/PescaPA/DSC01591.JPG' | relative_url }}
-)
+{% include video.html
+  source='2022/AtracandoPuertoAngel.mp4'
+  still='2022/PescaPA/DSC01591.JPG'
+%}
 
 Con la vuelta, los pescadores de Puerto Ángel tienen un método único para
 varar. Atracan en la playa a toda velocidad, al tiempo que una ola alcanza a la
 playa. Levantan el motor con el último segundo y se deslizan hacia arriba de la
 playa, libre de la línea de la marea alta. Dice Emiliano, “es adrenalina pura”.
-
-{% include video.html
-  source='https://medios.brisa.uy/video/2022/AtracandoPuertoAngel.mp4'
-%}
 

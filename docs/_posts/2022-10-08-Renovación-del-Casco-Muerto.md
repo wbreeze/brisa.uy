@@ -49,8 +49,8 @@ esa cuenta, el número de etapas para lijar el casco entero fue aproximadamente
 dos mil tres ciento y cuatro (2 X 2 X 2 X 3 X 4 X 24).
 
 {% include video.html
-  source='https://medios.brisa.uy/video/2022/20220922-BrisaLLuvia.mp4'
-  still="/assets/images/2022/Casco/LijandoLijando.png"
+  source='2022/20220922-BrisaLLuvia.mp4'
+  still="2022/Casco/LijandoLijando.png"
 %}
 
 El proceso entero de preparación, removiendo el gelcoat y lijando, lleva
