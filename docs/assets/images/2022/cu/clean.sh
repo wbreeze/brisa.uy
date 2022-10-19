@@ -1,4 +1,5 @@
 rm sacaCojinete.jpg
 rm sacaHelice.jpg
-rm triunfo.jpg
-cutless.jpg
+rm cutless.jpg
+rm prensa.jpg
+rm instalaCoji.jpg
