@@ -44,7 +44,7 @@ eje.
 El motor de Brisa es bien alineado con el cojinete de manguito. Por eso, el
 eje no deteriora muy rapida. Es decir que no había renovado hace un edád.
 Por eso, los impedimientos fueron de remover el acoplamiento y
-remover el cojinete antiguo. Todos fueron colgados.
+remover el cojinete antiguo. Ambos fueron colgados.
 
 ## Remover el helice
 
@@ -70,25 +70,105 @@ tipo C][martyr] de zinc, numero CMPNCZC10.
 
 ## Romover el acoplamiento
 
+El acoplamiento está sobre el extremo del eje interiór.
+Acopla el eje con la caja de cambios.
+Es un cilindro de hierro de tres pulgadas con una brida de cuatro pulgadas.
+Los tornillos son cuatros, tres octavos de ancho. Está totalmente oxidado,
+incluso los tornillos y tuercos. Con un poco de espray de aceite flojante,
+salen los tuercos y podía liberar el acoplamiento desde su pareja de la
+caja de cambios.
+
 ![remover el eje](
   {{ '/assets/images/2022/cu/sacaAcoplador.jpg' | relative_url }}
 )
+
+Lo que queda fue liberar el eje del acoplamiento.
+Probamos una variedád de los apretones, incluso lo que funciona para el hélice.
+Lo dejamos apretado, poniendo el aceite de flojante, con esperanzas de su
+liberación pendiente. Aplicamos calor intenso con una antorcha. Se quede el
+acoplamiento marido con el eje.
+
+Salía semanas para remover el acoplador. Siempre pensía, buscando alternativos
+de cortar el eje. Al fin, simplemente lo cortamos.
 
 ![el eje cortado](
   {{ '/assets/images/2022/cu/IMG_0467.jpeg' | relative_url }}
 )
 
+Los ejes de buque no son escasos. Compré una nueva por [General Propeller][gprop]
+en el estado de Florida de Estados Unidos. Lo envian al agencia de transporte
+en Miami antes la llegada del huricán Julia.
+
+[gprop]: https://www.generalpropeller.com/inboard-shaft
+
+El eje nuevo es de tipo [acero inoxidable aqualoy AQ22][aq22]. Si aplico
+el anti-aferrante con la instalación del acoplamiento, quizá nadie necesitaré
+cortar el eje para la vida que queda del velero y motor.
+
+[aq22]: https://heliceskelly.com/producto/aq22/
+
 ## Remover el cojinete antiguo
+
+Como ya dije, el cojinete antiguo también fue bien colgado adentro el
+tubo de proa.
+
+![prensa para el cojinete](
+  {{ '/assets/images/2022/cu/prensa.jpg' | relative_url }}
+)
+
+Hice una prensa, con una varilla roscada y algunos anillos planos.
+Los anillos planos interiores caben el tubo y no caben el cojinete. De este
+manera, aplican presura por los bordes del cojinete.
+Afuera, se ponía un tubo de acero que cabe el cojinete. Los anillos afueros
+apretan sobre este tubo. De este manera, la varilla roscada apreta por
+el tubo exterior y tira por el cojinete adento.
+
+Sentía muy ingenio con este herramienta. No pasa así.
+
+Los anillos interiores colgan adentro el tubo porque el tubo tenía un accumulacion
+de carbonato de calcio. Lo limpié con acido muritico. A veces me temé que he
+hecho una secunda problema peor para remover los anillos.
+
+Con la problema de los anillos colgados resolvado, todavía no sale el
+cojinete. Aplicamos mucho presura sobre el tuerco para poner una curvatura
+en los cuatro anillos afueros.
+
 ![remover el cojinete](
   {{ '/assets/images/2022/cu/sacaCojinete.jpg' | relative_url }}
 )
+
+Al fin lo que sirve fue mucho más brutál.
+Cortamos un espacio de un milimetro por el largo del cojinete utilizando una
+sierra sable. Ya he cortado algunos otros con una hoja de sierra.
+Forcé la punta de un destornallador adentro, entre el tubo y el cojinete.
+El cojinete colapsó hacia adentro. Podramos removerlo entonces con los
+anillos adentro y tres o cuatro golpes con un mantillo.
+
 ![el tubo de popa](
   {{ '/assets/images/2022/cu/cutless.jpg' | relative_url }}
 )
 
-![triunfo sobre el cojinete](
-  {{ '/assets/images/2022/cu/triunfo.jpg' | relative_url }}
+En el foto podes ver el tubo de proa antes y despues de remover el cojinete.
+En el foto de antes, ya he empezado hacer daños sobre el cojinete para
+removerlo.
+
+Hicimos un poco de daño por el tubo. Podes ver la ranura donde cartamos
+demasiado profundo por el cojinete. Los expertos me dicen que no es nada,
+no debo preocuparme sobre esto. Yo sí me preocupa, y no es el fin del mundo.
+
+![las herramientas](
+  {{ '/assets/images/2022/cu/DSC02554.JPG' | relative_url }}
 )
+
+Como ves, siempre hay un gran numero de herramientos llamadas al pisto para el
+partido.
+
+![triunfo sobre el cojinete](
+  {{ '/assets/images/2022/cu/DSC02551.JPG' | relative_url }}
+)
+
+He vencido el cojinete. Es un grán triunfo. Además, me siente mucho menos
+preocupado que habría posible navegar de nuevo con Brisa.
 
 ## Instalar el cojinete nuevo
 
