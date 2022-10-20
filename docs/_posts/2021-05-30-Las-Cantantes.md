@@ -16,7 +16,10 @@ viento de la mañana y la tarde había sonidos de las drizas abofeteando los
 palos. Había los tripulaciones de las pangas aparejando para salir o llegando,
 limpiando, bromeando entre ellos mismos.
 
-{% include video.html source='/assets/video/2021/IMG_8707.mov' %}
+{% include video.html
+  source='2021/IMG_8707.mov'
+  still='2021/PájaroCantante/IMG_8469.jpeg'
+%}
 
 Siempre durante el día había sonidos de los gorriones charlando, discutiendo, y
 peleando. Algunos han incubado un grupo de crías. Las crías demandan

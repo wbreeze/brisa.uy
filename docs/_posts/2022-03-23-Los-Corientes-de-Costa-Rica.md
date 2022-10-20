@@ -16,8 +16,8 @@ que necesitaba dos días atravesar. Atravesando allí, con vientos suaves,
 a veces ausentes, el mar presenta un fenómeno insólito.
 
 {% include video.html
-  source='https://medios.brisa.uy/video/2022/CorrientesDos.mp4'
-  still="/assets/images/2022/CostaRica/CorrientesUno.png"
+  source='2022/CorrientesDos.mp4'
+  still="2022/CostaRica/CorrientesUno.png"
 %}
 
 Hay zonas acá con corrientes fuertes. Fuerte significa un nudo y media o más.
@@ -37,6 +37,6 @@ y lo perturbaban. En los vídeos puede oír las velas flameando. Hay viento
 poco. En algunos las velas son bajos. Brisa está a la deriva.
 
 {% include video.html
-  source='https://medios.brisa.uy/video/2022/Corrientes.mp4'
-  still="/assets/images/2022/CostaRica/CorrientesDos.png"
+  source='2022/Corrientes.mp4'
+  still="2022/CostaRica/CorrientesDos.png"
 %}

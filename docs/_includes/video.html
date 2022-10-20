@@ -2,12 +2,13 @@
    controls
    muted=true
    preload="metadata"
-   src="{{ include.source | relative_url }}"
+   src="https://medios.brisa.uy/video/{{ include.source }}"
    {% if include.still %}
-     poster="{{ include.still | relative_url }}"
+     poster="{{ 'assets/images/' | append: include.still | relative_url }}"
    {% endif %}
 >
  Disculpamos que su navegador no pueda reproducir el video.
  Quizá pueda descargarlo y reproducirlo por sí mismo:
- <a href="{{ include.source }}">{{ include.source }}</a>.
+ <a href="https://medios.brisa.uy/video/{{ include.source }}"
+   >https://medios.brisa.uy/video/{{ include.source }}</a>.
 </video>

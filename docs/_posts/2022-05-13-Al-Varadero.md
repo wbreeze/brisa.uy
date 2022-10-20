@@ -29,8 +29,8 @@ Allí me preparé para varar.
 Cosas así
 
 {% include video.html
-  source='https://medios.brisa.uy/video/2022/SacaBrisa.mp4'
-  still="/assets/images/2022/Varadero/IMG_9038.jpeg"
+  source='2022/SacaBrisa.mp4'
+  still="2022/Varadero/IMG_9038.jpeg"
 %}
 
 
