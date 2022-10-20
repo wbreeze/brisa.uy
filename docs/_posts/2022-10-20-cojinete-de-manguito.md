@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Cojinete de Manguito
-date: 2022-09-27
+date: 2022-10-20
 tags: mantenimiento Panamá eje hélice cojinete
-excerpt: Afuera el agua renovando el casco muerto, me noto que nesecito renovar
+excerpt: Afuera el agua renovando el casco muerto, me noto que necesito renovar
   el cojinete de manguito.
 ---
 
@@ -46,14 +46,14 @@ antiguo. Ambos fueron colgados.
 
 ## Remover la hélice
 
-El hélice está atracado con el eje con un tuerco. Sobre el tuerco hay un
-ánodo de sacrificio. Removí al ánodo y después el tuerco.
+El hélice está atracado con el eje con una tuerca. Sobre la tuerca hay un
+ánodo de sacrificio. Removí al ánodo y después la tuerca.
 
 ![remover la hélice](
   {{ '/assets/images/2022/cu/sacaHelice.jpg' | relative_url }}
 )
 
-Con el tuerco libre la hélice todavía está colgada. Es preciso romper el
+Con la tuerca libre la hélice todavía está colgada. Es preciso romper el
 agarre del hélice con el eje. Mis vecinos tienen un apretón casero que me
 prestan. Funcionó bárbaro.
 
@@ -61,7 +61,7 @@ prestan. Funcionó bárbaro.
   {{ '/assets/images/2022/cu/IMG_0390.jpeg' | relative_url }}
 )
 
-He conseguido un ánodo de sacrificio nuevo. Viene con el tuerco. Es el [Martyr
+He conseguido un ánodo de sacrificio nuevo. Viene con la tuerca. Es el [Martyr
 tipo C][martyr] de zinc, número CMPNCZC10.
 
 [martyr]: https://martyranodes.com/product/propeller-nut-anodes/
@@ -71,8 +71,8 @@ tipo C][martyr] de zinc, número CMPNCZC10.
 El acoplamiento está sobre el extremo del eje interior.  Acopla el eje con la
 caja de cambios.  Es un cilindro de hierro de tres pulgadas con una brida de
 cuatro pulgadas.  Los tornillos son cuatros, tres octavos de ancho. Está
-totalmente oxidado, incluso los tornillos y tuercas. Con un poco de espray de
-aceite penetrante, salen los tuercas y podía liberar el acoplamiento
+totalmente oxidado, incluso los tornillos y las tuercas. Con un poco de espray
+de aceite penetrante, salen las tuercas y podía liberar el acoplamiento
 desde su pareja de la caja de cambios.
 
 ![remover el eje](
@@ -127,7 +127,7 @@ acumulación de carbonato de calcio. Lo limpié con ácido muriático. A veces m
 temo que he hecho un segundo problema peor para remover los anillos.
 
 Con el problema de los anillos colgados resuelto, todavía no sale el
-cojinete. Aplicamos mucho presura sobre el tuerco-- tanto que pone una
+cojinete. Aplicamos mucho presura sobre la tuerca-- tanto que pone una
 curvatura en los cuatro anillos exteriores.
 
 ![remover el cojinete](
@@ -157,14 +157,14 @@ no debo preocuparme por esto. Yo sí me preocupa, y no es el fin del mundo.
   {{ '/assets/images/2022/cu/DSC02554.JPG' | relative_url }}
 )
 
-Como ves, siempre hay un gran número de herramientos llamadas al pisto para el
+Como ves, siempre hay un gran número de herramientas llamadas al pisto para el
 partido.
 
 ![triunfo sobre el cojinete](
   {{ '/assets/images/2022/cu/DSC02551.JPG' | relative_url }}
 )
 
-He vencido al cojinete. Es un grán triunfo. Además, me siento mucho menos
+He vencido al cojinete. Es un gran triunfo. Además, me siento mucho menos
 preocupado por la posibilidad de las nuevas navegaciones con Brisa.
 
 ## Instalar el cojinete nuevo
