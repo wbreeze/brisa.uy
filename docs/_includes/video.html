@@ -2,7 +2,7 @@
    controls
    muted=true
    preload="metadata"
-   src="https://medios.brisa.uy/video/{{ include.source }}"
+   src="{{ 'https://medios.brisa.uy/video/' | append: include.source }}"
    {% if include.still %}
      poster="{{ 'assets/images/' | append: include.still | relative_url }}"
    {% endif %}
