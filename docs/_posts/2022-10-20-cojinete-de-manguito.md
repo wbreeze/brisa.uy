@@ -11,7 +11,10 @@ Afuera el agua renovando el casco muerto, me noto que necesito renovar el
 cojinete de manguito. En inglés, decimos "cutlass bearing", cuál es una
 variación de la marca "Cutless®" de la empresa Duramax Marine® LLC.
 
-{% include video.html source='2022/cojinete.mp4' %}
+{% include video.html
+  source='2022/cojinete.mp4'
+  still='2022/cu/cojinete.png'
+%}
 
 El cojinete de manguito soporte el eje de la hélice. Es necesario
 soportarlo y a la vez permitirlo rodar. Esta es la función del cojinete
