@@ -3,7 +3,8 @@ layout: post
 title: Casi al agua
 date: 2022-10-26
 tags: Panamá astillero mejores
-excerpt:
+excerpt: Hoy pintamos la última mano de la pintura "anti-fouling" del fondo. He
+  puesto la insignia de Brisa sobre el casco muerto bien pintado y listo.
 ---
 
 Estamos a fines de octubre. Hoy pintamos la última mano de la pintura
@@ -27,7 +28,7 @@ mayores y menores, incluso:
 - [Reemplazar el cojinete de manguito](
   {{ '/2022/10/20/cojinete-de-manguito.html' | relative_url }}
 )
-- [Renovar la sístema del agua doméstica](
+- [Renovar la sistema del agua doméstica](
   {{ '/2022/07/28/Tanque-para-la-agua-dom%C3%A9stica.html' | relative_url }}
 )
 - [Renovar el casco muerto](
