@@ -55,3 +55,7 @@ lástima que tomé el cuento. Debo olvidarlo. Lo olvido.
 Vuelvo al agua justo cuando viene el eje y lo instalo.
 Con los dedos cruzados, espero que no haya más contratiempos.
 
+![Brisa con su nuevo esquema de pintura](
+  {{ '/assets/images/2022/casi/IMG_0541.jpeg' | relative_url }}
+)
+
