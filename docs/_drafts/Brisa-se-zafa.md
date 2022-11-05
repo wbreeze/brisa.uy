@@ -15,7 +15,7 @@ bien, sí. Listo para zarpar.
   {{ '/assets/images/2022/SeZafa/IMG_0586.jpeg' | relative_url }}
 )
 
-El navegante compartí un video compuesto de grabaciónes de los cámeras de
+El navegante compartió un video compuesto de grabaciones de las cámaras de
 seguridad.
 
 {% include video.html
@@ -23,7 +23,7 @@ seguridad.
   still='2022/SeZafa/SeZafa.jpeg'
 %}
 
-¡Qué felicidades! Brisa tiene una nueva vista.
+¡Qué felicidad! Brisa tiene una nueva vista.
 
 ![Brisa vuelve al agua](
   {{ '/assets/images/2022/SeZafa/IMG_0583.jpeg' | relative_url }}
