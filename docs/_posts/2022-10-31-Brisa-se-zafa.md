@@ -2,8 +2,8 @@
 layout: post
 title: Brisa se zafa
 date: 2022-10-31
-tags: zarpar astillero panamá
-excerpt: Brisa se zafa del astillero en Shelter Bay. Flota buinisimo.
+tags: zarpar astillero Panamá
+excerpt: Brisa se zafa del astillero en Shelter Bay. Flota buenísimo.
 ---
 
 Había una fuga en la marina Shelter Bay el treinta de octubre. El velero
@@ -15,7 +15,7 @@ bien, sí. Listo para zarpar.
   {{ '/assets/images/2022/SeZafa/IMG_0586.jpeg' | relative_url }}
 )
 
-El navegante compartió un video compuesto de grabaciones de las cámaras de
+El navegante compartió un vídeo compuesto de grabaciones de las cámaras de
 seguridad.
 
 {% include video.html
