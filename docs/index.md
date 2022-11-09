@@ -2,7 +2,7 @@
 title: Inicio
 ---
 ![Brisa en Bahía San Francisquito, Baja California](
-  {{ '/assets/images/delInicio/DSC00680.JPG' | relative_url }}
+  {{ '/assets/images/delInicio/DSC02592.JPG' | relative_url }}
 )
 
 Estas son las historias del velero Brisa navegando rumbo a Uruguay.
