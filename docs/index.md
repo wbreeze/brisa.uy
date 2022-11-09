@@ -16,13 +16,13 @@ Essick][essick]
 
 [essick]: https://www.essickwoodworks.com/
 
-Quien les escrita Douglas Lovell, estadounidense de nacimiento. Dedicé la mayor
-parte de mi vida profesional a la informática, la aviación comercial como
+Quien les escribe es Douglas Lovell, estadounidense de nacimiento. Dediqué la
+mayor parte de mi vida profesional a la informática, la aviación comercial como
 piloto de jets corporativos y a la acrobacia aérea.  Habiendo conocido Uruguay
-en 2017, lo convertí en mi segunda patria. Ahí entonces me
+en 2017, lo convertí en mi segunda patria. Ahí entonces
 comienzo a concretar mi vieja aspiración.
 
-Asociado al [Club Nautilus][nautilus] de la Rambla Ghandi en Montevideo.
+Asociado al [Club Nautilus][nautilus] de la Rambla Gandhi en Montevideo.
 Cumplí los cursos adultos de vela allí. Con su ayuda, califiqué para el Brevet
 B de la prefectura nacional naval Uruguay.
 
