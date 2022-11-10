@@ -5,32 +5,39 @@ permalink: /sobre/
 
 # Sobre Brisa.uy
 
-El propósito de este sitio es contribuir, brindar reconocimientos, aportar, y
-dar visibilidad Uruguay como un país marítimo. Uruguay tiene seiscientos
-sesenta kilómetros de costa del Río de la Plata y del océano Atlántico. Es
-conocido por su agricultura, cría de animales, buenas políticas sociales y
-cultura. Por eso me gustaría hacer una pequeña contribución para que Uruguay
-sea más conocido como país marítimo.
+El propósito de este sitio es compartir historias y aventuras sobre la
+navegación de un pequeño velero soltando las alas, viajando por doquier, cuyo
+destino final es Uruguay.
 
-Una segunda meta es compartir las historias y aventuras sobre la navegación de
-un pequeño velero soltando las alas, viajando por doquier, cuyo destino final
-es Uruguay.
+Escribo para lectores uruguayos, amigos y amigas, compañeros y conocidos.
+Escribo en español para ellos, y con una segunda razón mucho menor: hay tanto
+escrito sobre el tema en inglés y menos en castellano. Así también, es un
+ejercicio que me ayuda a mejorar cualquier facilidad que tengo con el idioma.
+Al final, si todo sale a la vista, escribo con la lengua rioplatense porque me
+encanta y me gusta escribirlo.
 
 ![el navegante Douglas Lovell](
   {{ '/assets/images/2021/el_navegante.jpeg' | relative_url }}
 )
 
-Agredicimientos por los redactores, incluyendo
-Nuria Rodriguez de [Dynamo Spanish](https://dynamospanish.com/about/)
-y Raquel Nuñez. Gracias por los contribuciones de artículos cuyos sean
-reconocido en los mismos.
+Agradecimientos por los redactores, incluso vos, si estás queriendo enviar
+algúna revisión o sugerencia.  Algunos de los artículos inicios fueron
+redactados por mi profesora de español, Nuria Rodriguez de [Dynamo
+Spanish][dynamo], y otras personas mencionadas. Todas las faltas son mías.
 
-Gracias por el
-[Nautilus Yachting Club](https://nyc.com.uy/)
-donde he aprendido por gran parte como navegar.
+[Escríbeme][mail] sí quieres preparar algo sobre navegación uruguayo o
+actividades marítimas uruguayas, para publicación acá en este sitio.
 
-Sobre todo, gracias por Uruguay, para sus politicas que me permiten
-ser residente y participar en su sociedad, para su buena onda, para la
+[dynamo]: https://dynamospanish.com/about/
+[mail]: "mailto:navegante@brisa.uy?Subject=Para Brisa.uy"
+
+Gracias por el [Nautilus Yachting Club][nyc] donde he aprendido por gran parte
+como navegar.
+
+[nyc]: https://nyc.com.uy/
+
+Sobre todo, gracias por Uruguay, por sus políticas que me permiten
+ser residente y participar en su sociedad, por su buena onda, por la
 amistad que he encontrado en este país.
 
 Besos, abrazos, agradecimos a todos y todas mis amigos y amigas.
