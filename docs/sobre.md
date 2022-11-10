@@ -6,7 +6,7 @@ permalink: /sobre/
 # Sobre Brisa.uy
 
 El propósito de este sitio es compartir historias y aventuras sobre la
-navegación de un pequeño velero soltando las alas, viajando por doquier, cuyo
+navegación de un pequeño velero soltando las olas, viajando por doquier, cuyo
 destino final es Uruguay.
 
 Escribo para lectores uruguayos, amigos y amigas, compañeros y conocidos.
