@@ -19,12 +19,12 @@ fue totalmente contaminado por una plaga bacteriana.
 Acá en la Bahía Lindo, Linton podía resolverlo. Fue Daniel en el velero vecino
 "Asterix" quien me diste la llave. Estaba preocupada ¿cómo deshecho
 el combustible contaminado para poder poner combustible limpio.  Daniel dijo,
-¿por qué no utiliza un bidón como tanque? Quería abrazarle.
+¿por qué no utiliza un bidón como tanque? Quería darle un abrazo. ¡Que genio!
 
-Instalé un par de tuberías por el lado complementario del sistema de combustible.
-Tiene acomodación para dos tanques. Brisa solo tiene uno.
-Até un bidón al lado del estribor del compartimiento del motor. Ponía un tubo
-para la toma y una para la vuelta del gasoil.
+Instalé un par de tuberías por el lado complementario del sistema de
+combustible.  Tiene acomodación para dos tanques. Brisa solo tiene uno.  Até un
+bidón al lado del estribor del compartimiento del motor. Ponía un tubo para la
+toma y una para la vuelta del gasoil.
 
 ![Tanque improvisado por un bidón](
   {{ '/assets/images/2022/Gasoil/IMG_0621.jpeg' | relative_url }}
