@@ -7,66 +7,78 @@ excerpt: Me quedo en Panamá hasta los fines del año, después a Columbia,
   Jamaica, la Isla de Cozumel, y Florida.
 ---
 
-Llegué Uruguay por avión justo a tiempo por el partido inaugural del
+Llegué Uruguay en avión justo a tiempo por el partido inaugural del
 Copa Mundial de fútbol. (Ecuadór vence a Qatár 2-0.)
+
+![Rambla Argentina, Montevideo](
+  {{ '/assets/images/2022/Agenda/IMG_0642.jpeg' | relative_url }}
+)
 
 He escrito anteriormente sobre [mis planes para Brisa](
   {{ '/2021/03/24/Por-ahora-el-Mar-de-Cort%C3%A9s.html' | relative_url }}
-). En ese artículo, dije que estaré en Panamá en Diciembre, 2021. De hecho,
-llegué en Panamá en Mayo de 2022.
+). En ese artículo, dije que estaré en Panamá en diciembre de 2021. De hecho,
+llegué a Panamá en mayo de 2022.
 Por eso hay peligro en vaticinar el futuro.
-A la ves, es bueno tener planes.
+A la vez, es bueno tener planes.
 
-Una persona uruguya a quien le gusta unirse conmigo por uno de estes tramos
-debe [ponerte en contacto][conecta].
+Una persona uruguaya a quien le guste unirse conmigo por uno de estos tramos
+debe [ponerse en contacto][conecta].
+
+![Esquina Libertad y Eufemio Masculino, Montevideo](
+  {{ '/assets/images/2022/Agenda/IMG_0639.jpeg' | relative_url }}
+)
 
 ### 2023
-- Marzo - en Shelter Bay hiciendo más mejores.
-- Avríl - un pasaje corto hacia Boca del Toro, Panamá
-- Avríl a agosto - en Boca del Toro, quizá con una vuelta a Uruguay por avion.
+- Marzo - en Shelter Bay haciendo más mejores.
+- Abril - un pasaje corto hacia Bocas del Toro, Panamá
+- Abril a agosto - en Bocas del Toro, quizá con una vuelta a Uruguay por avion.
 - Agosto - un pasaje corta hacia las islas San Blas, Panamá
 - Agosto y setiembre - en las San Blas
 - Octubre - un pasaje hacia Santa Marta, Columbia donde me quedaré un rato para
-  conocerlo e también visitar en Carthagena.
+  conocerlo y también visitar en Carthagena.
 - Noviembre - un pasaje por el alta mar, al norte hacia Jamaica, con una visita
   por unas semanas allí.
-- Diciembre - un pasaje a Cozumel, Mexico con un paseo en Gran Caimán.
+- Diciembre - un pasaje a Cozumel, México con un paseo en Gran Caimán.
   Me quedo en Cozumel unas semanas tomando clases de buceo y buceando.
-  Visitaré al interior a ver unos sitios patrimonios indigenos.
+  Visitaré al interior a ver unos sitios patrimonios indígenas.
 
-![Ruta por el Caribe y el Golfo de Mexico](
-  {{ '/assets/images/2022/Agenda/Caribe.png' | relative_url }}
+![Ruta desde Panamá a Uruguay](
+  {{ '/assets/images/2022/Agenda/combined_maps.png' | relative_url }}
 )
 
 ### 2024
-- Enero - un pasaje por el Golfo de Mexico hacia Florida, de los Estados Unidos.
+- Enero - un pasaje por el Golfo de México hacia Florida, de los Estados Unidos.
 - Me quedo hasta Junio en Florida, con navegación por la costa del oeste, hacia
-  el sur, con un paseo en [Cayo Hueso][hueso] donde es registrado el velero,
-  donde jamás ha ido.  Visitaré Uruguay por avión.
-- En junio me parecía bueno irme al norte de la costa Estadounidence para
-  visitar a la costa noreste de los Estados Unidos, en Nueva York,
+  el sur, con un paseo en [Cayo Hueso][hueso], donde está registrado el velero,
+  donde jamás ha ido.  Visitaré Uruguay en avión.
+- En junio me parecía bueno irme al norte de la costa Estadounidense para
+  visitar la costa noreste de los Estados Unidos, en Nueva York,
   [El Viñedo][mv], Boston, y [Provincetown][ptown] por el verano del norte.
 - En octubre vuelvo al sur, lo más probable al estado Carolina del Sur
-  o, más lejos, las Bahamas. Visitaré Uruguay por avión.
+  o, más lejos, las Bahamas. Visitaré Uruguay en avión.
 
-Cuál estoy en los Estados Unidos, debo bajar el mastil para renovarlo y
-renovar la jarcia. Espero que no pasa más de un mes, a lo alto dos meses
-con eses mejores.
+Cuando estoy en los Estados Unidos, debo bajar el mástil para renovarlo y
+renovar la jarcia. Espero que no pase más de un mes, por lo más dos meses
+con mejores.
 
-![Ruta por el Atlantico del Norte](
-  {{ '/assets/images/2022/Agenda/AtlanticoNorte.png' | relative_url }}
+![Rambla Argentina, Pista de patinaje, Montevideo](
+  {{ '/assets/images/2022/Agenda/IMG_0645.jpeg' | relative_url }}
 )
 
-Navegando por reloj, con los corrientes y vientos predominantes del Atlantico
-del Norte, visitaré a Bermuda, los Azores, Lisboa, Gibraltar, las
+Navegando en el sentido horario, con las corrientes y vientos predominantes del
+Atlántico del Norte, visitaré a Bermuda, los Azores, Lisboa, Gibraltar, las
 Canarias, y Cabo Verde. Desde allí hay un
-pasaje largo para cruzar al ecuadór y entrar al Atlantico del Sur,
-pasa por la isla pequeña Brasileño de [Trinidade][trin], y llegar a
-La Paloma, Punta del Este, e Montevideo.
+pasaje largo para cruzar al ecuador y entrar al Atlántico del Sur,
+pasar por la isla pequeña Brasileño de [Trinidade][trin], y llegar a
+La Paloma, Punta del Este, y Montevideo.
 
-![Ruta por el Atlantico del Sur](
-  {{ '/assets/images/2022/Agenda/AtlanticoSur.png' | relative_url }}
+![Playa Ramirez, Montevideo](
+  {{ '/assets/images/2022/Agenda/IMG_0647.jpeg' | relative_url }}
 )
+
+Como ves, no es necesario salir de Montevideo para disfrutar de la vida
+marina. Por otro lado, si te anima una aventura navegando en velero,
+[me escribes][conecta].
 
 [mv]: https://es.wikipedia.org/wiki/Martha%27s_Vineyard
 [hueso]: https://es.wikipedia.org/wiki/Cayo_Hueso
