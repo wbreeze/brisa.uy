@@ -17,7 +17,7 @@ cartas escritas a mis queridas amig@s uruguayas.
         {% continue %}
       {% else %}
         <li>
-          {{ post.date | date: date_format }}
+          <span class="post-date">{{ post.date | date: date_format }}</span>
           -
           <a class="post-link" href="{{ post.url | relative_url }}"
             >{{ post.title | escape }}</a>:

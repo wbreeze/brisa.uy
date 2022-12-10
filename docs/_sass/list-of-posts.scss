@@ -1,3 +1,16 @@
 .post-date {
   font-family: monospace;
 }
+
+ul.post-list {
+  margin-left: 0;
+  padding-left: 0;
+}
+
+$post-list-indent: 4em;
+
+ul.post-list li {
+  list-style-type: none;
+  text-indent: -$post-list-indent;
+  padding-left: $post-list-indent;
+}
