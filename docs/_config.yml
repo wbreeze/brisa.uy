@@ -12,6 +12,5 @@ plugins:
  - jekyll-seo-tag
 
 header_pages:
- - artículos.md
  - sobre.md
  - index.md

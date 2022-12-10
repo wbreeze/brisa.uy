@@ -47,10 +47,10 @@ México.  Como residente Uruguayo, lo estoy navegando con destino a Uruguay.
 ## Ruta
 
 Ya ha navegado cinco mil kilómetros por la costa occidental del istmo de
-América Central. Lee las historias numerosas consultando [la lista de
-artículos][lista].
+América Central. Lee las historias numerosas consultando la lista de
+artículos en la [página del inicio][lista].
 
-[lista]: /artículos/
+[lista]: /
 
 ![Ruta Pacífica](
   {{ '/assets/images/delInicio/RutaPacífica.png' | relative_url }}
