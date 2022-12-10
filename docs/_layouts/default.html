@@ -1,3 +1,7 @@
+---
+show_posts: true
+---
+
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
@@ -51,7 +55,9 @@
       </section>
 
       <footer>
-        {%- include list_of_posts.html -%}
+        {% if layout.show_posts %}
+          {%- include list_of_posts.html -%}
+        {% endif %}
         {%- include list_of_links.html -%}
         {%- include front_matter.html -%}
       </footer>
