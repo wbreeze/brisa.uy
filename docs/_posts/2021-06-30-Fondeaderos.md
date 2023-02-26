@@ -46,8 +46,8 @@ Cuando buscamos un buen fondeadero, buscamos un lugar protegido del mar, en la
 dirección del viento previsto. Es raro que un lugar esté protegido del viento,
 porque el viento sopla igual sobre el mar y la tierra. La meta es que el viento
 que llegue al fondeo no llegue con grandes olas. Cuando el viento sopla a una
-gran distancia sobre el mar para llegar al velero fondeado, el velero fondeado
-va a tener un noche rocanrolear, cual sea incómodo para sus habitantes.
+gran distancia sobre el mar para llegar al velero fondeado, esté 
+va a tener una noche rocanrolera,que será incómodo para sus habitantes.
 
 ![Aproximando a Bahía Punta Partida, BCS](
   {{ '/assets/images/2021/Fondeaderos/DSC00110.JPG' | relative_url }}
