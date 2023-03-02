@@ -16,3 +16,25 @@ show_posts: true
     <em>{{ page.tags | join: "</em> - <em>" }}</em>
   </div>
 {% endif %}
+
+<div class="pnp-post-nav">
+  <div class="post-nav-prev">
+    {% if page.previous.url %}
+      <a href="{{page.previous.url}}">
+        <span aria-hidden="true">&laquo;</span>
+        <span class="pnp-direction">Anteriór:</span>
+        <span class="pnp-title">{{page.previous.title}}</span>
+      </a>
+    {% endif %}
+  </div>
+  <div class="post-nav-next">
+    {% if page.next.url %}
+      <a href="{{page.next.url}}">
+        <span class="pnp-direction">Próxima:</span>
+        <span class="pnp-title">{{page.next.title}}</span>
+        <span aria-hidden="true">&raquo;</span>
+      </a>
+    {% endif %}
+  </div>
+</div>
+
