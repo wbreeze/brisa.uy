@@ -1,0 +1,48 @@
+---
+title: Inicio
+layout: home
+---
+<img alt="Brisa en Bahía Lindo, Panamá"
+  src="{{ '/assets/images/delInicio/DSC02592.JPG' | relative_url }}"
+/>
+
+<p>Estas son historias del velero Brisa navegando rumbo a Uruguay,
+cartas escritas a mis queridas amig@s uruguayas.</p>
+
+{% if site.posts.size > 0 %}
+  {% assign date_format = "%d %b %Y" %}
+  <ul class="post-list">
+    {% for post in paginator.posts %}
+      {% if post.nolist %}
+        {% continue %}
+      {% else %}
+        <li>
+          <span class="post-date">{{ post.date | date: date_format }}</span>
+          -
+          <a class="post-link" href="{{ post.url | relative_url }}"
+            >{{ post.title | escape }}</a>:
+          <span class="post-excerpt">{{ post.excerpt }}</span>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+  <!-- Pagination links -->
+  <div class="pagination">
+    <a href="/">Inicio</a> |
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}" class="previous">
+        Próximas
+      </a>
+    {% else %}
+      <span class="previous">Próximas</span>
+    {% endif %}
+    <span class="page_number ">
+      << Page: {{ paginator.page }} of {{ paginator.total_pages }} >>
+    </span>
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}" class="next">Anteriores</a>
+    {% else %}
+      <span class="next ">Anteriores</span>
+    {% endif %}
+  </div>
+{% endif %}

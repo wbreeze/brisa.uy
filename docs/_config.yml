@@ -10,6 +10,9 @@ license: Licencia Creative Commons
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ - jekyll-paginate
+
+paginate: 7
 
 header_pages:
  - index.md
