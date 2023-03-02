@@ -2,7 +2,7 @@
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
-    margin-bottom: $spacing-unit;
+    margin-top: 1ex;
 
     div {
       flex: 1 1 0;
@@ -17,3 +17,8 @@
       }
     }
 }
+
+.pnp-inicio {
+  margin-top: 1ex;
+}
+
