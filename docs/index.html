@@ -10,6 +10,28 @@ layout: home
 cartas escritas a mis queridas amig@s uruguayas.</p>
 
 {% if site.posts.size > 0 %}
+  <!-- Pagination at top -->
+  <div class="pagination" id="página">
+    {% if paginator.previous_page %}
+      <div class="previous">
+        <span aria-hidden="true">&laquo;&laquo;</span>&nbsp;<a
+          href="/">Inicio</a> |
+        <span aria-hidden="true">&laquo;</span>&nbsp;<a
+          href="{{ paginator.previous_page_path | append: '#página' }}"
+        >Próximas</a>
+      </div>
+    {% endif %}
+    <span class="page_number">
+      Page: {{ paginator.page }} of {{ paginator.total_pages }}
+    </span>
+    {% if paginator.next_page %}
+      <a
+        href="{{ paginator.next_page_path | append: '#página' }}" class="next"
+      >Anteriores</a>&nbsp;<span aria-hidden="true">&raquo;</span>
+    {% endif %}
+  </div>
+
+  <!-- Paginated post list -->
   {% assign date_format = "%d %b %Y" %}
   <ul class="post-list">
     {% for post in paginator.posts %}
@@ -26,23 +48,23 @@ cartas escritas a mis queridas amig@s uruguayas.</p>
       {% endif %}
     {% endfor %}
   </ul>
-  <!-- Pagination links -->
+
+  <!-- Pagination at bottom -->
   <div class="pagination">
-    <a href="/">Inicio</a> |
     {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path }}" class="previous">
-        Próximas
-      </a>
-    {% else %}
-      <span class="previous">Próximas</span>
+      <div class="previous">
+        <span aria-hidden="true">&laquo;</span>&nbsp;<a
+          href="{{ paginator.previous_page_path | append: '#página' }}"
+        >Próximas</a>
+      </div>
     {% endif %}
     <span class="page_number ">
-      << Page: {{ paginator.page }} of {{ paginator.total_pages }} >>
+      Page: {{ paginator.page }} of {{ paginator.total_pages }}
     </span>
     {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path }}" class="next">Anteriores</a>
-    {% else %}
-      <span class="next ">Anteriores</span>
+      <a
+        href="{{ paginator.next_page_path | append: '#página' }}" class="next"
+      >Anteriores</a>&nbsp;<span aria-hidden="true">&raquo;</span>
     {% endif %}
   </div>
 {% endif %}
