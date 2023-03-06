@@ -13,6 +13,8 @@ $on-large: 960px;
 @import "site-menu";
 @import "front-matter";
 @import "list-of-posts";
+@import "prev-next-post";
+@import "paginate";
 
 body {
   background-color: $background-color;

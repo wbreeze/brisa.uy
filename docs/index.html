@@ -1,0 +1,70 @@
+---
+title: Inicio
+layout: home
+---
+<img alt="Brisa en Bahía Lindo, Panamá"
+  src="{{ '/assets/images/delInicio/DSC02592.JPG' | relative_url }}"
+/>
+
+<p>Estas son historias del velero Brisa navegando rumbo a Uruguay,
+cartas escritas a mis queridas amig@s uruguayas.</p>
+
+{% if site.posts.size > 0 %}
+  <!-- Pagination at top -->
+  <div class="pagination" id="página">
+    {% if paginator.previous_page %}
+      <div class="previous">
+        <span aria-hidden="true">&laquo;&laquo;</span>&nbsp;<a
+          href="/">Inicio</a> |
+        <span aria-hidden="true">&laquo;</span>&nbsp;<a
+          href="{{ paginator.previous_page_path | append: '#página' }}"
+        >Próximas</a>
+      </div>
+    {% endif %}
+    <span class="page_number">
+      Página: {{ paginator.page }} de {{ paginator.total_pages }}
+    </span>
+    {% if paginator.next_page %}
+      <a
+        href="{{ paginator.next_page_path | append: '#página' }}" class="next"
+      >Anteriores</a>&nbsp;<span aria-hidden="true">&raquo;</span>
+    {% endif %}
+  </div>
+
+  <!-- Paginated post list -->
+  {% assign date_format = "%d %b %Y" %}
+  <ul class="post-list">
+    {% for post in paginator.posts %}
+      {% if post.nolist %}
+        {% continue %}
+      {% else %}
+        <li>
+          <span class="post-date">{{ post.date | date: date_format }}</span>
+          -
+          <a class="post-link" href="{{ post.url | relative_url }}"
+            >{{ post.title | escape }}</a>:
+          <span class="post-excerpt">{{ post.excerpt }}</span>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+
+  <!-- Pagination at bottom -->
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <div class="previous">
+        <span aria-hidden="true">&laquo;</span>&nbsp;<a
+          href="{{ paginator.previous_page_path | append: '#página' }}"
+        >Próximas</a>
+      </div>
+    {% endif %}
+    <span class="page_number ">
+      Página: {{ paginator.page }} de {{ paginator.total_pages }}
+    </span>
+    {% if paginator.next_page %}
+      <a
+        href="{{ paginator.next_page_path | append: '#página' }}" class="next"
+      >Anteriores</a>&nbsp;<span aria-hidden="true">&raquo;</span>
+    {% endif %}
+  </div>
+{% endif %}
