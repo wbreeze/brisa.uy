@@ -2,7 +2,7 @@
 layout: post
 title: Bahía Portobelo
 date: 2022-11-07
-tags: navegación Panama portobelo linton
+tags: navegación Panamá portobelo linton
 excerpt: es el puerto donde los conquistadores españoles despiden las riquezas
   de la plata y el oro, sacadas cruelmente desde Perú, por su último tramo
   hacia España.
@@ -82,9 +82,9 @@ desde donde había venido, hacia las rocas. Necesito irme por el otro lado, tras
 En estas condiciones no me gusta trasluchar, pero es la mejor opción.
 Cuando traslucho así, girando casi doscientos setenta grados, debo
 filar y casar la vela mayor dos veces. Además, necesito manejar la trinquetilla
-y a veces tambien el foque. Es mucho hacer si quiero hacerlo rápidamente.
+y a veces también el foque. Es mucho hacer si quiero hacerlo rápidamente.
 Si dejo la vela mayor casada, el velero escora mucho cuando las olas y el
-viento están a traves. Una vez poní la borda en el agua.
+viento están a través. Una vez puse la borda en el agua.
 Note to self: La maniobara de trasluchar. Necesito practicarlo más.
 
 Esta vez sale todo bien. Estabilizado por la banda de estribor, con las
