@@ -3,8 +3,8 @@ layout: post
 title: Casi al agua
 date: 2022-10-26
 tags: Panamá astillero mejoras
-excerpt: Hoy pintamos la última mano de la pintura "anti-fouling" del fondo. He
-  puesto la insignia de Brisa sobre el casco muerto bien pintado y listo.
+excerpt: Hoy dimos la última mano de la pintura “anti-fouling” del fondo.
+  Puse la insignia de Brisa sobre el casco muerto bien pintado y listo.
 ---
 
 Estamos a fines de octubre. Hoy dimos la última mano de la pintura
