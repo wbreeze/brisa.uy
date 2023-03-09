@@ -2,29 +2,31 @@
 layout: post
 title: Arqueología
 date: 2022-10-15
-tags: renovación mejores mantenimiento casco nombres Panamá
-excerpt: Lijando el casco hacia la popa por ambos lados descubrí evidencia de
-  etiqueta llevado por Brisa durante sus primeros tiempos.
+tags: renovación mejoras mantenimiento casco nombres Panamá
+excerpt: Lijando el casco, hacia la popa por ambos lados descubrí evidencias de
+  unas letras, seguramente de los primeros tiempos del velero que ahora es Brisa.
 ---
 
-Lijando el casco hacia la popa por ambos lados descubrí evidencia de etiqueta
-llevado por Brisa durante sus primeros tiempos. Cuando lo descubrí, empecé a
-lijar más que necesario en estas partes para revelar más de las letras. Me
+Lijando el casco, hacia la popa por ambos lados descubrí evidencias de unas letras,
+seguramente de los primeros tiempos del velero que ahora es Brisa.
+Cuando lo descubrí, empecé a
+lijar más en estas partes para descubrir más de las letras. Me
 sentía como un arqueólogo.
 
 ![Letra antigua](
   {{ '/assets/images/2022/Casco/names.jpg' | relative_url }}
 )
 
-Podría ver una porción de su tercer nombre, Elena. Encuentre el "E" y "l" en
-letra cursiva. Parece tener cómo puerto, en estos tiempos, Channel Islands, CA.
+Podía ver una parte de su tercer nombre, Elena. Encontré la “E” y “L” en
+letra cursiva. Parece que en esos tiempos el velero tenía como puerto,
+Channel Islands, CA.
 Este lugar está cercano a su lugar de fábrica, Costa Mesa, una parte del norte
 de la ciudad de Los Ángeles en el estado de California, sobre la costa
 occidental de Estados Unidos.
 
-Sobre esto, podría ver un porción de su segundo nombre, "Smiling Dutchman" con
-puerto en Hollywood Beach, CA. Este también es una parte de Los Ángeles.  El
-nombre es un juego con el nombre, "Flying Dutchman" ([El holandés
+Por encima podía ver una parte de su segundo nombre, “Smiling Dutchman” con
+puerto en Hollywood Beach, CA., también parte de Los Ángeles. El
+nombre es un juego de palabras con el nombre “Flying Dutchman” ([El holandés
 errante][errante]), un barco fantasma de la [ópera de Wagner][wagner].  Además
 es el barco capitaneado por [Davy Jones][jones] en las películas [Pirates of
 the Caribbean][pirates].
