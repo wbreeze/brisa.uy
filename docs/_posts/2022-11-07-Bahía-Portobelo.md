@@ -44,6 +44,10 @@ como mínimo siete mil dólares por persona por semana.
 
 [quest]: https://www.nationalgeographic.com/expeditions/ships/national-geographic-quest/
 
+![El buque de turismo ecológico, National Geographic Quest](
+  {{ '/assets/images/2022/Zarpado/DSC02566.jpeg' | relative_url }}
+)
+
 Me siento mal por ellos. Esta mañana, que es el tiempo que tienen para explorar este sitio de
 patrimonio y tomarles fotos buenísimas, viene con lluvia intensa y algo fría.
 Imagino que no quieren hacer más que yo, secuestrado en mi cabina seca y
@@ -64,15 +68,15 @@ Paso por su proa por la virada primera. Después de virar por la segunda,
 estoy suficientemente estabilizado para poder subir la trinquetilla. Con esa vela,
 el velero empieza a moverse con mayor seguridad, con velocidad.
 
+![Carta de salida, Bahía Portobelo, Panamá](
+  {{ '/assets/images/2022/Zarpado/IMG_0194.jpeg' | relative_url }}
+)
+
 Bordejeo lado a lado por la bahía, luchando, arañando, contra las olas espumosas y
 el viento que supera los quince nudos, hacia la desembocadura y la libertad.
 El “Quest” también decide salir. Tienen su calendario. Toca la corneta
 avisando su salida. Me pasan cuando estoy por la banda de babor.
 Saco una foto y me doy cuenta que estoy alcanzando las rocas. Necesito virar.
-
-![El buque de turismo ecológico, National Geographic Quest](
-  {{ '/assets/images/2022/Zarpado/DSC02566.jpeg' | relative_url }}
-)
 
 Para poner a prueba mis habilidades, con esta virada, Brisa no puede pasar por el
 viento y contra las olas. No tiene suficiente inercia. Justo cuando está
