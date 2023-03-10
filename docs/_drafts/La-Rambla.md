@@ -5,7 +5,6 @@ date: 2023-03-05
 tags: Montevideo Rambla naturaleza ritual
 excerpt:
 link_note: "[text for internal link]({{ '/2021/11/15/Sara-M.html' | relative_url }})"
-image_note: "![image description]({{ '/assets/images/image.jpeg' | relative_url }})"
 video_note: "{% include video.html source='2022/CorrientesDos.mp4' still='2022/CostaRica/CorrientesUno.png' }%"
 audio_note: "{% include audio.html source='/assets/audio/2021/Cantante.m4a' %}"
 ---
@@ -16,12 +15,24 @@ nautilus][nyc] para navegar en velero con amigos y mi profesora. Además, hay la
 Rambla.  Caminando por la Rambla del día, siento el aire perfumada por el
 encuentro de mar y tierra en las orillas y sobre el muro de la escollera.
 
+![image](
+  {{ '/assets/images/2023/03Rambla/IMG_0369.jpeg' | relative_url }}
+)
+
+![image](
+  {{ '/assets/images/2023/03Rambla/IMG_0364.jpeg' | relative_url }}
+)
+
 I sit al lado del mar sobre los banques de marmol que dividen la sidewalk
 from el mar, a lo alto del muro de escollera. Tengo un costumbre irme allí
 de la tarde, por el atardecer.
 
 Vista al horizonte
 Buques. Cargo. Cruise ships.
+
+![Rambla con peotonales en atardecer by Moira Duffy](
+  {{ '/assets/images/2023/03Rambla/IMG_0257.jpeg' | relative_url }}
+)
 
 Gente, ritual.
 Parejas, amigos, individuos caminando
@@ -31,6 +42,10 @@ Grupos con lawn chairs compartiendo mate, poniendose el día.
 Patineje y bici, jogging
 tomando mate, sitting, just walking
 Pescadores
+
+![image](
+  {{ '/assets/images/2023/03Rambla/IMG_0347.jpeg' | relative_url }}
+)
 
 Las olas chocando al muro.
 Las olas reflected by el muro interactando con las olas que vienen.
@@ -45,6 +60,10 @@ you know that they feel the air differently than we do. they fly in it.
 they naturally experience it in a more nuanced and delicate matter, as
 something more immediate
 
+![image](
+  {{ '/assets/images/2023/03Rambla/IMG_0346.jpeg' | relative_url }}
+)
+
 a veces un avión llega y se pone alineado con la pista en el aeropuerto
 de carrasco para aterizar.
 
@@ -57,6 +76,10 @@ estrellas aparecen.  Una brizna de la luna creciente casi toca al punto de luz
 desde Juipter.  Muy pronto la luna va a ocultar la planeta.  Venus es la
 primera estrella. Al fin las estrellas más brillantes aparecen.  Con más
 oscuridad emergen las constelaciones, incluso el [cruz del sur][cruz].
+
+![image](
+  {{ '/assets/images/2023/03Rambla/IMG_0338.jpeg' | relative_url }}
+)
 
 Por el horizonte, las luces de navegación del canal al Puerto Montevideo
 destellen. Indican un camino sobre el mar, el camino de entrada y salida
