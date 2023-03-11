@@ -27,6 +27,10 @@ I sit al lado del mar sobre los banques de marmol que dividen la sidewalk
 from el mar, a lo alto del muro de escollera. Tengo un costumbre irme allí
 de la tarde, por el atardecer.
 
+![Buquebus cruza con otro buque afuera la entrada del Puerto de Montivideo](
+  {{ '/assets/images/2023/03Rambla/IMG_0375.jpeg' | relative_url }}
+)
+
 Vista al horizonte
 Buques. Cargo. Cruise ships.
 
