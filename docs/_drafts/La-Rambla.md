@@ -2,11 +2,8 @@
 layout: post
 title: La Rambla
 date: 2023-03-05
-tags: Montevideo Rambla naturaleza ritual
-excerpt:
-link_note: "[text for internal link]({{ '/2021/11/15/Sara-M.html' | relative_url }})"
-video_note: "{% include video.html source='2022/CorrientesDos.mp4' still='2022/CostaRica/CorrientesUno.png' }%"
-audio_note: "{% include audio.html source='/assets/audio/2021/Cantante.m4a' %}"
+tags: Montevideo Rambla naturaleza
+excerpt: La Rambla ofrece un vínculo entre mi vida en la ciudad y la del mar.
 ---
 
 Me quedo en Ciudad Vieja de Montevideo a las fines de Febrero, en Barrio Sur a
@@ -19,71 +16,71 @@ encuentro de mar y tierra en las orillas y sobre el muro de la escollera.
   {{ '/assets/images/2023/03Rambla/IMG_0369.jpeg' | relative_url }}
 )
 
-Tengo un costumbre irme allí de la tarde, por el atardecer.
-Me siento al lado del mar sobre los banques de marmol que protejen la vareda
-a lo alto del muro del escollera.
+Tengo la costumbre de irme allí por la tarde, por el atardecer.
+Me siento al lado del mar sobre los banques de mármol que protegen la vereda
+a lo alto del muro de escollera.
 Desde allí tengo una vista del mar como sobre el velero, sin interrupción
 hasta que el agua encuentra el cielo.
 
-Buques de cargo, de container, de petroleo, cruceros, el Buquebus se van y
+Buques de carga, de container, de petróleo, cruceros, el Buquebus se van y
 vienen por la entrada del puerto.
 
 ![Pescador sobre la Rambla en Palermo, Montevideo](
   {{ '/assets/images/2023/03Rambla/IMG_0338.jpeg' | relative_url }}
 )
 
-Los pescadores tiran the hooks y aguardan their rods para una señal que
+Los pescadores tiran sus anhelos y aguardan sus cañas para una señal que
 hay un pez enganchado.
 
 La gente pasa como individuos, parejas, grupos pequeños de amigos, familia,
 parejas con niños, madres con hijas adultas.
 Se van caminando, jogging, en bici, patinete, o simplemente
 sentado, mirando el mar.
-Grupos se reunen en lawn chairs compartiendo mate, poniendose el día. 
+Grupos se reúnen en lawn chairs compartiendo mate, poniéndose el día.
 
-Si encuentren conocidos, les saluden. Por lo mayor somos desconocidos,
-cada con nuestro propio vida, unidos por nuestros rituals de visita a
+Si encuentran conocidos, les saluden. Por lo mayor somos desconocidos,
+cada con su propia vida, unidos por nuestros ritos de visita a
 la Rambla.
 
 ![Rambla con peotonales en atardecer por Moira Duffy](
   {{ '/assets/images/2023/03Rambla/IMG_0257.jpeg' | relative_url }}
 )
 
-En algunas lugares, las olas chocan al muro para ser reflejido de nuevo
+En algunos lugares, las olas chocan contra el muro para ser reflejado de nuevo
 hacia el mar.
-Las olas reflejidos por el muro interactan con las olas que vienen.
-Cuando cruzan, se reunen por un momento, creando una ola mas alta y a
+Las olas reflejadas por el muro interactúan con las olas que vienen.
+Cuando cruzan, se reúnen por un momento, creando una ola más alta y a
 veces soplando una pica de espuma.
-En otros lugares, las olas lavan outcroppings rocosas.
-De nocha allí, a veces puedo oir llamadas de grillos.
+En otros lugares, las olas lavan farallones rocosos.
+De noche allí, a veces puedo oir llamadas de grillos.
 
 ![Sentado por la Rambla de tarde, con olas, Barrio Sur, Montevideo](
   {{ '/assets/images/2023/03Rambla/IMG_0347.jpeg' | relative_url }}
 )
 
 A veces un avión llega y se pone alineado con la pista en el aeropuerto
-de carrasco para aterizar.
+de carrasco para aterrizar.
 
-Pajaros vuelen, leventandolos por el aire deflected arriba por el muro
+Pájaros vuelen, levantandolos por el aire desviado arriba por el muro
 cuando el viento viene desde el sur, o con la brisa del mar.
-Golondrinas casan insectos. Las golondrinas viven en agujeros a frente
+Golondrinas cazan insectos. Las golondrinas viven en agujeros al frente
 del mar.
-Reconozco que las pajaros sienten el aire de manera distinta que nosotros.
+Reconozco que las pájaros sienten el aire de manera distinta que nosotros.
 Es su ambiente, como un pez en el agua. Volando, naturalmente experimenten
 el aire de manera sutil y delicada, como algo presente, immediate, como
-nosotros experimentan el suelo abajo nuestros pies.
+nosotros experimentan el mundo sólido.
 
 ![Un buque de container llega al Puerto Montevideo](
   {{ '/assets/images/2023/03Rambla/IMG_0346.jpeg' | relative_url }}
 )
 
-La superficie del Rio cambia su color con el atardecer.  Al principio está
+La superficie del Río cambia su color con el atardecer.  Al principio está
 brillante, con reflexiones del sol destellando desde las olas. Después está
 plateado.  El sol como globo dorado se mete en el mar o en los nubes por el
 horizonte.  Abajo el horizonte, pinta el cielo con spectrums of violeta, rojo,
 y naranja.  El mar se oscurece con color purple y turquesa.  Las primeras
 estrellas aparecen.  Una brizna de la luna creciente casi toca al punto de luz
-desde Juipter.  Muy pronto la luna va a ocultar la planeta.  Venus es la
+desde Júpiter.  Muy pronto la luna va a ocultar el planeta.  Venus es la
 primera estrella. Al fin las estrellas más brillantes aparecen.  Con más
 oscuridad emergen las constelaciones, incluso el [cruz del sur][cruz].
 
@@ -92,18 +89,24 @@ oscuridad emergen las constelaciones, incluso el [cruz del sur][cruz].
 )
 
 Por el horizonte, las luces de navegación del canal al Puerto Montevideo
-destellen. Indican un camino sobre el mar, el camino de entrada y salida
-para los buques. Puedo ver las destellas de los faros en Punta Brava y
-Isla de Flores. El faro de Punta Brava emite una destella blanco seguido por
-una roja cada diez segundos; lo de Isla de Flores, dos destellas blancos cada
-16 segundos. Además hay las destellas de las boyas del area protejido al sur
-de Punta Brava-- una con nueve destellas blancas, lo del extremo con seis
-blancas sequido con una larga. Afuera en los fondeaderos, las luces de los
+destellan. Indican un camino sobre el mar, el camino de entrada y salida
+para los buques. Puedo ver los destellos de los faros en Punta Brava e
+Isla de Flores. El faro de Punta Brava emite un destello blanco seguido por
+una roja cada diez segundos; el de Isla de Flores, dos destellos blancos cada
+16 segundos. Además hay los destellos de las boyas del área protegido al sur
+de Punta Brava-- una con nueve destellos blancas, lo del extremo con seis
+blancas seguido con una larga. Afuera en los fondeaderos, las luces de los
 buques parecen pequeños pueblos por un orillo distante.
 
-Para mí la Rambla ofrece un vinculo entre mi vida en la ciudad y la del mar.
-Tiene casi todo. ¿Porqué me voy? Creo que es para tener algo interesante
+La Rambla ofrece un vínculo entre mi vida en la ciudad y la del mar.
+Tiene casi todo. ¿Por qué me voy? Creo que es para tener algo interesante
 para dedicarme. A ver. A aprender.
+
+Pah. Que ostentoso.
+Estoy huyendo de mi especie,
+cuál encuentro desconcertante. Un ermitaño.
+
+Nada de eso y todo. Estoy disfrutando algo me encuentro divertido.
 
 [nyc]: https://www.nyc.com.uy/
 [cruz]: {{ '/2022/08/09/Las-estrellas-más-brillantes.html' | relative_url }}
