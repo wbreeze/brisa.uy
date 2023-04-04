@@ -88,7 +88,7 @@ de una mes.
 Abajo las mangueras, una instalada. Nota el cambio de tamaño por un
 acoplador. Necesito comprar partes adecuadas, también en EE. UU., para poder
 reemplazar esta solución innovadora con una manguera sola de tamaño siete
-octavos.
+octavos. Me cuesta hacer eso. Estaba con náusea. Lo hice para adelantarme.
 
 Está muy sucio abajo, donde los pies del motor conectan con el casco.
 He limpiado allí ahora, a pesar de que es difícil alcanzar. El cilindro
