@@ -1,14 +1,10 @@
 ---
 layout: post
 title: Intercambiador térmico
-date: 2023-03-23
-tags: mantenemiento motor Panamá intercambiador
+date: 2023-04-03
+tags: mantenimiento motor Panamá intercambiador
 excerpt: Había solo una explicación. El AC estaba saliendo al mar con el agua
-  de enfrio. Es decir, había una fuga adentro del intercambiador térmico.
-link_note: "[text for internal link]({{ '/2021/11/15/Sara-M.html' | relative_url }})"
-image_note: "![image description]({{ '/assets/images/image.jpeg' | relative_url }})"
-video_note: "{% include video.html source='2022/CorrientesDos.mp4' still='2022/CostaRica/CorrientesUno.png' }%"
-audio_note: "{% include audio.html source='/assets/audio/2021/Cantante.m4a' %}"
+  de enfriado. Es decir, había una fuga adentro del intercambiador térmico.
 ---
 
 El sistema para enfriar el motor-- para sacar el calor de combustión
@@ -91,11 +87,11 @@ de una mes.
 
 Abajo las mangueras, una instalada. Nota el cambio de tamaño por un
 acoplador. Necesito comprar partes adecuadas, también en EE. UU., para poder
-reemplazar esta solución inovadora con una manguera sola de tamaño siete
+reemplazar esta solución innovadora con una manguera sola de tamaño siete
 octavos.
 
 Está muy sucio abajo, donde los pies del motor conectan con el casco.
-He limpiado allí ahora, a pesar de que es difícíl alcanzar. El cilindro
+He limpiado allí ahora, a pesar de que es difícil alcanzar. El cilindro
 al fondo de la foto es el arranque eléctrico.
 
 ![Rescue Tape](
@@ -106,11 +102,11 @@ El "Rescue Tape" (cinta de fortuna) se me hace habilitado conectar una manguera 
 con un conexión de siete octavos. Al lado derecha un conexión. Envolví
 la conexión con la cinta de fortuna para enlargarlo. Conecté la manguera
 más o menos ajustada y lo apreté bien tirante con el abrazador. Por suerte,
-la sístema no es una de alta presura.
+la sistema no es una de alta presura.
 
-## Ánodo sacrificial
+## Ánodo de sacrificio
 
-![Ánodo sacrificial](
+![Ánodo de sacrificio](
   {{ '/assets/images/2023/03ICT/Zinc.jpeg' | relative_url }}
 )
 
@@ -126,16 +122,16 @@ eventualmente fallan.
 Para evitar la corrosión y fallo temprano del ICT, el ICT incorpora
 un ánodo de sacrificio (ADS) adentro, en contacto con el agua salada. El ánodo
 de sacrificio está compuesto de zinc, el metal casi lo más bajo en la
-serie galvánica. En la foto, podés ver un ADS parcialmente consumido.
+serie galvánica. En la foto, podes ver un ADS parcialmente consumido.
 
 La corrosión galvánica dentro del ICT pasa siempre. No importa si el motor
 está usado. Es necesario comprobar frecuentemente que el ADS no está
 completamente consumido, y reemplazarlo cada unos meses. Cuando no voy a
-estár con el velero por un periodo largo, necesito hacer algo para
+estar con el velero por un periodo largo, necesito hacer algo para
 remover el agua salada dentro del ICT, o reemplazarlo con agua dulce o
 anticongelante.
 
-La obra entera cuesta en la vecinidad de U$S 1.200. Paga comprobar el
+La obra entera cuesta aproximadamente U$S 1.200. Paga comprobar el
 ADS frecuentemente. Paga mantener el ICT cuidadosamente, para alargar
 su vida.
 
