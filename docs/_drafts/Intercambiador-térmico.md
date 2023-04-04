@@ -70,20 +70,21 @@ setecientos dólares.
 Naturalmente el ICT nuevo no tiene conexiones iguales con el ICT antiguo.
 Los tamaños y las ubicaciones son distintos. Necesitaba conseguir mangueras
 nuevas y algunos nuevos accesorios de plomería para completar la
-instalación. Acá en Panamá es difícil encontrar los accesorios y la manguera
-adecuada. Los accesorios son hechos de brazo, cual oxida rápida, entre meses,
-en el aire salado. Otros son de acero galvanizado, cuál no es malo. Otros
-son de aluminio. La mezcla de metales es un desastre debido a la corrosión
-galvánica. Abajo encontré un discurso más largo sobre la corrosión galvánica.
+instalación.  Frecuentemente necesitaba combinar dos o tres accesorios para
+servir la función de uno. Los accesorios son hechos de brazo, cual oxida
+rápida, entre meses, en el aire salado. Otros son de acero galvanizado, cuál no
+es malo.  Otros son de aluminio. La mezcla de metales es un desastre debido a
+la corrosión galvánica. Abajo encontré un discurso más largo sobre la corrosión
+galvánica.
 
 ![Mangueras](
   {{ '/assets/images/2023/03ICT/Hoses.jpeg' | relative_url }}
 )
 
 Las mangueras son de cualquier calidad para uso en un camión o auto.
-En esta foto de las mangueras, solo lo abajo está adecuada para la usa
-marinera. Tiene la franja celeste con la etiqueta "SAE J2006R2". Los otros
-son los que podía encontrar acá en Panamá. Necesito comprar la manguera
+En la foto de las tres mangueras, solo la abajo está adecuada para la usa
+marinera. Tiene la franja celeste con la etiqueta "SAE J2006R2". Las otras
+son las que podía encontrar acá en Panamá. Necesito comprar la manguera
 adecuada en EE. UU. con entrega en Miami. En Miami, una agencia contratado
 por la marina reenvía las paquetes acá. Es un proceso que a veces sale más
 de una mes.
