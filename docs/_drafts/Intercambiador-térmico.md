@@ -72,16 +72,40 @@ Los tamaños y los ubicaciones son distintos. Necesitaba conseguir mangueras
 nuevas y algunos nuevos accesorios de plombería para completar la
 instalación. Acá en Panamá es dificil encontrar los accesorios y la manguera
 adecuadas. Los accesorios son hechos de braso, cual oxida rapida, entre meses,
-en el aire salado. Las mangueras son de cualquier calidad para uso en un camión
-o auto.
+en el aire salado. Otros son de acero galvanizado, cuál no es malo. Otros
+son de aluminio. La mezcla de metales es un disastre debido a la corrosión
+galvánica. Abajo encontré un discurso más largo sobre la corrosión galvánica.
 
 ![Mangueras](
   {{ '/assets/images/2023/03ICT/Hoses.jpeg' | relative_url }}
 )
 
+Las mangueras son de cualquier calidad para uso en un camión o auto.
+En esta foto de las mangueras, solo lo abajo está adecuada para la usa
+marinera. Tiene la franca celeste con la etiqua "SAE J2006R2". Los otros
+son los que podía encontrar acá en Panamá. Necesito comprar la manguera
+adequada en EE. UU. con entrega en Miami. En Miami, una agencia contratado
+por la marina reenvia las paquetes acá. Es un proceso que a veces sale más
+de una mes.
+
+Abajo las mangueras, una instalada. Nota el cambio de tamaño por un
+acoplador. Necesito comprar partes adequadas, tambien en EE. UU., para poder
+reemplezar esta solución inovada con una manguera sola de tamaño siete
+octavos.
+
+Está muy sucio abajo, donde los pies del motor conectan con el casco.
+He limpiado allí ahora, a pesar de que está dificíl alcanzar. El cilindro
+al fondo de la foto es el aprendador eléctrico.
+
 ![Rescue Tape](
   {{ '/assets/images/2023/03ICT/RescueTape.jpeg' | relative_url }}
 )
+
+El "Rescue Tape" (cinta de fortuna) se me hace habilitado conectar una manguera de una pulgada
+con un conección de siete octavos. Al lado derecha un conección. Envolví
+la conección con la cinta de fortuna para enlargarlo. Conecté la manguera
+más o menos ajustada y lo apreté bien tirante con el abrazador. Por suerte,
+la sístema no es una de alta presura.
 
 ## Ánodo sacrificial
 
@@ -109,6 +133,10 @@ completamente consumido, y reemplezarlo cada unos meses. Cuando no voy
 estar con el velero por un periodo largo, necesito hacer algo para
 remover el agua salada adentro del ICT, o reemplezarlo con agua dulce o
 anticongelante.
+
+La obra entera cuesta en la vicinidad de U$S 1.200. Paga comprobar el
+ADS frecuentemente. Paga mantener el ICT cuidadosamente, para enlargar
+su vida.
 
 [inet]: https://inetmarine.com/skuni299818cnheatexchangercuni.aspx
 [cg]: https://es.wikipedia.org/wiki/Corrosi%C3%B3n_galv%C3%A1nica
