@@ -11,36 +11,36 @@ video_note: "{% include video.html source='2022/CorrientesDos.mp4' still='2022/C
 audio_note: "{% include audio.html source='/assets/audio/2021/Cantante.m4a' %}"
 ---
 
-La sistema para enfriar el motor-- para sacar el calor de combustión
+El sistema para enfriar el motor-- para sacar el calor de combustión
 -- usa un intercambiador térmico con agua del mar en lugar del radiador
 usado para motores terestiales.
-El motivo es que hay agua, cual tiene más capacidad térmica que el aire.
+El motivo es que hay agua, cuál tiene más capacidad térmica que el aire.
 Además, sería raro colgar un radiador afuera el casco del velero.
 
 ![Fluye del intercambiador térmico](
   {{ '/assets/images/2023/03ICT/IMG_0499.jpeg' | relative_url }}
 )
 
-El intercambiador térmico (podemos decir "ICT") es un cílindro con cuarenta
-centimetros de larga y un diametro de ocho centimetros. Adentro hay una
-red de tubos hechos de cuproníquel. El aleación produje resistencia
-de corosión con buena capacidad para conducir calor. Adentro el red de
+El intercambiador térmico (podemos decir "ICT") es un cilindro con cuarenta
+centímetros de largo y un diámetro de ocho centímetros. Adentro hay una
+red de tubos hechos de cuproníquel. La aleación produce resistencia
+de corrosión con buena capacidad para conducir calor. Adentro el red de
 tubos pasa agua del mar. Alrededorlos pasa el anticongelante (AC). El AC saca
 el calor del motor. El agua del mar saca el calor del AC y vuelva al mar por el
 escape.
 
 La foto muestra la circulación del agua del mar (celeste) y el AC (naranja).
 Los pulmones están afuera la foto hacia arriba, frente el motor, hacia la
-proa. El ICT es el cílindro plateado, abajo.
+proa. El ICT es el cilindro plateado, abajo.
 
 En las últimas navegaciones estaba notando que el nivel de AC
 baja cuando usaba el motor. (Es bueno estar atento a estas cosas.) No había
-AC ninguna adentro el compartamento del motor, ni fuga desde
-cualquier de los conexiones. Había solo una explicación. El AC
-estaba saliendo al mar con el agua de enfrio. Es decir, hay una fuga adentro
+AC ninguna dentro del compartimento del motor, ni fuga desde
+cualquier de las conexiones. Había solo una explicación. El AC
+estaba saliendo al mar con el agua de enfriado. Es decir, hay una fuga dentro
 del ICT.
 
-Este condición no era aceptable. De ninguna manera sea aceptable. El motor
+Esta condición no era aceptable. De ninguna manera es aceptable. El motor
 de mi velero estaba contaminando el ambiente de manera fea, o más fea que
 el normal.
 
@@ -48,32 +48,32 @@ el normal.
   {{ '/assets/images/2023/03ICT/IMG_0448.jpeg' | relative_url }}
 )
 
-Hay otros consideraciones menos graves pero importantes. Sacando el AC, noto
+Hay otras consideraciones menos graves pero importantes. Sacando el AC, noto
 que está diluido con agua del mar. Es decir que estaba circulando agua
-salado, corrosivo adentro el motor. Si me gusta un motor que anda, este
-situación debe ser resuelto pronto.
+salada, corrosiva dentro del motor. Si me gusta un motor que anda, esta
+situación debe ser resuelta pronto.
 
-Bueno, como ya dije, saqué el AC (diluido con agua del mar) para vaciar la
-sistema. Hay una valvula para sacarlo en la posición más baja. Usé una
-botella y un embudo para capturar el AC. Disponé del AC en el tanque de
+Bueno, como ya dije, saqué el AC (diluido con agua del mar) para vaciar el
+sistema. Hay una válvula para sacarlo en la posición más baja. Usé una
+botella y un embudo para capturar el AC. Dispone del AC en el tanque de
 aceite usado, proporcionado por la marina.
 
 Instalé un ICT nuevo, un Seakamp Universal 299818 M50 CUNI con identificación
-de parte SKUNI299818CN desde [iNet Marine][inet]. Lo les envian a Miami donde
-estaba reenviada acá, a la marina en Panamá. El costo con la entrega era
+de parte SKUNI299818CN desde [iNet Marine][inet]. Lo envían a Miami donde
+fue reenviada acá, a la marina en Panamá. El costo con la entrega era
 setecientos dólares.
 
 ![Partes](
   {{ '/assets/images/2023/03ICT/IMG_0480.jpeg' | relative_url }}
 )
 
-Naturalmente el ICT nuevo no tiene conecciones iguales con el ICT antiguo.
-Los tamaños y los ubicaciones son distintos. Necesitaba conseguir mangueras
-nuevas y algunos nuevos accesorios de plombería para completar la
-instalación. Acá en Panamá es dificil encontrar los accesorios y la manguera
-adecuadas. Los accesorios son hechos de braso, cual oxida rapida, entre meses,
+Naturalmente el ICT nuevo no tiene conexiones iguales con el ICT antiguo.
+Los tamaños y las ubicaciones son distintos. Necesitaba conseguir mangueras
+nuevas y algunos nuevos accesorios de plomería para completar la
+instalación. Acá en Panamá es difícil encontrar los accesorios y la manguera
+adecuada. Los accesorios son hechos de brazo, cual oxida rápida, entre meses,
 en el aire salado. Otros son de acero galvanizado, cuál no es malo. Otros
-son de aluminio. La mezcla de metales es un disastre debido a la corrosión
+son de aluminio. La mezcla de metales es un desastre debido a la corrosión
 galvánica. Abajo encontré un discurso más largo sobre la corrosión galvánica.
 
 ![Mangueras](
@@ -82,28 +82,28 @@ galvánica. Abajo encontré un discurso más largo sobre la corrosión galvánic
 
 Las mangueras son de cualquier calidad para uso en un camión o auto.
 En esta foto de las mangueras, solo lo abajo está adecuada para la usa
-marinera. Tiene la franca celeste con la etiqua "SAE J2006R2". Los otros
+marinera. Tiene la franja celeste con la etiqueta "SAE J2006R2". Los otros
 son los que podía encontrar acá en Panamá. Necesito comprar la manguera
-adequada en EE. UU. con entrega en Miami. En Miami, una agencia contratado
-por la marina reenvia las paquetes acá. Es un proceso que a veces sale más
+adecuada en EE. UU. con entrega en Miami. En Miami, una agencia contratado
+por la marina reenvía las paquetes acá. Es un proceso que a veces sale más
 de una mes.
 
 Abajo las mangueras, una instalada. Nota el cambio de tamaño por un
-acoplador. Necesito comprar partes adequadas, tambien en EE. UU., para poder
-reemplezar esta solución inovada con una manguera sola de tamaño siete
+acoplador. Necesito comprar partes adecuadas, también en EE. UU., para poder
+reemplazar esta solución inovadora con una manguera sola de tamaño siete
 octavos.
 
 Está muy sucio abajo, donde los pies del motor conectan con el casco.
-He limpiado allí ahora, a pesar de que está dificíl alcanzar. El cilindro
-al fondo de la foto es el aprendador eléctrico.
+He limpiado allí ahora, a pesar de que es difícíl alcanzar. El cilindro
+al fondo de la foto es el arranque eléctrico.
 
 ![Rescue Tape](
   {{ '/assets/images/2023/03ICT/RescueTape.jpeg' | relative_url }}
 )
 
 El "Rescue Tape" (cinta de fortuna) se me hace habilitado conectar una manguera de una pulgada
-con un conección de siete octavos. Al lado derecha un conección. Envolví
-la conección con la cinta de fortuna para enlargarlo. Conecté la manguera
+con un conexión de siete octavos. Al lado derecha un conexión. Envolví
+la conexión con la cinta de fortuna para enlargarlo. Conecté la manguera
 más o menos ajustada y lo apreté bien tirante con el abrazador. Por suerte,
 la sístema no es una de alta presura.
 
@@ -115,28 +115,32 @@ la sístema no es una de alta presura.
 
 Agua salada pasa por el ICT para enfriar el AC. Es decir que el interior
 del ICT está siempre sumergido en un electrolito. Con dos metales distintos,
-forma una batería. Los metales estan sujetidos al [corrosión galvánica][cg].
+forma una batería. Los metales están sujetos a [corrosión galvánica][cg].
 En el ICT, los dos metales son el acero del casco y el cuproníquel de los tubos
-adentro. El metal que sirve como ánodo de la batería disuelve en el agua
-salado. En el [serie galvánica][serie], el cuproníquel está mas bajo que el
+dentro. El metal que sirve como ánodo de la batería se disuelve en el agua
+salada. En el [serie galvánica][serie], el cuproníquel es más bajo que el
 acero inoxidable. Los tubos de cuproníquel sirven como un ánodo, debilitan y
 eventualmente fallan.
 
-Para evitar el corrosión y fallido temprano del ICT, el ICT incorpora
+Para evitar la corrosión y fallo temprano del ICT, el ICT incorpora
 un ánodo de sacrificio (ADS) adentro, en contacto con el agua salada. El ánodo
-de sacrificio es compuesto de zinc, el metal casi lo más bajo en el
+de sacrificio está compuesto de zinc, el metal casi lo más bajo en la
 serie galvánica. En la foto, podés ver un ADS parcialmente consumido.
 
-El corrosión galvánica adentro el ICT pasa siempre. No importa si el motor
+La corrosión galvánica dentro del ICT pasa siempre. No importa si el motor
 está usado. Es necesario comprobar frecuentemente que el ADS no está
-completamente consumido, y reemplezarlo cada unos meses. Cuando no voy
-estar con el velero por un periodo largo, necesito hacer algo para
-remover el agua salada adentro del ICT, o reemplezarlo con agua dulce o
+completamente consumido, y reemplazarlo cada unos meses. Cuando no voy a
+estár con el velero por un periodo largo, necesito hacer algo para
+remover el agua salada dentro del ICT, o reemplazarlo con agua dulce o
 anticongelante.
 
-La obra entera cuesta en la vicinidad de U$S 1.200. Paga comprobar el
-ADS frecuentemente. Paga mantener el ICT cuidadosamente, para enlargar
+La obra entera cuesta en la vecinidad de U$S 1.200. Paga comprobar el
+ADS frecuentemente. Paga mantener el ICT cuidadosamente, para alargar
 su vida.
+
+![Vista de la marina desde la popa de Brisa](
+  {{ '/assets/images/2023/03ICT/IMG_0751.jpeg' | relative_url }}
+)
 
 [inet]: https://inetmarine.com/skuni299818cnheatexchangercuni.aspx
 [cg]: https://es.wikipedia.org/wiki/Corrosi%C3%B3n_galv%C3%A1nica
