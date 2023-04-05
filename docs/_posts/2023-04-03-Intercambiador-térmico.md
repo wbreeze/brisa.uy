@@ -55,9 +55,9 @@ botella y un embudo para capturar el AC. Dispone del AC en el tanque de
 aceite usado, proporcionado por la marina.
 
 Instalé un ICT nuevo, un Seakamp Universal 299818 M50 CUNI con identificación
-de parte SKUNI299818CN desde [iNet Marine][inet]. Lo envían a Miami donde
-fue reenviada acá, a la marina en Panamá. El costo con la entrega era
-setecientos dólares.
+de parte SKUNI299818CN desde [iNet Marine][inet]. Arreglé que llega a la
+marina cual yo estaba en Uruguay.  El costo con la entrega era setecientos
+dólares.
 
 ![Partes](
   {{ '/assets/images/2023/03ICT/IMG_0480.jpeg' | relative_url }}
@@ -70,8 +70,8 @@ instalación.  Frecuentemente necesitaba combinar dos o tres accesorios para
 servir la función de uno. Los accesorios son hechos de brazo, cual oxida
 rápida, entre meses, en el aire salado. Otros son de acero galvanizado, cuál no
 es malo.  Otros son de aluminio. La mezcla de metales es un desastre debido a
-la corrosión galvánica. Abajo encontré un discurso más largo sobre la corrosión
-galvánica.
+la corrosión galvánica. (Abajo encontré un discurso más largo sobre la
+corrosión galvánica.)
 
 ![Mangueras](
   {{ '/assets/images/2023/03ICT/Hoses.jpeg' | relative_url }}
@@ -80,15 +80,11 @@ galvánica.
 Las mangueras son de cualquier calidad para uso en un camión o auto.
 En la foto de las tres mangueras, solo la abajo está adecuada para la usa
 marinera. Tiene la franja celeste con la etiqueta "SAE J2006R2". Las otras
-son las que podía encontrar acá en Panamá. Necesito comprar la manguera
-adecuada en EE. UU. con entrega en Miami. En Miami, una agencia contratado
-por la marina reenvía las paquetes acá. Es un proceso que a veces sale más
-de una mes.
+son las que podía encontrar acá en Panamá.
 
 Abajo las mangueras, una instalada. Nota el cambio de tamaño por un
-acoplador. Necesito comprar partes adecuadas, también en EE. UU., para poder
-reemplazar esta solución innovadora con una manguera sola de tamaño siete
-octavos. Me cuesta hacer eso. Estaba con náusea. Lo hice para adelantarme.
+acoplador. Lo reemplazaré lo antes posible con una manguera sola de tamaño
+siete octavos.
 
 Está muy sucio abajo, donde los pies del motor conectan con el casco.
 He limpiado allí ahora, a pesar de que es difícil alcanzar. El cilindro
@@ -98,11 +94,16 @@ al fondo de la foto es el arranque eléctrico.
   {{ '/assets/images/2023/03ICT/RescueTape.jpeg' | relative_url }}
 )
 
-El "Rescue Tape" (cinta de fortuna) se me hace habilitado conectar una manguera de una pulgada
-con un conexión de siete octavos. Al lado derecha un conexión. Envolví
-la conexión con la cinta de fortuna para enlargarlo. Conecté la manguera
-más o menos ajustada y lo apreté bien tirante con el abrazador. Por suerte,
-la sistema no es una de alta presura.
+El "Rescue Tape" (cinta de fortuna) se me hace habilitado conectar una manguera
+de una pulgada con un conexión de siete octavos. Al lado derecha un conexión.
+Envolví la conexión con la cinta de fortuna para enlargarlo. Conecté la
+manguera más o menos ajustada y lo apreté bien tirante con el abrazador. Por
+suerte, el sistema no es una de alta presura.
+
+Necesito comprar partes adecuadas y la manguera adecuada en EE. UU. con entrega
+en Miami. En Miami, una agencia contratado por la marina reenvía las paquetes
+acá. Es un proceso que a veces sale más de una mes.  Me cuesta hacer las
+soluciónes innavadoras. Estaba con náusea. Los hicen para adelantarme.
 
 ## Ánodo de sacrificio
 
@@ -131,9 +132,9 @@ estar con el velero por un periodo largo, necesito hacer algo para
 remover el agua salada dentro del ICT, o reemplazarlo con agua dulce o
 anticongelante.
 
-La obra entera cuesta aproximadamente U$S 1.200. Paga comprobar el
-ADS frecuentemente. Paga mantener el ICT cuidadosamente, para alargar
-su vida.
+La obra entera para reemplazar el ICT cuesta aproximadamente U$S 1.200. Paga
+comprobar el ADS frecuentemente. Paga mantener el ICT cuidadosamente, para
+alargar su vida.
 
 ![Vista de la marina desde la popa de Brisa](
   {{ '/assets/images/2023/03ICT/IMG_0751.jpeg' | relative_url }}
