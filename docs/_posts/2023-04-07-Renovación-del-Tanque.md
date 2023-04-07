@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Renovación del Tanque
-date: 2023-03-22
+date: 2023-04-07
 tags: mantenimiento gasoil Panamá motor
 excerpt: Los obreros en el astillero miran sin creer cual yo vertí dinero de
   forma líquida hacia el receptáculo del aceite usado.
@@ -45,9 +45,9 @@ La salida fue obstruida con la sustancia arenosa y negra desde el fondo.
   {{ '/assets/images/2023/04Tanque/Tapa.jpeg' | relative_url }}
 )
 
-Para reemplazar la tapa, hice un gasket nuevo, cortándolo
+Para reemplazar la tapa, hice un junto nuevo, cortándolo
 desde una hoja de caucho. Limpié el interior de la tapa,
-lo lije, y pinté una nueva etapa de epóxico. Limpié alrededor el agujo
+lo lije, y pinté una nueva etapa de epóxico. Limpié alrededor el agujero
 en al lado del tanque. Con todo listo, apliqué un cordón de Permatex número
 dos sellador flexible para cubrir los agujeros de los tornillos.
 Atornillé la etapa en su lugar.
@@ -57,11 +57,11 @@ Atornillé la etapa en su lugar.
 )
 
 La salida del tanque era armada con un codo, seguido por la válvula, seguido
-por un segundo codo, de tal manera que la válvula era horizontal.  Reemplecé
+por un segundo codo, de tal manera que la válvula era horizontal.  Reemplacé
 todo esto con solo una válvula para que la vía esté derecha, con la válvula
 orientada verticalmente.
 
-![Añadando gasoil con el filtro Baja](
+![Añadiendo gasoil con el filtro Baja](
   {{ '/assets/images/2023/04Tanque/IMG_0759.jpeg' | relative_url }}
 )
 
