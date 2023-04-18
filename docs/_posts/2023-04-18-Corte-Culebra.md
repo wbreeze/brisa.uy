@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Corte Culebra
-date: 2023-04-14
+date: 2023-04-18
 tags: Panamá canal
 excerpt: El Corte Culebra todavía molesta el canal de Panamá con
   deslizamientos.
@@ -52,7 +52,7 @@ McCullough, traducido por Francisco Gurza Irazoqui y Carmen Martinez Gimeno:
 > A partir de 1911, a medida que se iba ahondando el tajo, los deslizamientos
   ocurrían estación tras estación y cada vez eran peores.
 
-![Velero en el corte Gaillard, orrilla occidental](
+![Velero en el corte Gaillard, orilla occidental](
   {{ '/assets/images/2023/05Culebra/DSC02904.JPG' | relative_url }}
 )
 
