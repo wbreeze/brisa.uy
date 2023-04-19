@@ -22,9 +22,9 @@ corte Culebra.
 
 El corte Culebra estaba y todavía es la parte del canal que ofrece lo mayor
 de los contratiempos de construir y mantener el canal.  Su ubicación está por
-la travesía del divisó continental, donde cruzamos de la tierra cuya agua sale
-al Pacífico y la cuya agua sale al Caribe. Me sale fascinado por esta razón.
-Era la tierra más alta donde había la cantidad más grande de tierra
+la travesía del divisoria continental, donde cruzamos de la tierra cuya agua
+sale al Pacífico y la cuya agua sale al Caribe. Me sale fascinado por esta
+razón.  Era la tierra más alta donde había la cantidad más grande de tierra
 para excavar.
 
 Pasa que necesitaban excavar no solamente por la tierra más alta. 
@@ -110,7 +110,7 @@ Es claro que el Corte Culebra, o Corte Gaillard, tiene una geología
 insólita, en que la tierra fluye lentamente, de modo glacial hacia abajo.
 Representa un desafío inesperado para todos, y sale como la característica
 más problemática para la construcción y mantenimiento del canal.
-Más que la presa que forma el lago Gatún, más que las esclusas, más que
+Más que la represa que forma el lago Gatún, más que las esclusas, más que
 todo-- lo todo que era, por su mismo, impresionante.
 
 [pcacu]: https://pancanal.com/corte-culebra/
