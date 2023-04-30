@@ -10,8 +10,8 @@ excerpt: ¿Quién hubiera saber que puedo fabricar mis propios remos?
 idea.  Era un posibilidad. Un posibilidad distante. Un posibilidad a que me
 parecía un ilusión.
 
-![Remos de forma ruja](
-  {{ '/assets/images/2023/04Remos/RujaForma.jpg' | relative_url }}
+![Remos con el artesano](
+  {{ '/assets/images/2023/04Remos/SonRemos.jpg' | relative_url }}
 )
 
 Buscando remos para la lanchita, remos adecuados, remos que me permiten
@@ -33,15 +33,15 @@ con el palo flotando en el mar.
   {{ '/assets/images/2023/04Remos/DSC01568.JPG' | relative_url }}
 )
 
-Bueno, pasé por la tienda de materiales en Colón. Eran amables. Me venden
+Bueno. Pasé por la tienda de materiales en Colón. Eran amables. Me venden
 una longitud de madera dos por dos y no me roban. Tenía suerte. No solo
 tenían piña suave, con grano suelto, que solo se habrá astillado como los
 otros. Tenían algún tipo de madera dura, con grano firme. Parece que viene
 de algún ático donde he esperado años. Estaba cubertido con polvo, sucio,
 perfecto.
 
-![Remos con el artesano](
-  {{ '/assets/images/2023/04Remos/SonRemos.jpg' | relative_url }}
+![Haciendo los palos de los remos](
+  {{ '/assets/images/2023/04Remos/RujaForma.jpg' | relative_url }}
 )
 
 No se cómo sabía cortar palos e unirles con el manejo. Quizá es algún tipo
@@ -49,6 +49,8 @@ de conocimiento antiguo, recordado profundamente en el cerebro primitivo.
 Lo hice. Cepillé los bordes del manejo y el cuello donde el manejo se une
 con el palo. Los lijé. Sí. De nuevo [lijando][lij]. Los pinté y siguiente
 paso tengo remos.
+
+[lij]: {{ '/2022/10/08/Renovación-del-Casco-Muerto.html#lijando' | relative_url }}
 
 Son bién adecuados. Puedo esperar.
 
