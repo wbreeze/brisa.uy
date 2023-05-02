@@ -2,17 +2,16 @@
 layout: post
 title: Cruzando el Istmo de Panamá
 date: 2023-04-30
-tags:
+tags: canal Panamá navegación
 excerpt: Cruza por el Canál de Panamá desde el Caribe al Pacífico
-link_note: "[text for internal link]({{ '/2021/11/15/Sara-M.html' | relative_url }})"
 ---
 
-Te levantas antes del crepusculo. Te unes con la tripulacion de cinco,
+Te levantas antes del crepusculo. Te unes con la tripulacion de cuatro,
 minimo. Bebes café, tiras las lineas, y navegas afuera la marina,
 cuidadosamente. Un tripu de proa ilumina la vía con una linterna.
 
 Afuera, en Bahía Limón un agente del Canal de Panamá aborda tu velero.
-El es muy serio y de mal humor. No importas. Es su guia, el consejero.
+El es muy serio y de mal humor. No importas. Es tu guia, el consejero.
 Vas a cruzar por su canal desde el Caribe al océano Pacifico.
 
 ![description](
@@ -35,7 +34,7 @@ seguridad del canal. Lo toman con disciplina militar.
 
 El buque que compartirás las esclusas ya está en su lugar.
 Las esclusas no sirven uno o tres veleros. Les acomodan a ti con los
-espacios inutiles frente or atras un buque corto. De realidad los
+espacios inutiles frente or atrás un buque corto. De realidad los
 veleros recreativos son una pena para ellos. Sos un mosquito.
 Lo que ellos operan es una vía para el comercio del mundo, los marineros
 profesionales. Soportan con poco dispuesto tu actividad recreativa, tu
@@ -58,9 +57,9 @@ para segurar la balsa en el centro de la esclusa.
 )
 
 Las puertas grandes de la esclusa cierren atrás. Pronto, el agua alrededor
-empieza hervir. Corientes grandes circulan fuertamente al balsa intentando
-girarlo.  El nivel del agua empieza crecer. El tripu tiran las lineas para
-quedar la balsa segura. Los altos de los muros aproximan.
+empieza hervir. Corientes grandes circulan fuertamente alrededor de la balsa
+intentando girarlo.  El nivel del agua empieza crecer. El tripu tiran las
+lineas para quedar la balsa segura. Los altos de los muros aproximan.
 
 Llegando a lo alto, de arriba, puedes ver el crucero esperando su turno en las
 esclusas.
@@ -98,7 +97,7 @@ un brazo. Alguien allí te ve y devuelve el saludo.
 
 Arriba los muros de las esclusas hay carriles para las mulas, carritos
 que siguen los buques, atracados por cables, quedandoles centrados entre
-las muras. Son construido de forma del tren de cremallera, para tener poder
+las muras. Son construidos de forma del tren de cremallera, para tener poder
 subir las transiciones empinadas entre las esclusas.
 
 Los obreros manejando tus lineas desde los muros, siguiendote con las cuerdas,
@@ -152,8 +151,8 @@ al lado extremo del canal, abarcando con los boyes.
   {{ '/assets/images/2023/04Cruzando/DSC02872.JPG' | relative_url }}
 )
 
-A veces hay equipo del canal abandonado por las orillas o obras de
-manenemiento. Más comúnmente las orillas son rocosas bordes del bosque
+A veces hay equipamiento del canal abandonado por las orillas o obras de
+mantenemiento. Más comúnmente las orillas son rocosas bordes de un bosque
 que no ha sostenado pisto de nadie por decadas.
 
 ![description](
@@ -171,7 +170,7 @@ es aceser la selva prístina.
   {{ '/assets/images/2023/04Cruzando/Panama_Canal_Map_ES.png' | relative_url }}
 )
 
-Con la mitad del viaje y el lago Gatún atras, entras la parte estrecha del
+Con la mitad del viaje y el lago Gatún atrás, entras la parte estrecha del
 canal. En vez de tierra hundida con el inundación del lago, empiezas atraveser
 el serie de tramos cortados a costo de grandes sacrificios, a la empieza del
 siglo veinte.
@@ -211,8 +210,8 @@ remolcadores y lanchas de transporte.
 
 El punto culminante del viaje por los tramos es el pasaje por la divisoría
 continental, el tramo Culebra y el tramo Cucaracha. He escrito anteriormente
-sobre el [Corte Culebra][corte]. Es un gran logro de ingeniero hecho con
-equipo desde hace un siglo pasado.
+sobre el [Corte Culebra][corte]. Es un gran logro de ingeniero hizo con
+equipamiento desde hace un siglo pasado.
 
 [corte]: {{ '/2023/04/18/Corte-Culebra.html' | relative_url }}
 
@@ -223,7 +222,7 @@ Arriba, el corte ahora está coronado con el espectaculo del puente Centenario.
 )
 
 Pasando por una curva, te ves la primera de las esclusas que van a bajarte
-hacia el oceano Pacífico. Es la esclusa Pedro Miguel.
+hacia el océano Pacífico. Es la esclusa Pedro Miguel.
 
 ![description](
   {{ '/assets/images/2023/04Cruzando/IMG_0519.jpeg' | relative_url }}
@@ -232,7 +231,7 @@ hacia el oceano Pacífico. Es la esclusa Pedro Miguel.
   {{ '/assets/images/2023/04Cruzando/IMG_0523.jpeg' | relative_url }}
 )
 
-Esta vez atracan con una feria turística. Es un excursión del día, una
+Esta vez atracan con un trasbordador turística. Es un excursión del día, una
 aventura ofrecido para unos pasajeros del crucero. Te han alcanzado y
 entrado a la esclusa frente. El consejero quiere que atracas a su lado.
 
@@ -241,11 +240,11 @@ plataforma. El borde de la plataforma está casi arriba del francobordo de tu
 velero. Además, su tripu no tiene muchas ganas ayudar, especialmente con
 el consejero gritandole.
 
-Está más que poco precario atracar con la feria. Su tripu solta para
-subir las defensas al nivel de la plataforma cual el tripu de la feria
+Está más que poco precario atracar con el trasbordador. Tu tripu solta para
+subir las defensas al nivel de la plataforma cual el tripu del trasbordador
 atraca las lineas que arrastaran el velero y lo atraen hacia su lado.
 
-Desde los balcones de la feria han congregado un multidud para
+Desde los balcones del trasbordador han congregado un multidud para
 ser parte del escenario. Todavía no sos atracado seguramente cuando
 empiezan gritar sus preguntas. ¿De dónde son ustedes? ¿Cuánto tiempo han ido
 por el már? ¿Dónde les van?
@@ -256,9 +255,9 @@ por el már? ¿Dónde les van?
 
 Cual una parte de tu tripu está entrenando el multitud, otra parte han ido
 para asistir el velero atracando a suyo. Estás al medio, entre la plataforma
-de la feria y otro velero. Atrás viene el buque. Siempre hay un buque.
+del trasbordador y otro velero. Atrás viene el buque. Siempre hay un buque.
 Es una fortuna que está atrás. No necesitará esta balsa precaria
-sufrir los corientes de los helices de un buque frente.
+sufrir los corientes de los helices de un buque adelante.
 
 ![description](
   {{ '/assets/images/2023/04Cruzando/DSC02829.JPG' | relative_url }}
@@ -270,7 +269,7 @@ sufrir los corientes de los helices de un buque frente.
 Tu tripu navega frente al gran buque con confianza. Es una estrella
 valiente (Brave Star) de verdad. Navegas por el lago Miraflores
 a las esclusas Miraflores. Las esclusas Miraflores dan los últimos
-dos escalones para bajar al nivel actual del oceano Pacífico.
+dos escalones para bajar al nivel actuál del océano Pacífico.
 
 {% include video.html
   source='2023/EsclusaMiraflores.mp4'
@@ -280,7 +279,6 @@ dos escalones para bajar al nivel actual del oceano Pacífico.
 En el video se ves una balsa de tres veleros entrando a las esclusas Miraflores
 y bajando. Nota:
 
-- El puente Centario a distancia en lo alto y derecha del video.
 - Cuando la esclusa de un lado baja, la esclusa al otro suba. Es porque
   igualan el nivel de los dos esclusas, conservando agua. Después dejan
   entrar agua a la esclusa subiendo desde el canal arriba. Dejan salir
@@ -291,6 +289,7 @@ y bajando. Nota:
 - Como el agua hierve en la esclusa subiendo.
 - Con el fin, otro buque aproximando a la esclusa derecha y las puertas
   abriendo.
+- El puente Centario a distancia en lo alto y derecha al fin del video.
 
 ![description](
   {{ '/assets/images/2023/04Cruzando/DSC02935.JPG' | relative_url }}
