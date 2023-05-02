@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cruzando la Peninsula
+title: Cruzando el Istmo de Panamá
 date: 2023-04-30
 tags:
 excerpt: Cruza por el Canál de Panamá desde el Caribe al Pacífico
@@ -48,8 +48,10 @@ afán de expirimentar este vía acuatica unica entre dos mares.
 Navegando como una balsa de tres, entras la primera esclusa. Obreros sobre
 los muros por ambos lados tiran bolas con cuerdos atracados. El tripu
 de los veleros a ambos lados atracan sus lineas. Los obreros los retiran
-y los atracan sobre cornamusas grandes. El tripu tiran las lineas
+y los atracan sobre [noráis][noray] grandes. El tripu tiran las lineas
 para segurar la balsa en el centro de la esclusa.
+
+[noray]: https://es.wikipedia.org/wiki/Noray
 
 ![description](
   {{ '/assets/images/2023/04Cruzando/DSC02681.JPG' | relative_url }}
@@ -79,7 +81,7 @@ se va suelta, vas a tener un tiempo excitante.
 Cuando el agua en la esclusa se calma suficiente, los obreros al lado
 sueltan las lineas. Dejan las cuerdas con las bolas atracadas. Te siguien
 cual te navegas adelante a la proxima esclusa. Allí, tiran tus lineas
-y los atracan con cornamusas. Vas a repetir este procedimiento dos veces,
+y los atracan con noráis. Vas a repetir este procedimiento dos veces,
 para subir las tres esclusas.
 
 ![description](
@@ -181,7 +183,7 @@ siglo veinte.
   {{ '/assets/images/2023/04Cruzando/DSC02782.JPG' | relative_url }}
 )
 
-Ahora si no había quedando estrechamente por el extremo del canal, ahora
+Si no había quedando estrechamente por el extremo del canal, ahora
 sí, lo haces. Los buques pasan por ambos direcciones bien cerca.
 
 ![description](
@@ -266,12 +268,29 @@ sufrir los corientes de los helices de un buque frente.
 )
 
 Tu tripu navega frente al gran buque con confianza. Es una estrella
-valiente (Brave Star) de verdad.
+valiente (Brave Star) de verdad. Navegas por el lago Miraflores
+a las esclusas Miraflores. Las esclusas Miraflores dan los últimos
+dos escalones para bajar al nivel actual del oceano Pacífico.
 
 {% include video.html
-  source='2022/CorrientesDos.mp4'
-  still='2022/CostaRica/CorrientesUno.png'
+  source='2023/EsclusaMiraflores.mp4'
+  still='2023/04Cruzando/EsclusaMiraflores.png'
 %}
+
+En el video se ves una balsa de tres veleros entrando a las esclusas Miraflores
+y bajando. Nota:
+
+- El puente Centario a distancia en lo alto y derecha del video.
+- Cuando la esclusa de un lado baja, la esclusa al otro suba. Es porque
+  igualan el nivel de los dos esclusas, conservando agua. Después dejan
+  entrar agua a la esclusa subiendo desde el canal arriba. Dejan salir
+  agua desde la esclusa bajando hacia el canal debajo.
+- Desde 28 a 34 segundos, un gran buque "Evergreen" pasa en lo alto del
+  video. Este navega por el canal nuevo hacia las esclusas más amplias
+  inauguradas en 2016.
+- Como el agua hierve en la esclusa subiendo.
+- Con el fin, otro buque aproximando a la esclusa derecha y las puertas
+  abriendo.
 
 ![description](
   {{ '/assets/images/2023/04Cruzando/DSC02935.JPG' | relative_url }}
@@ -279,9 +298,28 @@ valiente (Brave Star) de verdad.
 ![description](
   {{ '/assets/images/2023/04Cruzando/DSC02938.JPG' | relative_url }}
 )
+
+La parte más temorosa es cuando las lanchas del canal aproximan para bajar
+o subir el consejero. Sus bariles son arriba suyos y tambien del tipo
+plataforma. Las defensas no sirven para mucho. La lancha pueda destruir
+los guardamancebos, y aplastar tu tripu, antes de encontrar las defensas
+por tu casco.
+
+El consejero se pone en peligro también, cruzando el espacio entre los dos
+botes. Te calmas con el pensamiento que el conductor de la lancha lo hace
+multiples veces por día.
+
 ![description](
   {{ '/assets/images/2023/04Cruzando/DSC02941.JPG' | relative_url }}
 )
+
+Con el consejero suprimido, podes navegar de nuevo como tu propio jefe.
+Tomas un amarre del Club de Yates Balboa. Tranquilamente, te ves el puesto
+del sol atrás del puente de Las Américas. Era una día larga. Por suerte,
+has cruzado desde un lado al otro de un continente.
+Agradeces los miles de manos, seres humanos y hermanos vivos y muertos,
+que construyeran, mantienen y manejan esta vía entre dos mares.
+
 ![El fotógrofo en Corte Culebra](
   {{ '/assets/images/2023/04Cruzando/fotógrafo.jpg' | relative_url }}
 )
