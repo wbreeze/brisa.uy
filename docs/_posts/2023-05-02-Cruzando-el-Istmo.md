@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Cruzando el Istmo de Panamá
-date: 2023-04-30
+date: 2023-05-02
 tags: canal Panamá navegación
-excerpt: Cruza por el Canál de Panamá desde el Caribe al Pacífico
+excerpt: Cruza por el Canal de Panamá desde el Caribe al Pacífico
 ---
 
 Te levantas antes del crepúsculo. Te unes con la tripulación de cuatro,
-minimo. Bebes café, tiras las líneas, y navegas afuera la marina,
+mínimo. Bebes café, tiras las líneas, y navegas afuera la marina,
 cuidadosamente. Un tripu de proa ilumina la vía con una linterna.
 
 Afuera, en Bahía Limón, un agente del Canal de Panamá aborda tu velero.
@@ -49,7 +49,7 @@ afán de experimentar esta vía acuática única entre dos mares.
 Navegando como una balsa de tres, entran en la primera esclusa. Obreros sobre
 los muros por ambos lados tiran bolas con cuerdas atracadas. El tripu
 de los veleros a ambos lados atracan sus líneas. Los obreros los retiran
-y los atracan sobre [noráis][noray] grandes. El tripu tiran las líneas
+y los atracan sobre [norays][noray] grandes. El tripu tiran las líneas
 para asegurar la balsa en el centro de la esclusa.
 
 [noray]: https://es.wikipedia.org/wiki/Noray
@@ -82,17 +82,17 @@ con su propio poder. Sus hélices crean una nueva vorágine. Los corrientes
 tiran de nuevo sobre tu balsa. Solo puedes mirar, aguardando. Si una línea
 se va suelta, vas a tener un tiempo excitante.
 
-![De arriba en la primera esclusa Gatún, con un cruzero afuera, esperando](
+![De arriba en la primera esclusa Gatún, con un crucero afuera, esperando](
   {{ '/assets/images/2023/04Cruzando/DSC02685.JPG' | relative_url }}
 )
 
 Cuando el agua en la esclusa se calma suficiente, los obreros al lado
-sueltan las líneas. Dejan las cuerdas con las bolas atracadas. Te siguien
+sueltan las líneas. Dejan las cuerdas con las bolas atracadas. Te siguen
 cual te navegas adelante a la próxima esclusa. Allí, tiran tus líneas
-y los atracan con noráis. Vas a repetir este procedimiento dos veces,
+y los atracan con norays. Vas a repetir este procedimiento dos veces,
 para subir las tres esclusas.
 
-![Huespedes del crucero congregados por su balcones para ver las esclusas](
+![Huéspedes del crucero congregados por su balcones para ver las esclusas](
   {{ '/assets/images/2023/04Cruzando/DSC02703.JPG' | relative_url }}
 )
 
@@ -118,7 +118,7 @@ sueltan tus líneas sin sus cuerdas. Afuera de la última esclusa, los otros
 veleros también se sueltan. Dejando la balsa, sos libre, independiente de
 nuevo.
 
-![Buque en el lago Gatún y veleros delantes](
+![Buque en el lago Gatún y veleros adelantes](
   {{ '/assets/images/2023/04Cruzando/DSC02721.JPG' | relative_url }}
 )
 
@@ -138,14 +138,14 @@ Es insólito verles tan cerca de la costa, sin puerto destino, flotando en el
 cielo. Las nubes se sienten más bajas, moviéndose como sombras invertidas de
 los buques.
 
-![Un buque de contenadores en el lago Gatún](
+![Un buque de contenedores en el lago Gatún](
   {{ '/assets/images/2023/04Cruzando/DSC02871.JPG' | relative_url }}
 )
 
 Los buques pasan cerca, y no te sientes amenazada. El consejero te quedas
 al lado extremo del canal, abarcando con los boyes.
 
-![Buques crucando en el lago Gatún](
+![Buques cruzando en el lago Gatún](
   {{ '/assets/images/2023/04Cruzando/DSC02875.JPG' | relative_url }}
 )
 ![Buque con boyes y la costa en el lago Gatún](
@@ -179,7 +179,7 @@ siglo veinte.
 ![Buque con remolcador en el canal de Panamá](
   {{ '/assets/images/2023/04Cruzando/IMG_0788.jpeg' | relative_url }}
 )
-![Buque de contenadores pasando opuesto en el canal de Panamá](
+![Buque de contenedores pasando opuesto en el canal de Panamá](
   {{ '/assets/images/2023/04Cruzando/DSC02782.JPG' | relative_url }}
 )
 
@@ -277,7 +277,7 @@ dos escalones para bajar al nivel actual del océano Pacífico.
   still='2023/04Cruzando/EsclusaMiraflores.png'
 %}
 
-En el video vé una balsa de tres veleros entrando a las esclusas Miraflores
+En el vídeo vé una balsa de tres veleros entrando a las esclusas Miraflores
 y bajando. Nota:
 
 - Cuando la esclusa de un lado baja, la esclusa al otro sube. Es porque
@@ -285,12 +285,12 @@ y bajando. Nota:
   entrar agua a la esclusa subiendo desde el canal arriba. Dejan salir
   agua desde la esclusa bajando hacia el canal debajo.
 - Desde 28 a 34 segundos, un gran buque "Evergreen" pasa en lo alto del
-  video. Este navega por el canal nuevo hacia las esclusas más amplias
+  vídeo. Este navega por el canal nuevo hacia las esclusas más amplias
   inauguradas en 2016.
 - Como el agua hierve en la esclusa subiendo.
 - Con el fin, otro buque se aproxima a la esclusa derecha y las puertas
   empiezan a abrir.
-- El puente Centenario a distancia en lo alto y a la derecha al final del video.
+- El puente Centenario a distancia en lo alto y a la derecha al final del vídeo.
 
 ![Lancha del canal de Panamá aproximando a un velero para bajar un consejero](
   {{ '/assets/images/2023/04Cruzando/DSC02935.JPG' | relative_url }}
@@ -320,6 +320,6 @@ has cruzado desde un lado al otro de un continente.
 Puedes agradecer los miles de manos, seres humanos y hermanos vivos y muertos,
 que construyeron, mantienen y manejan esta vía entre dos mares.
 
-![El fotógrofo en Corte Culebra](
+![El fotógrafo en Corte Culebra](
   {{ '/assets/images/2023/04Cruzando/fotógrafo.jpg' | relative_url }}
 )
