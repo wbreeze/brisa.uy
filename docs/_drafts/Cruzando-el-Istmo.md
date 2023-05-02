@@ -14,7 +14,7 @@ Afuera, en Bahía Limón, un agente del Canal de Panamá aborda tu velero.
 Él es muy serio y de mal humor. No importas. Es tu guía, el consejero.
 Vas a cruzar por su canal desde el Caribe al océano Pacifico.
 
-![description](
+![Navegantes y consejero entrando al canal de Panamá, seguido por un crucero](
   {{ '/assets/images/2023/04Cruzando/DSC02665.JPG' | relative_url }}
 )
 
@@ -30,7 +30,7 @@ entender la situación plena y los objetivos sería necesario hacerle preguntas.
 Ellos tienen una responsabilidad grande, para la seguridad suya y la
 seguridad del canal. Lo toman con disciplina militar.
 
-![description](
+![Entrando a la esclusa Gatún desde el Caribe](
   {{ '/assets/images/2023/04Cruzando/DSC02671.JPG' | relative_url }}
 )
 
@@ -42,7 +42,7 @@ Lo que ellos operan es una vía para el comercio del mundo, los marineros
 profesionales. Soportan con poco dispuesto tu actividad recreativa, tu
 afán de experimentar esta vía acuática única entre dos mares.
 
-![description](
+![Dentro una esclusa con las puertas cerrando atrás](
   {{ '/assets/images/2023/04Cruzando/DSC02676.JPG' | relative_url }}
 )
 
@@ -108,7 +108,7 @@ Te das una mañana energética para ellos.
 También arriba los muros te notas un edificio que tiene vista de todo. Allí
 controlan las puertas y las válvulas para subir y bajar los buques.
 
-![description](
+![Saliendo las esclusas Gatún hacia el lago](
   {{ '/assets/images/2023/04Cruzando/DSC02718.JPG' | relative_url }}
 )
 
@@ -118,7 +118,7 @@ sueltan tus líneas sin sus cuerdas. Afuera de la última esclusa, los otros
 veleros también se sueltan. Dejando la balsa, sos libre, independiente de
 nuevo.
 
-![description](
+![Buque en el lago Gatún y veleros delantes](
   {{ '/assets/images/2023/04Cruzando/DSC02721.JPG' | relative_url }}
 )
 
@@ -130,7 +130,7 @@ Los grandes buques oceanográficos parecen fuera de sus lugares, moviéndose
 más como naves espaciales, animales enormes caminando con puntillas por la
 vía restringida.
 
-![description](
+![Buques en el lago Gatún](
   {{ '/assets/images/2023/04Cruzando/DSC02865.JPG' | relative_url }}
 )
 
@@ -138,17 +138,17 @@ Es insólito verles tan cerca de la costa, sin puerto destino, flotando en el
 cielo. Las nubes se sienten más bajas, moviéndose como sombras invertidas de
 los buques.
 
-![description](
+![Un buque de contenadores en el lago Gatún](
   {{ '/assets/images/2023/04Cruzando/DSC02871.JPG' | relative_url }}
 )
 
 Los buques pasan cerca, y no te sientes amenazada. El consejero te quedas
 al lado extremo del canal, abarcando con los boyes.
 
-![description](
+![Buques crucando en el lago Gatún](
   {{ '/assets/images/2023/04Cruzando/DSC02875.JPG' | relative_url }}
 )
-![description](
+![Buque con boyes y la costa en el lago Gatún](
   {{ '/assets/images/2023/04Cruzando/DSC02872.JPG' | relative_url }}
 )
 
@@ -156,7 +156,7 @@ A veces hay equipamiento del canal abandonado por las orillas o obras de
 mantenimiento. Más comúnmente las orillas son rocosas bordes de un bosque
 que no ha sostenido pisto de nadie por décadas.
 
-![description](
+![El Smithsonian Isla Barro Colorado](
   {{ '/assets/images/2023/04Cruzando/DSC02880.JPG' | relative_url }}
 )
 
@@ -167,7 +167,7 @@ es acceder a la selva prístina.
 
 [smith]: https://stri.si.edu/es/visitenos/isla-barro-colorado
 
-![description](
+![Mapa del canal de Panamá](
   {{ '/assets/images/2023/04Cruzando/Panama_Canal_Map_ES.png' | relative_url }}
 )
 
@@ -176,17 +176,17 @@ canal. En vez de tierra hundida con el inundación del lago, empiezas atravesar
 una serie de tramos cortados a costo de grandes sacrificios, a la empieza del
 siglo veinte.
 
-![description](
+![Buque con remolcador en el canal de Panamá](
   {{ '/assets/images/2023/04Cruzando/IMG_0788.jpeg' | relative_url }}
 )
-![description](
+![Buque de contenadores pasando opuesto en el canal de Panamá](
   {{ '/assets/images/2023/04Cruzando/DSC02782.JPG' | relative_url }}
 )
 
 Si no había quedado estrechamente por el extremo del canal, ahora
 sí, lo haces. Los buques pasan por ambas direcciones bien cerca.
 
-![description](
+![Velero en el Tramo Las Cascadas, canal de Panamá](
   {{ '/assets/images/2023/04Cruzando/DSC02881.JPG' | relative_url }}
 )
 
@@ -194,7 +194,7 @@ Hay vistas hermosas. Por los cerros de ambos lados paran las paneles
 utilizados por los buques para quedarles alineados visualmente con la ruta
 dentro del canal.
 
-![description](
+![Remolcador del canal de Panamá](
   {{ '/assets/images/2023/04Cruzando/DSC02795.JPG' | relative_url }}
 )
 
@@ -202,10 +202,10 @@ A pesar del tamaño de los buques, el diseño de sus cascos produce una estela
 mínima. Las estelas grandes vienen de los buques obreros, como los
 remolcadores y lanchas de transporte.
 
-![description](
+![Puente Centenario](
   {{ '/assets/images/2023/04Cruzando/DSC02808.JPG' | relative_url }}
 )
-![description](
+![Velero en el Tramo Cucaracha con el Puente Centenario en el fondo](
   {{ '/assets/images/2023/04Cruzando/DSC02818.JPG' | relative_url }}
 )
 
@@ -218,17 +218,17 @@ equipamiento desde hace un siglo pasado.
 
 Arriba, el corte ahora está coronado con el espectáculo del puente Centenario.
 
-![description](
+![Aproximando las esclusas Pedro Miguel desde arriba](
   {{ '/assets/images/2023/04Cruzando/DSC02814.JPG' | relative_url }}
 )
 
 Pasando por una curva, ves la primera de las esclusas que se van bajando
 hacia el océano Pacífico. Es la esclusa Pedro Miguel.
 
-![description](
+![La esclusa Pedro Miguel con una balsa de veleros y un transbordador](
   {{ '/assets/images/2023/04Cruzando/IMG_0519.jpeg' | relative_url }}
 )
-![description](
+![Buque entrando a la esclusa Miraflores](
   {{ '/assets/images/2023/04Cruzando/IMG_0523.jpeg' | relative_url }}
 )
 
@@ -250,7 +250,7 @@ ser parte del escenario. Todavía no te has atracado seguramente cuando
 empiezan a gritar sus preguntas. ¿De dónde son ustedes? ¿Cuánto tiempo han
 pasado en el mar? ¿Dónde van?
 
-![description](
+![Buque atrás una balsa de botes en la esclusa Miraflores](
   {{ '/assets/images/2023/04Cruzando/DSC02826.JPG' | relative_url }}
 )
 
@@ -260,10 +260,10 @@ del transbordador y otro velero. Atrás viene el buque. Siempre hay un buque.
 Es una fortuna que está atrás. No necesitará esta balsa precaria
 sufrir la turbulencia de las hélices de un buque adelante.
 
-![description](
+![Buque con mulo del canal de Panamá](
   {{ '/assets/images/2023/04Cruzando/DSC02829.JPG' | relative_url }}
 )
-![description](
+![Buque atrás de velero entre una esclusa del canal de Panamá](
   {{ '/assets/images/2023/04Cruzando/DSC02932.JPG' | relative_url }}
 )
 
@@ -292,10 +292,10 @@ y bajando. Nota:
   empiezan a abrir.
 - El puente Centenario a distancia en lo alto y a la derecha al final del video.
 
-![description](
+![Lancha del canal de Panamá aproximando a un velero para bajar un consejero](
   {{ '/assets/images/2023/04Cruzando/DSC02935.JPG' | relative_url }}
 )
-![description](
+![Consejero bajando desde un velero hacia una lancha del canal de Panamá](
   {{ '/assets/images/2023/04Cruzando/DSC02938.JPG' | relative_url }}
 )
 
@@ -309,7 +309,7 @@ El consejero se pone en peligro también, cruzando el espacio entre los dos
 botes. Te calmas con el pensamiento que el conductor de la lancha lo hace
 múltiples veces por día.
 
-![description](
+![Atardecer con una lancha y el puente de las Américas](
   {{ '/assets/images/2023/04Cruzando/DSC02941.JPG' | relative_url }}
 )
 
