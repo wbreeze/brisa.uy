@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Prueba de Mar
-date: 2023-05-04
+date: 2023-05-05
 tags: Navegación mantenimiento timón Panamá
 excerpt: Una navegación al fin. El tres de mayo salí de la marina para una
-  navegación corta. Grabé video, incluso del timón de viento.
+  navegación corta. Grabé vídeo, incluso del timón de viento.
 ---
 
 El tres de mayo salí de la marina para una navegación corta.
@@ -33,12 +33,12 @@ Al final, probé el timón de viento. Lo he renovado.
   {{ '/assets/images/2023/05Prueba/IMG_0852.jpg' | relative_url }}
 )
 
-En el video verás Brisa navegando con velas, con buques fondeados alrededor.
+En el vídeo verás Brisa navegando con velas, con buques fondeados alrededor.
 Siga con dos rizos en el mayor, a pesar de que sólo había diez nudos de viento.
 Quería una navegación tranquila para probar el timón de viento.
 No me jodas por no tirar las lanzas.
 
-Puse mi celular en situación de peligro para grabar video del timón de
+Puse mi celular en situación de peligro para grabar vídeo del timón de
 viento en el agua. Los segmentos a cámara lenta tienen color más suave
 para distinguir la velocidad verdadera, que a veces parece lenta.
 Brisa estaba yendo con cinco nudos por promedio.
