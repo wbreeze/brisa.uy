@@ -48,11 +48,11 @@ permanente. A mi me cuesta también salir, y despedirse de su compañía.
 
 No salía del velero ninguna de los días, con excepción de meterme brevemente
 en el agua unas veces. Estaba demasiado perezoso para zarpar la lanchita, bien
-tranquilo y contento, a pesar de que ví unos lugares por la orilla
+tranquilo y contento, a pesar de que vi unos lugares por la orilla
 accesibles para bajar a tierra y explorar un poco de la selva. Estaba
 contento con los pájaros.
 
-He traído un app en el celular, [Merlin, del Laboratorio de Ornitología de
+He traído un app en el celular, [Merlín, del Laboratorio de Ornitología de
 Cornell][merlin] que identifica pájaros por sus sonidos. Funciona sin internet.
 (Eso era un gran plus porque internet no tenía.) El pájaro más común era
 el loro [Amazona farinosa][loro]. Volaron en pares, graznando ruidosamente, con
@@ -120,7 +120,7 @@ breves.
   still='2023/05Chagres/RíoChagres.png'
 %}
 
-El video hice por la tarde, la hora del té. Podés ver y oír como apacible
+El vídeo hice por la tarde, la hora del té. Podes ver y oír como apacible
 estaba allí, casi siempre. Les doy un panorama del agua, la selva, y el cielo
 alrededor allí fondeado en el río. Es acompañada con los sonidos de los
 pájaros por todos lados.
