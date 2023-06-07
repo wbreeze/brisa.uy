@@ -1,22 +1,23 @@
 .pagination {
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    margin-bottom: 1ex;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-bottom: 1ex;
 
   .previous {
     padding-right: 0.5em;
-    flex: 1;
+    flex-grow: 1;
   }
 
   .page_number {
-    flex: 1;
-    text-align: right;
+    text-align: center;
+    flex-grow: 1;
+    flex-shrink: 1;
   }
 
   .next {
-      flex: 1;
-      padding-left: 0.5em;
-      text-align: right;
+    flex-grow: 1;
+    padding-left: 0.5em;
+    text-align: right;
   }
 }

@@ -58,13 +58,16 @@ cartas escritas a mis queridas amig@s uruguayas.</p>
         >Próximas</a>
       </div>
     {% endif %}
-    <span class="page_number ">
+    <div class="page_number ">
       Página: {{ paginator.page }} de {{ paginator.total_pages }}
-    </span>
+    </div>
     {% if paginator.next_page %}
-      <a
-        href="{{ paginator.next_page_path | append: '#página' }}" class="next"
-      >Anteriores</a>&nbsp;<span aria-hidden="true">&raquo;</span>
+      <div class="next">
+      <a href="{{ paginator.next_page_path | append: '#página' }}" class="next"
+      >Anteriores</a>&nbsp;<span aria-hidden="true">&raquo;</span> |
+      <a href="{{ '/page' | append: paginator.total_pages | append: '#página' }}"
+      >Primeras</a>&nbsp;<span aria-hidden="true">&raquo;&raquo;</span>
+      </div>
     {% endif %}
   </div>
 {% endif %}
