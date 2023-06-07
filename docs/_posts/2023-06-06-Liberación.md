@@ -59,7 +59,7 @@ para que funcione bien de nuevo.
 )
 - Otros proyectos pequeños de mantenimiento en el interior.
 
-[enfría]: {{ '/2023/04/03/Intercambiador-t%C3%A9rmico.html' | relative_url }}
+[enfria]: {{ '/2023/04/03/Intercambiador-t%C3%A9rmico.html' | relative_url }}
 [tanque]: {{ '/2023/04/07/Renovaci%C3%B3n-del-Tanque.html' | relative_url }}
 [remos]: {{ '/2023/04/29/Remos.html' | relative_url }}
 
