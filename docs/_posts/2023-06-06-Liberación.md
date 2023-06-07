@@ -11,9 +11,9 @@ excerpt: La hora ha llegada liberarme del muelle tras el éxito de muchas
   {{ '/assets/images/2023/06Liberación/amarrado.jpg' | relative_url }}
 )
 
-Ahora me aburro de la marina. Desde mi vuelta en marzo, tres meses atrás,
-he logrado las mejoras necesarias para seguir navegando y una gran variedad de
-proyectos mejor hechos con acceso a un taller.
+Ahora me siento oprimido por la marina, restringido. Desde mi vuelta en marzo,
+tres meses atrás, he logrado las mejoras necesarias para seguir navegando y una
+gran variedad de proyectos mejor hechos con acceso a un taller.
 
 - [Renoví la sistema de enfría][enfria] para el motor, incluyendo el
 intercambiador de calor.
@@ -75,6 +75,9 @@ Hice bastante. Entre si, [crucé por el canal][canal] dos veces,
 ![Amigos en el muelle de Shelter Bay, Panamá](
   {{ '/assets/images/2023/06Liberación/amigos.jpg' | relative_url }}
 )
+
+He hecho buenos amigos acá. Me cuesta separarme de ellos. Quedaremos en
+contacto, algunos. Experimentamos nuevas aventuras para compartir.
 
 Ya viene la hora saltar las líneas de amarre para abrir un nuevo capítulo
 en la bitácora, explorar los fondeaderos y disfrutar la vida plena afuera,
