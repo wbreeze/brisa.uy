@@ -15,6 +15,6 @@ plugins:
 paginate: 7
 
 header_pages:
- - index.md
+ - index.html
  - sobre.md
  - conecta.md
