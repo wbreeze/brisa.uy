@@ -1,31 +1,34 @@
 ---
 layout: post
-title: Visita de Edgar y Roberta
-date: 2023-06-28
+title: Nuestra primera visita a Brisa...
+date: 2023-05-26
 tags: Panamá amigos
 excerpt: Los medios de Mayo visitó Edgar y Roberta del Nautilus Yacht Club.
   Acá Edgar comparta su relato de la aventura.
-link_note: "[text for internal link]({{ '/2021/11/15/Sara-M.html' | relative_url }})"
-image_note: "![image description]({{ '/assets/images/image.jpeg' | relative_url }})"
-audio_note: "{% include audio.html source='/assets/audio/2021/Cantante.m4a' %}"
 author: Edgar Ecker
 ---
 
-## Nuestra primera visita a Brisa…
-
 Luego de una irresistible invitación de nuestro querido amigo Douglas fuimos a
 visitarlo a Panamá. El 19 de mayo abordamos en Carrasco con mi esposa Roberta
-nuestro vuelo directo a Panamá con COPA. Primera experiencia con esta línea
+nuestro vuelo directo a Panamá con COPA.
+
+Primera experiencia con esta línea
 aérea. Fue muy fácil la reservación, la página Web, el check-in online, la
 información de los requisitos para entrar en Panamá (ninguno para uruguayos hoy
 en día). En definitiva, una impresión muy profesional. Había tres vuelos
 distintos. Elegimos el vuelo de las 11:00 de la mañana por ser un horario muy
-cómodo. Llega 17:00 al aeropuerto de Tocumen en Panamá City. El vuelo de 7:30
+cómodo. Llega 17:00 al aeropuerto de Tocumen en Panamá City.
+
+El vuelo de 7:30
 horas es sumamente tolerable volando en Economy. La comida, a pesar de haber
 sido pasta, fue excelente. En mi caso que por estar casado con una italiana
 tengo bastante experiencia en esta comida jeje. Si se elige la ventanilla del
 lado derecho (para evitar el sol durante el vuelo que dura toda la tarde…) es
 muy interesante observar la variada geografía sudamericana.
+
+![Ruta desde el club Nautilus](
+  {{ '/assets/images/2023/05Visita/NautilusYRuta.jpg' | relative_url }}
+)
 
 ## Vuelo por COPA
 
@@ -38,8 +41,16 @@ inconfundible piscina azul) para darle nuestro último saludo.
 
 Desde el imponente Rio Uruguay… hasta los meandros del Amazonas…
 
+![Dos ríos](
+  {{ '/assets/images/2023/05Visita/Rios.jpg' | relative_url }}
+)
+
 Finalmente luego de 7:30 aterrizamos en medio del imponente skyline de Panama
 City.
+
+![Ciudad Panamá](
+  {{ '/assets/images/2023/05Visita/IMG_0936.jpeg' | relative_url }}
+)
 
 Al llegar al aeropuerto de Tocumen y pasar por la Aduana había unos perros de
 narcóticos que por suerte no les intereso el cargamento de yerba mate y adobe
@@ -101,11 +112,19 @@ Luego de un viaje de 1:30 por una carretera recién reconstruida llegamos a la
 lujosa marina Shelter Bay dónde está Brisa con su capitán esperándonos en la
 entrada.
 
+![Llegada a Shelter Bay](
+  {{ '/assets/images/2023/05Visita/ShelterBay.jpg' | relative_url }}
+)
+
 Fue muy emotivo encontrarnos con Douglas en un lugar tan alejado de todo ya que
 íbamos con Roberta decidimos quedarnos a dormir en un hotel que hay dentro de
 las instalaciones de la Marina así que luego dejar el equipaje fuimos a conocer
 a Brisa que había sido pintado hace poco de color azul turquesa y se confundía
 con las transparentes aguas del Caribe.
+
+![Douglas y Edgar con Brisa](
+  {{ '/assets/images/2023/05Visita/IMG_0896_Crop.jpeg' | relative_url }}
+)
 
 El barco estaba impecable. Se ve que Douglas había trabajado arduamente en los
 días anteriores. Se podía comer en la sentina literalmente. Luego de conocer el
@@ -134,16 +153,24 @@ cableros. El cruce en sí mismo demora unas 36 horas y cuesta muuuuchos dólares
 ## Zona selvática
 
 Por la tarde hicimos una excursión por una zona selvática qué hay atrás de la
-Marina y llegamos a un a una fortificación abandonada del la US Navy que tenía
-cañones escondidos en medio de la selva en unas fortificaciones de hormigón con
-túneles y habitaciones abandonadas qué exploramos a pesar de los murciélagos.
-Desde allí los Estados Unidos controlaban los accesos al Canal y en caso de
-conflicto podían disparar desde esas posiciones. El lugar es extremadamente
-selvático. Había que ir un poco mejor equipados de lo que fuimos nosotros por
-las víboras y demás animales que no quisiera saber que nos estaban mirando en
-esa selva.
+Marina y llegamos a un a una fortificación abandonada del la armada
+estadounidense que tenía cañones escondidos en medio de la selva en unas
+fortificaciones de hormigón con túneles y habitaciones abandonadas qué
+exploramos a pesar de los murciélagos.  Desde allí los Estados Unidos
+controlaban los accesos al Canal y en caso de conflicto podían disparar desde
+esas posiciones. El lugar es extremadamente selvático. Había que ir un poco
+mejor equipados de lo que fuimos nosotros por las víboras y demás animales que
+no quisiera saber que nos estaban mirando en esa selva.
+
+![fortificación abandonada](
+  {{ '/assets/images/2023/05Visita/IMG_0942.jpeg' | relative_url }}
+)
 
 Cenamos en brisa con un pan recién horneado por el capitán…
+
+![Douglas con pan](
+  {{ '/assets/images/2023/05Visita/IMG_0943.jpeg' | relative_url }}
+)
 
 ## Un día navegación
 
@@ -155,6 +182,10 @@ marina y Douglas tuvo que bucear para retirar el sargazo de abajo del barco.
 
 Después tuvo que descontaminar ese sargazo… jaja
 
+![Nadando con el sargazo](
+  {{ '/assets/images/2023/05Visita/Sargazo.jpg' | relative_url }}
+)
+
 Finalmente pudimos salir y llegamos a mar abierto a la zona de espera para la
 entrada al canal del canal a Panamá. O sea es una zona de anclaje de barcos muy
 grandes parecidas a las que hay frente a Pocitos donde lejos en el horizonte se
@@ -165,16 +196,31 @@ del Canal de Panamá que quería saber nuestras intenciones. Fue muy interesante
 tuvimos la oportunidad de navegar y ver la complejidad y la majestuosidad de
 Brisa en altamar.
 
+![Edgar y Roberta navegando](
+  {{ '/assets/images/2023/05Visita/IMG_0946.jpeg' | relative_url }}
+)
+![Brisa escorrado](
+  {{ '/assets/images/2023/05Visita/IMG_0947.jpeg' | relative_url }}
+)
+
 En cierto momento y haciendo alarde de sus competencias el capitán decidió
 navegar en esa complicada zona con piloto automático. Les dejo el video en el
-siguiente, para posteridad.
+siguiente, para posteridad. Enciende el audio para la narración.
 
 {% include video.html
-  source='https://photos.google.com/photo/AF1QipOuCYtX5XgyhPjVWPPvZbSiB_or5evl0aPFjtPd'
-  still='2022/CostaRica/CorrientesUno.png'
+  source='2023/NavegandoConEdgar.mov'
+  still='2023/05Visita/NavegandoConEdgar.jpeg'
 %}
 
-Finalmente volvimos a la Marina con el timón a cargo de la Capitana …
+![Douglas con cámera](
+  {{ '/assets/images/2023/05Visita/IMG_0949.jpeg' | relative_url }}
+)
+
+Finalmente volvimos a la Marina con el timón a cargo de la Capitana.
+
+![Douglas con Roberta timoneando](
+  {{ '/assets/images/2023/05Visita/IMG_0950.jpeg' | relative_url }}
+)
 
 ## Visita con Cristina
 
@@ -188,6 +234,10 @@ disfrutar de uno de los tantos amigos de Douglas en la Marina. Había otros
 barcos muy grandes y lujosos, entre ellos un crucero muy grande de un magnate
 ruso que estaba varado ahí por las sanciones con toda la tripulación viviendo
 desde hace un año en ese lugar y barco magnífico
+
+![Edgar, Douglas, Christina, Roberta](
+  {{ '/assets/images/2023/05Visita/IMG_0951.jpeg' | relative_url }}
+)
 
 ## Despedido
 
@@ -204,5 +254,9 @@ después de recorrer un largo camino que lo trajo desde Baja California donde
 compró el barco hasta Montevideo Todo esto solo, a puro coraje, afrontando
 temporales y adversidades y  habiendo renovado Brisa por completo.
 Felicitaciones Douglas y gracias por la linda experiencia. Esperemos verte
-pronto por estas latitudes…y vamo arriba !
+pronto por estas latitudes... y vamo arriba!
+
+![Douglas con porotos](
+  {{ '/assets/images/2023/05Visita/IMG_0952.jpeg' | relative_url }}
+)
 
