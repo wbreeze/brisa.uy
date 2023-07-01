@@ -3,11 +3,11 @@ layout: post
 title: Isla Grande
 date: 2023-06-15
 tags: Navegación Panamá
-excerpt: Navegué desde la marina a un fondeadero por la costa panemeña caribe
+excerpt: Navegué desde la marina a un fondeadero por la costa panameña caribe
   al este.
 ---
 
-## El viaje comenza con una señal
+## El viaje comienza con una señal
 
 Saliendo de la marina Shelter Bay por las rompeolas de Bahía Limón y del canal
 de Panamá, así saliendo, no había viento ninguna. El motor con mil-quinientos
@@ -18,14 +18,14 @@ pasos por minuto me lleve con cinco nudos.
 )
 
 Eventualmente había un viento suave. Era lo que fluía hacia la costa donde
-una tormenta estaba creciendo. Gambled que no va a mudarse por el mar.
+una tormenta estaba creciendo. Apuesta que no va a mudarse por el mar.
 Levanté la vela mayor y la genoa. Me llevan cuatro nudos, bien.
 
-Después de cinco minutos encendió una rafaga a frente la proa. Era bien
+Después de cinco minutos encendió una ráfaga a frente la proa. Era bien
 cerca porque la luz y el sonido lleguen juntos, fuertes. Podía oír el
 crujido del aire.
 
-La rafaga conecta con una parte del cielo sin nubes bajas ni oscuras.
+La ráfaga conecta con una parte del cielo sin nubes bajas ni oscuras.
 Estaba pensando en ¿cómo pasa eso? cuando otra encendió igual que la primera.
 
 Decidí que el dios del mar Poseidón quería decirme algo. Bajé las velas y seguí
@@ -33,7 +33,7 @@ por el motor.
 
 Al final no había mucho viento. Poca lluvia ligera me alcanzó y nada más.
 
-![Galetas en Bahía Lindo](
+![Galeras en Bahía Lindo](
   {{ '/assets/images/2023/06IslaGrande/DSC03113.JPG' | relative_url }}
 )
 
@@ -46,7 +46,7 @@ entre la tierra mayor y una isla cerca, Isla Grande.
 
 Al mediodía amanezca otra tormenta y me ponía fondeado de nuevo.
 
-![Catamaran abandonado atrás de Isla Grande](
+![Catamarán abandonado atrás de Isla Grande](
   {{ '/assets/images/2023/06IslaGrande/DSC03137.JPG' | relative_url }}
 )
 
@@ -72,7 +72,7 @@ Quería visitar al pueblo, a ver la vida de los panameños caribeños.
 
 Y sí, había bastante vida. Era el fin de semana cuando llegué. Pangas van y
 vienen, rodeando el punto de la isla para encontrarme en sus pasos al pueblo al
-otro lado, por la tierra mayor. Lleven turistas a la playa al lado oceanico de
+otro lado, por la tierra mayor. Lleven turistas a la playa al lado oceánico de
 la isla. Con el paso del tiempo, vienen más valientes, acostumbrado a mi
 presencia, más y más cerca. Yo sonreí y les di saludos.  Escuché a uno de los
 choferes gritando, "¡Jejeje, mira el hippy!" Una chica grande me mostró su cola.
@@ -82,8 +82,8 @@ Otra flaca sopló un beso. Piensen que yo era divertido.
   {{ '/assets/images/2023/06IslaGrande/DSC03133.jpeg' | relative_url }}
 )
 
-Mis vecinos eran una trimaran grande y un catamarán, ambos amarrados.
-Una pareja vive en el trimaran. No les encontré. Aparentemente han estado
+Mis vecinos eran una trimarán grande y un catamarán, ambos amarrados.
+Una pareja vive en el trimarán. No les encontré. Aparentemente han estado
 allí unos años. Es lo que pasa con las amarras. El catamarán estaba
 abandonado, completamente desprovisto, descuidado. Es otra cosa que pasa con
 las amarras.
@@ -93,9 +93,9 @@ cuando son amarras extraoficiales, ocupantes informales quién no pagan para el
 privilegio de anexionar una parte del fondeadero para uso propio exclusivo.
 Dejan sus barcos sobre la amarra y los olviden.
 
-![Resort sobre Isla Linton](
+![Resorte sobre Isla Linton](
   {{ '/assets/images/2023/06IslaGrande/DSC03125.JPG' | relative_url }}
 )
 
-No hay mucho más para decir. Me fui, ví, y salí con un casco limpio.
+No hay mucho más para decir. Me fui, vi, y salí con un casco limpio.
 
