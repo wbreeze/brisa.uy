@@ -11,7 +11,7 @@ En los distritos Palermo y Barrio Sur en Montevideo los residentes
 celebran habitualmente un ritual de tambores.
 
 Primero vienen las diosas bellezas.
-De vez en cuando hay entre ellas una mujer trans, o un hombre feminino.
+De vez en cuando hay entre ellas una mujer trans, o un hombre femenina.
 Traen energía femenina.
 
 ![Candombe en Isla de Flores](
@@ -33,14 +33,14 @@ la gente baila.
   {{ '/assets/images/2023/03Rambla/IMG_0823.jpeg' | relative_url }}
 )
 
-Cómo uno siguiendo, intento descartar el sentimiento de yanki extranjero muy
+Cómo uno siguiendo, intento descartar el sentimiento de yanqui extranjero muy
 raro. Ese rol de verdad me acusa. No tengo el patrimonio de crecer desde
 mi infancia entre esta cultura. No viene de mi sangre. Viene de mi corazón
 desarrollando, aprendiendo, agradeciendo, incorporando conocimiento.
 
 Una mujer halaga mi remera de "La Vela Puerca" y baila conmigo un momentito.
 Siento felicidad. Sonrío con mi cabeza un poco demasiado atrás. Todavía
-resisto este sentido, como no lo deserve como extranjero o que no debo
+resisto este sentido, como no lo merezco como extranjero o que no debo
 sentirlo. Sólo poco a poco estoy sintiendo más libertad para dar reconocimiento
 y expresión a estas emociones positivas. Es una bendición que brinda el barrio.
 
