@@ -30,7 +30,7 @@ muy interesante observar la variada geografía sudamericana.
   {{ '/assets/images/2023/05Visita/NautilusYRuta.jpg' | relative_url }}
 )
 
-## Vuelo por COPA
+## El vuelo por COPA
 
 El trayecto luego de dejar las ya conocidas llanuras uruguayas y argentinas se
 vuelve muy interesante y se puede aprovechar como si estuviéramos viendo un
@@ -62,7 +62,7 @@ en el Pacifico hasta Shelter Bay en el Atlántico. Ese viaje demanda 1:35 y hay
 que hacerlo en taxi. Cuesta unos USD 90 por tramo con un moderno auto de un
 chofer conocido de Douglas.
 
-## Día con el ciudad y canal de Panamá
+## Día con la ciudad y el canal de Panamá
 
 Ya que estábamos en Panamá City decidimos quedarnos un día para conocer la
 ciudad. Es muy interesante el contraste de la renovada ciudad colonial a la
@@ -172,7 +172,7 @@ Cenamos en brisa con un pan recién horneado por el capitán…
   {{ '/assets/images/2023/05Visita/IMG_0943.jpeg' | relative_url }}
 )
 
-## Un día navegación
+## Un día de navegación
 
 Al día siguiente era el gran día de navegación así que estuvimos bien temprano
 para desayunar en Brisa y cuando íbamos a partir descubrimos que el sargazo nos
@@ -239,7 +239,7 @@ desde hace un año en ese lugar y barco magnífico
   {{ '/assets/images/2023/05Visita/IMG_0951.jpeg' | relative_url }}
 )
 
-## Despedido
+## Despedida
 
 Al día siguiente fue el día de la partida a la noche teníamos que salir del
 aeropuerto de Tocumen por las dudas salimos a la tarde así que pasamos la
