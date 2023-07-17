@@ -55,10 +55,6 @@ Estaba forzando el caño del timón hacía el lado barlovento y poniendo el moto
 con megas revoluciones solo para que el viento me sopla al lado y me puso al
 fin de la cadena de nuevo.
 
-![description](
-  {{ '/assets/images/2023/06SanBlas/DSC03169.JPG' | relative_url }}
-)
-
 Me di cuenta que estaba jodido. Todo perdido. Naufragio por una tormenta
 sobre los arrecifes de San Blas. O Guna Yala. Eché un maldición a
 cualquier dios o diosa reina en estas partes y me dije, "¡No te rindes!"
@@ -270,6 +266,10 @@ problema de carga está bajo control.
 
 Hay una corriente fuerte. Me salté de la proa y muy rápidamente estaba al
 lado del casco, hacia la popa, agarrando al escalón.
+
+![description](
+  {{ '/assets/images/2023/06SanBlas/DSC03169.JPG' | relative_url }}
+)
 
 ### 24 Junio, Las Molas
 
