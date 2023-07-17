@@ -14,7 +14,7 @@ Blas. Su nombre oficial es "Guna Yala".
 
 [guna]: https://es.wikipedia.org/wiki/Comarca_Guna_Yala
 
-![description](
+![Lancha Guna sobrecargada con visitantes de pasadía, Guna Yala](
   {{ '/assets/images/2023/06SanBlas/IMG_0923.jpeg' | relative_url }}
 )
 
@@ -37,7 +37,7 @@ Mandé el velero con motor y timón de modo torpe, muy torpe,
 semi-desnudo en la bañera intentando de modo ciega salvarme de los
 arrecifes.
 
-![description](
+![Isla Perro Grande, Guna Yala](
   {{ '/assets/images/2023/06SanBlas/DSC03167.JPG' | relative_url }}
 )
 
@@ -88,7 +88,7 @@ Decidí de inmediato hacer una lista de control para
 usar cuando la alarma sona en las horas pequeñitas de la mañana, cuando
 estoy sordo, mudo y ciego; drogado con los sueños. Te lo mando.
 
-![description](
+![Banedup, Cayo Limón Este, Guna Yala](
   {{ '/assets/images/2023/06SanBlas/DSC03171.JPG' | relative_url }}
 )
 
@@ -118,7 +118,7 @@ estoy sordo, mudo y ciego; drogado con los sueños. Te lo mando.
 ¿Por qué pondría el segundo ancla a babor? Porque está ubicado por la proa a babor
 de la primera.
 
-![description](
+![Captura de pantalla, Navionics carta de Cayo Limón Este, Guna Yala](
   {{ '/assets/images/2023/06SanBlas/IMG_0199.jpeg' | relative_url }}
 )
 
@@ -163,7 +163,7 @@ Hace una hora, un par de delfines pasan al lado del velero a babor. Uno
 se salta dos veces al aire para mirarme bien. O quizá toman turnos
 mirándome. Me reí a carcajadas con alegría al verlos. Lo que se notan ellos.
 
-![description](
+![Isla Perro Grande, Guna Yala](
   {{ '/assets/images/2023/06SanBlas/DSC03175.JPG' | relative_url }}
 )
 
@@ -179,7 +179,7 @@ Estaba soleado. Las baterías cargan a capacidad alta. Podía encender la
 heladera por un par de horas. Había una brisa ligera desde el noreste
 todo el día.
 
-![description](
+![Arcoiris en Guna Yala, Cayo Limón Este](
   {{ '/assets/images/2023/06SanBlas/DSC03179.JPG' | relative_url }}
 )
 
@@ -196,7 +196,7 @@ El desagüe del lavaplatos se escurra. Me celular no conecta bien para cargar.
 El GPS Garmin 86i comunicador satélite y rastreador no carga.
 Estoy incomunicado.
 
-![description](
+![Tormenta y isla, Cayo Limón Este, Guna Yala](
   {{ '/assets/images/2023/06SanBlas/DSC03184.jpeg' | relative_url }}
 )
 
@@ -216,7 +216,7 @@ leyendo Levrero. No ayuda. El también está sin control sobre sí mismo.
 Deprimente así. Lo que quiere y lo que hace son casi completamente
 incongruentes. No me puedo relajar.
 
-![description](
+![Mar y cielo celeste, playas blancas, Cayo Limón, Guna Yala](
   {{ '/assets/images/2023/06SanBlas/IMG_0926.jpeg' | relative_url }}
 )
 
@@ -240,7 +240,7 @@ las quebradas de las olas suenan fuertemente.
 La paz era corta porque después de la tormenta del este, ya viene otra del
 sudoeste. Me sopla las tormentas por todos lados esta mañana.
 
-![description](
+![Veleros fondeados frente una isla en Guna Yala](
   {{ '/assets/images/2023/06SanBlas/DSC03173.JPG' | relative_url }}
 )
 
@@ -267,7 +267,7 @@ problema de carga está bajo control.
 Hay una corriente fuerte. Me salté de la proa y muy rápidamente estaba al
 lado del casco, hacia la popa, agarrando al escalón.
 
-![description](
+![Instalaciones de una isla y catamarán fondeado, Guna Yala](
   {{ '/assets/images/2023/06SanBlas/DSC03169.JPG' | relative_url }}
 )
 
@@ -286,7 +286,7 @@ mariposas, flores, todos sobre la naturaleza. Mi madre se entera de las
 molas. Por eso dije que era una suerte que las mujeres pasan. Podía
 seleccionar una para ella.
 
-![description](
+![Mola Guna con pájaro azúl](
   {{ '/assets/images/2023/06SanBlas/IMG_0928.jpeg' | relative_url }}
 )
 
