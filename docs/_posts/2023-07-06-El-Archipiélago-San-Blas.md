@@ -49,7 +49,7 @@ eso) antes de abandonar el timón e irme abajo para sacar el impermeable.
 
 Volviendo, el velero, por algún milagro, todavía no ha chocado con los
 arrecifes. ¡Qué suerte! Intenté "ayudar" el ancla por irse hacia el viento.
-Que boludo. De ningúna manera, nunca voy a tener poder a quedar la proa hacia
+Que boludo. De ninguna manera, nunca voy a tener poder a quedar la proa hacia
 un viento de veinticinco nudos con motor y timón. Pronto lo descubrí.
 Estaba forzando el caño del timón hacía el lado barlovento y poniendo el motor
 con megas revoluciones solo para que el viento me sopla al lado y me puso al
@@ -74,7 +74,7 @@ Miré el diagrama de la alarma de fondeo. (He puesto una captura de pantalla.
 Lo capturé otro día. El círculo al lado izquierdo, "Anchor Watch",
 circunscribe un límite amplio alrededor del ancla. Adentro hay la huella
 rastreando los movimientos del velero y su ubicación actual.) Sí, he salto del
-radius que he establecido. Después he parado justo afuera. Miré la sonda. Era
+radio que he establecido. Después he parado justo afuera. Miré la sonda. Era
 de tres brazas-- suficiente y lo que he previsto para esta zona.  La
 lluvia paró. Decidí que la situación era segura y volví a dormir.
 
@@ -85,7 +85,7 @@ equipo de fondeo-- ancla, cadena y amortiguador.
 Lo que ha pasado es que he puesto la ubicación del ancla de modo
 un poco equivocada. La ubicación inicial es siempre una aproximación.
 Decidí de inmediato hacer una lista de control para
-usar cuando la alarma sona en las horas pequeñitas de la mañana, cuando
+usar cuando la alarma suena en las horas pequeñitas de la mañana, cuando
 estoy sordo, mudo y ciego; drogado con los sueños. Te lo mando.
 
 ![Banedup, Cayo Limón Este, Guna Yala](
@@ -186,7 +186,7 @@ todo el día.
 ### 21 Junio
 
 Anoche había viento del noreste. Estaba incierto, en caladas. Habían
-rafagas al sudeste. Estaba seguro que va a venir esta mañana otra tormenta
+ráfagas al sudeste. Estaba seguro que va a venir esta mañana otra tormenta
 brava cuales se llaman, "chocosanas".
 
 No hay nadie de la mañana para hablar por la radio VHF. Hay alguien en la
@@ -204,7 +204,7 @@ Estoy incomunicado.
 
 El comunicador Garmin 86i es difunto. No carga ni enciende. El cable carga
 la cámara y el handy. Es un problema con el conector y no hay nada que hacer
-sobre eso. El super resistente y robusto dispositivo de fortuna depende en un
+sobre eso. El súper resistente y robusto dispositivo de fortuna depende en un
 conector endeble mini-USB para cargar. No acepta baterías recargables ni
 renovables.
 
@@ -228,7 +228,7 @@ A las ocho y media una tormenta llegó. Me sopló hacia el arrecife más cerca.
 He pensado en reducir el largo de la cadena. Lo hice contra el viento nuevo
 antes de la lluvia.
 
-Que suerte la alarma de fondeo y su pantalla. Con el GPS super preciso
+Que suerte la alarma de fondeo y su pantalla. Con el GPS súper preciso
 puedo ver exactamente donde estoy en relación con el ancla. Sin eso, debería
 estar fuera durante las tormentas, sufriendo el viento y la lluvia fría,
 vigilado.
@@ -256,7 +256,7 @@ algunas este es simplemente otro modo de ser para el clima. Lluvia o sol,
 viento o calma, siguen adelante, hacen lo que hagan.
 
 Una cosa nueva para preocuparme. No había suficiente sol para cargar las
-baterías. Estoy con 11,4 voltages, lo más bajo que he visto jamás.
+baterías. Estoy con 11,4 voltajes, lo más bajo que he visto jamás.
 He apagado todo salvo el AIS y el iPad. Apagué el transmisor del AIS.
 
 No he comido hoy. Tengo hambre pero mi estómago está en nudos.
@@ -277,7 +277,7 @@ La tarde antes de mi día de salida, por suerte, vienen dos mujeres con dos
 niños en una canoa. Me parecen como una abuela con su hija y dos nietos. Reman
 contra el viento y la corriente, me parecen arduamente, para alcanzar no sé
 qué.  No avancen mucho.  En el momento en que les invitan a pasar, 
-llegan pronto. Se amarran conmigo para descansar. Les dió una botella
+llegan pronto. Se amarran conmigo para descansar. Les dio una botella
 de agua.  Tienen, como he previsto, una selección de las molas.
 
 Las molas son cuadradas telas de cuarenta centímetros acolchados con
@@ -286,7 +286,7 @@ mariposas, flores, todos sobre la naturaleza. Mi madre se entera de las
 molas. Por eso dije que era una suerte que las mujeres pasan. Podía
 seleccionar una para ella.
 
-![Mola Guna con pájaro azúl](
+![Mola Guna con pájaro azul](
   {{ '/assets/images/2023/06SanBlas/IMG_0928.jpeg' | relative_url }}
 )
 
@@ -306,7 +306,7 @@ Necesitaba timonear casi toda la distancia porque el piloto automático
 del timón ha dejado de funcionar. No había suficiente viento para navegar
 con cinco nudos a vela.
 
-En San Blas me sentía muy expuesto. Es un mundo extraterreste. Me sentía
+En San Blas me sentía muy expuesto. Es un mundo extraterrestre. Me sentía
 como estaba sobre la luna sola, sin aporte del control en tierra. Me alivia
 mucho salir.
 
