@@ -2,15 +2,15 @@
 layout: post
 title: Navegando Por Alta Mar
 date: 2023-07-17
-tags: novegación altamar Panamá
-excerpt: Un video de navegacíon por alta mar con Brisa
+tags: navegación alta-mar Panamá
+excerpt: Un vídeo de navegación por alta mar con Brisa
 ---
 
 Me di cuenta que no he compartido muchas fotos ni grabaciones de navegación.
 
-Les mando un video. Estaba navegando por alta mar, hacia el norte y fuera vista
+Les mando un vídeo. Estaba navegando por alta mar, hacia el norte y fuera vista
 de la costa norte de Panamá. Elegí la parte más linda de este día de navegación
-para grabar el video.
+para grabar el vídeo.
 
 La navegación fue el catorce de julio, ruta Bocas del Toro. Lo abandoné de
 la noche misma porque podía navegar al norte, o al sur, o entre los dos al
