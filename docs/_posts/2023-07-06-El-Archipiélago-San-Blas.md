@@ -54,7 +54,7 @@ Estaba forzando el caño del timón hacía el lado barlovento y poniendo el moto
 con mega revoluciones solo para que el viento me soplara hacia un lado y al fin me puso de la cadena de nuevo.
 
 Me di cuenta que estaba jodido. Todo perdido. Naufragio por una tormenta
-en los arrecifes de San Blas. O Guna Maldije a
+en los arrecifes de San Blas. O Guna Yala. Maldije a
 cualquier dios o diosa reina de estas aguas y me dije, "¡No te rindas!"
 
 A poco el viento paró, se fue, quedó en nada. La lluvia sigió fuerte.
@@ -84,7 +84,7 @@ Lo que pasó fue que puse la ubicación del ancla de un modo
 un poco equivocado. La ubicación inicial es siempre una aproximación.
 Decidí de inmediato hacer una lista de control para
 usar cuando la alarma suena en las primeras horas de la mañana, cuando
-estoy sordo, mudo y ciego; drogado por el suelo. Lo mando.
+estoy sordo, mudo y ciego; drogado por el sueño. Lo mando.
 
 ![Banedup, Cayo Limón Este, Guna Yala](
   {{ '/assets/images/2023/06SanBlas/DSC03171.JPG' | relative_url }}
