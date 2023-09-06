@@ -127,41 +127,42 @@ de la primera.
 El archipiélago de Guna Yala no es tanto un archipiélago como una colección de
 arrecifes y cayos.
 
-En este templado, la de la lluvia en junio, el viento se levantaba a
-quince nudos de vez en cuando desde cualquier dirección. Fondeado, hay
+En este tiempo templado, de lluvia en junio, el viento se levantaba a
+quince nudos de vez en cuando desde cualquier dirección. Fondeado, había
 arrecifes por alrededor, a cuarenta metros de la popa cuando la cadena del
-ancla tiraba recta, todo fuera de la vista bajo el agua.
+ancla tiraba recta, todo fuera de la vista, bajo el agua.
 
-No hay tierra ninguna para resguardarse del viento.  Trocitos de tierra arenosa
-con palmeras asomando aquí y allá y no te atrevas a acercarte a ellas.
+No había tierra ninguna para resguardarse del viento.  Trocitos de tierra arenosa
+con palmeras asomando aquí y allá, y no te atrevas a acercarte a ellas.
 
-Hay tormentas todos los días a distintas horas. Por la mañana. Por la tarde.
+Hubo tormentas todos los días a distintas horas. Por la mañana. Por la tarde.
 Por la noche. Las más desagradables, con frentes de fuertes ráfagas, llegaban
-de madrugada, entre la una y las cuatro.  Hay días totalmente sin sol. Hay días
-parciales de sol.
+de madrugada, entre la una y las cuatro.  Hubo días totalmente sin sol. Hubo días
+de sol parciál.
 
-Hay veleros y catamaranes anclados aquí y allá sin nada alrededor más que el
-mar y esos arrecifes escondidos. El océano rompie en rugientes olas hacia el
-norte. Dentro, hay agua clara con la superficie como en un lago. A veces
-corrientes de un nudo más o menos fluyendo a través y entre los arrecifes.
+Había veleros y catamaranes anclados aquí y allá sin nada alrededor más que el
+mar y esos arrecifes escondidos. El océano rompía en rugientes olas hacia el
+norte. Dentro, el agua es transparente, con la superficie como en un lago. A veces,
+corrientes de un nudo más o menos fluían a través y entre los arrecifes.
 
-Era precioso y me costaba mucho relajarme. Comparto algunas entradas desde
+Era precioso pero me costaba mucho relajarme. Comparto algunas entradas de
 mi bitácora.
 
 ### Bitácora
 
 #### 17 Junio
 
-Esta mañana pienso en como fantástico es ese aventura. Tengo un velero
-excelente y mira el lugar. Sí, es extraño. También es hermosa. El mar azul
-quiebra por los arrecifes. Alrededor el velero hay agua plácido y transparente.
-Hay islas con playas blancas y palmeras. Nunca he sonado de algo así en mi
-vida. Lo hice. Llegué en este lugar. ¡Que logro! Ahora solo necesito
+Esta mañana pienso en lo fantástico de esta aventura. Tengo un velero
+excelente y observo el lugar. Sí, es extraño. También es hermoso. El mar azul
+quiebra por los arrecifes. Alrededor del velero hay aguas plácidas y transparentes.
+Hay islas con playas blancas y palmeras. Nunca en mi vida he soñado en algo así.
+Lo logré. Llegué a este lugar. ¡Que logro! Ahora solo necesito
 franquear los arrecifes.
 
-Hace una hora, un par de delfines pasan al lado del velero a babor. Uno
-se salta dos veces al aire para mirarme bien. O quizá toman turnos
-mirándome. Me reí a carcajadas con alegría al verlos. Lo que se notan ellos.
+Hace una hora, un par de delfines pasan a babor, al lado del velero. Uno
+de ellos salta dos veces para mirarme bien. O quizá se turnan.
+Me reí a carcajadas por la alegría de verlos. Ellos se dan cuenta, estoy
+suguro.
 
 ![Isla Perro Grande, Guna Yala](
   {{ '/assets/images/2023/06SanBlas/DSC03175.JPG' | relative_url }}
@@ -169,15 +170,15 @@ mirándome. Me reí a carcajadas con alegría al verlos. Lo que se notan ellos.
 
 ### 19 Junio
 
-Hice mucho hoy. Me mete en el agua algunas veces. Arreglé el quemador del
-gas de la estufa y limpié bajo la tapa. Arreglé la estancia delante la
+Hoy hice mucho. Me metí al agua algunas veces. Arreglé el quemador del
+gas de la estufa y limpié bajo la tapa. Arreglé la estancia delante de la
 estufa. Exploré con la lanchita y los remos. Caminé por la isla Miriadup.
-Visité el muelle de las instalaciones cerca para obtener contactos para el
+Visité las instalaciones cercanas del muelle para obtener contactos para el
 traslado desde el aeropuerto de Tocumen.
 
-Estaba soleado. Las baterías cargan a capacidad alta. Podía encender la
-heladera por un par de horas. Había una brisa ligera desde el noreste
-todo el día.
+Estaba soleado. Las baterías cargaron a su capacidad total. Pude encender la
+heladera por un par de horas. Una brisa ligera sopló todo el día desde el
+noreste.
 
 ![Arcoiris en Guna Yala, Cayo Limón Este](
   {{ '/assets/images/2023/06SanBlas/DSC03179.JPG' | relative_url }}
@@ -185,14 +186,14 @@ todo el día.
 
 ### 21 Junio
 
-Anoche había viento del noreste. Estaba incierto, en caladas. Habían
-ráfagas al sudeste. Estaba seguro que va a venir esta mañana otra tormenta
-brava cuales se llaman, "chocosanas".
+Anoche había viento del noreste. Venía en caladas. Había
+ráfagas al sudeste. Estaba seguro de que esta mañana vendría otra tormenta
+brava a la que llaman, "chocosanas".
 
-No hay nadie de la mañana para hablar por la radio VHF. Hay alguien en la
-corta banda. Ella me escucha malísima. Necesito mejorar el contrapeso del suelo
-de la antena. Otra cosa para la lista de mantenimiento. Se crece.
-El desagüe del lavaplatos se escurra. Me celular no conecta bien para cargar.
+De mañana no había nadie con quien hablar por la radio VHF. Había alguien en la
+corta banda. Se escuchaba muy mal. Es preciso que mejoro el contrapeso del suelo
+de la antena. Otra cosa a agregar en la lista de mantenimiento, que crece.
+El desagüe del lavaplatos está goteando. Me celular no conecta bien para cargar.
 El GPS Garmin 86i comunicador satélite y rastreador no carga.
 Estoy incomunicado.
 
@@ -202,19 +203,19 @@ Estoy incomunicado.
 
 ### 22 Junio
 
-El comunicador Garmin 86i es difunto. No carga ni enciende. El cable carga
+El comunicador Garmin 86i murió. No carga ni enciende. El cable carga
 la cámara y el handy. Es un problema con el conector y no hay nada que hacer
-sobre eso. El súper resistente y robusto dispositivo de fortuna depende en un
-conector endeble mini-USB para cargar. No acepta baterías recargables ni
+al respecto. El súper resistente y robusto dispositivo de fortuna depende en un
+endeble conector mini-USB para cargar. No acepta baterías recargables ni
 renovables.
 
-Con la lanchita visite una de las islas cerca con un muelle para viajeros
-de pasadía. Obtuve un contacto para el traslado.
+Con la lanchita visité una de las islas cercanas, con muelle para viajeros
+de pasada. Obtuve un contacto para el traslado.
 
-Quizá escribo, miro fotos. Distraiga mi mente de sus preocupaciones. Sigo
+A veces escribo, miro fotos. Distraigo mi mente de sus preocupaciones. Sigo
 leyendo Levrero. No ayuda. El también está sin control sobre sí mismo.
-Deprimente así. Lo que quiere y lo que hace son casi completamente
-incongruentes. No me puedo relajar.
+Así de deprimente. Lo que quiere y lo que hace son casi completamente
+incongruentes. No me pude relajar.
 
 ![Mar y cielo celeste, playas blancas, Cayo Limón, Guna Yala](
   {{ '/assets/images/2023/06SanBlas/IMG_0926.jpeg' | relative_url }}
@@ -222,49 +223,50 @@ incongruentes. No me puedo relajar.
 
 ### 23 Junio
 
-Pasó la noche muy inquieto hasta la una y media. Tal cual me desperté cada
-unas horas. No dormí profundamente hasta la mañana, cuando el viento bajó.
-A las ocho y media una tormenta llegó. Me sopló hacia el arrecife más cerca.
-He pensado en reducir el largo de la cadena. Lo hice contra el viento nuevo
+Pasé la noche muy inquieto. A la una y media me desperté. Cada
+unas horas me desperté. No dormí profundamente hasta la mañana,
+cuando el viento amainó.
+A las ocho y media vino una tormenta. Me sopló hacia el arrecife más cercano.
+Pensé en reducir el largo de la cadena. Lo hice contra el viento nuevo
 antes de la lluvia.
 
-Que suerte la alarma de fondeo y su pantalla. Con el GPS súper preciso
+Qué suerte tener la alarma de fondeo y su pantalla. Con el GPS súper preciso
 puedo ver exactamente donde estoy en relación con el ancla. Sin eso, debería
-estar fuera durante las tormentas, sufriendo el viento y la lluvia fría,
-vigilado.
+estar fuera, vigilando desde la bañera durante las tormentas, sufriendo el
+viento y la lluvia fría.
 
-Que apacible parece después de una tormenta. Me siento aliviada.
-Afuera en la barrera de arrecife, a una y media millas náuticas al norte,
-las quebradas de las olas suenan fuertemente.
+Que apacible parece todo después de una tormenta. Me siento aliviado.
+Afuera, en la barrera de arrecife, a una y media millas náuticas al norte,
+el rompiminto de las quebradas suena fuertemente.
 
-La paz era corta porque después de la tormenta del este, ya viene otra del
+La paz duró poco porque después de la tormenta del este vino otra del
 sudoeste. Me sopla las tormentas por todos lados esta mañana.
 
 ![Veleros fondeados frente una isla en Guna Yala](
   {{ '/assets/images/2023/06SanBlas/DSC03173.JPG' | relative_url }}
 )
 
-Otra pausa de tormentas. Todavía hay lluvia ligera. Mirando afuera, veo
-un catamarán poniendo su ancla. ¡Ellos viajaban en este periodo de tormentas!
-Alguien en su lanchita se va desde la isla Banedup hacia su velero.
-El dueño de la isla Perro Grande está rastrillando su playa para ponerla
-en orden para sus huéspedes. En la lluvia.
-Más temprano vi a una canoa con su vela desplegada, yendo de popa.
+Otra pausa de tormentas. Todavía hay lluvia ligera. Mirando afuera veo
+un catamarán echando su ancla. ¡Ellos viajaban en este periodo de tormentas!
+Alguien se va en su lanchita desde la isla Banedup hacia su velero.
+El dueño de la isla Perro Grande rastrilla su playa para ponerla
+en orden para sus huéspedes. En medio de la lluvia.
+Más temprano había visto una canoa con su vela desplegada, yendo de popa.
 
 Todo esta actividad fuera entre las tormentas... Me di cuenta que para
-algunas este es simplemente otro modo de ser para el clima. Lluvia o sol,
-viento o calma, siguen adelante, hacen lo que hagan.
+algunas personas éste es simplemente otro modo de ser de clima. Lluvia o sol,
+viento o calma, siguen adelante, hacen lo que tienen que hacer.
 
-Una cosa nueva para preocuparme. No había suficiente sol para cargar las
-baterías. Estoy con 11,4 voltajes, lo más bajo que he visto jamás.
-He apagado todo salvo el AIS y el iPad. Apagué el transmisor del AIS.
+Otra cosa nueva para preocuparme: No había suficiente sol para cargar las
+baterías. Estoy con 11,4 voltajes, lo más bajo a lo que jamás llegué.
+Apagué todo salvo el AIS y el iPad. Apagué el transmisor del AIS.
 
-No he comido hoy. Tengo hambre pero mi estómago está en nudos.
+Hoy no comí. Siento hambre pero tengo un nudo en mi estómago.
 
-Encendí el motor. No lo arrancó bien. Después de dos y pico horas el
-problema de carga está bajo control.
+Encendí el motor. No arrancó bien. Después de más de dos horas el
+problema de la carga quedó conrolado.
 
-Hay una corriente fuerte. Me salté de la proa y muy rápidamente estaba al
+Habíå una corriente fuerte. Me salté de la proa y muy rápidamente estuve al
 lado del casco, hacia la popa, agarrando al escalón.
 
 ![Instalaciones de una isla y catamarán fondeado, Guna Yala](
@@ -273,17 +275,18 @@ lado del casco, hacia la popa, agarrando al escalón.
 
 ### 24 Junio, Las Molas
 
-La tarde antes de mi día de salida, por suerte, vienen dos mujeres con dos
-niños en una canoa. Me parecen como una abuela con su hija y dos nietos. Reman
-contra el viento y la corriente, me parecen arduamente, para alcanzar no sé
-qué.  No avancen mucho.  En el momento en que les invitan a pasar, 
-llegan pronto. Se amarran conmigo para descansar. Les dio una botella
-de agua.  Tienen, como he previsto, una selección de las molas.
+La tarde previa al día de mi partida, por suerte, vinieron dos mujeres con dos
+niños en una canoa. Me parece que son una abuela con su hija y dos nietos. Reman
+contra el viento y la corriente, parece que arduamente, para alcanzar no sé
+qué.  No avancen mucho.  Cuando las invito a pasar, 
+aceptan enseguida y llegan pronto. Se amarran al lado estribor para descansar.
+Les di una botella de agua.  Tienen, como lo preví, una selección de las
+molas.
 
 Las molas son cuadradas telas de cuarenta centímetros acolchados con
 diseños de colores brillantes. Los temas de los diseños son peces, pájaros,
-mariposas, flores, todos sobre la naturaleza. Mi madre se entera de las
-molas. Por eso dije que era una suerte que las mujeres pasan. Podía
+mariposas, flores, todos sobre la naturaleza. Mi madre supo de las
+molas. Por eso pensé que era una suerte que las mujeres pasaran. Pode
 seleccionar una para ella.
 
 ![Mola Guna con pájaro azul](
@@ -292,21 +295,22 @@ seleccionar una para ella.
 
 ### 25 Junio
 
-Anoche estuvo tormentoso de mierda hasta las dos de la mañana. Dormí por lo
-demás, por suerte, porque estaba muy cansado. Gracias por mi ancla
-Manson Supreme y la cadena de ocho milímetros para agarrar bien al fondo.
-El ancla era visible claramente al fondo cuando llegué arriba para subirlo.
-Estaba bien enterrado en un parche de arena con ancho de tres metros,
-rodeado con pasto.
+Anoche estuvo tormentoso de mierda hasta las dos de la mañana. Hubo una
+tormenta tras de otra. Igual dormí,
+por suerte, porque estaba muy cansado. Gracias a mi ancla
+Manson Supreme y la cadena de ocho milímetros quedé bien agarrado al fondo.
+El ancla era claramente visible en el fondo cuando desde arriba la subí.
+Estaba bien enterrada en un parche de arena con un ancho de tres metros,
+rodeado de pasto.
 
 Ahora me voy a la Bahía Lindo. Necesito mantener cinco nudos para llegar
 con la luz del día.
 
 Necesitaba timonear casi toda la distancia porque el piloto automático
-del timón ha dejado de funcionar. No había suficiente viento para navegar
+del timón había dejado de funcionar. No había suficiente viento para navegar
 con cinco nudos a vela.
 
 En San Blas me sentía muy expuesto. Es un mundo extraterrestre. Me sentía
-como estaba sobre la luna sola, sin aporte del control en tierra. Me alivia
-mucho salir.
+como si estuviera sobre la luna, sola, sin aporte del control en tierra. Me alivia
+mucho irme.
 
