@@ -8,15 +8,16 @@ excerpt: Un vídeo de navegación por alta mar con Brisa
 
 Me di cuenta que no he compartido muchas fotos ni grabaciones de navegación.
 
-Les mando un vídeo. Estaba navegando por alta mar, hacia el norte y fuera vista
+Les mando un vídeo. Estaba navegando por alta mar, hacia el norte y fuera
+de la vista
 de la costa norte de Panamá. Elegí la parte más linda de este día de navegación
 para grabar el vídeo.
 
-La navegación fue el catorce de julio, ruta Bocas del Toro. Lo abandoné de
-la noche misma porque podía navegar al norte, o al sur, o entre los dos al
-este, pero de ninguna manera podía navegar al oeste, donde quería irme.
+La navegación fue el catorce de julio, ruta Bocas del Toro. La abandoné esa
+misma noche porque podía navegar al norte, o al sur, o entre los dos al
+este, pero de ninguna manera podía navegar al oeste, donde quería ir.
 
-Sin embargo, había una parte del día con navegación linda. La disfruté y
+Sin embargo, hubo una parte del día con una navegación linda. La disfruté y
 la comparto con ustedes.
 
 {% include video.html
