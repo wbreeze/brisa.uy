@@ -82,7 +82,8 @@ encanta y me gusta escribirlo.
 Agradecimientos por los redactores, incluso vos, si estás queriendo enviar
 algúna revisión o sugerencia.  Algunos de los artículos inicios fueron
 redactados por mi profesora de español, Nuria Rodriguez de [Dynamo
-Spanish][dynamo], y otras personas mencionadas. Todas las faltas son mías.
+Spanish][dynamo]. Muchos más fueron redactados por Raquel Nuñez Muter.
+Todas las faltas son mías.
 
 [dynamo]: https://dynamospanish.com/about/
 
