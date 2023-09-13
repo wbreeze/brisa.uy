@@ -5,8 +5,6 @@ date: 2023-07-30
 tags: Navegación Panamá Timón Corriente Chubasco Ruta Noctiluca
 excerpt: Navegué desde Bahía Limón, la desembocadura caribeña del canal de Panamá,
   a la Bahía Almirante, Bocas del Toro, ciento veinte millas náuticas al oeste
-link_note: "[text for internal link]({{ '/2021/11/15/Sara-M.html' | relative_url }})"
-audio_note: "{% include audio.html source='/assets/audio/2021/Cantante.m4a' %}"
 ---
 
 Pasé una linda navegación desde la marina Shelter Bay a Bocas del Toro.
@@ -24,7 +22,7 @@ al lado babor de la bañera.
 La banda elástica funciona buenísima. Podría salir del timón por cinco o
 diez minutos a la vez. No es una solución piloto automática que me permita
 dormir. Es algo que me permitía sacar algo desde dentro-- algo comer, un
-café, armar un mate. Les doy un video de esto funcionando:
+café, armar un mate. Les doy un vídeo de esto funcionando:
 
 {% include video.html
   source='2023/AutoTimónElástico.mp4'
@@ -78,7 +76,7 @@ Fuera la costa es buena. Me encanta. No hay nada para embestir. El mar
 es tremendo.
 
 Había tormentas. Vienen con lluvia y sin mucho cambio del viento.
-Preparé a veces para rafagas fuertes, con reducción del tamaño de vela.
+Preparé a veces para ráfagas fuertes, con reducción del tamaño de vela.
 Nunca pasa nada fuerte.
 
 ![Brisa saliendo de la marina Shelter Bay, Panamá](
@@ -92,7 +90,7 @@ la superficie esté lisa. El sentido es plácido, genial. Es como navegar
 por una vía afelpada. No pensé en sacar una foto ni pienso que pueda
 capturar el sentido.
 
-El mar por su mismo es de color azul profundo, záfiro.  De noche, cuando parten
+El mar por su mismo es de color azul profundo, zafiro.  De noche, cuando parten
 las nubes, las estrellas pintan el cielo como polvo de duendes. Más imponente,
 miles de noctilucas destellan brillantemente en la estela del velero. Se siente
 como navegar con una alfombra mágica de color verde luz. Era algo que no vi en
@@ -100,7 +98,7 @@ el Pacífico; solo en la película, [Una aventura extraordinaria][pi].
 
 [pi]: https://es.wikipedia.org/wiki/Life_of_Pi_(pel%C3%ADcula)
 
-## LLegada
+## Llegada
 
 Para la llegada he planificado ponerme al oeste de la entrada, para poder
 irme al este con la corriente y el viento, no en contra.
@@ -139,13 +137,13 @@ entorno nuevo. Estaba en Bocas del Toro.
 
 ## Ilustración de un desafío por la ruta oriental entre Panamá y Uruguay
 
-Por motivo de las corrientes, no sirve navegar a Brasíl ni Uruguay por la costa
+Por motivo de las corrientes, no sirve navegar a Brasil ni Uruguay por la costa
 oriental del continente. Mira [las corrientes allí][corrientes2].
 A veces suben más de tres nudos.
 
 Es mejor aproximarse a nuestra costa desde [Cabo Verde][verde].
 
-![Corrientes por el bulbo de Brazíl](
+![Corrientes por el bulbo de Brazal](
   {{ '/assets/images/2023/07RutaBocas/corrientesDos.jpeg' | relative_url }}
 )
 
