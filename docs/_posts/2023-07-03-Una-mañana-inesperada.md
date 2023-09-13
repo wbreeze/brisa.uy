@@ -3,7 +3,7 @@ layout: post
 title: Una Mañana Inesperada
 date: 2023-07-03
 tags: archipiélago Panamá navegación fondeo tormenta chocosana
-excerpt: En que sufro una tormenta y desarollo una
+excerpt: En que sufro una tormenta y desarrollo una
   lista de control para responder a una alarma de fondeo
 ---
 
@@ -37,7 +37,7 @@ Al volver, el velero, por algún milagro, todavía no había chocado con los
 arrecifes. ¡Qué suerte! Intenté "ayudar" el ancla por irse hacia el viento.
 Qué boludo. De ninguna manera, nunca voy a poder llevar la proa hacia
 un viento de veinticinco nudos con motor y timón, sin avanzar con
-velocidád alguna. Pronto lo descubrí.
+velocidad alguna. Pronto lo descubrí.
 Estaba forzando el caño del timón hacía el lado barlovento y poniendo el motor
 con mega revoluciones solo para que el viento me soplara hacia un lado y al fin me puso de la cadena de nuevo.
 
@@ -45,7 +45,7 @@ Me di cuenta que estaba jodido. Todo perdido. Naufragio por una tormenta
 en los arrecifes de San Blas. O Guna Yala. Maldije a
 cualquier dios o diosa reina de estas aguas y me dije, "¡No te rindas!"
 
-A poco el viento paró, se fue, quedó en nada. La lluvia sigió fuerte.
+A poco el viento paró, se fue, quedó en nada. La lluvia siguió fuerte.
 Me di cuenta que estaba con mucha hambre. Saqué de la cocina una galleta salada de harina de
 trigo y maíz, junto con un vaso de agua.  La oscuridad
 era casi total. Había luces en una isla vecina.  Me senté temblando en la
