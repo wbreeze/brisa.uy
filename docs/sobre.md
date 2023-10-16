@@ -85,6 +85,9 @@ redactados por mi profesora de español, Nuria Rodriguez de [Dynamo
 Spanish][dynamo]. Muchos más fueron redactados por Raquel Nuñez Muter.
 Todas las faltas son mías.
 
+Silvia Soler dió redacciones en el inicio y compartí algunos recomendaciones
+cuales, sí, adopté.
+
 [dynamo]: https://dynamospanish.com/about/
 
 [Escríbeme][mail] si quieres preparar algo sobre navegación uruguayo o
