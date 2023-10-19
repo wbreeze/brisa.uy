@@ -65,6 +65,17 @@ tienían en común con [los siux][siux] y otros de los tribus norteamericanos. E
 [siux]: https://es.wikipedia.org/wiki/Siux
 [scalp]: https://en.wikipedia.org/wiki/Scalping#Americas
 
+En el mismo libro hay una leyenda sobre el asterismo que nombramos el cruz
+del sur. Dice que un ñandu puso su hella en el cielo como señal para la Charrúa,
+quien lo persiguen, que un día ellos también habría sido persegidos.
+No se si la historia es cierto, pero es cierto que pasan persegidos la
+Charrúa. Dice que la hualla del ñandu es una señal para ellos que han
+dejado sus hogares para convertirse en peregrinos.
+
+![Vaca y cabañas por la pradera en Rocha, Uruguay](
+  {{ '/assets/images/2023/09Rocha/RochaPraderaCabañas.jpg' | relative_url }}
+)
+
 La anfitriona también me dió un libro escrito por Gonzalo Abella.
 Leyendo la historia al fin del libro, tomé la impresión que sí, eran
 guerreros los guarani y [charrúa][charrúa]. Participan avidamente por un lado o
@@ -76,14 +87,43 @@ mezclados el fondo genético charrúa con su propio en la población colonial.
 
 [charrúa]: https://es.wikipedia.org/wiki/Charr%C3%BAas
 
-El último día, todavía no he ido al fondo de la playa para tocar el agua.
+![description](
+  {{ '/assets/images/2023/09Rocha/RochaPradera.jpg' | relative_url }}
+)
+
+Mi pretexto estár en Rocha caminando por el campo era buscar hongos,
+de lo cual la cucumela principalmente me interesa.
+Llevé un libro bien ilustrado, de Alejandro Sequera, sobre los
+hongos encontrados en Uruguay.
+
+De verdad me divierte mirar y identificar los hongos y disfrutar su
+diversidád. Cómo los flores pequinitos, los ásteres, frecuentemente no
+doy cuenta de los hongos si camino por las praderas. (En el bosque, sí,
+los doy noticia.) Pase horas por la pradera mirando las plantas.
+Hay una buena diversidád que no parace al primér vista.
+Paseando la pradera con el ganado, lo dejé entrar a mi ser.
+Ahora el asado, la costilla del bife, tiene un gusto aún más rico.
+
+De la cucumela la encontré escaso. Llevé dos, secados al lado del fuego.
+Dicen que su epoca es más por el otoño.
+Hize una imprima de esporos para averiguar su color purple profundo.
+Ese color y las manchas azules sobre el tallo eran incofundibles.
+
+Más del momento encontré unas champiñones con sus azezulas rosadas. Eran
+buenisimas esta noche en la salsa para la pasta de la cena.  Hize otra imprima
+de esporas con el champiñón para averiguar que sean negras.  Dejé ambos de los
+imprimientos de esporas para la anfitriona, que pueda hacer lo que quería, si
+quería desplegarlos por algún rincón de su terreno.
+
+![Cerro cercana de la costa en Rocha, Uruguay](
+  {{ '/assets/images/2023/09Rocha/RochaCerro.jpg' | relative_url }}
+)
+
+El último día, todavía no he ido al fondo de la playa, al borde del már,
+para tocar el agua.
 Este día no estaba borroso ni ventoso ni con llovisno ni soleado.
 Sí, todavía estaba frío. De ninguna manera fui a meterme por el agua
 congelada.
-
-![Playa atlántica en Rocha, Uruguay. Faro de Cabo Polonio a distancia](
-  {{ '/assets/images/2023/09Rocha/RochaPlaya.jpg' | relative_url }}
-)
 
 Hacia el norte podía ver el [faro de Cabo Polonio][faro].
 Allí hay rocas peligrosas por el punto de tierra.
@@ -95,28 +135,6 @@ no demasiado cerca, navegando por el mar en la oscuridad.
 
 [faro]: https://es.wikipedia.org/wiki/Faro_de_Cabo_Polonio
 
-
-![description](
-  {{ '/assets/images/2023/09Rocha/RochaPraderaCabañas.jpg' | relative_url }}
-)
-![description](
-  {{ '/assets/images/2023/09Rocha/RochaPraderaCharco.jpg' | relative_url }}
-)
-![description](
-  {{ '/assets/images/2023/09Rocha/RochaPradera.jpg' | relative_url }}
-)
-![description](
-  {{ '/assets/images/2023/09Rocha/RochaPraderaCerro.jpg' | relative_url }}
-)
-![description](
-  {{ '/assets/images/2023/09Rocha/RochaVacas.jpg' | relative_url }}
-)
-![description](
-  {{ '/assets/images/2023/09Rocha/RochaOveja.jpg' | relative_url }}
-)
-![description](
-  {{ '/assets/images/2023/09Rocha/RochaPraderaVacas.jpg' | relative_url }}
-)
-![description](
-  {{ '/assets/images/2023/09Rocha/RochaCerro.jpg' | relative_url }}
+![Playa atlántica en Rocha, Uruguay. Faro de Cabo Polonio a distancia](
+  {{ '/assets/images/2023/09Rocha/RochaPlaya.jpg' | relative_url }}
 )
