@@ -3,10 +3,7 @@ layout: post
 title: Visita a Rocha
 date: 2023-09-24
 tags: Uruguay Rocha Naturaleza
-excerpt: En Rocha, en Uruguay, encuentro frio, Guaraní, vacas, la costa atlántica.
-link_note: "[text for internal link]({{ '/2021/11/15/Sara-M.html' | relative_url }})"
-video_note: "{% include video.html source='2022/CorrientesDos.mp4' still='2022/CostaRica/CorrientesUno.png' %}"
-audio_note: "{% include audio.html source='/assets/audio/2021/Cantante.m4a' %}"
+excerpt: En Rocha encuentro frio, Guaraní, la pradera, playa borrosa y la costa atlántica.
 ---
 
 Pasé por Uruguay en setiembre y octubre. Viajé por avión.
@@ -87,13 +84,30 @@ mezclados el fondo genético charrúa con su propio en la población colonial.
 
 [charrúa]: https://es.wikipedia.org/wiki/Charr%C3%BAas
 
-![description](
+El libro de Abella también tiene una leyenda Charrúa sobre un asterismo del
+cielo nocturno. El guerrero Huntí está enamorada con la princesa Ukái de
+un pueblo vecino. Ella le doy el desafío de cazar el arcoiris para ganar su
+amor.  El corre con velocidad máxima hacía un arcoiris solo a ver que se aleja
+tan rapidamente de que corre. Sueña la verdad esta noche, que pueda alcanzar
+jamás al arcoiris corriendo.
+
+En vez de perseguir el arcoiris corriendo, lanza su boleadora de tres bolas
+desde lo alto de un cerro hacía un arcoiris bien brillante. La boleadora se
+aleja y se fija en el cielo como los tres estrellas Lai Detí, conocidos a
+nosotros como los tres Marias, el cinturón de Orión.
+
+El boleadora esta congelado allí en el cielo, igual con Huntí, igual con
+Ukái, igual con todo el pueblo de Ukái.
+"Nos va la vida en ello. Todos necesitamos que las Tres Marias se enlacen
+enamorados en el arcoiris."
+
+![Pradera con charco en Rocha, Uruguay](
   {{ '/assets/images/2023/09Rocha/RochaPradera.jpg' | relative_url }}
 )
 
 Mi pretexto estár en Rocha caminando por el campo era buscar hongos,
 de lo cual la cucumela principalmente me interesa.
-Llevé un libro bien ilustrado, de Alejandro Sequera, sobre los
+Llevé un libro bien ilustrado, de Alejandro Sequeira, sobre los
 hongos encontrados en Uruguay.
 
 De verdad me divierte mirar y identificar los hongos y disfrutar su
@@ -104,8 +118,9 @@ Hay una buena diversidád que no parace al primér vista.
 Paseando la pradera con el ganado, lo dejé entrar a mi ser.
 Ahora el asado, la costilla del bife, tiene un gusto aún más rico.
 
-De la cucumela la encontré escaso. Llevé dos, secados al lado del fuego.
+De la cucumela la encontré escaso.
 Dicen que su epoca es más por el otoño.
+Llevé dos, secados al lado del fuego.
 Hize una imprima de esporos para averiguar su color purple profundo.
 Ese color y las manchas azules sobre el tallo eran incofundibles.
 
