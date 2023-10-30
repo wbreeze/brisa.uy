@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Montevideo
-date: 2023-10-27
+date: 2023-10-30
 tags: Uruguay Montevideo cultura
 excerpt: Conecto con amigos. Distfruto la cultura que ofrece Montevideo.
 ---
