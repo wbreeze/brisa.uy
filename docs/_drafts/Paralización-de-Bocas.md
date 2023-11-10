@@ -62,3 +62,18 @@ tiendas y los almacenes están abiertas. Hay provisiones en los almacenes. Estoy
 resolviendo problemas, a punto de salir a navegar. Es una buena vida. Una vida
 afortunada.  Navegamos.
 
+![description](
+  {{ 'assets/images/2023/11Bocas//IMG_20231109_120711_825.jpg' | relative_url }}
+)
+![description](
+  {{ 'assets/images/2023/11Bocas//IMG_20231109_130757_644.jpg' | relative_url }}
+)
+![description](
+  {{ 'assets/images/2023/11Bocas//IMG_20231109_141104_836.jpg' | relative_url }}
+)
+![description](
+  {{ 'assets/images/2023/11Bocas//carteleras.jpg' | relative_url }}
+)
+![description](
+  {{ 'assets/images/2023/11Bocas//IMG_20231109_141447_787.jpg' | relative_url }}
+)
