@@ -2,13 +2,10 @@
 layout: post
 title: Golfo de los Mosquitos
 date: 2023-11-18
-tags:
+tags: navegación Panamá clima
 excerpt: Navego tres días al este, de vuelta a Bahía Limón, por el Golfo de
   los Mosquitos
 link_note: "[text for internal link]({{ '/2021/11/15/Sara-M.html' | relative_url }})"
-image_note: "![image description]({{ '/assets/images/image.jpeg' | relative_url }})"
-video_note: "{% include video.html source='2022/CorrientesDos.mp4' still='2022/CostaRica/CorrientesUno.png' %}"
-audio_note: "{% include audio.html source='/assets/audio/2021/Cantante.m4a' %}"
 ---
 
 En Brisa, como en casa, uso propano para cocinar. En la provincia de Bocas
@@ -16,6 +13,10 @@ de Toro, así como de Isla Colón, las entregas de propano han parado.
 Con mi suministro de propano flanqueando, decidí ponerme en marcha, regresar
 al este, a Bahía Limón, al puerto deportivo Shelter Bay, donde he hecho refugio
 durante tanto tiempo.
+
+![Puerto deportivo de Shelter Bay desde Bahía Limón](
+  {{ 'assets/images/2023/11Mosquito//DSC03559.JPG' | relative_url }}
+)
 
 Brisa tiene dos tanques para propano. Son un tercio del tamaño de los
 tanques que se entregan normalmente en Montevideo, unos cinco kilos.
@@ -41,6 +42,10 @@ En cualquier caso, después de la borrasca, el viento era flojo. Al día
 siguiente navegué entre arrecifes cercanos y peligrosos, pasé los Cayos
 Zapatilla y me adentré en mar abierto.
 
+![Cayos Zapatilla, Bocas del Toro, Panamá](
+  {{ 'assets/images/2023/11Mosquito//IMG_20231112_110741_521.jpg' | relative_url }}
+)
+
 Una segunda borrasca vino desde el este, justo en la proa. La primera vista
 era de una salchicha negra aproximando. Me preparé. Puse el impermeable.
 Cerré las escotillas. Todavía no tenía un piloto automático para
@@ -55,6 +60,10 @@ gotas pesadas punzantes comenzaron a golpearme de modo que no pueda levantar
 mi cara desde la mirada del compás, para ver las vetas de espuma que surcan la
 superficie de las olas. Poco a poco, durante unos quince minutos, la lluvia y
 el viento amainaron.
+
+![Mar abierto con cumulus](
+  {{ 'assets/images/2023/11Mosquito//DSC03537.JPG' | relative_url }}
+)
 
 Con la puesta del sol decidí cortar el motor. He visto detritus de arbustos
 y árboles en el agua. Están a tres docenas de millas naúticas fuera de la costa.
@@ -74,6 +83,10 @@ Con el vaivén del barco, dentro, como un guisante en vaina larga y hueca,
 pasó la noche inquieta, al fin, por unas horas, inconsciente. Me desperté
 con la primera luz tibia de la madrugada.
 
+![Mar abierto desde el cubierto](
+  {{ 'assets/images/2023/11Mosquito//DSC03532.JPG' | relative_url }}
+)
+
 Ese era el tercer día. Había viento para navegar a popa. Lo hice.
 Solo alcancé a tres o cuatro nudos. Estaba demasiado tímido o perezoso o
 ambos para armar la genoa. Navegué con el drifter, la vela del cien
@@ -82,6 +95,10 @@ por ciento del tamaño del triángulo entre el mástil y la proa.
 De tarde el viento avanza hacia llegó atrás de mi rumbo, o incluso un
 poco delante. Subí el mayor para disfrutar unas horas de navegación a
 través, con cinco a seis nudos, el estado más felíz de las velas.
+
+![A popa, barcos del fondeadero caribeño canal de Panamá](
+  {{ 'assets/images/2023/11Mosquito//DSC03552.JPG' | relative_url }}
+)
 
 La driza del foque se ha enredado en los escalones atracados al lado del mástil
 de la noche previa. Por la mañana, había tenido que trepar al mástil para
@@ -94,10 +111,18 @@ Y ¡qué noche! Una noche desplegada, llena de estrellas y la Via Láctea.
 Podía ver la superficie del mar luciente por las estrellas. Sin luna.
 Sin nada. Un campamento mío en medio de un amplio desierto acuoso.
 
+![De aleta, barcos del fondeadero caribeño canal de Panamá](
+  {{ 'assets/images/2023/11Mosquito//DSC03545.JPG' | relative_url }}
+)
+
 La ultima día podía navegar a vela, pero decidí no hacer el tonto. Pongo
 la mano del timón en marcha con el motor. Navegué entre los barcos grandes
 esperando en el fondeo caribeño para el canal de Panamá. Llegué a la
 marina. Se aferró al muelle para descansar.
+
+![Barco del fondeadero caribeño canal de Panamá](
+  {{ 'assets/images/2023/11Mosquito//DSC03549.JPG' | relative_url }}
+)
 
 En la marina, hago unas cuantas mejoras y mandatos:
 - Mejoro la cesta de desagüe del fregadero de la cocina. Hecho de metal,
@@ -120,30 +145,7 @@ luces de navegación.
 
 Pronto estará listo para navegar los mil quinientas millas náuticas a Cozumel.
 
-![description](
-  {{ 'assets/images/2023/11Mosquito//DSC03540.JPG' | relative_url }}
-)
-![description](
-  {{ 'assets/images/2023/11Mosquito//DSC03532.JPG' | relative_url }}
-)
-![description](
-  {{ 'assets/images/2023/11Mosquito//IMG_20231112_110741_521.jpg' | relative_url }}
-)
-![description](
-  {{ 'assets/images/2023/11Mosquito//DSC03545.JPG' | relative_url }}
-)
-![description](
-  {{ 'assets/images/2023/11Mosquito//DSC03537.JPG' | relative_url }}
-)
-![description](
-  {{ 'assets/images/2023/11Mosquito//DSC03559.JPG' | relative_url }}
-)
-![description](
-  {{ 'assets/images/2023/11Mosquito//DSC03549.JPG' | relative_url }}
-)
-![description](
-  {{ 'assets/images/2023/11Mosquito//DSC03552.JPG' | relative_url }}
-)
-![description](
+![Proa del barco Tsukoyomi Eternity fondeado en espera del canal de Panamá](
   {{ 'assets/images/2023/11Mosquito//DSC03558.JPG' | relative_url }}
 )
+
