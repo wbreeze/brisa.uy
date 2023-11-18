@@ -5,14 +5,15 @@ date: 2023-11-18
 tags: navegación Panamá clima
 excerpt: Navego tres días al este, de vuelta a Bahía Limón, por el Golfo de
   los Mosquitos
-link_note: "[text for internal link]({{ '/2021/11/15/Sara-M.html' | relative_url }})"
 ---
 
 En Brisa, como en casa, uso propano para cocinar. En la provincia de Bocas
-de Toro, así como de Isla Colón, las entregas de propano han parado.
+de Toro, así como de Isla Colón, [las entregas de propano han parado][bocas].
 Con mi suministro de propano flanqueando, decidí ponerme en marcha, regresar
 al este, a Bahía Limón, al puerto deportivo Shelter Bay, donde he hecho refugio
 durante tanto tiempo.
+
+[bocas]: {{ '/2023/11/09/Paralizaci%C3%B3n-de-Bocas.html' | relative_url }}
 
 ![Puerto deportivo de Shelter Bay desde Bahía Limón](
   {{ 'assets/images/2023/11Mosquito//DSC03559.JPG' | relative_url }}
@@ -69,8 +70,10 @@ Con la puesta del sol decidí cortar el motor. He visto detritus de arbustos
 y árboles en el agua. Están a tres docenas de millas naúticas fuera de la costa.
 Vi un tronco doble el tamaño de una canoa y lo franqueó. Vi otro tronco
 igual, más tarde, un poco más lejos. No quería chocar con seis nudos un
-tronco con tamaño suficiente para rasgar el casco, el casco que había lijado
-con tanto cuidado y durante tanto tiempo.
+tronco con tamaño suficiente para rasgar el casco, el casco que [había lijado
+con tanto cuidado][lijar] y durante tanto tiempo.
+
+[lijar]: {{ '/2022/10/08/Renovaci%C3%B3n-del-Casco-Muerto.html' | relative_url }}
 
 Para capturar el viento
 suave de popa y calmar el movimiento del velero, decidí subir el foque.
