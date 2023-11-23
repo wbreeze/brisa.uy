@@ -135,13 +135,12 @@ había empezado a gotear. La nueva está hecha de plástico.
 taller Isaac.
 - Limpio los tanques del agua potable y los relleno con el agua dulce
 de la marina.
-- Instalo una segunda batería.
 - Termino con el sellado del tangón arriba del salón.
 - Relleno los cuarenta litros de gasoil que usé en el tránsito desde Bocas.
 - Este sábado lluvioso escribo esta historia.
 - Por supuesto, rellené un tanque de propano.
 
-Con dos baterías, con el alternador funcionando, puedo dar poder
+Con el alternador funcionando, puedo dar poder
 al piloto automático cuando se conduce a motor, sin temer
 usar la energía necesaria para el GPS, cartas electrónicas, AIS y
 luces de navegación.
