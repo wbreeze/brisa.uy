@@ -1,11 +1,10 @@
 ---
 layout: post
 title: Energía en Alta Mar
-date: 2023-12-30
+date: 2023-12-24
 tags: navegación alta.mar energía timón.de.viento Otto
 excerpt: Encuentro contratiempos, de nuevo, con la energía. Ésta vez,
   estoy navegando por alta mar.
-link_note: "[text for internal link]({{ '/2021/11/15/Sara-M.html' | relative_url }})"
 ---
 
 Éste artículo es muy técnico. Te he advertido.

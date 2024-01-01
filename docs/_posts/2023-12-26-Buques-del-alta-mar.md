@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Buques del alta mar
-date: 2023-12-31
+date: 2023-12-26
 tags: navegación alta.mar canal.pedro bancos cayos
 excerpt: En el alta mar, no soy solo. Encuentro al comercio marítimo del
   mundo. Encuentra el Canal Pedro y mi recorrido a pie por el centro de
