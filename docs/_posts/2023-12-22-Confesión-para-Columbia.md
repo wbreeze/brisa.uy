@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Confesión para Columbia
-date: 2023-12-30
-tags: navegación mantenimiento Columbia fronteras
+title: Confesión para Colombia
+date: 2023-12-22
+tags: navegación mantenimiento Colombia fronteras
 excerpt: Tomé refugio en el puerto de Cartagena dos noches para comprar
   gasoil y seguir en marcha a México
 ---
@@ -23,14 +23,14 @@ Seguí con el motor.
 El segundo día, había navegando con motor, con buen progreso, pero
 me he dejado con poco gasoil, con mil y pico millas náuticas más hasta
 alguna llegada en Cozumel, México. Además, he llegado aproximando a la costa
-norteña de Columbia temprano, con pronóstico de viento fuerte allí, en contra.
+norteña de Colombia temprano, con pronóstico de viento fuerte allí, en contra.
 Además, he dado noticia que mi antena VHF, que llevo a lo alto del mástil,
 se perdió en el mar.
 
-Era el Domingo. Decidí ponerme en las manos del puerto de Columbia.
+Era el Domingo. Decidí ponerme en las manos del puerto de Colombia.
 Seguí con el motor sobre el mar glaseado. El pronóstico para una salida de
 Cartagena el Martes promete una navegación muy segura, con vientos favorables
-y no tan fuertísimos. Mi única pregunta era si las autoridades en Columbia
+y no tan fuertísimos. Mi única pregunta era si las autoridades en Colombia
 podrían procesar mi llegada y salida el mismo día, el Lunes.
 
 ## Llegada en Cartagena
@@ -102,7 +102,7 @@ al lado de babor. Era una aventura.
   {{ '/assets/images/2023/12Cayman/DSC03705.JPG' | relative_url }}
 )
 
-Pido disculpas a Columbia y al puerto de Cartagena si he cometido algún
+Pido disculpas a Colombia y al puerto de Cartagena si he cometido algún
 delito. Espero que sea como llegar por un vuelo internacional, tomar la
 cena, y salir con otro vuelo internacional sin cruzar la frontera. Eso
 he hecho una vez en el aeropuerto de Madrid, en camino entre Buenos Aires y
@@ -111,6 +111,6 @@ Londres, algunas veces en Panamá entre Uruguay y México.
 Espero que sin sangre no haga falta. De verdad agradezco que pudiera
 comprar gasoil y seguir de modo más seguro con la navegación.
 No aconsejo que otros hagan lo que hice yo.
-Lo mejor es planificar un viaje como mío de puerto a puerto, tomarlo en
+Lo mejor es planificar un viaje como mío de puerto a puerto. Tomarlo en
 pedazos.
 
