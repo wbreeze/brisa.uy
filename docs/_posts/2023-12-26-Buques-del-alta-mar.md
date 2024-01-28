@@ -22,6 +22,38 @@ Panamá a Cartagena. La segunda estaba desde Cartagena a la isla Gran Cayman.
 
 Escuchando por la radio los buques en los puertos, escucho dos acentos los
 más comunes. ¿Sabe cuales son? Me da sorpresa, no sé por qué. Son indio y ruso.
+No es una regla. Hablé con un capitán Estadounidense, de Isla Larga (Long
+Island) en Nueva York.
+
+Los buques tienen nombres raros, a veces. Pienso que utilizan un programa que
+selecciana dos palabras al azar de algún diccionario. Los que, para mi
+hizo caso son los que usan el nombre de la empresa seguido por algo nautico.
+Aquí un sample, algunos que cruze en el Canal Yucatán:
+
+- Victoria Lyra
+- Overseas Martines
+- Grande Togo
+- Flanders Pioneer
+- SSI Providence
+- Bow Persistent
+- BBC Minnesota
+- Carnival Dream
+- Glovis Sun
+- Hoegh Copenhagen
+- Tomini Royalty
+- Pasco Odin
+- MSC Niovi VIII
+- Glovus Sirius
+- Searythm
+- Advantage Vital
+- Amax Avenue
+- Dimitris P
+- SSI Resolute
+- Cabo San Vicente
+- Seapeak Arwa
+- Kmarin Respect
+
+¿Puedes adivinar cuál es el crucero del placer?
 
 ## Canal Pedro
 
