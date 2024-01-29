@@ -10,26 +10,39 @@ video_note: "{% include video.html source='2022/CorrientesDos.mp4' still='2022/C
 audio_note: "{% include audio.html source='/assets/audio/2021/Cantante.m4a' %}"
 ---
 
+### Poder del viento [Escala de Beaufort][beaufort]
+
+|Fuerza|Frase|Nudos|km/h|
+|---:|:---|---:|---:|
+|2|flojito|4-6|7-11|
+|3|flojo|7-10|12-18|
+|4|bonancible|11-16|19-29|
+|5|fresquito|17-21|30-38|
+|6|fresco|22-27|39-49|
+|7|frescachón|28-33|40-59|
+
+[beaufort]: https://es.wikipedia.org/wiki/Escala_de_Beaufort
+
+### La Ruta
+
 Para llegar al fondeadero de Tortugas Secas sería preciso navegar al norte y
 noreste por Canal Oeste, un canal estrecho con rocas ocultos y arrecifes.
 Llegando dentro las bancas, los arrecifes y el Cayo de Jardín (Garden Key),
 navegaría al este una milla náutica.  A final navegaría al sur por un canal aún
 más estrecho para llegar al Puerto de Cayo Pájaro (Bird Key Harbor). El
-viento estaba lijera desde el noreste.
+viento estaba flojo desde el noreste.
 
-A vela me parecía imposible. Con motor sería fácil, una hora de navegación.
-La unica problema fue que no tenía motor.
-Sentía prisa porque el pronóstico preveé la llegada de un borrasco con
-viento fresco (fuerza seis) seguido por viento fresquito (fuerza cinco)
-por días.
+A vela me parecía imposible. Con motor sería fácil, una hora de navegación.  La
+unica problema fue que no tenía motor.  Sentía prisa porque el pronóstico
+preveé la llegada de un frente frío con viento fresco seguido por viento
+fresquito por días.
 
-Quería sufrir todo eso fondeado, no navegando.
-Además, la llegada a los puertos al este sería aún más dificíl sin motor.
-Esperé mejorar el motor allí. Solo precisa una pieza, una bomba. Con el
-acesso desde Tortugas Secas por transbordador e hidroavión al continente,
-podría obtenerlo.
+Quería sufrir los vientos previstos fondeado, no navegando.  Además, la llegada
+a los puertos al este, de Cayo Hueso sería aún más dificíl sin motor.  Esperé
+mejorar el motor allí. Solo precisa una pieza, una bomba. Con el acesso desde
+Tortugas Secas por transbordador e hidroavión al continente, podría obtenerlo.
 
-Pedí ayuda a los autoridades del parque nacionál, allí. Estuve con
+Pedí ayuda de los autoridades del parque nacionál, allí. Estuve con
 fantasias de mi país de oro, populado con gente amable y heroico.
 Recordí el entrenamiento de mi juventud, con historias de los hombres valientes
 en el servicio de los parques nacionales, que prestaban asistencia amistosa a
@@ -72,7 +85,9 @@ soplando el viento," le dije, "Sí, estaré a la deriva." "El viento quedará.
 No se preocupa," me dijo.
 
 Para un remolje, dijo, hay una empresa. Pregunté a él si tenían una lancha
-cerca.  No, me dijo dudosamente.  Vienen de Cayo Hueso.
+cerca.  No, me dijo dudosamente.  Vienen de Cayo Hueso. Es el costumbre en los
+Estados Unidos. Servicios como eso son contratados por empresas privadas. La
+ayuda pública se limita a enforcar las leyes. Me había olvidado tanta.
 
 Cuando salió me pregunté ¿por qué he venido? Me di cuenta que vino no para
 ayudarme. Vino para investigarme.
@@ -111,10 +126,10 @@ El castillo quedó conmigo por una hora y media o dos horas-- yo bordejeando.
 Ellos navegan a vela poco. Lo abandonó y quedan a la vista, alcanzandome
 a veces con el motor.
 
-El viento crece a la fuerza banancible (fuerza cuatro). Necesitaba capear para
+El viento crece a la fuerza bonancible. Necesitaba capear para
 poner un segundo rizo en la vela mayor. Después navegué hacia el norte por el
 canal este. El viento ha girado hacia el norte. Todavía necesitaba bordejear.
-El viento seguí creciendo. Sale fresquito (fuerza cinco). Empezcó una lluvia
+El viento seguí creciendo. Sale fresquito. Empezcó una lluvia
 lijera. La visibilidad disminuyó.
 
 Regé al catamarán quedarse conmigo a pesar de que ya ha pasado condiciones
@@ -126,7 +141,7 @@ partatíl dentro. Ninguna de los dos funciona cuando está mojado.
 
 ## El Frente Fría
 
-Muy pronto después, venía una rafaga furiosa, frescachón (fuerza siete).
+Muy pronto después, venía una rafaga furiosa, frescachón.
 Cuando venía estaba a medio de virar. Me puse capeado y empezcé trabajando
 furiosamente para bajar el foque y la vela mayor. Una lluvia intensa venía, con
 fría. El viento siga frescachón. Perdí la vista del catamarán.
@@ -168,7 +183,7 @@ viento fresquito.
 ## Conclusión
 
 Es mi culpa que salía al mar por días más navegando con viento fresquito,
-a veces fresco (fuerzas cinco y seis). Cuando llega la ayuda que había
+a veces fresco. Cuando llega la ayuda que había
 pedido ya he abandonado el plan. Si no, el catamarán hubiera ponerme
 fondeado seguramente por el paso de la tormenta y el viento que la siguió.
 
@@ -181,20 +196,20 @@ Me dieron mucho de confort con su presencia.
 A "Ranger" Minitri, no siento tanto el rencor, ahora. A su vista, yo no estaba
 con peligro ninguna. Para él, mi pedido estaba un pedido de comodidad. Un
 velero sin motor puede navegar a vela.  Su realidad es su realidad, distinto
-que mía. Lo que sea, es un ser humano intentando vivir lo mejor que pueda,
-siguiendo las creencias cuales, a el, sirven mejor. Él, como todos y todas,
-haga lo que pueda.
+que mía. Lo que sea. Es un ser humano intentando vivir lo mejor, siguiendo las
+creencias cuales, a el, sirven mejor. Él, como todos y todas, haga lo que
+pueda.
 
 Por suerte el viento sopla justo para que podía ponerme a ceñida, con el
 velero estabil, en equilibrio, para seguir navegando hacía el este, a
 Cayo Hueso. Si no, sin energía timonear a mi mismo, ni sol, ni motor, ni
 nada para generar energía para el piloto automatico y el equipamento de
-navegación... Si el viento he soplado más desde el este, sí; hubiera estado con
+navegación... Si el viento ha soplado más desde el este, sí; hubiera estado con
 peligro, navegando por quien sabe cuanto tiempo ni donde.
 
 Llegué fuera el canal por los arrecifes al sur de Cayo Hueso con navegación
-dificíl y duro. Necesitaba bordejear con viento fresquito (fuerza
-cinco) y olas de dos metros con periodo corto.  Temé para mi equipamiento.
+dificíl y duro. Necesitaba bordejear con viento fresquito
+y olas de dos metros con periodo corto.  Temé para mi equipamiento.
 Algunas cosas más quebran, incluso un molinete de la trinqueta. Prestan que
 hice mejoras improvisadas.
 
