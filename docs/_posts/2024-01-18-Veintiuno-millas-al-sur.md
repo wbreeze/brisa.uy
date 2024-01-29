@@ -11,7 +11,7 @@ Aquí comparto un video, saludos desde veintiuno millas náuticas al sur
 de las Tortugas Secas (Dry Tortugas). Es más largo de lo habitual, cinco
 minutos. Todavía hago errores con el castellano. Incluso yo puedo oirlos.
 
-{% include vídeo.html
+{% include video.html
   source='2024/21nmAlSurDeDryTortugas.mp4'
   still='2024/01DryTortugas/21nmAlSurDeDryTortugas.jpeg'
 %}
