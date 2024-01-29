@@ -2,8 +2,8 @@
 layout: post
 title: Veintiuno millas al sur
 date: 2024-01-18
-tags: navegación video Tortugas_Secas
-excerpt: Comparto un video, saludos desde veintiuno millas náuticas al sur
+tags: navegación vídeo Tortugas_Secas
+excerpt: Comparto un vídeo, saludos desde veintiuno millas náuticas al sur
   de las Tortugas Secas (Dry Tortugas).
 ---
 
@@ -11,7 +11,7 @@ Aquí comparto un video, saludos desde veintiuno millas náuticas al sur
 de las Tortugas Secas (Dry Tortugas). Es más largo de lo habitual, cinco
 minutos. Todavía hago errores con el castellano. Incluso yo puedo oirlos.
 
-{% include video.html
+{% include vídeo.html
   source='2024/21nmAlSurDeDryTortugas.mp4'
   still='2024/01DryTortugas/21nmAlSurDeDryTortugas.jpeg'
 %}
