@@ -13,26 +13,34 @@ audio_note: "{% include audio.html source='/assets/audio/2021/Cantante.m4a' %}"
 
 El puerto de George Town, [Gran Caimán][caimán], sube del mar como la ciudad
 perdida de [Atlántida][atlántida]. Los altos de los edificios aparecen
-primalmente. La tierra no aparece hasta que se acerca a siete millas náuticas.
-Si el nivel del mar crece dos metros, la isla saldra como los Bancos de
+primariamente. La tierra no aparece hasta que se acerca a siete millas náuticas.
+Si el nivel del mar crece dos metros, la isla saldrá como los Bancos del
 Gran Caimán. Es totalmente de tierras bajas.
 
 [caimán]: https://es.wikipedia.org/wiki/Gran_Caim%C3%A1n
 [atlántida]: https://es.wikipedia.org/wiki/Atl%C3%A1ntida
 
-Los edificios los más altos son buques de crucero. (Me enteré más tarde que
-hay un limite de altura por decreto.) Hay un montón de grúas. Quizá los
-britanicos son de personalidad muy optimista. O oportunista. Quizá ganan
-un devolución rápida por sus inversiones.
+![Llegada a la isla de Gran Caimán, el puerto de George Town](
+  {{ '/assets/images/2024/01Caimán/Llegada.jpg' | relative_url }}
+)
+
+Los edificios más altos son buques de crucero. (Me enteré más tarde que
+hay un límite de altura por decreto.) Hay un montón de grúas. Quizá los
+británicos son de personalidad muy optimista. O oportunista. Quizá ganen
+una devolución rápida por sus inversiones.
 
 ### La llegada
 
-El proceso de llegada fue lo más facíl y la más amistoso que he encontrado
-en cualquier país. Un agente de la seguridad del puerto responde
-inmediatamente con tono muy amable. Me dirigen a una de sus amarras bien mantenido
-y seguro que proporcionan para visitantes. La guardia de la costa me
-encontré y me guió hasta un muelle. Un agente visita con bienvenido. Me dió
-sus cuatro formularios y me dejó con paz para completarlos.
+El proceso de llegada fue el más fácil y el más amistoso que he encontrado en
+cualquier país. Un agente de la seguridad del puerto responde inmediatamente
+con un tono muy amable. Me dirigen a una de sus amarras bien mantenidas y
+seguras, que proporcionan para visitantes. La guardia de la costa me encontró y
+me guió hasta un muelle. Un agente visita con bienvenida. Me dió sus cuatro
+formularios y me dejó con paz para completarlos.
+
+![Formalidades de Gran Caimán con Brisa](
+  {{ '/assets/images/2024/01Caimán/BrisaGC.jpg' | relative_url }}
+)
 
 Escribí el nombre del velero cuatro veces, la fecha cinco veces, mi nombre
 cinco veces, mi firma cuatro veces. Cuando volvió, después de quince minutos,
@@ -42,55 +50,67 @@ No obstante, lo último que dijo era que Gran Caimán es un país muy caro.
 
 ### La isla
 
-En Gran Caimán, las areas desarollados son muy modernos, con construcción de
-calidad alta, a nivel del primer mundo-- los calles, las varedas, los bordillos,
-las galerías comerciales, los edificios. Puede ser Miami o [Fort
-Lauderdale][ftl].
+En Gran Caimán, las áreas desarrolladas son muy modernos, con construcción de
+calidad alta, a nivel del primer mundo-- calles, veredas, bordillos, galerías
+comerciales, edificios. Puede ser Miami o [Fort Lauderdale][ftl].
 
 [ftl]: https://es.wikipedia.org/wiki/Fort_Lauderdale
 
-En los mercados hay todos tipos de frutas y verduras frescas y exquisiteces
-culinarias lujos sobre las estancias. Tienen buena luz y pasillos anchos.
-
-La mayoría de los autos son recién fabricados. Corren por el carrillo izquierda
-del calle como hacen en Inglatera. Hay muchos de marca de lujo.  Lo que hacen
-con los autos viejos no lo sabe nadie. Debe ser un vertedero grande en algún
-lugar porque el consumo es igual con cualquier colonización del continente.
-
-No hay perros en los calles. A la vez hay los gallos y las gallinas. Una mujer
-sentado al lado de la vereda advertió cuando yo pasé a ella, "Somos un país
-libre. Los gallos y las gallinas andan libres." Hablan inglés. Esucuchas
-acentos de las Indias Occidentales como Jamaíca, britanicos e asiáticos.
-Paré un momento hablar con ella. Compartí un porcion de las patatas fritas
-que había llevando.  Ella compartió su porcion con una gallena.
-
 Tienen su propio cultural local. Son británicos, con visitas de las royales y
-un gobernador asignado por el rey. Hacen una fiesta de musica, la
-[Capella][cap] en avríl. Hacen carnavales. El [Batabano][bata] en mayo es lo
-tradicionál con la onda espiritual. El [CayMas][cam] en julio es más comerciál.
-En noviembre hacen una semana de piratas. Corren un maraton en diciembre.
+un gobernador designado por el rey. Hacen una fiesta de música, la
+[Capella][cap] en avril. Hacen carnavales. El [Batabano][bata] en mayo es lo
+tradicional con la onda espiritual. El [CayMas][cam] en julio es más comercial.
+En noviembre hacen una semana de piratas. Corren un maratón en diciembre.
 
 [cap]: https://www.capellamusicfestival.com/
 [bata]: https://www.caymancarnival.com/
 [cam]: https://www.caymas.ky/
 
+![Autos fuera del supermercado, Gran Caimán](
+  {{ '/assets/images/2024/01Caimán/IMG_20231229_122103_210.jpg' | relative_url }}
+)
+
+En los mercados hay todos tipos de frutas y verduras frescas y exquisiteces
+culinarias lujosas sobre las estancias. Tienen buena luz y pasillos anchos.
+
+La mayoría de los autos son recién fabricados. Corren por el carril izquierdo
+de la calle como hacen en Inglaterra. Hay muchos de marca de lujo.  Lo que hacen
+con los autos viejos no lo sabe nadie. Debe ser un vertedero grande en algún
+lugar porque el consumo es igual con cualquier colonización del continente.
+
+No hay perros en las calles. A la vez hay gallos y gallinas. Una mujer
+sentada al lado de la vereda advirtió cuando yo pasé a ella, "Somos un país
+libre. Los gallos y las gallinas andan libres." Hablan inglés. Escuchas
+acentos de las Indias Occidentales como Jamaica, británicos e asiáticos.
+Paré un momento para hablar con ella. Compartí una porción de las patatas
+fritas que había llevado.  Ella compartió su porción con una gallina.
+
+![Por qué cruzó la gallina por la calle? Porque yo estaba persigiendola con la
+cámera](
+  {{ '/assets/images/2024/01Caimán/Gallina.jpg' | relative_url }}
+)
+
 ### Turismo
 
-La industria del turismo es muy evidente. Hay expediciones de pesca deportiva
-y de buceo. La isla es circunscrito por arrecifes. Hay expediciones para
-vista de la costa. Hay expediciones para nadar con los [mantas][manta].
-Un espectaculo común es ver el catamarán jugando ¿cuántas personas podemos
-poner en la proa? Toda la gente quieren estár en la proa. Los catamarán
-aran el agua como cerdos pastando.
+La industria del turismo es muy evidente.  La isla está circunscrita por
+arrecifes.  Hay expediciones de pesca deportiva y de buceo.  Hay expediciones
+para la vista de la costa. Hay expediciones para nadar con [mantas][manta].  Un
+espectáculo común es ver el catamarán jugando ¿cuántas personas podemos poner
+en la proa? Toda la gente quiere estar en la proa. Los catamarán aran el agua
+como cerdos pastando.
 
 [manta]: https://es.wikipedia.org/wiki/Batoidea
 
-Por la tierra, en el [centro de tortugas][tortuga], crian y protejan la [tortuga verde][verde].
-Además, es un sitio turistico con un parque de la naturaleza, un tipo de
-parque zoologico. La realeza mantiene un [parque botánico][bot] que lleva
-el nombre de la reina Elizabeth segunda. Hay un serie de [cuevas][cueva]
-en la selva al noreste de la isla. Allí pagas para tomar un tur.
-A mí me interesó primalmente el parque botánico, pero no fuí.
+![Surfistas en Governor's Creek, Gran Caimán](
+  {{ '/assets/images/2024/01Caimán/Surfistas.jpg' | relative_url }}
+)
+
+Por la tierra, en el [centro de tortugas][tortuga], crían y protegen la
+[tortuga verde][verde].  Además, es un sitio turístico con un parque de la
+naturaleza, un tipo de parque zoológico. La realeza mantiene un [parque
+botánico][bot] que lleva el nombre de la reina Elizabeth segunda. Hay una serie
+de [cuevas][cuevas] en la selva al noreste de la isla. Allí pagas para tomar
+una excursión.  A mí me interesó primariamente el parque botánico, pero no fuí.
 
 [tortuga]: https://en.wikipedia.org/wiki/Cayman_Turtle_Centre
 [verde]: https://es.wikipedia.org/wiki/Chelonia_mydas
@@ -100,35 +120,47 @@ A mí me interesó primalmente el parque botánico, pero no fuí.
 ### Economía
 
 Son muy listo con la industria financiera. Son un paraíso fiscal. Además,
-fijan su moneda con el dolar. No hay mercado para la moneda de Gran Caimán,
+fijan su moneda con el dólar. No hay mercado para la moneda de Gran Caimán,
 $KY o KYD. Todos los ofertas son de $KY. Cuando pagas, si pagas con cualquier
-metodo internacionál, primalmente aplican su conversion fijo a dolares y
-cargan en dolares. De este manera, con cuanto turismo, acopilan dolares
-tanto rápido que Amazon. El cambio actuál fue 0.80 KYD para 1.00 USD.
+método internacional, primariamente aplican su conversión fijo a dólares y
+cargan en dólares. De esta manera, con tanto turismo, acopian dólares
+tanto rápido como Amazon. El cambio actual fue de 0.80 KYD para 1.00 USD.
 
-En el puerto de George Town hay todas las días uno o tres buques de crucero
+![Casarones en Governor's Creek, Gran Caimán](
+  {{ '/assets/images/2024/01Caimán/DSC03769.JPG' | relative_url }}
+)
+
+En el puerto de George Town hay todas los días uno o tres buques de crucero
 lleno de compradores y turistas. Hay una zona de compras para ellos
-sin impuestos. No obstante, todas las compras son cargados en dolares.
-Fuera de la zona hay calles pedotonales muy lindos repleta de tiendas de
-articulos de lujo-- bolsos, vestidos, relojes y diamantes.
+sin impuestos. No obstante, todas las compras son cargadas en dólares.
+Fuera de la zona hay calles peatonales muy lindos repleta de tiendas de
+artículos de lujo-- bolsos, vestidos, relojes y diamantes.
+
+La seguridad del puerto fue muy cortés con los buques de crucero por el radio.
+Que pasen bien. Buen viaje. Gracias por visitarnos. Espero que nos veamos
+pronto.  Así, así, así.
 
 ### Mis pasos allí
 
-No podía permetirme los gastos de una marina. A la vez, encontré un fondeadero
-buen protejido en una laguna al lado de la bahía del norte. Para llegar allí,
+No podía permitirme los gastos de una marina. A la vez, encontré un fondeadero
+bien protegido en una laguna al lado de la bahía del norte. Para llegar allí,
 navegué un canal entre los arrecifes seguido por dos millas náuticas de
-agua pristina, clarisima, con profundidad muy llano. Corre con solo treinta
-centimetros bajo la quilla, consolándome que si me encalló, lo habría
+agua prístina, clarísima, con profundidad muy llano. Corre con solo treinta
+centímetros bajo la quilla, consolándose que si me encalló, lo habría
 hecho con un fondo de arena suave.
 
-En la laguna, Governor's Creek, estaba rodeado con mangles, condominios y caserones.
-Los casarones cada uno tienen su muelle, unos cuantos con lanchas. Había un
-puñado de veleros. Han hecho canales artificiales como calles para expander
-el territorio con acceso a la laguna y la bahía. Todo fue en buen estado,
-los patios bien cuidados por jardineros.
+![Surfista en Governor's Creek, Gran Caimán](
+  {{ '/assets/images/2024/01Caimán/DSC03779.JPG' | relative_url }}
+)
 
-A pesar de que el viento sopla con quince nudos (30km/h), la superficie
-del agua queda quieto en la laguna buen protegida. Dos otros veleros
+En la laguna, "Governor's Creek," estaba rodeado con mangles, condominios y
+caserones.  Los casarones cada uno tienen su muelle, unos cuantos con lanchas.
+Había un puñado de veleros. Han hecho canales artificiales como calles para
+expandir el territorio con acceso a la laguna y la bahía. Todo estaba en buen
+estado, los patios bien cuidados por los jardineros.
+
+A pesar de que el viento sopla con quince nudos (30 km/h), la superficie
+del agua queda quieta en la laguna bien protegida. Dos otros veleros
 se unen conmigo. Celebramos la víspera del nuevo año juntos. Una pareja
 de [Eslovenia][slov] nos hospedó con un [filete tártaro][tarta], pan casero y
 un plato de carne picada de cerdo, sazonada y envuelta en hojas de col, cocida
@@ -138,7 +170,7 @@ al vapor con una ligera salsa de tomate. Muy rico.
 [tarta]: https://es.wikipedia.org/wiki/Filete_t%C3%A1rtaro
 
 Disparamos nuestras bengalas vencidas. Todos salieron disparados. Sólo algunos
-se encendieron.  Con medianoche, los fuegos artificiales nos rodean, incluso un
+se encendieron.  A medianoche, los fuegos artificiales nos rodean, incluso un
 visor de los fuegos de la playa de siete millas.  Siguen por diez minutos con
 un final espectacular. Borrachos, contamos.  Fue un buen despedido a 2023, un
 buen bienvenido al 2024.
