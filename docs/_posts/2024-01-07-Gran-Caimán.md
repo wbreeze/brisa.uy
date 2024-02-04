@@ -2,7 +2,7 @@
 layout: post
 title: Gran Caimán
 date: 2024-01-07
-tags: navegación caríbe puertos
+tags: navegación Caribe puertos
 excerpt: Paré en Gran Caimán por una semana, inclusa la víspera del año nuevo,
   esperando un buen pronóstico para navegar a Cozumel
 link_note: "[text for internal link]({{ '/2021/11/15/Sara-M.html' | relative_url }})"
