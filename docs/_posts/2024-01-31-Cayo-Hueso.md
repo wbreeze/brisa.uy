@@ -2,15 +2,15 @@
 layout: post
 title: Cayo Hueso
 date: 2024-01-31
-tags: Cayo_Hueso puerto video
+tags: Cayo_Hueso puerto vídeo
 excerpt: Visito al puerto de registro de Brisa
 ---
 
 Brisa está registrado por la guardia de la costa de los Estados Unidos.
 Es lo que pude con ciudadanía estadounidense. Elegí Cayo Hueso como puerto
 de registro porque es el puerto el más al sur del país. De verdad.
-No había ninguna otra razón. Me encanta tambien que Cayo Hueso tiene un
-reputación de liberal, de libertád, de tolerencia.
+No había ninguna otra razón. Me encanta también que Cayo Hueso tiene un
+reputación de liberal, de libertad, de tolerancia.
 
 {% include video.html
   source='2024/GarrisonBight.mp4'
@@ -30,9 +30,9 @@ A estos los turistas encuentran como algo atrevido.
 
 Visité el punto más meridional de los Estados Unidos.
 Creo que además, es el punto de los Estados Unidos más cercano a Uruguay.
-Hay sólo ciento cincuenta kilometros a Cuba; Habana no está muy lejos al sur.
+Hay sólo ciento cincuenta kilómetros a Cuba; Habana no está muy lejos al sur.
 
-Con el periodico local encuentro actividades locales. Fuí a una obra de teatro
+Con el periódico local encuentro actividades locales. Fui a una obra de teatro
 de comedia política, una parodia sobre el oficio del presidente estadounidense.
 Eso me divertí.
 
