@@ -248,7 +248,7 @@ con peligro ninguna. Para él, mi pedido era un pedido de comodidad. Un velero
 sin motor puede navegar a vela.  Su realidad es su realidad, distinta que la
 mía. Lo que sea. Es un ser humano intentando vivir lo mejor, siguiendo las
 creencias las cuales, para él, sirven mejor. Él, como todos y todas, hace lo
-que pueda.  Sólo lamento no haber encontrado a alguien más sabio.
+que pueda.
 
 Por suerte el viento sopla justo para que pueda ponerme a ceñida, con el velero
 estable, en equilibrio, para seguir navegando hacía el este, a Cayo Hueso. Si
