@@ -4,7 +4,6 @@ title: Tortugas Secas
 date: 2024-01-27
 tags: navegación tortugas_secas remolque contratiempos
 excerpt: Un frente frío me echa de las Tortugas Secas
-link_note: "[text for internal link]({{ '/2021/11/15/Sara-M.html' | relative_url }})"
 ---
 
 ### Poder del viento [Escala de Beaufort][beaufort]
@@ -198,7 +197,7 @@ cerca.  Intenté señalarles dejarme y volver a la seguridad de la bahía. Solo 
 alejan.
 
 Con la trinquete enredada, sólo podía correr con el viento. Eso hice
-porque, con fortuna, el viento sopla desde el este noreste, no hacia los
+porque, con fortuna, el viento sopla del norte al noreste, no hacia los
 bancos. Si el viento hubiera venido desde el este, pudiera hacerme naufragio,
 cierto.
 
