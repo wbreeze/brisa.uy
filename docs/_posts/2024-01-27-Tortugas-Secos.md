@@ -3,7 +3,7 @@ layout: post
 title: Tortugas Secas
 date: 2024-01-27
 tags: navegación tortugas_secas remolque contratiempos
-excerpt: Un frente frio me echa de las Tortugas Secas
+excerpt: Un frente frío me echa de las Tortugas Secas
 link_note: "[text for internal link]({{ '/2021/11/15/Sara-M.html' | relative_url }})"
 ---
 
@@ -34,7 +34,7 @@ viento estaba flojo desde el noreste.
 )
 
 A vela, me parecía imposible. Con el motor sería fácil, una hora de navegación.
-Con el motor, hubiera llegado [el día anteriór][21].
+Con el motor, hubiera llegado [el día anterior][21].
 El único problema fue que no tenía motor.  Sentía prisa porque el pronóstico
 prevé la llegada de un frente frío con viento fresco seguido por viento
 fresquito por días.
@@ -49,7 +49,7 @@ podría obtenerlo.
 
 Sin motor también me faltaba potencia para hacer funcionar el piloto
 automático.  Puedo navegar por algunos puntos de vela sin el piloto, con el
-velero bien trimeado. Eso me salva.
+velero bien equilibrado. Eso me salva.
 
 Sin energía me quedaría sin GPS ni cartas electrónicas. Puedo navegar con
 cartas impresas y [cálculo de ojo][npe]. Prefería no estar tan desesperado como
@@ -145,7 +145,7 @@ corazón, al punto de llorar.
 Uno de mis compatriotas con un catamarán fondeado donde quería irme se enteró
 de mi apuro y decidió ayudarme.  Su catamarán parece un castillo flotando por
 el agua. Tiene cuarenta y dos pies de largo y se sienta en el agua con casi dos
-metros de francobordo.  Dicen que su lancha auxiliar tuvo motor fueraborda
+metros de franco bordo.  Dicen que su lancha auxiliar tuvo motor fuera borda
 de setenta y cinco caballos-- más que suficiente para empujar a Brisa.
 
 Acá cometí el error fatal. En vez de volver al plan original. En vez de
@@ -153,7 +153,7 @@ volver al Canal Oeste-- lo más cerca y además, sotavento. En vez de eso
 elegí continuar bordejeando hacia el Canal Este para navegar casi al
 fondeadero antes que me ayudan el catamarán tan bondadoso y amistoso.
 
-No sé ¿porqué hice eso? Tal vez fuera inertia-- un ejemplo de mi propio
+No sé ¿porqué hice eso? Tal vez fuera inercia-- un ejemplo de mi propio
 pensamiento rígido. Tal vez fue la vergüenza que me hizo sentir el agente
 Minitri, que señaló que tenía viento para ayudarme a mi mismo. Estoy cierto que
 consideré volver al plan original, que descarté ese cambio, un segundo.  No
@@ -181,7 +181,7 @@ portátil dentro. Ninguna de las dos funciona cuando está mojada.
 
 ## El Frente Fría
 
-Muy pronto después, venía una rafaga furiosa, frescachón.
+Muy pronto después, venía una ráfaga furiosa, frescachón.
 Cuando venía estaba a medio de virar. Me puse capeado y empecé trabajando
 furiosamente para bajar el foque y la vela mayor. Una lluvia intensa venía, con
 fría. El viento sigue frescachón. Perdí la vista del catamarán.
@@ -193,11 +193,11 @@ fría. El viento sigue frescachón. Perdí la vista del catamarán.
 Eché una vista dentro de la cabina a la tableta de navegación. Estaba
 totalmente desorientada. Capeado así estaba yendo con dos nudos directamente
 hacia los bancos donde habían otros naufragados. Intentando ponerme capeado por
-la otra banda, enredí la trinqueta por su estay. Vi al catamarán de repente muy
+la otra banda, enredé la trinquete por su estay. Vi al catamarán de repente muy
 cerca.  Intenté señalarles dejarme y volver a la seguridad de la bahía. Solo me
 alejan.
 
-Con la trinqueta enredada, sólo podía correr con el viento. Eso hice
+Con la trinquete enredada, sólo podía correr con el viento. Eso hice
 porque, con fortuna, el viento sopla desde el este noreste, no hacia los
 bancos. Si el viento hubiera venido desde el este, pudiera hacerme naufragio,
 cierto.
@@ -205,7 +205,7 @@ cierto.
 Corriendo con el viento se siente más calma, todavía fresquito. La lluvia
 sigue. El catamarán, los ángeles que fueron, quedan siguiéndome.
 Cuando estaba libre del peligro de los bancos, me ponía hacia el viento por
-un momento para liberar la trinqueta. ¡Qué fuerte el viento!
+un momento para liberar la trinquete. ¡Qué fuerte el viento!
 
 Al final podía ponerme capeado por la banda adecuada. El viento me llevó
 lentamente hacia el sur, hacia el mar abierto. Organicé la vela mayor,
@@ -266,7 +266,7 @@ estado navegando por quien sabe cuanto tiempo ni donde.
 Llegué fuera del canal por los arrecifes al sur de Cayo Hueso con navegación
 difícil y duro. Necesitaba bordejear con viento fresquito
 y olas de dos metros con periodo corto.  Temí por mi equipamiento.
-Algunas cosas más quiebran, incluso un molinete de la trinqueta. Prestan que
+Algunas cosas más quiebran, incluso un molinete de la trinquete. Prestan que
 hice mejoras improvisadas.
 
 Mi hije y el sistema de mensajes satélites Garmin ayudan a organizar con una
