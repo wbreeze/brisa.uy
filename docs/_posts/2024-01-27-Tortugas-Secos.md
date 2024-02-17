@@ -79,14 +79,15 @@ Inmediatamente vi que no fue un "Ranger", una persona con conocimiento de los
 elementos, como navegar, como quedar bien con viento, lluvia, sol, frío,
 una persona sabia, en casa con lo salvaje, con la naturaleza. No. Este hombre
 fue policía, no más, con sentido ninguno para nada fuera de su tribu y sus
-ideas limitadas. No va a ayudar a nadie. Peor. Era el tipo que vi a todas fueras
-con desprecio, perjuicio, y si pudiera, los perseguiría y enjusiaría. "Ten
-cuidado," me dije.
+ideas limitadas. No va a ayudar a nadie. Peor. Era el tipo que vio a todas
+fueras con desprecio, perjuicio, y si pudiera, los perseguiría y enjusiaría.
+"Ten cuidado," me dije.
 
 Su título "Ranger Minitri" sea más adecuado como "Agente Minitri". Dijo que no
-podía darme remolque si no estaba en peligro de hundirse. Dijo que había peligro
-de daños a su lancha o a mi velero, de denuncias o demandas de responsabilidad.
-Eso le dijo con total seriedad desde su lancha capaz. No soy así, le dije.
+podía darme remolque si yo no estaba en peligro de hundirse. Dijo que había
+peligro de daños a su lancha o a mi velero, de denuncias o demandas de
+responsabilidad.  Eso me dijo con total seriedad desde su lancha capaz. No soy
+así, le dije.
 
 Imagina. Los Ranger del servicio del parque dando ayuda: un senderista que se
 torció el tobillo; un niño que se cortó la mano con la navaja; una campista
@@ -101,8 +102,8 @@ nacional podía endeudar profundamente a la nación.
 
 "Ranger" Minitri dirige que yo navego a mi mismo al fondeadero.
 
-«Usted tiene viento,» me dije, «Navega a vela. Sí, pasa tiempo para llegar.
-Tiene viento. Si estuviera a la deriva podía remolcarse.»
+«Usted tiene viento,» me dijo, «Navega a vela. Sí, pasa tiempo para llegar.
+Tiene viento. Si estuviera a la deriva yo podía remolcarse.»
 
 Eso lo dijo con autoridad.  Creía conocer mejor que yo el arte de navegar.
 Trató de avergonzarme.
@@ -126,7 +127,7 @@ Es la costumbre en los Estados Unidos. Servicios como estos son contratados por
 empresas privadas. La ayuda pública se limita a hacer cumplir las leyes. Me
 había olvidado tanta.
 
-Cuando salió me pregunté ¿por qué he venido? Me di cuenta que vino no para
+Cuando se fui me pregunté ¿por qué ha venido? Me di cuenta que vino no para
 ayudarme. Vino para investigarme.
 
 ## La Compatriota
@@ -137,27 +138,27 @@ estrecho. Con el viento actual, era la ruta más adecuada.
 
 Acepté el desafío de "Ranger" Minitri. Decidí bordejear hacía el Canal Este.
 
-Hace menos de una hora, llegó mi salvación. Sentía que era mi salvación y
-me hace muy emocionante. Sentía tanto agradecimiento, profundamente de mi
+Después de menos de una hora, llegó mi salvación. Sentía que era mi salvación y
+me hice muy emocionante. Sentía tanto agradecimiento, profundamente de mi
 corazón, al punto de llorar.
 
 Uno de mis compatriotas con un catamarán fondeado donde quería irme se enteró
 de mi apuro y decidió ayudarme.  Su catamarán parece un castillo flotando por
 el agua. Tiene cuarenta y dos pies de largo y se sienta en el agua con casi dos
-metros de franco bordo.  Dicen que su lancha auxiliar tuvo motor fuera borda
+metros de franco bordo.  Dijo que su lancha auxiliar tuvo motor fuera borda
 de setenta y cinco caballos-- más que suficiente para empujar a Brisa.
 
 Acá cometí el error fatal. En vez de volver al plan original. En vez de
-volver al Canal Oeste-- lo más cerca y además, sotavento. En vez de eso
+volver al Canal Oeste-- lo cerca y además, sotavento. En vez de eso
 elegí continuar bordejeando hacia el Canal Este para navegar casi al
 fondeadero antes que me ayudan el catamarán tan bondadoso y amistoso.
 
 No sé ¿porqué hice eso? Tal vez fuera inercia-- un ejemplo de mi propio
 pensamiento rígido. Tal vez fue la vergüenza que me hizo sentir el agente
 Minitri, que señaló que tenía viento para ayudarme a mi mismo. Estoy cierto que
-consideré volver al plan original, que descarté ese cambio, un segundo.  No
-quería dejar el plan B para volver al plan A.  Lo cierto es que, si lo hubiera
-hecho, habría tenido otra historia que contar.
+consideré volver al plan original, que descarté ese cambio, un segundo cambio.
+No quería dejar el plan B para volver al plan A.  Lo cierto es que, si lo
+hubiera hecho, habría tenido otra historia que contar.
 
 El castillo quedó conmigo por una hora y media o dos horas-- yo bordejeando.
 Ellos navegan a vela poco. Lo abandonó y quedan a la vista, alcanzando
@@ -169,10 +170,10 @@ canal este. El viento ha girado hacia el norte. Todavía necesitaba bordejear.
 El viento seguía creciendo. Sale fresquito. Empezó una lluvia
 ligera. La visibilidad disminuyó.
 
-Regué al catamarán para quedarse conmigo a pesar de que ya ha pasado
+Rogué al catamarán para quedarse conmigo a pesar de que ya ha pasado
 condiciones adecuadas que puedan ayudar. Estaba con miedo, ansioso.
-Por eso ruego su disculpa. Lo que debería haber hecho es liberarse de toda idea
-de quedarse conmigo, lejos del refugio.  El viento fresquito cerró la
+Por eso ruego su disculpa. Lo que debería haber hecho es liberarse a ellos de
+toda idea de quedarse conmigo, lejos del refugio.  El viento fresquito cerró la
 posibilidad de dar remolque y fondear seguramente.
 
 Con la lluvia yo cerré la cubierta con la tableta de navegación y el VHF
@@ -193,22 +194,22 @@ Eché una vista dentro de la cabina a la tableta de navegación. Estaba
 totalmente desorientada. Capeado así estaba yendo con dos nudos directamente
 hacia los bancos donde habían otros naufragados. Intentando ponerme capeado por
 la otra banda, enredé la trinquete por su estay. Vi al catamarán de repente muy
-cerca.  Intenté señalarles dejarme y volver a la seguridad de la bahía. Solo me
+cerca.  Intenté señalarles dejarme y volver a la seguridad de la bahía. Solo se
 alejan.
 
 Con la trinquete enredada, sólo podía correr con el viento. Eso hice
 porque, con fortuna, el viento sopla del norte al noreste, no hacia los
-bancos. Si el viento hubiera venido desde el este, pudiera hacerme naufragio,
-cierto.
+bancos. Si el viento hubiera venido desde el este, me hubiera hecho naufragio,
+seguramente.
 
 Corriendo con el viento se siente más calma, todavía fresquito. La lluvia
-sigue. El catamarán, los ángeles que fueron, quedan siguiéndome.
+siguió. El catamarán, los ángeles que eran, quedan siguiéndome.
 Cuando estaba libre del peligro de los bancos, me ponía hacia el viento por
 un momento para liberar la trinquete. ¡Qué fuerte el viento!
 
 Al final podía ponerme capeado por la banda adecuada. El viento me llevó
 lentamente hacia el sur, hacia el mar abierto. Organicé la vela mayor,
-todavía flameando, flojo al lado de la botavara. Lo ponía seguro. La lluvia
+todavía flameando, flojo al lado de la botavara. Lo ponía sujetado. La lluvia
 disminuyó. También amainó el viento a fuerza cinco, fresquito.
 
 Saludé al catamarán con una grita de victoria, de celebración, mis brazos
@@ -219,7 +220,7 @@ la cabeza fuera, vi al catamarán a mi lado.
 
 [pens]: {{ '/2024/01/01/Pensamientos-en-Alta-Mar.html' | relative_url }}
 
-¡Qué bobo, yo! Saqué el portátil y hablábamos. Les dieron mis agradecimientos
+¡Qué bobo, yo! Saqué el portátil y hablamos. Les di mis agradecimientos
 profundos. Me desearon suerte. Partimos. Por el AIS les seguí por más de una
 hora que necesitaban alcanzar el fondeadero de nuevo. Por suerte su catamarán
 grande, con sus dos motores, podía navegar sin contratiempos por el viento
@@ -228,11 +229,11 @@ fresquito.
 ## El final
 
 Es mi culpa que salía al mar por días más, navegando con viento fresquito,
-a veces fresco, sin el piloto automático. Cuando llega la ayuda que había
+a veces fresco, sin el piloto automático. Cuando llegó la ayuda que había
 pedido ya he abandonado el plan. Si no, el catamarán me habría
-fondeado con seguridad por el paso de la tormenta y el viento que la siguió.
+fondeado con seguridad para el paso de la tormenta y el viento que la siguió.
 
-Me siento muy agradecido al catamarán. Creo que se ponen entretenidos
+Me siento muy agradecido al catamarán. Creo que les entrení
 por el día. Les di algo a hacer. Igual, para mí, eran heroicos. Salen de
 su posición de confort para ofrecer ayuda. No quitan a mi lado hasta el
 final. ¡Como bondadosos fueron! No puedo decir lo bueno que siento por ellos.
@@ -265,14 +266,14 @@ estado navegando por quien sabe cuanto tiempo ni donde.
 Llegué fuera del canal por los arrecifes al sur de Cayo Hueso con navegación
 difícil y duro. Necesitaba bordejear con viento fresquito
 y olas de dos metros con periodo corto.  Temí por mi equipamiento.
-Algunas cosas más quiebran, incluso un molinete de la trinquete. Prestan que
+Algunas cosas más quiebran, incluso un motón de la trinquete. Prestan que
 hice mejoras improvisadas.
 
 Mi hije y el sistema de mensajes satélites Garmin ayudan a organizar con una
 empresa para darme remolque por el canal entre los arrecifes fuera de
 Cayo Hueso al amarradero atrás de Cayo Fleming.
 Salían mil quinientos dólares estadounidenses. (Ya saben tanto valen.)
-Todo eso, si hubiera tenido juramento mejor, podría haber evitado. El catamarán
+Todo eso, si hubiera tenido juicio mejor, podría haber evitado. El catamarán
 me había ofrecido la salvación.
 
 ![Playa de amarras Garrison Bight](
