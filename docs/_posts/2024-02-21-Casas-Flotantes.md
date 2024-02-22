@@ -28,8 +28,8 @@ una casa flotante. No son para navegar. Pueden trasladarse con días de calma.
 Algunos son no más que un contenedor montado sobre una balsa. Son parecidos
 a las casas contenedores de Canelones, Maldonado y Rocha, pero flotantes.
 Otras son bien elaboradas. Navegando por la lanchita entre Brisa y el
-muelle paso con una azúl, muy bonita, con estilo [cabaña de Cabo Cod][cabo],
-como las casas de nueva inglaterra en el noreste de los Estados Unidos.
+muelle paso con una azul, muy bonita, con estilo [cabaña de Cabo Cod][cabo],
+como las casas de nueva Inglaterra en el noreste de los Estados Unidos.
 
 [cabo]: https://es.wikipedia.org/wiki/Casa_Cabo_Cod
 
