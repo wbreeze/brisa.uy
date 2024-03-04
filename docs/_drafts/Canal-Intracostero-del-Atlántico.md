@@ -1,37 +1,93 @@
 ---
 layout: post
 title: Canal Intracostero del Atlántico
-date: 2024-03-01
+date: 2024-02-29
 tags: navegación ICW video
 excerpt: El veintinueve de febrero, día bisiesto, entré al canal intracostero
   del Atlántico.
-link_note: "[text for internal link]({{ '/2021/11/15/Sara-M.html' | relative_url }})"
-image_note: "![image description]({{ '/assets/images/image.jpeg' | relative_url }})"
-video_note: "{% include video.html source='2022/CorrientesDos.mp4' still='2022/CostaRica/CorrientesUno.png' %}"
-audio_note: "{% include audio.html source='/assets/audio/2021/Cantante.m4a' %}"
 ---
 
 Día bisiesto, el veintinueve de febrero 2024
-empecé una navegación por el [canal intracostero del Atlántico][icw].
+empecé una navegación por el [canal intracostero del Atlántico][icw] (ICW).
 El primer puente, un tipo puente levadizo, fue el arco dorado de la entrada.
+
+[icw]: https://es.wikipedia.org/wiki/Canal_Intracostero_del_Atl%C3%A1ntico
+
+{% include video.html
+  source='2024/ICW_Entry.mp4'
+  still='2024/02ICW/PuenteNorteFtPierce.jpg'
+%}
+
+Llegué desde el Atlántico por la entrada en Fort Pierce.
+He dicho al operador del puente que eran mi primer puente.
+Con mi mástil alejado del puente el me dijo, "Así es" y dió un
+recordatorio que las [reglas de navegación interior][iwr] aplican en el ICW.
+Para sus aguas internas, los Estados Unidos tienen sus proprias reglas
+distintas del [reglamento internacional para prevenir abordajes][ripa] (RIPA).
+
+[iwr]: https://www.navcen.uscg.gov/navigation-rules-amalgamated
+[ripa]: https://es.wikipedia.org/wiki/Reglamento_Internacional_para_Prevenir_Abordajes
+
+![La vista a babor y estribor dentro la entrada de Fuerte Pierce](
+  {{ 'assets/images/2024/02ICW/EntradaFtPierce.jpg' | relative_url }}
+)
+
+Me di cuenta que necesito estudiarlos. Son parecidos con los del RIPA,
+no iguales.
 
 El intracostero está marcado con pilotes. Navegando al norte pongo los pilotes
 con marca cuadrada verde por estribor. Cada uno con su cormorán obligatorio.
 Pongo los pilotes con marca triangular roja por babor.
 Pongo a los otros moviéndose al sur a babor.
 
+![Pilote verde del ICW](
+  {{ 'assets/images/2024/02ICW/PiloteVerde.jpg' | relative_url }}
+)
+
 Es preciso quedarse siempre atento. El canal es estrecho.
+Rapidamente descubrí que Otto no funciona bien para esta tarea.
+Necesito mantener una marca muy precisa. Otto quiere una marca
+medio grado a un lado o al otro. Con cada pilote tengo que trastear con
+él.
+
+En vez de eso probé la [banda de goma][banda] que desarollé cuando no tenía
+Otto.  Funciana bien. Puedo dirigir la proa donde preciso. Cuando dejo el
+timón, Brisa queda con el marco. No puedo dejar la vijilancia sin parar.
+
+[banda]: {{ '/2023/07/30/Bocas-del-Toro.html' | relative_url }}
 
 El canal pasa bajo los puentes altos por el arco más alto.
-Acá está mi primero.
-¿Lo esquivaré? ¿Cabrá el mástil por debajo?
-Oí, que alivio.
+He mido y calculado la altura de Brisa encima de la superficie de la agua.
+No había una tema anteriormente.
+Acá en los Estados Unidos miden alturas en pies y pulgadas.
+
+![Puente aéreo del ICW](
+  {{ 'assets/images/2024/02ICW/PrimerPuenteAéreo.jpg' | relative_url }}
+)
+
+- Mide el francobordo al lado del mastil: cuarenta y uno pulgadas.
+- Mide la distancia del fondo del mastil encima del barril: catorce pulgadas.
+- Las notas de construcción del velero citan la larga del mastil como
+  quinientos veintiseis pulgadas (cuarenta y tres pies plus diez pulgadas).
+- La antena VHF alcanza cuarenta y ocho pulgadas (cuatro pies) encima de lo
+  alto del mastil. Este es conservativo. De hecho, la medida es algo menor.
+  Acá añado el "fudge factor". (El traductor
+  [DeepL][deepl] sugere "factor de
+  manipulación" o "factor de confusión." A mi me gusta la segunda.)
+
+Mi factor de confusión es de un pie (trienta centimetros). El puente
+puede ser un pie menos que dicho. El velero puede ser un pie más que
+he calculado.
+
+En total, necesito cincuanta y dos pies plus cinco pulgadas espacio libre
+del puente para evitar tocar la luz del puente.
+Lo llamaré cincuenta y tres pies (diez y seis metros).
+
+[deepl]: https://www.deepl.com/translator#en/es/fudge%20factor
+
+![Ammaradero de Vero Beach, EEUU](
+  {{ '/assets/images/2024/02ICW/DSC03898.JPG' | relative_url }}
+)
 
 De la mañana disfruto un campo de amarre tranquilo. Abrazos.
-
-
-[icw]: https://es.wikipedia.org/wiki/Canal_Intracostero_del_Atl%C3%A1ntico
-(ICW)
-
-, entré por el en Fort Pierce
 
