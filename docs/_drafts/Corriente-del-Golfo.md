@@ -57,12 +57,13 @@ movimiento de balanceo debido a las olas del este.
 )
 
 A las cinco de la mañana empecé a navegar a vela de nuevo. Disfrutaba un buen
-día de navegación. Se va tan rápido, necesitaba frenar. Planifiqué la llegada
+día de navegación. Se fue tan rápido, necesitaba frenar. Planifiqué la llegada
 a la entrada de Fuerte Pierce para corriente favorable. Llegué allí a las
 ocho, con calma total, sobre un mar glaseado. Temía la aparición de niebla.
 
-No pasa así. Pasa lindo. Les doy un video. Comienza a mediados. La música es de
-Los Abuelos de la Nada. Todas conocen la canción. Abrazos.
+No pasó así. Pasó lindo. Les doy un video. En realidad no empieza hasta la
+mitad. La música es de Los Abuelos de la Nada. Todas conocen la canción.
+Abrazos.
 
 {% include video.html
   source='2024/EntreMiami_y_Bimini.mp4'
