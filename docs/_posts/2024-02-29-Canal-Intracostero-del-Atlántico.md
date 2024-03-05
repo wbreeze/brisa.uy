@@ -19,10 +19,10 @@ El primer puente, un tipo puente levadizo, fue el arco dorado de la entrada.
 %}
 
 Llegué desde el Atlántico por la entrada en Fort Pierce.
-He dicho al operador del puente que eran mi primer puente.
-Con mi mástil alejado del puente el me dijo, "Así es" y dió un
-recordatorio que las [reglas de navegación interior][iwr] aplican en el ICW.
-Para sus aguas internas, los Estados Unidos tienen sus proprias reglas
+Le dije al operador del puente que era mi primer puente.
+Con mi mástil alejado del puente el me dijo, "Así es" y dio un
+recordatorio que las [reglas de navegación interior][iwr] se aplican en el ICW.
+Para sus aguas internas, los Estados Unidos tienen sus propias reglas
 distintas del [reglamento internacional para prevenir abordajes][ripa] (RIPA).
 
 [iwr]: https://www.navcen.uscg.gov/navigation-rules-amalgamated
@@ -32,7 +32,7 @@ distintas del [reglamento internacional para prevenir abordajes][ripa] (RIPA).
   {{ 'assets/images/2024/02ICW/EntradaFtPierce.jpg' | relative_url }}
 )
 
-Me di cuenta que necesito estudiarlos. Son parecidos con los del RIPA,
+Me di cuenta que necesito estudiarlos. Son parecidos a los del RIPA,
 no iguales.
 
 El intracostero está marcado con pilotes. Navegando al norte pongo los pilotes
@@ -44,42 +44,43 @@ Pongo a los otros moviéndose al sur a babor.
   {{ 'assets/images/2024/02ICW/PiloteVerde.jpg' | relative_url }}
 )
 
-Es preciso quedarse siempre atento. El canal es estrecho.
-Rapidamente descubrí que Otto no funciona bien para esta tarea.
-Necesito mantener una marca muy precisa. Otto quiere una marca
-medio grado a un lado o al otro. Con cada pilote tengo que trastear con
-él.
+Es preciso quedarse siempre atento. Dicen que es preciso estar como una
+[suricata](https://es.wikipedia.org/wiki/Suricata_suricatta).
 
-En vez de eso probé la [banda de goma][banda] que desarollé cuando no tenía
-Otto.  Funciana bien. Puedo dirigir la proa donde preciso. Cuando dejo el
-timón, Brisa queda con el marco. No puedo dejar la vijilancia sin parar.
+El canal es estrecho.  Rápidamente descubrí que Otto no funciona bien para esta
+tarea.  Necesito mantener una marca muy precisa. Otto quiere una marca medio
+grado a un lado o al otro. Con cada pilote tengo que trastear con él.
+
+En vez de eso probé la [banda de goma][banda] que desarrollé cuando no tenía
+Otto.  Funciona bien. Puedo dirigir la proa donde preciso. Cuando dejo el
+timón, Brisa se queda con el marco. No puedo dejar la vigilancia sin parar.
 
 [banda]: {{ '/2023/07/30/Bocas-del-Toro.html' | relative_url }}
 
 El canal pasa bajo los puentes altos por el arco más alto.
-He mido y calculado la altura de Brisa encima de la superficie de la agua.
-No había una tema anteriormente.
+He medido y calculado la altura de Brisa encima de la superficie del agua.
+No había un tema anteriormente.
 Acá en los Estados Unidos miden alturas en pies y pulgadas.
 
 ![Puente aéreo del ICW](
   {{ 'assets/images/2024/02ICW/PrimerPuenteAéreo.jpg' | relative_url }}
 )
 
-- Mide el francobordo al lado del mastil: cuarenta y uno pulgadas.
-- Mide la distancia del fondo del mastil encima del barril: catorce pulgadas.
-- Las notas de construcción del velero citan la larga del mastil como
-  quinientos veintiseis pulgadas (cuarenta y tres pies plus diez pulgadas).
+- Mide el francobordo al lado del mástil: cuarenta y uno pulgadas.
+- Mide la distancia del fondo del mástil encima del barril: catorce pulgadas.
+- Las notas de construcción del velero citan la larga del mástil como
+  quinientos veintiséis pulgadas (cuarenta y tres pies más diez pulgadas).
 - La antena VHF alcanza cuarenta y ocho pulgadas (cuatro pies) encima de lo
-  alto del mastil. Este es conservativo. De hecho, la medida es algo menor.
+  alto del mástil. Este es conservativo. De hecho, la medida es algo menor.
   Acá añado el "fudge factor". (El traductor
-  [DeepL][deepl] sugere "factor de
+  [DeepL][deepl] sugiere "factor de
   manipulación" o "factor de confusión." A mi me gusta la segunda.)
 
-Mi factor de confusión es de un pie (trienta centimetros). El puente
+Mi factor de confusión es de un pie (treinta centímetros). El puente
 puede ser un pie menos que dicho. El velero puede ser un pie más que
 he calculado.
 
-En total, necesito cincuanta y dos pies plus cinco pulgadas espacio libre
+En total, necesito cincuenta y dos pies más cinco pulgadas de espacio libre
 del puente para evitar tocar la luz del puente.
 Lo llamaré cincuenta y tres pies (diez y seis metros).
 
