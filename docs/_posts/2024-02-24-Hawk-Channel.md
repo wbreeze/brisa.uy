@@ -1,20 +1,16 @@
 ---
 layout: post
-title: Hawk Channel
+title: Canal Halcón
 date: 2024-02-24
 tags: navegación cayos-de-Florida
-excerpt: Navegando en los cayos de Florida
-link_note: "[text for internal link]({{ '/2021/11/15/Sara-M.html' | relative_url }})"
-image_note: "![image description]({{ '/assets/images/image.jpeg' | relative_url }})"
-video_note: "{% include video.html source='2022/CorrientesDos.mp4' still='2022/CostaRica/CorrientesUno.png' %}"
-audio_note: "{% include audio.html source='/assets/audio/2021/Cantante.m4a' %}"
+excerpt: Navegando por el Canal Halcón en los cayos de Florida
 ---
 
 ![Saliendo del amarradero Garrison Bight en Cayo Hueso](
   {{ 'assets/images/2024/02Hawk/DSC03841.JPG' | relative_url }}
 )
 
-Navegué con motor hoy en el Canál Falcón (Hawk Channel). Dejé la amarra en Cayo
+Navegué con motor hoy en el Canal Halcón (Hawk Channel). Dejé la amarra en Cayo
 Hueso a las nueve de la mañana. He entrado a un mundo nuevo de marcadores de
 canales llanos, boyes y encuentros frecuentes con otros botes.
 
@@ -22,7 +18,7 @@ canales llanos, boyes y encuentros frecuentes con otros botes.
   {{ 'assets/images/2024/02Hawk/DSC03844.JPG' | relative_url }}
 )
 
-Salí del amarradero. Navegué por el canal al norte del Cayo Flemming,
+Salí del amarradero. Navegué por el canal al norte del Cayo Fleming,
 luego hacia el sur por el lado oeste de Fleming. Como despedida,
 pase frente a la famosa Plaza de Mallory (Mallory Square) y Cayo Puesto
 (Sunset Key).
@@ -37,7 +33,7 @@ o seis metros). Es un profundidad en que, anteriormente, solo pensé en fondear.
 Los veleros yendo hacia mi, con viento a popa, navegan con sus velas
 desplegadas. ¡Qué envidia!
 
-![Goleta a vela, Canal Hawk, los cayos de Florida, EEUU](
+![Goleta a vela, Canal Halcón (Hawk Channel), los cayos de Florida, EEUU](
   {{ 'assets/images/2024/02Hawk/DSC03850.JPG' | relative_url }}
 )
 
