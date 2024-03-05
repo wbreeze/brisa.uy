@@ -7,10 +7,10 @@ excerpt: En el que doy un paseo en la cinta transportadora
 ---
 
 Después de mi [aventura entre Isla Mujeres y Tortugas Secas][tur] me he
-jurado no irme fuera de la costa por un rato. El rato fue corto. En Boot Key
-decidí esquivar los llanos de lo que queda de los cayos, los canales llanos,
-concurridos y desarrollados de Miami y Fort Lauderdale y los mil millones
-puentes entre si.
+jurado no irme fuera de la costa por un rato. El rato fue corto. En Cayo Bote
+(Boot Key) decidí esquivar los llanos de lo que queda de los cayos, los canales
+llanos, concurridos y desarrollados de Miami y Fort Lauderdale y los mil
+millones puentes entre si.
 
 [tur]: {{ '/2024/01/27/Tortugas-Secos.html' | relative_url }}
 
