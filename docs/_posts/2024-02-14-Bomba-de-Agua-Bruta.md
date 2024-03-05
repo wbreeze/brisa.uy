@@ -3,7 +3,7 @@ layout: post
 title: Bomba de Agua Bruta
 date: 2024-02-14
 tags: mantenimiento
-excerpt: En el que reemplazo la bomba que me falló de camino a Dry Tortugas
+excerpt: En el que reemplazo la bomba que me falló de camino a Tortugas Secas
 ---
 
 Acá en Cayo Hueso yo he mejorado el problema, que me hice necesitando pedir
@@ -24,7 +24,7 @@ profundamente e investigado!
 Investigando en Cayo Hueso para hacer la mejora, descubrí una nota de
 mantenimiento. Dijo que una fuga de la bomba indica que los sellos internos
 han fallido. Con los sellos internos fallidos, los cojinetes se bañan en el
-agua salada, y eventualmente, se agarrotan.  Eso era exactamente lo que pasé
+agua salada. Eventualmente, se agarrotan.  Eso era exactamente lo que pasé
 conmigo.
 
 Bueno. Puedo castigarme a mí mismo, pero hago algo mejor.
