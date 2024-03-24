@@ -2,19 +2,15 @@
 layout: post
 title: Centro Espacial Kennedy
 date: 2024-03-14
-tags: lugares, EE.UU. Florida
+tags: lugares, EE.UU. Florida astronauta
 excerpt: Visito el cede de la programa espacial de Estados Unidos
 ---
 
 Para mí, visitar al Centro Espacial Kennedy fue un tipo de peregrinación.
 Cuando estaba joven, mi aspiración apasionado fue ser astronauta.
-Dejé este aspiración cuando estaba adolescente. A veces repento que lo dejé.
-Sí, convertí en piloto de aviónes de reacción y aerobaticos. Sí, he navegado
-ahora por alta mar. Sería magnifico navegar en el espacio.
-
-Entretuve una fantasía de ofrecerse irme al Marte sin la vuelta.
-Sería más facil poner a la primera persona en la superficie de otro planeta
-si no fuera nesesario que regresara.
+Dejé este aspiración cuando estaba adolescente. A veces me arrepiento de que lo
+dejé.  Sí, me convertí en piloto de aviones de reacción y acrobáticos. Sí, he
+navegado ahora por alta mar. Sería magnífico navegar en el espacio.
 
 ![Jardín de cohetes, Centro Espacial Kennedy, EE.UU](
   {{ 'assets/images/2024/03KSC/IMG_20240313_172055_415.jpg' | relative_url }}
@@ -97,6 +93,10 @@ Tienen dos simuladores allí. Uno es de aterrizar en marte. El otro de
 acoplamiento a la estación espacial. Después de uno o dos intentos, pude
 clavar ambos.
 
+Entretuve una fantasía de ofrecerse irme al Marte sin la vuelta.
+Sería más facil poner a la primera persona en la superficie de otro planeta
+si no fuera nesesario que regresara.
+
 Afuera de nuevo, visité al jardín de cohetes. El jardín tiene muestras de
 los cohetes de los primeros lanzamientos estadounidenses con seres humanos.
 El astronauta John Glenn fue el primer (el segundo tras de Yuri Gagarin, el
@@ -116,13 +116,51 @@ en un pedestal con las puertas abiertas y el brazo manipulador desplegado,
 suspendido del techo. Tienen un ejemplo del cabina del pilotos y control,
 con todos los interrumptores y etiquetas, lo cual examiné en detalle.
 
-Fuera de la experiencia de lanzamiento hay una rampa espiral con un plaque
+Fuera de la experiencia de lanzamiento hay una rampa espiral con una placa
 para cada misión del STS. Estudié a cada uno. Me dejan con una mayor
 apreciación del éxito del programa. A lo bajo de la rampa, hay simuladores para
 aterrizar el transbordador.  Lo hice tres veces. Clavé el tercer aterrizaje con
 una puntuación perfecta.  Un muchacho me aplaudió.
 
+Al final visité al único edificio que no había visitado-- lo del heroes y
+leyendas. Subí una rampa larga y me uní con unos personas esperando fuera
+de un puerto. Dió agradecido que no hubiera necesario esperar con la
+multitud para que tiene capacidad la rampa.
+
+Nos dejan entrar una sala con un relicario en el centro con modelos a escala
+de los cohetes fuera, organizados por un circulo. Sobre pantallas arriba
+de los puertos para un teatro, reproducieron video de individuos diciendo
+lo que significa un heroe a ellos.
+
+
+Mencionan figuras de fantasía de los peliculas de acción y aventura.
+Mencionan guerreros.
+Mencionan astronautas, cierto.
+Heroes son hombres, aparantemente, con
+excepción que madres pueden ser heroes y la Madre Teresa.
+Nadie mencionó a un artista, ni un escritor, ni un cantante, un filósofo,
+ni un lider político.
+
+Cuando abrió las puertas para entrar al auditorio, lo dejé.
+Para salir, necesitaba pasar por una galería de kioscos que presentan
+atributos de un heroe-- dedicación, perseverancia, integridad y valentía
+entre otros. No había mención ninguna de la creatividád ni incluso
+la inovación, la imaginación o el enfoque. Parecía que, por lo mayor,
+un heroe es obediente. Hacen lo peligroso. Prevalecen o mueren.
+
 ![Jardín de cohetes, Centro Espacial Kennedy, EE.UU](
   {{ 'assets/images/2024/03KSC/IMG_20240313_172320_407.jpg' | relative_url }}
 )
+
+Allí, casi fugandome del lugar, me di cuenta de nuevo porque he colgado
+la idea ser astronauta. La ética de los astronautas no me incluye. De verdad
+me excluía. Aparte de la formación, es claro por que tantos astronautas
+son elegidos del militario. Conforman. Obedecen. Se sienten a otros como
+personas confiables.
+
+El encuentro me curó de arrepentirse que no hubiera quedado con ese aspiración
+antigua. No había forma de meterme con calzador en esa forma de ser y de
+comportarse. No pudiera hacerlo. Sí, me hubiera gustado ser astronauta y
+hubiera sido uno bueno. Nunca hubiera encajado en el molde, por mucho que
+aflojara, de soldado obediente y dedicado.
 
