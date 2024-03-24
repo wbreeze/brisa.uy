@@ -26,7 +26,7 @@ violines a veces los arrastran como una brisa que mueve grandes barcos.
 Tiene ejemplos, a veces modelos de cohetes, motores, equipamiento y ropa.
 Muestra todas las superficies. Cuenta las historias.
 
-Yo fuí directamente a la exposición de Apollo-- la programa de los sesentas
+Yo fui directamente a la exposición de Apollo-- la programa de los sesentas
 en que Estados Unidos aterriza hombres sobre la luna.
 Está en un lugar aparte. El acceso es por un ómnibus que pasa muy cerca
 del edificio de montaje de los cohetes. El recorrido grabado y el conductor
@@ -64,7 +64,7 @@ En su discurso todos, todos, hablan de una o más experiencias sublimes,
 trascendentales.  Hablaban de lo delicada, pequeña y hermosa que parecía la
 tierra. Hablaban de lo fútil parecieron nuestras diferencias y conflictos
 como una raza unida bajo esta capa lisa de atmósfera, sobre esta bolita
-azúl y bella.
+azul y bella.
 
 ![https://www.nasa.gov/image-article/apollo-8-earthrise/](
   https://www.nasa.gov/wp-content/uploads/2023/03/apollo08_earthrise.jpg
@@ -87,7 +87,7 @@ fabuloso.
 [iss]: https://es.wikipedia.org/wiki/Estaci%C3%B3n_Espacial_Internacional
 
 Lo dejé. Visité la exposición de la exploración del planeta Marte.
-Tienen dos simuladores allí. Uno es de aterrizar en marte. El otro de
+Tienen dos simuladores allí. Uno es de aterrizar en Marte. El otro de
 acoplamiento a la estación espacial. Después de uno o dos intentos, pude
 clavar ambos.
 
@@ -104,7 +104,7 @@ intercontinental [Titan II][titan].
 
 [titan]: https://es.wikipedia.org/wiki/Titan_(cohete)
 
-![Centro de contról del proyecto espacial estadounidense, Mercury](
+![Centro de control del proyecto espacial estadounidense, Mercury](
   {{ 'assets/images/2024/03KSC/cojecr.jpg' | relative_url }}
 )
 
