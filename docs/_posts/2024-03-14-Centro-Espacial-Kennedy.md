@@ -120,6 +120,10 @@ apreciación del éxito del programa. A lo bajo de la rampa, hay simuladores par
 aterrizar el transbordador.  Lo hice tres veces. Clavé el tercer aterrizaje con
 una puntuación perfecta.  Un muchacho me aplaudió.
 
+![Jardín de cohetes, Centro Espacial Kennedy, EE.UU](
+  {{ 'assets/images/2024/03KSC/IMG_20240313_172320_407.jpg' | relative_url }}
+)
+
 Al final visité el único edificio que no había visitado-- el de héroes y
 leyendas. Subí una rampa larga y me uní con unas personas esperando fuera
 de una puerta. Agradecí que no hubiera que esperar con la multitud para la que
@@ -143,8 +147,8 @@ entre otros. No había mención ninguna de la creatividad ni incluso
 la innovación, la imaginación o el enfoque. Parecía que, por lo mayor,
 un héroe es obediente. Hacen lo peligroso. Prevalecen o mueren.
 
-![Jardín de cohetes, Centro Espacial Kennedy, EE.UU](
-  {{ 'assets/images/2024/03KSC/IMG_20240313_172320_407.jpg' | relative_url }}
+![Dos Pelicanos y el edificio de montaje de cohetes, KSC, EE.UU](
+  {{ 'assets/images/2024/03KSC/DSC03969.JPG' | relative_url }}
 )
 
 Allí, casi fugándose del lugar, me di cuenta de nuevo porque había colgado
