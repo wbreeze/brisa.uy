@@ -2,7 +2,7 @@
 layout: post
 title: Cirugía para la Cadena
 date: 2024-03-25
-tags: mantenemiento
+tags: mantenimiento
 excerpt: Extirpo un cáncer de la cadena del ancla
 ---
 
