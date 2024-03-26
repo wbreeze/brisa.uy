@@ -4,7 +4,8 @@ if [ ! -f "$1" ]; then
   exit 1
 fi
 if [ -z "$2" ]; then
-  echo 'specify a destination key'
+  echo 'specify a destination {key} to append as'
+  echo 's3://bucket/brisa/video/2024/{key}'
   exit 2
 fi
 source=$1
