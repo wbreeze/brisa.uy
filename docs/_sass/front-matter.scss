@@ -14,6 +14,12 @@
   }
 }
 
+.nota {
+  font-size: 9pt;
+  font-style: italic;
+  font-weight: normal;
+}
+
 .navigation {
   font-weight: bold;
   max-width: 40em;
@@ -24,8 +30,3 @@ li.nav-title ul {
   padding-left: 2em;
 }
 
-.contact .nota {
-  font-size: 9pt;
-  font-style: italic;
-  font-weight: normal;
-}
