@@ -15,6 +15,7 @@ $on-large: 960px;
 @import "list-of-posts";
 @import "prev-next-post";
 @import "paginate";
+@import "album";
 
 body {
   background-color: $background-color;

@@ -1,0 +1,109 @@
+<?xml version='1.0' ?>
+<album title="ICW_FL_Casas">
+  <parent title="2024" link="../index.html"/>
+  <preview
+    id="photo0"
+    loc="DSC03905.html">
+    <thumbnail src="thumbnail/DSC03905.JPG">
+      DSC03905
+    </thumbnail>
+  </preview>
+  <preview
+    id="photo1"
+    loc="DSC03906.html">
+    <thumbnail src="thumbnail/DSC03906.JPG">
+      DSC03906
+    </thumbnail>
+  </preview>
+  <preview
+    id="photo2"
+    loc="DSC03907.html">
+    <thumbnail src="thumbnail/DSC03907.JPG">
+      DSC03907
+    </thumbnail>
+  </preview>
+  <preview
+    id="photo3"
+    loc="DSC03908.html">
+    <thumbnail src="thumbnail/DSC03908.JPG">
+      DSC03908
+    </thumbnail>
+  </preview>
+  <preview
+    id="photo4"
+    loc="DSC03909.html">
+    <thumbnail src="thumbnail/DSC03909.JPG">
+      DSC03909
+    </thumbnail>
+  </preview>
+  <preview
+    id="photo5"
+    loc="DSC03910.html">
+    <thumbnail src="thumbnail/DSC03910.JPG">
+      DSC03910
+    </thumbnail>
+  </preview>
+  <preview
+    id="photo6"
+    loc="DSC03911.html">
+    <thumbnail src="thumbnail/DSC03911.JPG">
+      DSC03911
+    </thumbnail>
+  </preview>
+  <preview
+    id="photo7"
+    loc="DSC03912.html">
+    <thumbnail src="thumbnail/DSC03912.JPG">
+      DSC03912
+    </thumbnail>
+  </preview>
+  <preview
+    id="photo8"
+    loc="DSC03939.html">
+    <thumbnail src="thumbnail/DSC03939.JPG">
+      DSC03939
+    </thumbnail>
+  </preview>
+  <preview
+    id="photo9"
+    loc="DSC03998.html">
+    <thumbnail src="thumbnail/DSC03998.JPG">
+      DSC03998
+    </thumbnail>
+  </preview>
+  <preview
+    id="photo10"
+    loc="DSC04009.html">
+    <thumbnail src="thumbnail/DSC04009.JPG">
+      DSC04009
+    </thumbnail>
+  </preview>
+  <preview
+    id="photo11"
+    loc="DSC04010.html">
+    <thumbnail src="thumbnail/DSC04010.JPG">
+      DSC04010
+    </thumbnail>
+  </preview>
+  <preview
+    id="photo12"
+    loc="DSC04011.html">
+    <thumbnail src="thumbnail/DSC04011.JPG">
+      DSC04011
+    </thumbnail>
+  </preview>
+  <preview
+    id="photo13"
+    loc="DSC04015.html">
+    <thumbnail src="thumbnail/DSC04015.JPG">
+      DSC04015
+    </thumbnail>
+  </preview>
+  <preview
+    id="photo14"
+    loc="DSC04039.html">
+    <thumbnail src="thumbnail/DSC04039.JPG">
+      DSC04039
+    </thumbnail>
+  </preview>
+</album>
