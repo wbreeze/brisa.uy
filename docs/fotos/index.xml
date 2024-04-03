@@ -1,0 +1,8 @@
+<?xml version='1.0' ?>
+<album title="fotos">
+  <sub-album loc="2024/index.html">
+    <thumbnail src="2024/album_thumbnail.jpg">
+      2024
+    </thumbnail>
+  </sub-album>
+</album>

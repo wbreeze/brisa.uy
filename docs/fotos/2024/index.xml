@@ -1,0 +1,16 @@
+<?xml version='1.0' ?>
+<album title="2024">
+  <parent title="fotos" link="../index.html"/>
+  <sub-album loc="ICW_FL_Casas/index.html">
+    <thumbnail src="ICW_FL_Casas/album_thumbnail.jpg">
+      ICW_FL_Casas
+    </thumbnail>
+  </sub-album>
+  <preview
+    id="photo0"
+    loc="DSC04026.html">
+    <thumbnail src="thumbnail/DSC04026.JPG">
+      DSC04026
+    </thumbnail>
+  </preview>
+</album>
