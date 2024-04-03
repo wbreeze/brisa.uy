@@ -101,9 +101,65 @@
   </preview>
   <preview
     id="photo14"
+    loc="DSC04023.html">
+    <thumbnail src="thumbnail/DSC04023.JPG">
+      DSC04023
+    </thumbnail>
+  </preview>
+  <preview
+    id="photo15"
+    loc="DSC04031.html">
+    <thumbnail src="thumbnail/DSC04031.JPG">
+      DSC04031
+    </thumbnail>
+  </preview>
+  <preview
+    id="photo16"
+    loc="DSC04035.html">
+    <thumbnail src="thumbnail/DSC04035.JPG">
+      DSC04035
+    </thumbnail>
+  </preview>
+  <preview
+    id="photo17"
+    loc="DSC04036.html">
+    <thumbnail src="thumbnail/DSC04036.JPG">
+      DSC04036
+    </thumbnail>
+  </preview>
+  <preview
+    id="photo18"
     loc="DSC04039.html">
     <thumbnail src="thumbnail/DSC04039.JPG">
       DSC04039
+    </thumbnail>
+  </preview>
+  <preview
+    id="photo19"
+    loc="DSC04043.html">
+    <thumbnail src="thumbnail/DSC04043.JPG">
+      DSC04043
+    </thumbnail>
+  </preview>
+  <preview
+    id="photo20"
+    loc="DSC04045.html">
+    <thumbnail src="thumbnail/DSC04045.JPG">
+      DSC04045
+    </thumbnail>
+  </preview>
+  <preview
+    id="photo21"
+    loc="DSC04078.html">
+    <thumbnail src="thumbnail/DSC04078.JPG">
+      DSC04078
+    </thumbnail>
+  </preview>
+  <preview
+    id="photo22"
+    loc="DSC04079.html">
+    <thumbnail src="thumbnail/DSC04079.JPG">
+      DSC04079
     </thumbnail>
   </preview>
 </album>
