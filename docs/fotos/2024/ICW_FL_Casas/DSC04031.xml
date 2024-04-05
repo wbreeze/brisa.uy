@@ -1,0 +1,13 @@
+<?xml version='1.0' ?>
+<image-preview>
+  <thumbnail src="thumbnail/DSC04031.JPG"/>
+  <image src="preview/DSC04031.JPG"/>
+  <full-size src="/assets/galleries/2024/ICW_FL_Casas/DSC04031.JPG"/>
+  <index loc="index.html#photo15"/>
+  <previous loc="DSC04023.html">
+    <thumbnail src="thumbnail/DSC04023.JPG"/>
+  </previous>
+  <next loc="DSC04035.html">
+    <thumbnail src="thumbnail/DSC04035.JPG"/>
+  </next>
+</image-preview>

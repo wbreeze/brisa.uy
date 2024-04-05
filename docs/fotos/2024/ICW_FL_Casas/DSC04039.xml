@@ -3,8 +3,11 @@
   <thumbnail src="thumbnail/DSC04039.JPG"/>
   <image src="preview/DSC04039.JPG"/>
   <full-size src="/assets/galleries/2024/ICW_FL_Casas/DSC04039.JPG"/>
-  <index loc="index.html#photo14"/>
-  <previous loc="DSC04015.html">
-    <thumbnail src="thumbnail/DSC04015.JPG"/>
+  <index loc="index.html#photo18"/>
+  <previous loc="DSC04036.html">
+    <thumbnail src="thumbnail/DSC04036.JPG"/>
   </previous>
+  <next loc="DSC04043.html">
+    <thumbnail src="thumbnail/DSC04043.JPG"/>
+  </next>
 </image-preview>
