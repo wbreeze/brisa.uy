@@ -34,7 +34,7 @@ un bote salvavidas del estilo utilizado en los grandes buques.
 
 Esta familia está obviamente endeudada hasta las cejas. Es muy común en
 Estados Unidos. Si no estás tan endeudada que, si pierdes el trabajo
-no puedes pagar las deudas para la més próxima, no sos un buen ciudadano.
+no puedes pagar las deudas para la mes próxima, no sos un buen ciudadano.
 El consumo es el rey. Es un deber para todos. Además, de este modo todos se
 quedan esclavos de sus jefes.
 
@@ -45,7 +45,7 @@ quedan esclavos de sus jefes.
 Me encanta esta casa al medio de la nada. Por la costa, hay mil millones de
 hectáreas de [grama salada][pasto]. El ICW corre entre esto por millas y
 millas. Hay pasto hasta el horizonte. Era pésimo porque no había ningún refugio
-contro el viento. Me alivia mucho cuando al fin encontré un árbol.
+contra el viento. Me alivia mucho cuando al fin encontré un árbol.
 
 La casa es como una casa en la pradera.
 No hay un sendero ni una calzada. El único método llegar es con lancha.
