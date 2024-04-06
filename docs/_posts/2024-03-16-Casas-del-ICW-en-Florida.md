@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Casas del ICW en Florida
-date: 2024-04-03
+date: 2024-03-16
 tags: ICW Florida
 excerpt: Observando la arquitectura de las casas a lo largo del ICW
 ---
@@ -33,14 +33,14 @@ casa uruguaya en un año.
 
 En Flagler Beach, más al norte, pasé por un canal con casas lindas por
 un lado y un refugio de la naturaleza por el otro. Las casas todas
-disponen con jardines de árboles y pasto verde atras un muelle bien
+disponen con jardines de árboles y pasto verde atrás un muelle bien
 construido, recto y con buen mantenimiento.
 
 ![Casa al lado del ICW en Flagler Beach, Florida](
   {{ '/assets/galleries/2024/ICW_FL_Casas/DSC04078.JPG' | relative_url }}
 )
 
-Despues de eso, los mansiones parecen grandiosos y esteril.
+Después de eso, los mansiones parecen grandiosos y estéril.
 Hay tanto dinero en las casas de los Estados Unidos. Mi mente explota
 de pensar que los pequeños cuestan medio millones de dólares, los grandes
 múltiples de millones. Con tantas casas, es claro que hay billones de

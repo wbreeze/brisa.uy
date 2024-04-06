@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NAO Trinidad
-date: 2024-03-28
+date: 2024-03-21
 tags: barcos
 excerpt: En San Agustín, encontré una réplica de uno de los barcos usado por
   Magallanes para su histórica vuelta del mundo- el Nao Trinidad.
