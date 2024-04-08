@@ -63,3 +63,12 @@ con una clima turística, estas zonas prosperan.
 Imagino que la tecnología utilizada dentro de las fábricas es muy avanzada,
 aunque desde fuera una fábrica me parece una fábrica.
 
+Salí por el canal de la ensenada Santa María entre los estados de Florida y
+Georgia. Fui fuera de la costa por dos días y una noche para cortar el viaje a
+Charleston, Carolina del Sur. Saliendo por el canal encontré a una submarina
+del nave estadounidense.
+
+![Submarino del nave estadounidense, Ensenada Santa María](
+  {{ 'assets/images/2024/03Industria/DSC04093.JPG' | relative_url }}
+)
+
