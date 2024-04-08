@@ -8,7 +8,7 @@ excerpt: Dos fábricas de celulosa y una de consumo en Isla Amelia, Playa
 ---
 
 Estoy fondeado frente a una fábrica de celulosa de la empresa [RYAM][ryam]. Es
-una fábrica de celulosa de alta pureza usada en la fábricación de productos
+una fábrica de celulosa de alta pureza usada en la fabricación de productos
 como, por ejemplo, las pantallas LED. La fábrica opera cada minuto de cada día.
 Las pilas de astillas de pino humeantes en la fría noche con luna.
 Cuando el viento sopla desde la fábrica, lleva un olor de pino extraño, no como
@@ -42,8 +42,8 @@ monocultura de maíz o de trigo.
 Entre las dos fábricas están situados el pueblo y el puerto deportivo.
 El pueblo es un tipo de fábrica de venta minorista. Hay una calle principal
 con veredas de hormigón liso y ladrillos; edificios con fachadas de ladrillo;
-cuadras arboladas. Las tiendas son artesenales, no todos corporativas como
-en la mayor de otras partes. Venden artículos para el hogar, souvenirs,
+cuadras arboladas. Las tiendas son artesanales, no todos corporativas como
+en la mayor de otras partes. Venden artículos para el hogar, souvenires,
 chucherías, joyas, libros y ropa de lujo. Hay restaurantes, cafeterías y, por
 supuesto, heladerías.
 
