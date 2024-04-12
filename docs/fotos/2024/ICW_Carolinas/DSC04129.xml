@@ -1,0 +1,13 @@
+<?xml version='1.0' ?>
+<image-preview>
+  <thumbnail src="thumbnail/DSC04129.JPG"/>
+  <image src="preview/DSC04129.JPG"/>
+  <full-size src="/assets/galleries/2024/ICW_Carolinas/DSC04129.JPG"/>
+  <index loc="index.html#photo22"/>
+  <previous loc="DSC04128.html">
+    <thumbnail src="thumbnail/DSC04128.JPG"/>
+  </previous>
+  <next loc="DSC04131.html">
+    <thumbnail src="thumbnail/DSC04131.JPG"/>
+  </next>
+</image-preview>
