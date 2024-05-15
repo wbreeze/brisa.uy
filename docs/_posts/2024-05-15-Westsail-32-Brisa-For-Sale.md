@@ -6,7 +6,6 @@ lang: en
 tags: sailing for_sale
 excerpt: Announcement of sale for Brisa, with photos and some video links.
 nolist: true
-video_note: "{% include video.html source='2022/CorrientesDos.mp4' still='2022/CostaRica/CorrientesUno.png' %}"
 ---
 
 You're looking at a Westsail; so, you know what you're looking at.  Odds are
@@ -74,6 +73,18 @@ Brisa is waiting for you.
 )
 
 Where will you take her?
+
+{% include video.html
+  source='2023/Navegando20230714.mp4'
+  still='2023/07Navegando/DSC03437.JPG'
+%}
+
+The second half of the following video is fun.
+
+{% include video.html
+  source='2024/EntreMiami_y_Bimini.mp4'
+  still='2024/02Corrientes/DSC03897.JPG'
+%}
 
 ![Brisa moored at Grand Cayman](
   {{ 'assets/images/2024/BrisaFS/02Cayman.jpg' | relative_url }}
