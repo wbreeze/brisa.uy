@@ -5,8 +5,9 @@ date: 2024-05-15
 lang: en
 tags: sailing for_sale
 excerpt: Announcement of sale for Brisa, with photos and some video links.
-nolist: true
 ---
+
+Está en inglés porque la mayoría de los compradores interesados leen en inglés.
 
 You're looking at a Westsail; so, you know what you're looking at.  Odds are
 you're familiar with the reputation, popularity and success of the design.
