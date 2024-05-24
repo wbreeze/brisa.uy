@@ -67,6 +67,19 @@ location exactly.
 
 Contacts after 15 June will have reply delayed until the second week of July.
 
+See also
+- [post about her background][bg]
+- [post about her sale][fs] at [Wind and Water][wnw].
+- [Data page at sailboatdata.com](https://sailboatdata.com/sailboat/westsail-32)
+- [Description at Wikipedia.org](https://en.wikipedia.org/wiki/Westsail_32)
+- [Review at BlueWaterBoats.org](https://bluewaterboats.org/westsail-32)
+- [Owner's association, Westsail.org](https://www.westsail.org/)
+- [Westsail Parts Company](https://westsailparts.com/)
+
+[bg]: https://wnw.wbreeze.com/2020/12/wandering-home.html
+[fs]: https://wnw.wbreeze.com/2024/05/Westsail-32-For-Sale.html
+[wnw]: https://wnw.wbreeze.com/posts/
+
 Brisa is waiting for you.
 
 ![Brisa sailing out of Shelter Bay, Panama](
