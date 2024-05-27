@@ -70,6 +70,7 @@ Contacts after 15 June will have reply delayed until the second week of July.
 See also
 - [post about her background][bg]
 - [post about her sale][fs] at [Wind and Water][wnw].
+- [Listing at SailboatListings.com][sbl]
 - [Data page at sailboatdata.com](https://sailboatdata.com/sailboat/westsail-32)
 - [Description at Wikipedia.org](https://en.wikipedia.org/wiki/Westsail_32)
 - [Review at BlueWaterBoats.org](https://bluewaterboats.org/westsail-32)
@@ -78,6 +79,7 @@ See also
 
 [bg]: https://wnw.wbreeze.com/2020/12/wandering-home.html
 [fs]: https://wnw.wbreeze.com/2024/05/Westsail-32-For-Sale.html
+[sbl]: https://www.sailboatlistings.com/view/1044550
 [wnw]: https://wnw.wbreeze.com/posts/
 
 Brisa is waiting for you.
