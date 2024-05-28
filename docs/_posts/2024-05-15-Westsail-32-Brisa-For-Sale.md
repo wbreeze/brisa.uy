@@ -79,7 +79,7 @@ See also
 
 [bg]: https://wnw.wbreeze.com/2020/12/wandering-home.html
 [fs]: https://wnw.wbreeze.com/2024/05/Westsail-32-For-Sale.html
-[sbl]: https://www.sailboatlistings.com/view/1044550
+[sbl]: https://www.sailboatlistings.com/view/104455
 [wnw]: https://wnw.wbreeze.com/posts/
 
 Brisa is waiting for you.
