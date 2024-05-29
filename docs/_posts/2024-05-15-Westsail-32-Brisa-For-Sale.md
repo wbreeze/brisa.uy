@@ -68,13 +68,14 @@ location exactly.
 Contacts after 15 June will have reply delayed until the second week of July.
 
 See also
-- [post about her background][bg]
+- [post about her background][bg] at [Wind and Water][wnw].
 - [post about her sale][fs] at [Wind and Water][wnw].
 - [Listing at SailboatListings.com][sbl]
+- [Listing at SailboatGuide.com](https://sailboat.guide/c6uwai)
 - [Data page at sailboatdata.com](https://sailboatdata.com/sailboat/westsail-32)
 - [Description at Wikipedia.org](https://en.wikipedia.org/wiki/Westsail_32)
-- [Review at BlueWaterBoats.org](https://bluewaterboats.org/westsail-32)
-- [Owner's association, Westsail.org](https://www.westsail.org/)
+- [Description at Sailboat Guide](https://sailboat.guide/westsail/32)
+- [Westsail Owner's association, Westsail.org](https://www.westsail.org/)
 - [Westsail Parts Company](https://westsailparts.com/)
 
 [bg]: https://wnw.wbreeze.com/2020/12/wandering-home.html
