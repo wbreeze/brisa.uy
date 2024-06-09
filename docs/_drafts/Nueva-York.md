@@ -80,11 +80,6 @@ Sí. Compré una salchicha.
   {{ 'assets/images/2024/05NYC/IMG_20240517_145819_593.jpg' | relative_url }}
 )
 
-{% include video.html
-  source='2024/FondeadoNuevaYork.mp4'
-  still='2024/05NYC/IMG_20240517_145819_593.jpg'
-%}
-
 Después de la visita de cinco días a mi hija, me sentía desanimada y
 nostálgico. Pasó tanto tiempo para llegar desde Carolina del Sur, desde Cayo
 Hueso, desde Isla Mujeres, Gran Caimán, Panamá. De verdad fue mi destino--
@@ -197,8 +192,12 @@ y nos encontramos igual.
 Les dejo con [el alma del agua (Water's Soul)][alma] por el escultor
 de Barcelona, [Jaume Plensa][plensa]. Está situado en la orilla Nueva Jersey
 del Hudson, frente al Bajo Manhattan. Me parece que pide silencio a los
-señores grandes allía instalados.
+señores grandes allí instalados.
 
 [alma]: https://waterssouljc.com/
 [plensa]: https://es.wikipedia.org/wiki/Jaume_Plensa
 
+{% include video.html
+  source='2024/FondeadoNuevaYork.mp4'
+  still='2024/05NYC/IMG_20240517_145819_593.jpg'
+%}
