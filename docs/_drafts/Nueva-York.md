@@ -19,16 +19,17 @@ Sandy Hook.
   {{ 'assets/images/2024/05NYC/DSC04430.JPG' | relative_url }}
 )
 
-Navegué cuidadosamente entre boyas y canales, esquivando los barcos comerciales
-arrancadores y los bancos. Identifiqué cada boye. Estaba más oscuro de lo que
-yo había previsto. Las luces de la ciudad aún estaban demasiado lejos.  Seguí
-la línea magenta.  Cruze el canal de entrada a la bahía superior. Seguí
-estrechamente una vuelta del punto occidental de Coney Island.  Bajé el ancla a
-las diez de la noche sobre agua plácida, sin viento, en Bahía Gravesend.
+Navegué cuidadosamente entre boyas y canales, esquivando los barcos
+comerciales, remolcadores y los bancos. Identifiqué cada boye. Estaba más
+oscuro de lo que yo había previsto. Las luces de la ciudad aún estaban
+demasiado lejos.  Seguí la línea magenta.  Cruze el canal de entrada a la bahía
+superior. Seguí estrechamente una vuelta del punto occidental de Coney Island.
+Bajé el ancla a las diez de la noche sobre agua plácida, sin viento, en Bahía
+Gravesend.
 
 Quería visitar a mi hija en Brooklyn por unos cuantos días.
-Investigué la entrada para la laguna tras Coney Island. Con el mar bajo
-lo encontré demasiado estrecho. A la vez, navegué al sur de la isla al lado
+Investigué la entrada para la laguna tras Coney Island. Con la marea baja
+lo encontré demasiado estrecho. En cambio, navegué al sur de la isla al lado
 oriental, a Sheepshead Bay.
 
 ![Bahía Sheepshead, Brooklyn, Nueva York](
@@ -41,10 +42,10 @@ costoso que solo un lugar de lujo puede soportarlo. Sin llamada para
 un lugar de lujo, no hay nada.
 
 Sheepshead Bay está lejos del centro de la ciudad y parte de la ciudad. Allí
-encontré un club que alquila una amarre pr $US$65 por noche. Desarrollé una
+encontré un club que alquila una amarre por $US$65 por noche. Desarrollé una
 rutina.  Me desperté temprano, desayuné y llevé a mi auxiliar al muelle del
 club.  Caminé veinte minutos a la estación de subte. Llevé el subte al centro de
-Brooklyn. Allí encontré a mi hija para desayunar una segunda vez. Ella tiene
+Brooklyn. Allí encontré a mi hija para un segundo desayuno. Ella tiene
 cerca un lugar donde fabrican las bagel y las sirven todavía calentitas desde
 el horno.
 
@@ -63,7 +64,7 @@ tienda de Apple con dos pisos.
 Al lado del Oculus está el monumento conmemorativo del 911. Las bases de las
 dos torres ahora son cuadras profundas, grises y vacías, con una cascada de
 agua alrededor. El agua caiga por los muros para correr el fondo profundo
-y caer fuera de la vista entre un segundo foso cuadrado.
+y caer fuera de la vista dentro un segundo foso cuadrado.
 
 ![Monumento Conmemorativo del 911, Ciudad Nueva York](
   {{ 'assets/images/2024/05NYC/IMG_20240515_173309_996.jpg' | relative_url }}
@@ -85,24 +86,25 @@ Sí. Compré una salchicha.
 %}
 
 Después de la visita de cinco días a mi hija, me sentía desanimada y
-nastálgico. Pasó tanto tiempo para llegar desde Carolina del Sur, desde Cayo
+nostálgico. Pasó tanto tiempo para llegar desde Carolina del Sur, desde Cayo
 Hueso, desde Isla Mujeres, Gran Caimán, Panamá. De verdad fue mi destino--
-visitar a mi hija.  Después me sentía a la deriva, sin propósito.
+visitar a mi hija.  Después de cumplir la visita me sentía a la deriva, sin
+propósito.
 
 Me mudé temprano de la mañana desde Bahía Sheepshead a la Bahía Gravesend.
 Lo hice temprano para aprovechar la marea alta, para franquear un banco
 tras la entrada a Sheepshead. Esperé en Gravesend para que el mar bajara
 y el corriente reversa para la entrada a la Bahía Superior de Nueva York.
-Así de la tarde pasó bajo el puente Verrazano Narrows.
+Así, de la tarde, pasé bajo el puente Verrazano Narrows.
 
 ![Aproximando al Punte de Verrazzano-Narrows desde Bahía Gravesend, Nueva York](
   {{ 'assets/images/2024/05NYC/IMG_20240520_145802_109.jpg' | relative_url }}
 )
 
-Las estrechas que forman la vía entre las bahías inferior y superior de
+Las estrechas que forman la ruta entre las bahías inferior y superior de
 Nueva York están de ancho tres cuartos de una milla náutica. El canal para
 los buques de gran tamaño y calado usa dos terceras partes del arco entre los
-postes del puente. Yo crucé el canal para usar la parte del arco libre de
+postes del puente. Yo crucé el canal para usar la parte del tramo libre de
 los buques. Compartí los estrechos primeramente con un gran portacontenedor
 y después un buque cisterna. Ambos se van a su babor, hacía el puerto de Bayona
 al lado occidental de la bahía. Yo quería continuar hacía la isla de Manhattan.
@@ -114,11 +116,11 @@ de nuevo el canal.
 )
 
 Estaba navegando a vela porque me sentí orgulloso de acercarme a la gran ciudad
-en mi velero a vela.  El viento estaba directamente de popa. Sale que
+en mi velero a vela.  El viento estaba directamente de popa. Salió que
 necesitaba trasluchar frecuentemente entre los buques fondeados,
 transbordadores, buques de lujo, buques charter de paseo, bancos, canales,
 boyes, otros veleros y tantas cosas! Estaba muy concurrido. Todo el tránsito
-despierta la superficie del agua con olas por todos lados y direcciónes.
+despierta la superficie del agua con olas por todos lados y direcciones.
 
 ![Transbordador Staten Island con la Estatua de la Libertad](
   {{ 'assets/images/2024/05NYC/DSC04434.JPG' | relative_url }}
@@ -140,7 +142,7 @@ a moverse de modo brusco entre las olas turbulentas. Un buque turístico,
 de la vuelta de la estatua, pasó tan cerca y con tanto rapidéz-- su ola casi
 me hace caer en la bahía. Les saludé, estrangulando al botavara con un
 apretón mortal, con un grito de alegría, un poco loco.  Algunos turistas me
-saludan en cambio.
+saludaran a su vez.
 
 ![Edififios de Bajo Manhattan visto desde la bahía](
   {{ 'assets/images/2024/05NYC/DSC04447.JPG' | relative_url }}
@@ -163,9 +165,9 @@ dólar libre en cosas de la nada, buscando la felicidad.
   {{ 'assets/images/2024/05NYC/DSC04457.JPG' | relative_url }}
 )
 
-No es decir de los hechos contra la libertad de otros para determinar su
-sistema económico, valores y líderes.  Bueno. Esos pensamientos salen con la
-vista de la estatua. Que pena.
+Por no hablar de los ataques contra la libertad de los demás para determinar su
+sistema económico, sus valores y sus dirigentes.  Bueno. Esos pensamientos
+salen con la vista de la estatua. Que pena.
 
 Estaba tan cansado después de una semana de mañanas tempranas y noches
 tardes. Me acosté antes del atardecer. Durante la noche, las dos veces que
@@ -176,12 +178,12 @@ la cubierta para disfrutar y sacar algunas fotos.
   {{ 'assets/images/2024/05NYC/DSC04465.JPG' | relative_url }}
 )
 
-El próximo día subí al ancla a las seis de la mañana para comprar gasoil y
+Al día siguiente levé al ancla a las seis de la mañana para comprar gasoil y
 aprovechar la corriente hacia el norte en el Rio Hudson. Pasé la tarde y la
-próxima noche con vista del puente Washington, el punto norte de la isla
+próxima noche con vista del puente George Washington, el punto norte de la isla
 de Manhattan y Spuyten Duyvill. Dormí bastante. El próximo día subí el ancla
 para aprovechar la corriente todo el camino hasta Beacon, la ciudad donde he
-vivido la última vez que he vivido en Nueva York. Pasé por los puentes Tappan
+vivido la última vez que he vivido en Nueva York. Pasé bajo los puentes Tappan
 Zee y Bear Mountain (Montaña del Oso). Llegué al puente Beacon Newburgh.
 
 Así he pasado por la ciudad Nueva York para subir el Rio Hudson, fondear
@@ -193,9 +195,9 @@ y nos encontramos igual.
 )
 
 Les dejo con [el alma del agua (Water's Soul)][alma] por el escultor
-de Barcelona, [Jaume Plensa][plensa]. Está situado en la orilla neoyorquina del
-Hudson, frente al Bajo Manhattan. A mi me parece que pide silencio de los
-señores grandes instalados allí.
+de Barcelona, [Jaume Plensa][plensa]. Está situado en la orilla Nueva Jersey
+del Hudson, frente al Bajo Manhattan. Me parece que pide silencio a los
+señores grandes allía instalados.
 
 [alma]: https://waterssouljc.com/
 [plensa]: https://es.wikipedia.org/wiki/Jaume_Plensa
