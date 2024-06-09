@@ -7,7 +7,7 @@ excerpt: Pasé por la gran ciudad y la bahía concurrida de Nueva York.
 ---
 
 Decidí ir a Nueva York con prisa, esquivando la gran [Bahía de
-Chesapeake][ches].  Fuí fuera de la costa tres días desde Hampton, Virginia
+Chesapeake][ches].  Fui fuera de la costa tres días desde Hampton, Virginia
 para llegar a Nueva York.  Llegué en la bahía inferior con el atardecer.
 Navegué un canal al lado del punto de terreno Sandy Hook con la luz que falla.
 Por la noche, elegí seguir yendo al Coney Island en vez de fondear a la vuelta de
@@ -92,7 +92,7 @@ tras la entrada a Sheepshead. Esperé en Gravesend para que el mar bajara
 y el corriente reversa para la entrada a la Bahía Superior de Nueva York.
 Así, de la tarde, pasé bajo el puente Verrazano Narrows.
 
-![Aproximando al Punte de Verrazzano-Narrows desde Bahía Gravesend, Nueva York](
+![Aproximando al Punte de Verrazano-Narrows desde Bahía Gravesend, Nueva York](
   {{ 'assets/images/2024/05NYC/IMG_20240520_145802_109.jpg' | relative_url }}
 )
 
@@ -106,14 +106,14 @@ al lado occidental de la bahía. Yo quería continuar hacía la isla de Manhatta
 Por eso elegí un momento, después de pasar por las estrechas, para cruzar
 de nuevo el canal.
 
-![Cruzando por la entrada Verrazzano-Narrows al puerto superiór de Nueva York](
+![Cruzando por la entrada Verrazano-Narrows al puerto superior de Nueva York](
   {{ '/assets/images/2024/05NYC/IMG_20240520_151923_657.jpeg' | relative_url }}
 )
 
 Estaba navegando a vela porque me sentí orgulloso de acercarme a la gran ciudad
 en mi velero a vela.  El viento estaba directamente de popa. Salió que
 necesitaba trasluchar frecuentemente entre los buques fondeados,
-transbordadores, buques de lujo, buques charter de paseo, bancos, canales,
+transbordadores, buques de lujo, buques chárter de paseo, bancos, canales,
 boyes, otros veleros y tantas cosas! Estaba muy concurrido. Todo el tránsito
 despierta la superficie del agua con olas por todos lados y direcciones.
 
@@ -125,27 +125,27 @@ A pesar de los desafíos navegando en una de las bahías más concurridas del
 mundo, quería sacar vistas de los edificios altos de Brooklyn, y el edificio
 donde vive mi hija, sacar fotos de la parte baja de Manhattan, mirar a la
 estatua de la libertad, examinar la isla Governors, comunicar por teléfono
-con mi hija a ver si me vió navegando claramente a su vista.
+con mi hija a ver si me vio navegando claramente a su vista.
 
 ![Aproximando a la isla de Manhattan desde la bahía](
   {{ 'assets/images/2024/05NYC/DSC04437.JPG' | relative_url }}
 )
 
 A final decidí bajar la vela. Sale difícil porque, al momento que bajé la
-mayor, sin colchón proporcionado del viento contra la vela, el velero empecó
+mayor, sin colchón proporcionado del viento contra la vela, el velero empezó
 a moverse de modo brusco entre las olas turbulentas. Un buque turístico,
 de la vuelta de la estatua, pasó tan cerca y con tanto rapidéz-- su ola casi
 me hace caer en la bahía. Les saludé, estrangulando al botavara con un
 apretón mortal, con un grito de alegría, un poco loco.  Algunos turistas me
 saludaran a su vez.
 
-![Edififios de Bajo Manhattan visto desde la bahía](
+![Edificios de Bajo Manhattan visto desde la bahía](
   {{ 'assets/images/2024/05NYC/DSC04447.JPG' | relative_url }}
 )
 
 Fondeé tras la [Isla Ellis][elis], donde llegan a los Estados Unidos unos doce
 millones de inmigrantes durante la primera mitad del siglo veinte. Arriba
-del edificio de la aduana vi el torche de la estatua. Encuentro irónico
+del edificio de la aduana vi el antorcha de la estatua. Encuentro irónico
 que la [Estatua de la Libertad][libre] está en los Estados Unidos.
 La gente de los Estados Unidos, por lo mayor, están esclavos a su trabajo.
 Es esclavitud voluntaria. Han tomado tanto de la deuda que no pueden estar
@@ -174,14 +174,14 @@ la cubierta para disfrutar y sacar algunas fotos.
 )
 
 Al día siguiente levé al ancla a las seis de la mañana para comprar gasoil y
-aprovechar la corriente hacia el norte en el Rio Hudson. Pasé la tarde y la
+aprovechar la corriente hacia el norte en el Río Hudson. Pasé la tarde y la
 próxima noche con vista del puente George Washington, el punto norte de la isla
 de Manhattan y Spuyten Duyvill. Dormí bastante. El próximo día subí el ancla
 para aprovechar la corriente todo el camino hasta Beacon, la ciudad donde he
 vivido la última vez que he vivido en Nueva York. Pasé bajo los puentes Tappan
 Zee y Bear Mountain (Montaña del Oso). Llegué al puente Beacon Newburgh.
 
-Así he pasado por la ciudad Nueva York para subir el Rio Hudson, fondear
+Así he pasado por la ciudad Nueva York para subir el Río Hudson, fondear
 y visitar unos días con amigos viejos. Sí. Envejecemos cada día, cada año
 y nos encontramos igual.
 
