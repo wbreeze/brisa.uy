@@ -107,6 +107,35 @@ The second half of the following video is fun.
   {{ 'assets/images/2024/BrisaFS/02Cayman.jpg' | relative_url }}
 )
 
+## FAQ
+
+- When was the last time she was hauled out for bottom work?
+
+  In April, 2024, after about eighteen months. She has had bottom paint three
+  times now in 3-1/2 years. The haul-out in 2021, in the arid Baja desert,
+  dried and attended to blisters, then applied three coats of West epoxy
+  barrier treatment before painting.  The first three coats are blue and
+  additional coats are red. Seeing blue, it is time to repaint. The bottom
+  paint is ablative copper. Quantity required is about a gallon for one coat.
+  Painting has been three gallons except the most recent was two.  We paint
+  extra coats around prop and rudder, at the bow and along the waterline. Those
+  are the areas that go fastest. Prop and rudder zincs are replaced fresh every
+  time.  All maintenance by the current owner, since 2020 is logged.
+
+![Brisa at 2024 haul-out in North Carolina](
+  {{ 'assets/images/2024/BrisaFS/X10HauledForPaint.jpg' | relative_url }}
+)
+
+- How old is standing and running rigging?
+
+  The standing rigging is less than ten years old done by the prior owner.  It
+  is good for coastal sailing, Bahamas, all motoring distance to shore. It
+  might be safest to overhaul it if crossing the Atlantic. The main sail is new
+  in 2023. The four head sails are holding up well. She also has a trysail used
+  rarely, like new.
+
+  The running rigging is all replaced at various times in the past three years.
+
 ![Brisa at anchor in Broad Creek, North Carolina](
   {{ 'assets/images/2024/BrisaFS/04Pamlico.jpg' | relative_url }}
 )
@@ -115,17 +144,67 @@ The second half of the following video is fun.
   {{ 'assets/images/2024/BrisaFS/05Pamlico.jpg' | relative_url }}
 )
 
+- What motor is in the boat?
+
+  The motor is a Universal Westerbeke M-50B, 43hp installed around Y2K, with
+  currently 2500hrs. Regular oil changes, zinc replacements, and clean fuel
+  keep her running well. All maintenance by the current owner, since 2020 is
+  logged.
+
 ![Brisa at anchor at Hampton, Virginia](
   {{ 'assets/images/2024/BrisaFS/06Hampton.jpg' | relative_url }}
 )
+
+- What electronics?
+
+  If there is some bit of electronic kit that you think is indispensable on a
+  sailboat, that you have your heart set on acquiring with the boat, why not buy
+  the kit, forget the boat, and save a ton of money? That is tongue in cheek
+  and also realistic: the foundation is key-- a good, seaworthy boat.
+
+  I've seen people sit for months in Panama waiting to have insurance cover,
+  ship, and install their expensive electronics knocked out by a lightning
+  strike. They couldn't leave to sail and enjoy-- sea, sun, surf, snorkel,
+  reefs, fish, dolphins, cocktails in a secluded cove of paradise --without the
+  gadgets.
+
+  She will come with an inReach and iPad mini. She has a Vesper AIS installed
+  new in 2021 with dedicated VHF and GPS antennas. The Navionics app knows how
+  to connect to it for very accurate position, direction, speed over ground.
+  Recently replaced Uniden UM725G VHF with new 1/2" coax running up the mast to
+  a new Shakespeare antenna is in the salon with a remote station in the
+  cockpit. Depth sounder. In a locker, find a working, older radar setup
+  removed when installing the AIS. She carries an iCom IC-M710 SSB complete
+  with tuner and antenna that functions to get weather faxes.
 
 ![Looking down the Chagres River, Panama from on deck of Brisa](
   {{ 'assets/images/2024/BrisaFS/10Chagres.jpeg' | relative_url }}
 )
 
+- What wind vane is on it?
+
+  She has a Monitor wind vane that has worked fabulously and is aging. It is
+  amazing when it is in operation. It is worth $1k as trade-in toward a new
+  one. Also installed are two tiller pilots: a Pelagic and a TP20. She sails a
+  close reach hands off, tiller free. Other points of sail need something or
+  someone attending to light forces on the tiller. Forces are always light with
+  good sail trim.
+
 ![Sailing Brisa with some wind on the beam](
   {{ 'assets/images/2024/BrisaFS/40MoreWind.JPG' | relative_url }}
 )
+
+- What sails does she have?
+
+The sail inventory includes a new mainsail, a staysail, and three foresails.
+The foresails are: a 60% jib, 100% yankee, and 130% genoa. (Those are
+estimated percent of the area of the triangle formed by mast, forestay, and
+deck.) See them in the photos. There is also a storm trysail that runs on a
+separate track from the main. Find an article about [using the trysail off the
+coast of Nicaragua, in the Papagayo.][reposo] The article is written in
+Spanish and has pictures.
+
+[reposo]: https://brisa.uy/2022/03/13/Reposo-del-Alta-Mar.html
 
 ![Flying the giant genoa of Brisa, downwind](
   {{ 'assets/images/2024/BrisaFS/60GennieFlying.JPG' | relative_url }}
@@ -157,10 +236,6 @@ The second half of the following video is fun.
 
 ![description](
   {{ 'assets/images/2024/BrisaFS/I40Stove.JPG' | relative_url }}
-)
-
-![description](
-  {{ 'assets/images/2024/BrisaFS/X10HauledForPaint.jpg' | relative_url }}
 )
 
 ![description](
