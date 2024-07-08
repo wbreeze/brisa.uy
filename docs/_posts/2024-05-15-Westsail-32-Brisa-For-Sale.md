@@ -65,8 +65,6 @@ location exactly.
   {{ 'assets/images/2024/BrisaFS/Z05BrisaWaits.JPG' | relative_url }}
 )
 
-Contacts after 15 June will have reply delayed until the second week of July.
-
 See also
 - [post about her background][bg] at [Wind and Water][wnw].
 - [post about her sale][fs] at [Wind and Water][wnw].
