@@ -13,9 +13,10 @@ if [[ -n ${SRC_DIR} && -e ${SRC_DIR} && -d ${SRC_DIR} ]]; then
       CURF=${CURF/%[Pp][Nn][Gg]/jpeg}
       DEST_IMAGE="${DEST_DIR}/${CURF}"
       [ "$SRC_IMAGE" -nt "${DEST_IMAGE}" ] && echo "${DEST_IMAGE}"
-      [ "$SRC_IMAGE" -nt "${DEST_IMAGE}" ] && magick convert \
+      [ "$SRC_IMAGE" -nt "${DEST_IMAGE}" ] && magick \
+         "${SRC_IMAGE}" -resize ${size} \
          -auto-orient -strip \
-         "${SRC_IMAGE}" -resize ${size} "${DEST_IMAGE}"
+         "${DEST_IMAGE}"
     done < <(find -L ${SRC_DIR} -maxdepth 1 \( \
           -iname '*.jpg' \
        -o -iname '*.jpeg' \
