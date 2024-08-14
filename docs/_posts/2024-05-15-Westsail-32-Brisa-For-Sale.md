@@ -69,7 +69,7 @@ See also
 - [post about her background][bg] at [Wind and Water][wnw].
 - [post about her sale][fs] at [Wind and Water][wnw].
 - [Listing at SailboatListings.com][sbl]
-- [Listing at SailboatGuide.com](https://sailboat.guide/c6uwai)
+- [Listing at SailboatGuide.com][sbg]
 - [Data page at sailboatdata.com](https://sailboatdata.com/sailboat/westsail-32)
 - [Description at Wikipedia.org](https://en.wikipedia.org/wiki/Westsail_32)
 - [Description at Sailboat Guide](https://sailboat.guide/westsail/32)
@@ -78,7 +78,8 @@ See also
 
 [bg]: https://wnw.wbreeze.com/2020/12/wandering-home.html
 [fs]: https://wnw.wbreeze.com/2024/05/Westsail-32-For-Sale.html
-[sbl]: https://www.sailboatlistings.com/view/104455
+[sbl]: https://www.sailboatlistings.com/view/105720
+[sbg]: https://sailboat.guide/c6uwai
 [wnw]: https://wnw.wbreeze.com/posts/
 
 Brisa is waiting for you.
