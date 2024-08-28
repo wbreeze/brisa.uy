@@ -4,7 +4,7 @@ title: Westsail 32 Brisa For Sale
 date: 2024-05-15
 lang: en
 tags: sailing for_sale
-excerpt: Announcement of sale for Brisa, with photos and some video links.
+excerpt: Annuncio de la venta de Brisa, con fotos y vinculos para videos
 ---
 
 Está en inglés porque la mayoría de los compradores interesados leen en inglés.
@@ -104,6 +104,55 @@ The second half of the following video is fun.
 
 ![Brisa moored at Grand Cayman](
   {{ 'assets/images/2024/BrisaFS/02Cayman.jpg' | relative_url }}
+)
+
+## Head
+
+In the head you find a tiled counter with small sink, foot pump for seawater,
+mirrored cabinet and an [AirHead][airhead]® composting toilet. There is plenty
+of storage in the head, as there is everywhere. It has a small porthole that
+opens and a freznel skylight.
+
+[airhead]: https://airheadtoilet.com/product/air-head-composting-toilet-complete-unit/
+
+![Context photos of the head](
+  {{ 'assets/images/2024/BrisaFS/HApprox.jpg' | relative_url }}
+)
+
+![Detail photos of the head](
+  {{ 'assets/images/2024/BrisaFS/HDetail.jpg' | relative_url }}
+)
+
+## Wardrobe and Pullman Berth
+
+In the bow, find a pullman berth. The pullman berth is an alternative
+arrangement to the more common V-berth. It offers an ample sleeping space for
+two people. Unlike the V-berth, it offers ample storage alongside the sleeping
+space.  The dimensions of the sleeping area are eighty inches by forty-four
+inches (80" x 44").
+
+Also in these photos see the wardrobe facing the head. The wardrobe offers
+a vertical hanging closet, five wardrobe drawers, a shelf and a large
+compartment behind, accessed through the wardrobe.
+
+For storage, every space between what you can see in the cabin and the hull is 
+accessible. The forms for entry to Cayman Islands contained the questions:
+
+ - are there any hidden compartments?
+ - where are they?
+
+The answers were, yes and everywhere.
+
+![Context photos of the pullman berth](
+  {{ 'assets/images/2024/BrisaFS/PApproxView.jpg' | relative_url }}
+)
+
+![Detail photos of the pullman berth](
+  {{ 'assets/images/2024/BrisaFS/PDetailView.jpg' | relative_url }}
+)
+
+![Looking aft from the forward end of the pullman berth](
+  {{ 'assets/images/2024/BrisaFS/PAftView.jpg' | relative_url }}
 )
 
 ## FAQ
