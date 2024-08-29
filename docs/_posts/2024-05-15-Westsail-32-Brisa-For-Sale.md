@@ -106,6 +106,37 @@ The second half of the following video is fun.
   {{ 'assets/images/2024/BrisaFS/02Cayman.jpg' | relative_url }}
 )
 
+## Cockpit
+
+The cockpit has a small well that won't swamp the boat. Two one and one-quarter
+inch (1-1/4") drains quickly empty any water that enters.
+The engine throttle control, the control head for the Pelagic tiller pilot
+and Belgin connectors for the TP22 and Pelagic tiller controls are on the
+starboard side of the well. The sole of the cockpit is a full sized hatch
+hinged to port, latched to starboard, and sealed against water entry. The
+hatch opens to provide ample access to the engine, drive train, shaft log
+and seal.
+
+The lazarette to port contains two five pound propane tanks, well secured,
+for the galley stove. The locker is vented to the port side of the hull well
+above the waterline, even heeled on a starboard tack. The aft lazarette has
+ample storage for dock lines, the tiller pilots and etc.
+
+![Cockpit looking aft](
+  {{ 'assets/images/2024/BrisaFS/CpSole.jpg' | relative_url }}
+)
+
+Looking forward, this Wetstail has teak lockers and boards to
+port and starboard of the cockpit that provide storage for items needed
+in the cockpit such as gloves, sail ties and winch handles. The boards
+provide a nice backrest for seating and more importantly prevent water
+running of the deck from entering the cockpit. Any water off of the deck runs
+out through drains and hawsers on the side (not seen).
+
+![Cockpit looking forward](
+  {{ 'assets/images/2024/BrisaFS/CpFwdPair.jpg' | relative_url }}
+)
+
 ## Head
 
 In the head you find a tiled counter with small sink, foot pump for seawater,
