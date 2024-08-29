@@ -230,6 +230,18 @@ The answers were, yes and everywhere.
   keep her running well. All maintenance by the current owner, since 2020 is
   logged.
 
+  The front of the motor, with the alternator, belt, water pumps, thermostat,
+  cooling water fill and oil filter are readily accessible from the salon,
+  behind the removable companionway stairs.
+
+  The top, back, and sides of the motor with heat exchanger, raw water
+  filter and intake, oil drain and fill, and transmission, are readily
+  accessible from the hatch in the cabin sole.
+
+![Engine](
+  {{ 'assets/images/2024/BrisaFS/Engine.jpg' | relative_url }}
+)
+
 ![Brisa at anchor at Hampton, Virginia](
   {{ 'assets/images/2024/BrisaFS/06Hampton.jpg' | relative_url }}
 )
