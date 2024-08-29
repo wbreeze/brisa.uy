@@ -244,13 +244,13 @@ The answers were, yes and everywhere.
 
 - What sails does she have?
 
-The sail inventory includes a new mainsail, a staysail, and three foresails.
-The foresails are: a 60% jib, 100% yankee, and 130% genoa. (Those are
-estimated percent of the area of the triangle formed by mast, forestay, and
-deck.) See them in the photos. There is also a storm trysail that runs on a
-separate track from the main. Find an article about [using the trysail off the
-coast of Nicaragua, in the Papagayo.][reposo] The article is written in
-Spanish and has pictures.
+  The sail inventory includes a new mainsail, a staysail, and three foresails.
+  The foresails are: a 60% jib, 100% yankee, and 130% genoa. (Those are
+  estimated percent of the area of the triangle formed by mast, forestay, and
+  deck.) See them in the photos. There is also a storm trysail that runs on a
+  separate track from the main. Find an article about [using the trysail off the
+  coast of Nicaragua, in the Papagayo.][reposo] The article is written in
+  Spanish and has pictures.
 
 [reposo]: https://brisa.uy/2022/03/13/Reposo-del-Alta-Mar.html
 
@@ -273,6 +273,20 @@ Spanish and has pictures.
 ![description](
   {{ 'assets/images/2024/BrisaFS/85CompanyAtSea.JPG' | relative_url }}
 )
+
+- How much headroom is there?
+
+  - At the bottom of the companionway stairs, under the hatch, find eighty-two
+  inches (82").
+
+  - Between the galley and the nav station find seventy-seven inches (77").
+
+  - At the bulkhead forward of the salon find seventy-six inches (76").
+
+  - Inside the head find sixty-nine inches (69").
+
+  - The cabin sole slopes upward going forward of the salon into the pullman
+    berth, leaving sixty-nine (69") in the pullman berth.
 
 ![description](
   {{ 'assets/images/2024/BrisaFS/I20Nav.jpg' | relative_url }}
