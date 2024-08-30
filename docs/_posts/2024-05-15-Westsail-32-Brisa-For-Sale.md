@@ -26,6 +26,10 @@ Valley, California.
   {{ 'assets/images/2024/BrisaFS/I30FwdSalon.jpg' | relative_url }}
 )
 
+![Interior of main salon looking aft](
+  {{ 'assets/images/2024/BrisaFS/I35AftSalon.jpg' | relative_url }}
+)
+
 Dugan launched this Westsail in 1982. She sailed near her birth place for many
 years, then made the bash down to Baja California where she sailed until the
 current owner bought her. That's me.
@@ -102,56 +106,12 @@ The second half of the following video is fun.
   still='2024/02Corrientes/DSC03897.JPG'
 %}
 
+![Nav station, companionway, galley from salon interior, looking aft](
+  {{ 'assets/images/2024/BrisaFS/I20Nav.jpg' | relative_url }}
+)
+
 ![Brisa moored at Grand Cayman](
   {{ 'assets/images/2024/BrisaFS/02Cayman.jpg' | relative_url }}
-)
-
-## Cockpit
-
-The cockpit has a small well that won't swamp the boat. Two one and one-quarter
-inch (1-1/4") drains quickly empty any water that enters.
-The engine throttle control, the control head for the Pelagic tiller pilot
-and Belgin connectors for the TP22 and Pelagic tiller controls are on the
-starboard side of the well. The sole of the cockpit is a full sized hatch
-hinged to port, latched to starboard, and sealed against water entry. The
-hatch opens to provide ample access to the engine, drive train, shaft log
-and seal.
-
-The lazarette to port contains two five pound propane tanks, well secured,
-for the galley stove. The locker is vented to the port side of the hull well
-above the waterline, even heeled on a starboard tack. The aft lazarette has
-ample storage for dock lines, the tiller pilots and etc.
-
-![Cockpit looking aft](
-  {{ 'assets/images/2024/BrisaFS/CpSole.jpg' | relative_url }}
-)
-
-Looking forward, this Wetstail has teak lockers and boards to
-port and starboard of the cockpit that provide storage for items needed
-in the cockpit such as gloves, sail ties and winch handles. The boards
-provide a nice backrest for seating and more importantly prevent water
-running of the deck from entering the cockpit. Any water off of the deck runs
-out through drains and hawsers on the side (not seen).
-
-![Cockpit looking forward](
-  {{ 'assets/images/2024/BrisaFS/CpFwdPair.jpg' | relative_url }}
-)
-
-## Head
-
-In the head you find a tiled counter with small sink, foot pump for seawater,
-mirrored cabinet and an [AirHead][airhead]® composting toilet. There is plenty
-of storage in the head, as there is everywhere. It has a small porthole that
-opens and a freznel skylight.
-
-[airhead]: https://airheadtoilet.com/product/air-head-composting-toilet-complete-unit/
-
-![Context photos of the head](
-  {{ 'assets/images/2024/BrisaFS/HApprox.jpg' | relative_url }}
-)
-
-![Detail photos of the head](
-  {{ 'assets/images/2024/BrisaFS/HDetail.jpg' | relative_url }}
 )
 
 ## Wardrobe and Pullman Berth
@@ -184,6 +144,54 @@ The answers were, yes and everywhere.
 
 ![Looking aft from the forward end of the pullman berth](
   {{ 'assets/images/2024/BrisaFS/PAftView.jpg' | relative_url }}
+)
+
+## Head
+
+In the head you find a tiled counter with small sink, foot pump for seawater,
+mirrored cabinet and an [AirHead][airhead]® composting toilet. There is plenty
+of storage in the head, as there is everywhere. It has a small porthole that
+opens and a freznel skylight.
+
+[airhead]: https://airheadtoilet.com/product/air-head-composting-toilet-complete-unit/
+
+![Context photos of the head](
+  {{ 'assets/images/2024/BrisaFS/HApprox.jpg' | relative_url }}
+)
+
+![Detail photos of the head](
+  {{ 'assets/images/2024/BrisaFS/HDetail.jpg' | relative_url }}
+)
+
+## Cockpit
+
+The cockpit has a small well that won't swamp the boat. Two one and one-quarter
+inch (1-1/4") drains quickly empty any water that enters.
+The engine throttle control, the control head for the Pelagic tiller pilot
+and Belgin connectors for the TP22 and Pelagic tiller controls are on the
+starboard side of the well. The sole of the cockpit is a full sized hatch
+hinged to port, latched to starboard, and sealed against water entry. The
+hatch opens to provide ample access to the engine, drive train, shaft log
+and seal.
+
+The lazarette to port contains two five pound propane tanks, well secured,
+for the galley stove. The locker is vented to the port side of the hull well
+above the waterline, even heeled on a starboard tack. The aft lazarette has
+ample storage for dock lines, the tiller pilots and etc.
+
+![Cockpit looking aft](
+  {{ 'assets/images/2024/BrisaFS/CpSole.jpg' | relative_url }}
+)
+
+Looking forward, this Wetstail has teak lockers and boards to
+port and starboard of the cockpit that provide storage for items needed
+in the cockpit such as gloves, sail ties and winch handles. The boards
+provide a nice backrest for seating and more importantly prevent water
+running of the deck from entering the cockpit. Any water off of the deck runs
+out through drains and hawsers on the side (not seen).
+
+![Cockpit looking forward](
+  {{ 'assets/images/2024/BrisaFS/CpFwdPair.jpg' | relative_url }}
 )
 
 ## FAQ
@@ -330,14 +338,6 @@ The answers were, yes and everywhere.
 
   - The cabin sole slopes upward going forward of the salon into the pullman
     berth, leaving sixty-nine (69") in the pullman berth.
-
-![description](
-  {{ 'assets/images/2024/BrisaFS/I20Nav.jpg' | relative_url }}
-)
-
-![description](
-  {{ 'assets/images/2024/BrisaFS/I35AftSalon.jpg' | relative_url }}
-)
 
 ![description](
   {{ 'assets/images/2024/BrisaFS/I40Stove.JPG' | relative_url }}
