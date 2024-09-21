@@ -38,7 +38,7 @@ Buzzards][buzzards].
   {{ 'assets/images/2024/08Canal/DCL_3993.JPG' | relative_url }}
 )
 
-Al extremo este de la Isla Fisher hay una pista de golf muy exclusiva.
+Al extremo este de la Isla Fishers hay una pista de golf muy exclusiva.
 Sobrevive porque los pudientes aman reunirse allí bien aislado y sin ser
 molestado por la chusma.  Algunos han traído su palacio flotante para
 disfrutar la pista y rozar narices con sus compañeros. De verdad es un yate de
@@ -69,7 +69,7 @@ del velero. Solo sabía que era un velero cuando, al final, me alcanzó.
 
 Decidí que sí, sería una buena idea hacer un sonido en la niebla. Además, es la
 regla. Saqué la bocina de aire y empecé a hacerla sonar cada minuto, o de vez
-en cuando. No sé si servía a algien. Después del pasaje del velero con la
+en cuando. No sé si servía a alguien. Después del pasaje del velero con la
 campana eléctrica escuche una bocina con voz profunda y alta allí al frente, no
 sabía dónde exactamente. Escuché por la radio un aviso de un transbordador
 aproximando el paso donde yo estaba navegando.
