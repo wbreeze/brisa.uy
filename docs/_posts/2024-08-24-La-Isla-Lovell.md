@@ -9,7 +9,7 @@ excerpt: Un sábado hacia fines de agosto encontré a mis hijes en un muelle
 
 Un sábado hacia fines de agosto encontré a mis hijes en un muelle de
 Boston y los traje en paseo con Brisa por la Bahía de Boston. Acá en la bahía
-hay una puñada de islas con restos de fortificaciones de los siglos veinte y
+hay una puñado de islas con restos de fortificaciones de los siglos veinte y
 diecinueve.  Una de ellas islas tiene mi apellido, Isla Lovell. Allí nos
 fuimos.
 
@@ -18,7 +18,7 @@ fuimos.
 )
 
 Fondeamos al lado este de la isla. Nosotros tres en la lanchita
-auxiliar fue divertido aunque peligroso. Todos con chalecos de salvavida.
+auxiliar fue divertido aunque peligroso. Todos con chalecos de salvavidas.
 La lanchita se sentaba bajo en el agua. Sin contratiempos llegamos
 a la playa rocosa.
 
@@ -52,7 +52,7 @@ Antes de volver a la muelle en el centro de Boston, paramos en la [Isla
 Georges][georges] para explorar el Fuerte Warren construido en el siglo
 diecinueve. El fuerte me parezca algo que, en su tiempo, fue de la
 tecnología alta, un puesto de prestigio. De verdad es con condición mucho
-más intacto que los instalaciónes derruidos de hormigón construidas en el
+más intacto que los instalaciones derruidos de hormigón construidas en el
 siglo próximo.
 
 [georges]: https://www.bostonharborislands.org/georges-island/
@@ -68,7 +68,7 @@ sorprendente, nada más.
 
 Para  mi la memoria de la Isla Lovell sería de una visita
 buena y divertida con mis hijes. Así cuando lo pase de vuelta hacia el
-sur, saliendo de Boston, lo diré un saludo amigable con la buena memoría.
+sur, saliendo de Boston, lo diré un saludo amigable con la buena memoria.
 
 ![Carta náutica con la Isla Lovell](
   {{ 'assets/images/2024/08Lovells/IMG_0422.jpeg' | relative_url }}
