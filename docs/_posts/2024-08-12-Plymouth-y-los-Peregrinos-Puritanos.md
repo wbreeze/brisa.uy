@@ -7,7 +7,7 @@ excerpt: En Plymouth hay una roca
 ---
 
 En Plymouth hay una roca. Algunos la respetan como la piedra angular de la
-nación. Los peregrinos que venian allí no fueron los primeros europeos ni los
+nación. Los peregrinos que venían allí no fueron los primeros europeos ni los
 primeros para fundir una presencia permanente europea en el continente que
 convirtiera en los Estados Unidos. Los primeros fundaron el asentamiento de
 [Jamestown][jamestown] en lo que ahora es el estado de Virginia, mucho más al
@@ -45,8 +45,8 @@ después como los Estados Unidos.
 )
 
 En el Pacto del Mayflower escriben, "Habiendo emprendido para la Gloria de
-Dios, y el Avance de la Fé Cristiana." La fé Cristiana de los peregrinos fue
-el [puritanismo][puri]. Esa fé es una fé calvinista muy doctrinal, severo y
+Dios, y el Avance de la Fe Cristiana." La fe Cristiana de los peregrinos fue
+el [puritanismo][puri]. Esa fe es una fe calvinista muy doctrinal, severo y
 conservador.  Lo que sigue, una [gran migración][migra] de puritanos fundará la
 primera iglesia de lo que sale como EEUU.
 
@@ -71,7 +71,7 @@ laica. Fue puritano. Es una nación fundada por [padres peregrinos][padres].
   {{ 'assets/images/2024/08Plymouth/DCL_4104.JPG' | relative_url }}
 )
 
-Pah, empezamos con la roca y nos divirgen hacia los puritanos.
+Pah, empezamos con la roca y nos divergen hacia los puritanos.
 La [roca de Plymouth][roca] fue establecida casi cien años después de la
 fundación del asentimiento de Plymouth. No obstante, emerge como símbolo de la
 colonización inglesa de Nueva Inglaterra y el fundamento del país.
@@ -96,7 +96,7 @@ La gente que viene entra al pórtico clásico y lo mira desde arriba.
 )
 
 La roca. Es la roca de Plymouth. La roca donde pisan los peregrinos fundadores
-de la nación, escapando su persecución para su fé, para que pudieron
+de la nación, escapando su persecución para su fe, para que pudieron
 pensar de modo distinto sobre cómo venerar el Dios Cristiano.
 
 También de interés en el sitio, en Plymouth, hay una reproducción del barco
