@@ -3,7 +3,7 @@ layout: post
 title: La Puerta del Infierno
 date: 2024-10-07
 tags: Nueva_York Navegación
-excerpt: Visito a la ciudád de Nueva York, brevamente, una segunda vez.
+excerpt: Visito a la ciudad de Nueva York, brevemente, una segunda vez.
 ---
 
 Puerta del Infierno es un estrecho de marea en el Río Este de la Ciudad Nueva
@@ -32,7 +32,7 @@ En 1849, un ingeniero francés Benjamin Maillefert,
 cuya especialidad era la voladura submarina, había eliminado algunas de las
 rocas que, junto con la mezcla de mareas, hacían que el tramo fuera tan
 peligroso para navegar.  En la década de 1850 lo hacían
-alrededor del dos por ciento de los buques seguían encallandos.
+alrededor del dos por ciento de los buques seguían encallados.
 
 A finales de la década de 1860, tras la Guerra de Secesión,
 el Congreso se dio cuenta de la importancia militar de contar con vías
@@ -60,7 +60,7 @@ efecto fue inmediato en la disminución de las turbulencias a través del
 estrecho, y de menos accidentes y naufragios.  La limpieza de los escombros de
 la explosión duró cinco años más.
 
-![La Estatua de Libertád](
+![La Estatua de Libertad](
   {{ 'assets/images/2024/10Puerta/DCL_4338.JPG' | relative_url }}
 )
 
@@ -74,16 +74,16 @@ hasta la llegada de la bomba atómica. Dos años más tarde, se planificó
 el dragado de la Puerta del Infierno hasta una profundidad constante de ocho
 metros.
 
-![Transbordadores de la Isla Staten con la Estatua de Libertád](
+![Transbordadores de la Isla Staten con la Estatua de Libertad](
   {{ 'assets/images/2024/10Puerta/DCL_4364.JPG' | relative_url }}
 )
 
-Allí he navegado. Comparto un video de mi visita otoñal a la ciudad.  Es de
+Allí he navegado. Comparto un vídeo de mi visita otoñal a la ciudad.  Es de
 doce minutos con vistas de la Puerta del Infierno, el cede de los Naciones
-Unidos, el Puente Brooklyn, el torre libertád, bajo Manhattan y la estatua de
-libertád entre otras cosas.  El tamaño es de una giga.
+Unidos, el Puente Brooklyn, el torre libertad, bajo Manhattan y la estatua de
+libertad entre otras cosas.  El tamaño es de una giga.
 
-{% include video.html
+{% incluí video.html
   source='2024/PuertaDelInfierno.mp4'
   still='2024/10Puerta/PuertaDelInfierno.jpeg'
 %}
