@@ -83,7 +83,7 @@ doce minutos con vistas de la Puerta del Infierno, el cede de los Naciones
 Unidos, el Puente Brooklyn, el torre libertad, bajo Manhattan y la estatua de
 libertad entre otras cosas.  El tamaño es de una giga.
 
-{% incluí video.html
+{% include video.html
   source='2024/PuertaDelInfierno.mp4'
   still='2024/10Puerta/PuertaDelInfierno.jpeg'
 %}
