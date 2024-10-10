@@ -42,8 +42,8 @@ muy nostálgico. Con ellos:
 )
 
 Fue difícil encontrar un lugar para quedarme con Brisa. Las marinas son
-imposiblemente caras o exclusivas. Los fondeadores sin amarras no tienen
-lugar para aterrizar. La mayoría de los fondeadores están llenos de amarras
+imposiblemente caras o exclusivas. Los fondeaderos sin amarras no tienen
+lugar para aterrizar. La mayoría de los fondeaderos están llenos de amarras
 privadas sin información ninguna cómo alqilarlos, a pesar de estar desocupados.
 
 ![Fondeadero en Winthrop, Massachusetts](
@@ -107,12 +107,12 @@ Mi país ahora es muy regulado. Hay reglas para tantas cosas. Hay reglas del
 país, de los estados, de los distritos, los pueblos y las empresas.
 Intentamos regular toda la vida desde que somos un feto hasta que morimos.
 Regulamos para inspirar, influenciar el comportamiento y
-imponer o ideas morales. Es como encuentro mi país.
+imponer nuestros ideas morales. Es como encuentro mi país.
 
-Si solo pensamos en la libertad ante cualquier regla. Pero no. Pensamos en
-cómo regular con la tiranía de la mayoría (y a veces una minoría adinerada).
-Primero viene la ley, después la libertad. Es la [herencia de los
-puritanos][ply].
+Si solo pensamos en el impocto sobre libertad antes de hacer cualquier regla.
+Pero no. Pensamos en cómo regular con la tiranía de la mayoría (y a veces una
+minoría adinerada).  Primero viene la ley, después la libertad. Es la [herencia
+de los puritanos][ply].
 
 [ply]: {{
   'https://brisa.uy/2024/08/12/Plymouth-y-los-Peregrinos-Puritanos.html' |
@@ -137,14 +137,14 @@ vende latas de cerveza por doce dólares. Tienen una buena selección entre una
 docena de variedades. Nos ponemos en la cola.
 
 Scott pidió una cerveza Narragansett. El vendedor empleado lo saca y
-lo abrió, porque la ley es que el consumo sea en el sitio; no es para llevar
+lo abre, porque la ley es que el consumo sea en el sitio; no es para llevar
 o consumir más tarde. Después de abrir la lata, el vendedor pide identificación,
 para comprobar que Scott tiene más de veintiún años de edad.
 
-Ya les he dicho. Scott no es joven. Viene la pena que Scott no haya llevado
+Ya he dicho. Scott no es joven. Viene la pena que Scott no haya llevado
 identificación ninguna. Yo tampoco lo he llevado. El vendedor tiró la lata
-en la basura y pidió con rencor que nos habriamos escaso. Mi incredulidad fue
-total. "Míralo," dije. Como respuesta dijo, "¿Quieren que me despidan?"
+en la basura y pidió con rencor que nos hacemos escasos. Mi incredulidad fue
+total. "Mírale," dije. Como respuesta dijo, "¿Quieren que me despidan?"
 
 ![Brisa fondeado al lado de la Isla Georges, con horizonte de la ciudad Boston](
   {{ 'assets/images/2024/08Boston/DCL_4178.JPG' | relative_url }}
@@ -158,7 +158,7 @@ maldiciones.
 
 En Starbucks, hacen sus pedidos con la aplicación móvil. Corren dentro la
 tienda para llevar la bebida cafeinada y dulce, generalmente con hielo. No
-paren para disfrutarlo.
+paren para disfrutarlo. Siguen corriendo.
 
 ![Asientos vacios al lado el acuario en Boston](
   {{ 'assets/images/2024/08Boston/IMG_20240823_084840_555.jpg' | relative_url }}
