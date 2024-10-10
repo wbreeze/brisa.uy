@@ -14,19 +14,19 @@ excerpt: Pasé casi seis semanas visitando en Boston.
   {{ 'assets/images/2024/08Boston/DCL_4134.JPG' | relative_url }}
 )
 
-En Boston principalmente visité con mis hijes. Fue dulce. Ya me siento
+En Boston principalmente visité a mis hijes. Fue dulce. Ya me siento
 muy nostálgico. Con ellos:
 
 - cenabamos juntos frecuentemente
 - navegamos de día a [la Isla Lovell][lovell]
 - jugábamos a juegos de mesa, especialmente [Root][root] y Eschaton
-- visitamos al reproducción del [Motín del Té][tea] en su sitio
+- visitamos la reproducción del [Motín del Té][tea] en su sitio
 - fuimos al producción de Blue Man Group
 - caminamos en [Boston Common][common], los jardines y la zona de Back Bay
 - visitamos al [acuario][neaq]
 - visitamos al [Museo del Arte][mfa] donde tenían unas cuadras de Dali
 - fuimos a mirar un producción de [la músical Shrek][shrek]
-- miramos peliculas, especialmente por el [cumpleaños de los Baggins][hobbit]
+- miramos películas, especialmente por el [cumpleaños de los Baggins][hobbit]
 
 [lovell]: {{ '/2024/08/24/La-Isla-Lovell.html' | relative_url }}
 [root]: https://en.wikipedia.org/wiki/Root_(board_game)
@@ -41,20 +41,20 @@ muy nostálgico. Con ellos:
   {{ 'assets/images/2024/08Boston/DCL_4139.JPG' | relative_url }}
 )
 
-Fue dificíl encontrar un lugar para quedarme con Brisa. Las marinas son
-imposiblemente caros o exclusivos. Los fondeadores sin amarras no tienen
-lugar para aterrizar. La mayoría de los fondeadores son lleno de amarras
-privadas sin información ninguna cómo alqilerlos, a pesar de estar desocupadas.
+Fue difícil encontrar un lugar para quedarme con Brisa. Las marinas son
+imposiblemente caras o exclusivas. Los fondeadores sin amarras no tienen
+lugar para aterrizar. La mayoría de los fondeadores están llenos de amarras
+privadas sin información ninguna cómo alqilarlos, a pesar de estar desocupados.
 
 ![Fondeadero en Winthrop, Massachusetts](
   {{ 'assets/images/2024/08Boston/DCL_4158.JPG' | relative_url }}
 )
 
 Encontré, con muchas llamadas por teléfono, algunos clubes de navegación
-cuyas amarras alquilen solo por corto plazo, unos días. Lo agradecí.
+cuyas amarras alquilan solo por corto plazo, unos días. Lo agradecí.
 Visité a los clubes de Savin Hill (con la llegada) y de Hingham (con la
 despedida). Entre los dos, al lado del aeropuerto Logan encontré el pueblo de
-Winthrop, que otorga una amarra con alquilo por un mes.
+Winthrop, que otorga una amarra con alquiler por un mes.
 
 ![Velero pequeño viste de la Bahía Dorchester](
   {{ 'assets/images/2024/08Boston/DCL_4149.JPG' | relative_url }}
@@ -68,12 +68,12 @@ Winthrop, que otorga una amarra con alquilo por un mes.
   {{ 'assets/images/2024/08Boston/IMG_20240819_110925_502.jpg' | relative_url }}
 )
 
-De mi mismo visité a la [biblioteca de John F. Kennedy][jfk].
-Eso vale mucho. Demuestra un periodo corto de politica liberál, amistoso y
-inclusivo. También desteca la empieza de la guerra fría, que sale con actividades
-vergonzosos de los agencias clandestinas y las politicas hacia los países
-vecinos de los Estados Unidos en el caribe, america central y sudamerica.
-No es decir de [la burla hicimos en Vietnam][viet]. Yo fue niño durante
+De mi misma visité la [biblioteca de John F. Kennedy][jfk].
+Eso vale mucho. Demuestra un periodo corto de política liberál, amistoso e
+inclusivo. También destaca la empieza de la guerra fría, que sale con actividades
+vergonzosas de los agencias clandestinas y las políticas hacia los países
+vecinos de los Estados Unidos en el caribe, américa central y sudamérica.
+No es decir de [la burla hicimos en Vietnam][viet]. Yo fui niño durante
 ese periodo.
 
 [jfk]: https://es.wikipedia.org/wiki/Biblioteca_y_Museo_Presidencial_de_John_F._Kennedy
@@ -83,7 +83,7 @@ ese periodo.
   {{ 'assets/images/2024/08Boston/IMG_20240821_144222_622.jpg' | relative_url }}
 )
 
-Como niño mi conciencia del mundo fuera fue concentrado en el projecto Apollo
+Como niño mi conciencia del mundo fuera fue concentrada en el proyecto Apollo
 para llegar a la luna y explorar su superficie. El presidente Kennedy lo
 inspiró.
 
@@ -103,15 +103,15 @@ sus padres enterrados acá. ¡Tanto tiempo equivocado!)
   {{ 'assets/images/2024/08Boston/IMG_20240827_145442_332.jpg' | relative_url }}
 )
 
-Mi país ahora es muy regulado. Hay reglas para tantas cosas. Hay regulas del
+Mi país ahora es muy regulado. Hay reglas para tantas cosas. Hay reglas del
 país, de los estados, de los distritos, los pueblos y las empresas.
 Intentamos regular toda la vida desde que somos un feto hasta que morimos.
-Regulamos para inspirar, influencir el comportamento y
+Regulamos para inspirar, influenciar el comportamiento y
 imponer o ideas morales. Es como encuentro mi país.
 
 Si solo pensamos en la libertad ante cualquier regla. Pero no. Pensamos en
-como regular con la tyranía de la mayoría (y a veces una minoridad adinerada).
-Primeramente viene la ley, después la libertad. Es la [herencia de los
+cómo regular con la tiranía de la mayoría (y a veces una minoría adinerada).
+Primero viene la ley, después la libertad. Es la [herencia de los
 puritanos][ply].
 
 [ply]: {{
@@ -119,13 +119,13 @@ puritanos][ply].
   relative_url
 }}
 
-El día diez de setiembre fuí con mi amigo viejo, Scott al famoso estadio
-de beisbol, [Fenway Park][fenway]. Mi amigo tiene sesenta y cinco años.
-Va a jubilar en unos meses. No se parece anciano y claramente no es joven.
+El día diez de septiembre fuí con mi amigo viejo, Scott al famoso estadio
+de béisbol, [Fenway Park][fenway]. Mi amigo tiene sesenta y cinco años.
+Se va a jubilar en unos meses. No parece anciano y claramente no es joven.
 
 [fenway]: https://es.wikipedia.org/wiki/Fenway_Park
 
-En el estadio, el quería tomar una cerveza. Dijo, "¿Qué te parece que
+En el estadio, él quería tomar una cerveza. Dijo, "¿Qué te parece que
 tomamos una cerveza acá en el parque Fenway?" Bueno, dije yo, vamos.
 
 ![Brisa en la Bahía de Hingham](
@@ -133,31 +133,31 @@ tomamos una cerveza acá en el parque Fenway?" Bueno, dije yo, vamos.
 )
 
 En el pasillo bajo los asientos de la tribuna encontramos un puesto que
-vende latas de cerveza por doce dólares. Tienen un buen selección entre una
-docena de variadades. Nos ponemos en la cola.
+vende latas de cerveza por doce dólares. Tienen una buena selección entre una
+docena de variedades. Nos ponemos en la cola.
 
 Scott pidió una cerveza Narragansett. El vendedor empleado lo saca y
 lo abrió, porque la ley es que el consumo sea en el sitio; no es para llevar
 o consumir más tarde. Después de abrir la lata, el vendedor pide identificación,
-para comprimir que Scott tiene más de veintiuno años de edád.
+para comprobar que Scott tiene más de veintiún años de edad.
 
-Ya les he dicho. Scott no es joven. Viene la pena que Scott no he llevado
-identificación ninguna. Yo tampoco no lo he llevado. El vendedor tiré la lata
-en la basura y pidió con rencor que nos habriamos escaso. Mi encrudulidad fue
-totál. "Mirale," dije. Como respuesto dijo, "¿Quieren que me despiden?"
+Ya les he dicho. Scott no es joven. Viene la pena que Scott no haya llevado
+identificación ninguna. Yo tampoco lo he llevado. El vendedor tiró la lata
+en la basura y pidió con rencor que nos habriamos escaso. Mi incredulidad fue
+total. "Míralo," dije. Como respuesta dijo, "¿Quieren que me despidan?"
 
-![Brisa fondeado al lado de la Isla Georges, con horizonte de la ciudad  Boston](
+![Brisa fondeado al lado de la Isla Georges, con horizonte de la ciudad Boston](
   {{ 'assets/images/2024/08Boston/DCL_4178.JPG' | relative_url }}
 )
 
 Si puedo generalizar, y lo voy hacer, la gente de Boston, de Massachusetts,
-son amarga y irritable. Nunca había oído, hasta que aproxima a Massachusetts,
-tantas palabrotas por el canal 16 del VHF. Son como Jesu Cristo sobre el
-cruz, excepto que, en vez de pardonar sus compatriotos, hacen llover
+es amarga e irritable. Nunca había oído, hasta que se aproximaba a
+Massachusetts, tantas palabrotas por el canal 16 del VHF. Son como Jesucristo
+sobre la cruz, excepto que, en vez de perdonar sus compatriotas, hacen llover
 maldiciones.
 
-En Starbucks, hacen sus pedidos con la aplicación mobil. Corren dentro la
-tienda para llevar el bebido cafeinato y dulce, generalmente con hielo. No
+En Starbucks, hacen sus pedidos con la aplicación móvil. Corren dentro la
+tienda para llevar la bebida cafeinada y dulce, generalmente con hielo. No
 paren para disfrutarlo.
 
 ![Asientos vacios al lado el acuario en Boston](
