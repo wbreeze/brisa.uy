@@ -30,7 +30,7 @@ Río Elk al cabo de la Bahía Chesapeake.
   {{ 'assets/images/2024/10Baltimore/IMG_20241014_071913_023.jpg' | relative_url }}
 )
 
-Esquivé viento de veinte nudos con rafagas a treinta en el Río Elk,
+Esquivé viento de veinte nudos con ráfagas a treinta en el Río Elk,
 fondeado al abrigo de una colina. Tener la tierra sotavento es mágico,
 especialmente si es tierra alta. El mar era liso.  Sólo sentía, de vez en
 cuando, un pequeño empujón del viento cuando bajaba la colina.
@@ -61,7 +61,7 @@ Mi receta de cacao caliente:
 - una pizca de chile en polvo
 - unas gotas del extracto de vainilla
 
-Mezcla con dos cucharradas de agua para formar una pasta. Añada 250 ml de agua
+Mezcla con dos cucharadas de agua para formar una pasta. Añada 250 ml de agua
 caliente. Removerlo y disfrutarlo.
 
 ![description](
@@ -108,7 +108,7 @@ himno. Fue un poema, no más.
 )
 
 Frecuentemente soy muy crítico de mi país. Hay muchas maravillas.
-Hay cosas en que sentir orgullo. En el video comparto algunas del
+Hay cosas en que sentir orgullo. En el vídeo comparto algunas del
 temporada de todos santos, lo que llamamos "halloween."
 Es un minuto y cuarto de larga con tamaño de cincuenta megas.
 
