@@ -95,7 +95,7 @@ los restos destrozados del puente y abrió completamente la navegación.
 )
 
 Francis Scott Key es el abogado que escribió las letras para el himno
-de los Estados Unidos. Lo hice en este lugar cuál miró por distancia un
+de los Estados Unidos. Lo hizo en este lugar cuál miró por distancia un
 asalto de los británicos al Fuerte McHenry. No fue su intento escribir el
 himno. Fue un poema, no más.
 
@@ -109,7 +109,7 @@ himno. Fue un poema, no más.
 
 Frecuentemente soy muy crítico de mi país. Hay muchas maravillas.
 Hay cosas en que sentir orgullo. En el video comparto algunas del
-templado de todos santos, lo que llamamos "halloween."
+temporada de todos santos, lo que llamamos "halloween."
 Es un minuto y cuarto de larga con tamaño de cincuenta megas.
 
 {% include video.html
