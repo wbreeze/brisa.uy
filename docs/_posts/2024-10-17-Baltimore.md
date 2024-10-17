@@ -10,23 +10,23 @@ Pasé desde la ciudad de Nueva York y Atlantic City a la ciudad de Baltimore
 por el puerto Cape May, la Bahía Delaware, el canal entre el Río Delaware y el
 Río Elk al cabo de la Bahía Chesapeake.
 
-![description](
+![Los parques de atracciones de Wildwoods desde el mar](
   {{ 'assets/images/2024/10Baltimore/DCL_4409.JPG' | relative_url }}
 )
 
-![description](
+![Fondeadero en Cape May](
   {{ 'assets/images/2024/10Baltimore/DCL_4414.JPG' | relative_url }}
 )
 
-![description](
+![Faro del Banco Miah Maull en la Bahía de Delaware](
   {{ 'assets/images/2024/10Baltimore/DCL_4422.JPG' | relative_url }}
 )
 
-![description](
+![central nuclear de Salem](
   {{ 'assets/images/2024/10Baltimore/DCL_4429.JPG' | relative_url }}
 )
 
-![description](
+![Fondeadero Chesapeake City del Canal C&D con puente Harry Jackson](
   {{ 'assets/images/2024/10Baltimore/IMG_20241014_071913_023.jpg' | relative_url }}
 )
 
@@ -35,7 +35,7 @@ fondeado al abrigo de una colina. Tener la tierra sotavento es mágico,
 especialmente si es tierra alta. El mar era liso.  Sólo sentía, de vez en
 cuando, un pequeño empujón del viento cuando bajaba la colina.
 
-![description](
+![una barcaza adelanta a una goleta en el río Elk](
   {{ 'assets/images/2024/10Baltimore/Arrollando.jpg' | relative_url }}
 )
 
@@ -49,7 +49,7 @@ Sería lindo si fuera quince grados más hacia la popa. No voy a bordejear.
 Tengo un destino. Necesito ir veinticinco millas náuticas hasta que me
 descanso.
 
-![description](
+![viñedo y salón de bodas al aire libre](
   {{ 'assets/images/2024/10Baltimore/DCL_4440.JPG' | relative_url }}
 )
 
@@ -64,7 +64,7 @@ Mi receta de cacao caliente:
 Mezcla con dos cucharadas de agua para formar una pasta. Añada 250 ml de agua
 caliente. Removerlo y disfrutarlo.
 
-![description](
+![la luna llena sobre el Arroyo Nabb](
   {{ 'assets/images/2024/10Baltimore/DCL_4455.JPG' | relative_url }}
 )
 
@@ -78,19 +78,20 @@ del agua y sobrevivió.
 Yo pasé por allí con Brisa.  En sólo tres meses el estado retiró por completo
 los restos destrozados del puente y abrió completamente la navegación.
 
-![description](
+![Restos del puente Francis Scott Key desde el sudeste](
   {{ 'assets/images/2024/10Baltimore/DCL_4450.jpeg' | relative_url }}
 )
 
-![description](
+![Restos del puente Francis Scott Key desde al lado](
   {{ 'assets/images/2024/10Baltimore/DCL_4459.JPG' | relative_url }}
 )
 
-![description](
+![Restos del puente Francis Scott Key desde el noroeste, con buques de transporte de automóviles](
   {{ 'assets/images/2024/10Baltimore/DCL_4464.JPG' | relative_url }}
 )
 
-![description](
+![El puente Francis Scott Key con la bandera de trece estrellas,
+  foto por Dennis Cloutier](
   {{ 'assets/images/2024/10Baltimore/IMG_20241015_191903.jpg' | relative_url }}
 )
 
@@ -99,11 +100,11 @@ de los Estados Unidos. Lo hizo en este lugar cuál miró por distancia un
 asalto de los británicos al Fuerte McHenry. No fue su intento escribir el
 himno. Fue un poema, no más.
 
-![description](
+![Faro en el puerto interior de Baltimore](
   {{ 'assets/images/2024/10Baltimore/DCL_4465.JPG' | relative_url }}
 )
 
-![description](
+![El Fuerte McHenry](
   {{ 'assets/images/2024/10Baltimore/DCL_4472.JPG' | relative_url }}
 )
 
