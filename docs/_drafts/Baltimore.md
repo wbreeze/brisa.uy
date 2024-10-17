@@ -114,6 +114,6 @@ Es uno y cuarto minutos de larga con tamaño de cincuenta megas.
 
 {% include video.html
   source='2024/TodosSantos.mp4'
-  still='2024/10Baltimore/TodosSantos.png'
+  still='2024/10Baltimore/TodosSantos.jpeg'
 %}
 
