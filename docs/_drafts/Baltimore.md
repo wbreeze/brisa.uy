@@ -32,7 +32,7 @@ Río Elk al cabo de la Bahía Chesapeake.
 
 Esquivé viento de veinte nudos con rafagas a treinta en el Río Elk,
 fondeado al abrigo de una colina. Tener la tierra sotavento es mágico,
-especialmente si es tierra alta. El mar fue liso.  Sólo sentí, de vez en
+especialmente si es tierra alta. El mar era liso.  Sólo sentía, de vez en
 cuando, un pequeño empujón del viento cuando bajaba la colina.
 
 ![description](
@@ -42,11 +42,11 @@ cuando, un pequeño empujón del viento cuando bajaba la colina.
 Desde allí, el próximo día navegué el tramo de cuarenta millas náuticas a
 Baltimore.
 
-Yendo a Baltimore hay frío. Estoy tomando mucho de cacao caliente.
-En el momento el viento está ceñida a estribor. Está demasiado cerca a la proa
+Yendo a Baltimore hace frío. Estoy tomando mucho cacao caliente.
+En el momento el viento está de ceñida a estribor. Está demasiado cerca a la proa
 cuando me pongo en el rumbo directo. Por eso, me voy con Scotty, el motor.
 Sería lindo si fuera quince grados más hacia la popa. No voy a bordejear.
-Tengo un destino. Necesito irme veinticinco millas naúticas hasta que me
+Tengo un destino. Necesito ir veinticinco millas náuticas hasta que me
 descanso.
 
 ![description](
@@ -55,28 +55,28 @@ descanso.
 
 Mi receta de cacao caliente:
 
-- dos cucharas de cacao
-- una cuchara de azúcar mascabado.
+- dos cucharadas de cacao
+- una cuchara de azúcar mascabado
 - una pizca de sal
-- una pizca de chile en polvor
-- unas gotas del extrato de vanilla.
+- una pizca de chile en polvo
+- unas gotas del extracto de vainilla
 
-Mezcla con dos cucharras del agua para formar una pasta. Añadir 250ml del agua
-caliente. Removerlo y disfurtarlo.
+Mezcla con dos cucharradas de agua para formar una pasta. Añada 250 ml de agua
+caliente. Removerlo y disfrutarlo.
 
 ![description](
   {{ 'assets/images/2024/10Baltimore/DCL_4455.JPG' | relative_url }}
 )
 
 El 26 de marzo un barco portacontenedores chocó con un soporte y derrumbó el
-tramo del puente Francis Scott Key, el pente de entrada al puerto Baltimore.
+tramo del puente Francis Scott Key, el puente de entrada al puerto de Baltimore.
 Un pequeño equipo de construcción que reparaba los baches en el puente cayeron
 casi sesenta metros al helado río Patapsco. Seis de ellos, inmigrantes de
-Mexico, Honduras y San Salvador fallecieron. Un séptimo trabajador fue sacado
+México, Honduras y San Salvador fallecieron. Un séptimo trabajador fue sacado
 del agua y sobrevivió.
 
 Yo pasé por allí con Brisa.  En sólo tres meses el estado retiró por completo
-los restos destruidos del puente y abrió completamente la navegación.
+los restos destrozados del puente y abrió completamente la navegación.
 
 ![description](
   {{ 'assets/images/2024/10Baltimore/DCL_4450.jpeg' | relative_url }}
@@ -94,10 +94,10 @@ los restos destruidos del puente y abrió completamente la navegación.
   {{ 'assets/images/2024/10Baltimore/IMG_20241015_191903.jpg' | relative_url }}
 )
 
-Francis Scott Key es el abogado que escritó las letras para el hymno
-de los Estados Unidos. Lo hize en este lugar cuál miró por distancia un
+Francis Scott Key es el abogado que escribió las letras para el himno
+de los Estados Unidos. Lo hice en este lugar cuál miró por distancia un
 asalto de los británicos al Fuerte McHenry. No fue su intento escribir el
-hymno. Fue una poema, no más.
+himno. Fue un poema, no más.
 
 ![description](
   {{ 'assets/images/2024/10Baltimore/DCL_4465.JPG' | relative_url }}
@@ -107,10 +107,10 @@ hymno. Fue una poema, no más.
   {{ 'assets/images/2024/10Baltimore/DCL_4472.JPG' | relative_url }}
 )
 
-Frecuentemente estoy muy critico de mi país. Hay muchas maravillas.
-Hay cosas en que sentir orgullo. En el video comporto algunas del
+Frecuentemente soy muy crítico de mi país. Hay muchas maravillas.
+Hay cosas en que sentir orgullo. En el video comparto algunas del
 templado de todos santos, lo que llamamos "halloween."
-Es uno y cuarto minutos de larga con tamaño de cincuenta megas.
+Es un minuto y cuarto de larga con tamaño de cincuenta megas.
 
 {% include video.html
   source='2024/TodosSantos.mp4'
