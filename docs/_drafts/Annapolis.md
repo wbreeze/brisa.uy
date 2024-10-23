@@ -6,7 +6,7 @@ tags: puente navegación Chesapeake
 excerpt: Paso por el gran puente de la Bahía Chesapeake
 ---
 
-El 22 de octubre, tiré las lineas y me puse libre de la marina en Baltimore.
+El 22 de octubre, tiré las lineas y me puse libre de la marina deportiva en Baltimore.
 Saliendo del puerto, pasé por el [fuerte McHenry de nuevo y los restos del
 puente Francis Scott Key][baltimore]. Los dejé por la popa para salir de la
 embocadura del Río Patapsco, para entrar a la Bahía Chesapeake.
@@ -18,7 +18,7 @@ embocadura del Río Patapsco, para entrar a la Bahía Chesapeake.
 )
 
 Para el viento tengo calma total. A mi me gusta ir con el motor sobre el mar
-liso y tranquilo. Me gusta ver los reflejos en el agua.  Cuando salía por el
+liso y tranquilo. Me gusta ver los reflejos en el agua.  Cuando salía bajo el
 puente me alcanzó un gran buque de transporte de autos.  A pesar de su tamaño y
 velocidad, se desliza por el agua casi sin dejar estela.
 
@@ -73,10 +73,10 @@ Yo y mis hijes vivíamos en Nueva York. Así pasábamos en la ruta por el puente
 Con la llegada, significa que estábamos cerca del fin del viaje. Con la
 salida fue el inicio. Lo cruzamos y estábamos en camino.
 
-Durante los veranos está congelada con el tránsito el viernes por el este
+Durante los veranos está saturado con el tránsito el viernes yendo por el este
 y el domingo por el oeste. Es la puerta hacía las ciudades balnearias y
 turísticas en la península entre la Bahía y el océano Atlántico.  También está
-congelado con la peregrinación cada Noviembre para el Día de Acción de Gracias
+saturado con la peregrinación cada Noviembre para el Día de Acción de Gracias
 y cada Diciembre para la Navidad.
 
 ![Puente de la Bahía Chesapeake hacia el este desde abajo](
@@ -101,8 +101,8 @@ que estoy cerca con el destino, Annapolis.
 Annapolis en Maryland, como Newport en Rhode Island es un centro de actividad
 náutica recreativa, especialmente de veleros. Estoy con dos otros en el rumbo
 entre el puente y los fondeaderos de Annapolis. Ellos, por supuesto, son los
-más rápidos. Una me alcanza, llenando las velas desplegadas con
-el impulso de todo motor. El viento es casi ausente. Lo que hay esta por la
+más rápidos. Una me alcanza, llenando las velas desplegadas todo con
+el impulso de motor. El viento es casi ausente. Lo que hay esta por la
 proa.
 
 ![Veleros, botes y buques en la Bahía Chesapeake frente Annapolis](
