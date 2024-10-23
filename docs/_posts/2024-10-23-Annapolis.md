@@ -33,7 +33,7 @@ metros de altura bajo el mar.  Sólo la cabeza está por encima de la superficie
 del agua. Tiene tres pisos encabezados por la luz. A mi me gusta [el
 diseño][faro2]. Sería lindo vivir en una casa así. Hay una escalera espiral
 dentro. Espero que sea igual con la escalera en [la casa Rivera][rivera] en
-calle Rincón entre Misiones y Zabala en Ciudäd Vieja de Montevideo.
+calle Rincón entre Misiones y Zabala en Ciudad Vieja de Montevideo.
 
 [faro]: https://en.wikipedia.org/wiki/Baltimore_Harbor_Light
 [faro2]: https://www.baltimorelighthouse.org/
@@ -43,7 +43,7 @@ calle Rincón entre Misiones y Zabala en Ciudäd Vieja de Montevideo.
   {{ 'assets/images/2024/10Annapolis/DCL_4485.JPG' | relative_url }}
 )
 
-![Escalera epiral en Casa Rivera, Ciudád Vieja, Montevideo](
+![Escalera espiral en Casa Rivera, Ciudad Vieja, Montevideo](
   {{ 'assets/images/2024/10Annapolis/IMG_0168.jpeg' | relative_url }}
 )
 
@@ -59,11 +59,11 @@ principal, es de más de cien metros.
   {{ 'assets/images/2024/10Annapolis/DCL_4487.JPG' | relative_url }}
 )
 
-![Puente de la Bahía Chesapeake porción orientál, desde el norte](
+![Puente de la Bahía Chesapeake porción oriental, desde el norte](
   {{ 'assets/images/2024/10Annapolis/DCL_4490.JPG' | relative_url }}
 )
 
-![Puente de la Bahía Chesapeake porción occidentál, desde el norte](
+![Puente de la Bahía Chesapeake porción occidental, desde el norte](
   {{ 'assets/images/2024/10Annapolis/DCL_4492.JPG' | relative_url }}
 )
 
