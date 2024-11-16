@@ -2,13 +2,13 @@
 layout: post
 title: Canal Intracostero Atlántico
 date: 2024-11-14
-tags: migración ICW
+tags: ICW
 excerpt: Junto con la micración hacia el sur. Llego al campamiento del invierno
   acá en el hemisfero norte.
 ---
 
-Después de salir de Annapolis, empezcé sentir parte de la gran migracion
-hacia el sur. Llega el invierno en el hemisfero norte. Todos los pajaros
+Después de salir de Annapolis, empecé a sentir parte de la gran migración
+hacia el sur. Llega el invierno en el hemisferio norte. Todos los pájaros
 vuelan, vuelan hacia el sur, hacia el sol, hacia el fuego, esquivando el hielo,
 la nieve, los días helados.
 
@@ -16,12 +16,12 @@ la nieve, los días helados.
   {{ 'assets/images/2024/11ICW/DCL_4548.JPG' | relative_url }}
 )
 
-¿Dónde se van? Algunos a Florida. Lo demás, a las islas Bahamas.
-¿Y yo? Me voy a Carolina del Norte. Voy a defirir la navegación de las
+¿Dónde se van? Algunos a Florida. Lo demás a las islas Bahamas.
+¿Y yo? Me voy a Carolina del Norte. Voy a postergar la navegación a las
 Bahamas, de los Turcos y Cacaos, de las islas Virgen Estadounidenses y
 Britanicos, de todo eso. He tomado la cena. Dejo los dulces y me quedo en el
 lindo astillero McCotter para hacer mejoras. Disciplinado, porque ya he
-postergado tanto.
+postergado tanto las mejoras para el velero.
 
 ![Lancha navegando hacia el sur](
   {{ 'assets/images/2024/11ICW/DCL_4562.JPG' | relative_url }}
@@ -32,7 +32,9 @@ postergado tanto.
 )
 
 Me siento feliz. Tanto por el cambio en la rutina. Más por la promesa, el
-porvenir de viaje a Uruguay en avión. Allí hay verano.
+porvenir de viaje a Uruguay en avión. Allí hay verano. Hay amigos. Hay
+cafeterías, milanesas, tarta de puerro. Fútbol. Carnaval. Teatro.
+Cinema.  Creatividad. Lo Rambla.
 
 ![Nieble de la mañana, Bahía Chesapeake](
   {{ 'assets/images/2024/11ICW/DCL_4559.JPG' | relative_url }}
@@ -50,10 +52,11 @@ porvenir de viaje a Uruguay en avión. Allí hay verano.
   {{ 'assets/images/2024/11ICW/DCL_4573.JPG' | relative_url }}
 )
 
-He navegado desde Annapolis por algunos fondeaderos en el Chesapeake, al
+He navegado desde Annapolis con algunos noches fondeadedos en caletas varias
+del Chesapeake, al
 gran puerto de Norfolk donde construyen los barcos de guerra naval.
 Desde Norfolk navegué por el Canal Great Bridge a Albemarle Sound,
-más conocido como el Corte de Virginia. Paré en Great Bridge para mirar
+más conocido como la Corte de Virginia. Paré en Great Bridge para mirar
 el desfile de barcos pasando hacia el sur, como yo.
 
 ![Esclusa del canal Great Bridge al Río Albemarle en Virginia](
@@ -72,10 +75,10 @@ el desfile de barcos pasando hacia el sur, como yo.
   {{ 'assets/images/2024/11ICW/DCL_4630.JPG' | relative_url }}
 )
 
-Desde el Corte, pasé por Currituck Sound, Coinjock (Donde recibí los
-resultados del selección estadounidense. Es el Donald.), Albemarle Sound,
-el Río Alligator, el Canal Alligator a Pungo, el Río Pungo y al fin el Río
-Pamlico al astillero McCotter.
+Desde la Corte, pasé por Currituck Sound, Coinjock, Albemarle Sound, el Río
+Alligator, el Canal Alligator a Pungo, el Río Pungo y al fin el Río Pamlico al
+astillero McCotter.  (En Coinjock recibí los resultados de la selección
+estadounidense. Es el señor Donald.)
 
 ![Fondeadero Blackwater Creek a lo alto del Currituck Sound](
   {{ 'assets/images/2024/11ICW/DCL_4642.JPG' | relative_url }}
@@ -101,8 +104,8 @@ Pamlico al astillero McCotter.
   {{ 'assets/images/2024/11ICW/DCL_4685.JPG' | relative_url }}
 )
 
-He navegado este año desde la Isla Gran Cayman a Boston, de Boston la vuelta
-a Carolina del Norte. Es aproximadamente tres mil siete cientos (3.700) millas
-nauticas.  Empeczé el año en Grand Cayman. Espero empezar la próxima en
+He navegado este año desde la Isla Gran Cayman a Boston, de Boston devolví
+a Carolina del Norte. Es aproximadamente tres mil setecientos (3.700) millas
+náuticas.  Empecé este año en Grand Cayman. Espero empezar la próxima en
 Uruguay.
 
