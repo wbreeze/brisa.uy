@@ -109,3 +109,10 @@ a Carolina del Norte. Es aproximadamente tres mil setecientos (3.700) millas
 náuticas.  Empecé este año en Grand Cayman. Espero empezar la próxima en
 Uruguay.
 
+{% include video.html
+  source='2024/AguaPlacido.mp4'
+  still='2024/11ICW/DCL_4691.JPG'
+%}
+
+El video dura dos minutos. El tamaño del archivo es 180 Mb.
+
