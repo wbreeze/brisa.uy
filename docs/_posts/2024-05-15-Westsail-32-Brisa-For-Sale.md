@@ -3,7 +3,8 @@ layout: post
 title: Westsail 32 Brisa For Sale
 date: 2024-05-15
 lang: en
-tags: sailing for_sale
+tags: navegación
+nolist: true
 excerpt: Annuncio de la venta de Brisa, con fotos y vinculos para videos
 ---
 
