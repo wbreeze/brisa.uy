@@ -61,8 +61,9 @@ No obstante el artículo seis de la [Constitución de los Estados
 Unidos][constitución], que indica que no se requerirá nunca, ninguna prueba o
 requisito religioso para acceder a cualquier oficina o dependencia pública
 dependiente de los Estados Unidos, ya había una religión fuerte compartido
-por la mayoría de los habitantes. Es decir que la formación de EEUU no fue
+por los fundadores. Es decir que la formación de EEUU no fue
 laica. Fue puritano. Es una nación fundada por [padres peregrinos][padres].
+Los EEUU tiene una vena profunda de creencias cristianas fundamentalistas.
 
 [constitución]: https://es.wikipedia.org/wiki/Constituci%C3%B3n_de_los_Estados_Unidos
 [padres]: https://es.wikipedia.org/wiki/Padres_peregrinos
@@ -86,8 +87,8 @@ La roca de granito, o lo que queda-- un tercer de la parte superior --ahora
 está encerrado en un pórtico dórico romano e inscrito con el año en que
 llegan los peregrinos del barco Mayflower en el cabo ahora conocido
 como Cabo Cod. Está encerrado como un lobo marino en un zoo, o quizá su
-jaula es más pequeña debido a que la roca no se mueve. La roca mira por unas
-barras de hierro hacia la playa y el mar. Está lindo la habitación que
+jaula es más pequeña debido a que la roca no se mueve. La roca mira por
+barrotes de hierro hacia la playa y el mar. Está lindo la habitación que
 han construido para ello. Está situado de forma natural sobre la arena.
 La gente que viene entra al pórtico clásico y lo mira desde arriba.
 
