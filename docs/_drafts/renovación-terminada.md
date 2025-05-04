@@ -2,14 +2,11 @@
 layout: post
 title: Renovación Terminada
 date: 2025-05-04
-tags:
-excerpt:
-link_note: "[text for internal link]({{ '/2021/11/15/Sara-M.html' | relative_url }})"
-video_note: "{% include video.html source='2022/CorrientesDos.mp4' still='2022/CostaRica/CorrientesUno.png' %}"
-audio_note: "{% include audio.html source='/assets/audio/2021/Cantante.m4a' %}"
+tags: mantenimiento mástil McCotters
+excerpt: La renovación del mástil está terminada.
 ---
 
-La renovación del mástil está terminada. ha llevado tanto tiempo que es difícil
+La renovación del mástil está terminada. Ha llevado tanto tiempo que es difícil
 recordar cómo estaba antes de empezar a trabajar. Aquí hay algunas fotos del
 antes y el después.
 
