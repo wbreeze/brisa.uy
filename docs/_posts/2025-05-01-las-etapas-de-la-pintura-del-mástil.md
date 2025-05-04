@@ -43,7 +43,7 @@ pintar fue con lija de grano 400.
 
 [pettit]: https://www.pettitpaint.com/products/primers/below-the-waterline/pettit-protect/
 
-![description](
+![Mástil con la pintura rojo caramelo](
   {{ 'assets/images/2025/05Etapas/IMG_0270.jpeg' | relative_url }}
 )
 
@@ -54,7 +54,7 @@ docientos dólares ($200) más comprar pintura de otro color, un rojo más inten
 
 [awlcraft]: https://www.awlgrip.com/north-america/products/finishes/awlcraft-3000
 
-![description](
+![Mástil con la pintura terminada](
   {{ 'assets/images/2025/05Etapas/IMG_0275.jpeg' | relative_url }}
 )
 
