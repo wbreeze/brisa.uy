@@ -19,7 +19,7 @@ if [[ -z "${ymd}" ]]; then
   exit 3
 fi
 post_dir="./docs/_posts"
-aspell -M -l es check "${src}"
+#aspell -M -l es check "${src}"
 dest="${post_dir}/${ymd}-${base_name}"
 if [[ -n "$2" && "$2" == 'now' ]]; then
   subst="s/date: .+/date: ${ymd}/"
