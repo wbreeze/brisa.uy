@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sustitución del Boomkin
-date: 2025-04-10
+date: 2025-04-01
 tags: mantenimiento boomkin McCotters
 excerpt: Compré un boomkin de acero inoxidable que se fija al casco.
 ---

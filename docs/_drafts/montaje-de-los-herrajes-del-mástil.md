@@ -17,7 +17,7 @@ ablanda y acaba pudriendo la madera.
 comprimible reparte las fuerzas de compresión desde el eje del tornillo a una
 superficie mayor de madera alrededor del tornillo.
 
-[gougeon]: https://gougeon.com/
+[gougeon]: https://www.westsystem.com/instruction/epoxy-basics/bonding-fasteners-and-hardware/
 
 ![Limpio la oxidación](
   {{ 'assets/images/2025/05Tornillería/IMG_0274.jpeg' | relative_url }}
