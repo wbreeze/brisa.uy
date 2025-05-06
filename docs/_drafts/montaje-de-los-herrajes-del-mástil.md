@@ -74,6 +74,10 @@ los lados.
 Cuando el sellador se ha curado lo corto y quito la cinta. Limpio las cabezas
 de los tornillos con el cepillo de alambre y el trabajo esta hecho.
 
+![Pieza instalado](
+  {{ 'assets/images/2025/05Tornillería/IMG_0287.jpeg' | relative_url }}
+)
+
 Esta pieza permanecerá instalada así durante veinte años sin más necesidad de
 mantenimiento que el pulido.
 
