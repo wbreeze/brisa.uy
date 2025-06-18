@@ -13,11 +13,17 @@ Llegé al aeropuerto de Carrasco el 25 de Diciembre. Salió el día de la mujer,
 el ocho de Marzo.
 
 - Visité a la playa-- unos días en Chihuahua y unos días en Barra de Valizas.
-- Disfruté la cinema, tanto en Alfabeta como Cinemateca
-- Atendí a carnaval en los tablados de Velódromo, Parque Rodó, Museo de Carnaval
-  y la plaza Cinco de Mayo incluso en Teatro de Verano.
-- Pasó por cornaval, los cines y las parillas con mi buen amigo Edgar y su
+- Disfruté la cinema, tanto en Life Alfabeta y 21 Setiembre como Cinemateca.
+- Atendí a [carnaval](https://es.wikipedia.org/wiki/Carnaval_en_Uruguay), en
+  los tablados de Velódromo, Parque Rodó, Museo de Carnaval y la plaza Cinco de
+  Mayo incluso en Teatro de Verano.
+- Pasó por carnaval los cines y las parillas con mi buen amigo Edgar y su
   esposa Roberta.
+- Atendí a la toma de posesión de Yamandu Orsi como Presidente.
+
+![Llamadas, Isla de Flores, 2025](
+  {{ '/assets/images/2025/03Uruguay/Llamadas.jpg' | relative_url }}
+)
 
 ## Solana
 
@@ -28,25 +34,27 @@ Solana.
 En este video de veinte minutos comparto los resultados de mis investigaciones.
 Explico
 
-- la tech blockchain,
-- cómo difiere la cadena Solana de la cadena Bitcoin,
-- como usar Solana para intercambio privado y financiario comercial
-- la oportunidad para el país suficientemente valiente de permitir el
-  intercambio libre de cripto y fiat.
+- la tech blockchain
+- cómo difiere la cadena Solana de la cadena Bitcoin
+- cómo utilizar Solana para el intercambio financiero privado y comercial
+- la oportunidad para el país suficientemente valiente de permitir
+  la libre conversión de valor entre criptomonedas y monedas tradicionales
 
 Si es capaz de perdonar alguna mala dicción y periodos de mala calidad de
 audio, quizá el contenido del vídeo sea informativo, si no transformador.
 
 {% include video.html
   source='2025/Solana20250514.mp4'
-  still='2025/Verano/SolanaV2.024.jpeg'
+  still='2025/03Uruguay/SolanaV2.024.jpeg'
 %}
 
-También puede ver [las diapositivas de la presentación][diap] y [una
-transcripción][trans] del vídeo.
-
-[diap]:
-[trans]:
+También puede ver
+[las diapositivas de la presentación](
+  {{ 'assets/documentos/2025/SolanaV2.key.pdf' | relative_url }}
+) y
+[una transcripción](
+  {{ '/2025/03/17/Presentación-sobre-Solana.html' | relative_url }}
+) del vídeo.
 
 ## Como me siento
 
@@ -63,8 +71,12 @@ persona por poderes invisibles e irresponsables. Es irónico que en EE.UU. nadie
 lo toque, mientras que en un país que ha vivido la dictadura y la represión, lo
 abracen.
 
-Estados Unidos, por ejemplo, tiene toda la red social de Uruguay -quién habla
-con quién, cuándo, durante cuánto tiempo y con qué frecuencia- entregado por
-WhatsApp.  Probablemente sepan quién importa más en Uruguay que los que más
+Como un ejemplo, Estados Unidos tiene toda la red social de Uruguay --quién
+habla con quién, cuándo, durante cuánto tiempo y con qué frecuencia-- entregado
+por WhatsApp.  Probablemente sepan quién importa más en Uruguay que los que más
 importan.
+
+![Vista de Plaza Independencia, Montevideo ante la inaguración de Yamandu Orsi
+como Presidente]( {{ '/assets/images/2025/03Uruguay/PlazaIndependencia.jpg' |
+relative_url }} )
 
