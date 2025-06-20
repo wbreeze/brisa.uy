@@ -48,6 +48,9 @@ audio, quizá el contenido del vídeo sea informativo, si no transformador.
   still='2025/03Uruguay/SolanaV2.024.jpeg'
 %}
 
+Me gustaria colaborar con un ilustrador y locutor. Es dificil conectar con
+gente excepto usando Wpp.
+
 También puede ver
 [las diapositivas de la presentación](
   {{ 'assets/documentos/2025/SolanaV2.key.pdf' | relative_url }}
@@ -55,6 +58,7 @@ También puede ver
 [una transcripción](
   {{ '/2025/03/17/Presentación-sobre-Solana.html' | relative_url }}
 ) del vídeo.
+
 
 ## Como me siento
 
@@ -64,16 +68,16 @@ diversión. La culpa es mía.  Sigo sin poder comunicarme con fluidez y
 corrección a pesar de entender muchas cosas.  Sigo pensando demasiado en inglés
 yanqui, traduciendo, en vez de pensar y comunicarme como uruguayo.
 
-Me duele que el país ya se haya rendido a la colonización de Meta por WhatsApp
-e Instagram. Soy incapaz de dejar atrás mi miedo a usar WhatsApp. Soy incapaz
-de superar mi miedo a la vigilancia, clasificación y mercantilización de mi
-persona por poderes invisibles e irresponsables. Es irónico que en EE.UU. nadie
-lo toque, mientras que en un país que ha vivido la dictadura y la represión, lo
-abracen.
+Me duele que el país ya se haya rendido a la colonización de Meta Corp por
+Wpp e Insta. Soy incapaz de dejar atrás mi miedo a usar Wpp. Soy
+incapaz de superar mi temor a la vigilancia, clasificación y mercantilización
+de mi persona por poderes invisibles e irresponsables. Parece muy orwelliano.
+Es irónico que en EE.UU. nadie lo toque, mientras que en un país que ha vivido
+la dictadura y la represión, lo abracen.
 
 Como un ejemplo, Estados Unidos tiene toda la red social de Uruguay --quién
 habla con quién, cuándo, durante cuánto tiempo y con qué frecuencia-- entregado
-por WhatsApp.  Probablemente sepan quién importa más en Uruguay que los que más
+por Wpp.  Probablemente sepan quién importa más en Uruguay que los que más
 importan.
 
 ![Vista de Plaza Independencia, Montevideo ante la inaguración de Yamandu Orsi
