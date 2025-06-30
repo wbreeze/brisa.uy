@@ -33,6 +33,26 @@ a la longitud del cable anterior. Todas las medidas están en centímetros. La
 precisión de un centímetro es bastante buena y me permitió trabajar con números
 enteros.
 
+
+| | Tens hilos top | Tens lon | Ojo a ojo lon | Cable lon | Tens lon menos opt | Lon deseado |
+| :-- | --: | --: | --: | --: | --: | --: |
+| Backstay | 4,4 | 36,8 | 1421 | 1415 | 2,0 | 1417 |
+| Forestay | 0 | 27,9 | 1341 | 1335 | -6,9 | 1329 |
+| Inner stay | 3,1 | 34,2 | 917 | 911 | -0,6 | 911 |
+| Port fwd shroud | 0,9 | 29,8 | 601 | 595 | -5,0 | 590 |
+| Port upper shoud | 2,2 | 32,3 | 1277 | 1271 | -2,5 | 1269 |
+| Port aft shroud | 2,2 | 32,3 | 605 | 599 | -2,5 | 597 |
+| Star  fwd shroud | 0,6 | 29,2 | 597 | 591 | -5,6 | 586 |
+| Star upper shroud | 2,2 | 32,3 | 1276 | 1270 | -2,5 | 1268 |
+| Star aft shroud | 1,2 | 30,5 | 595 | 589 | -4,4 | 585 |
+| Bobstay | 4,4 | 36,8 | 285 | 279 | 2,0 | 281 |
+| Port whisker | 1,9 | 31,7 | 326 | 320 | -3,1 | 317 |
+| Star whisker | 1,5 | 31,1 | 321 | 315 | -3,7 | 312 |
+| Port boomkin | 3,1 | 34,2 | 100 | 94 | 0 | 94 |
+| Star boomkin | 3,4 | 34,9 | 97 | 91 | 0 | 91 |
+|  |  |  |  |  |  |
+| Suma en metros |  |  |  |  |  | 109,76 |
+
 ![description](
   {{ 'assets/images/2025/06Jarcia/IMG_0419.jpeg' | relative_url }}
 )
