@@ -38,24 +38,63 @@ enteros.
 )
 
 ![description](
+  {{ 'assets/images/2025/06Jarcia/IMG_0430.jpeg' | relative_url }}
+)
+
+Desmonte el terminal de ojo Sta-Lok. Desenrosque la tuerca del ojo. En el
+interior hay un cono. Tenga cuidado de no perderlo. Deslice la tuerca sobre el
+cable.
+
+Utilice un cepillo para ácidos o un destornillador plano para separar
+suavemente los hilos exteriores del cable del núcleo, de uno en uno. Una vuelta
+es suficiente. Trabaje en la dirección del tendido. Hay siete alambres en el
+núcleo y doce alrededor del exterior del núcleo, diecinueve en total.
+
+A veces es necesario reorganizar los hilos. Normalmente se retuerce un par
+sobre el otro. Al final se obtiene un bonito tulipán de alambre. Un baño en
+aceite de linaza recubrirá los alambres para evitar la corrosión.
+
+
+![description](
   {{ 'assets/images/2025/06Jarcia/IMG_0422.jpeg' | relative_url }}
 )
 
+Ahora, coge el cono. A veces los conos tienen una pequeña cinta de metal en su
+interior procedente del mecanizado y es necesario sacarla de la ranura y
+deshacerse de ella. Desliza el cono sobre el núcleo del cable metálico, dentro
+de la tulipa. Empújalo hacia abajo. Procura que los alambres exteriores no te
+pinchen las cutículas. Deja unos tres milímetros expuestos más allá del extremo
+del cono.
+
+Empuje la tuerca hacia arriba y gire los cables de nuevo en su lugar. Caen en
+una bonita espiral. Siempre hay uno que cae en la ranura del cono. Haz palanca
+y sigue empujando y girando con la tuerca y tendremos los hilos exteriores bien
+espaciados alrededor del cono, es decir, sobre el núcleo central. Tenemos doce
+hilos alrededor del exterior, siete en el interior.
+
 ![description](
-  {{ 'assets/images/2025/06Jarcia/IMG_0424.jpeg' | relative_url }}
+  {{ 'assets/images/2025/06Jarcia/IMG_0431.jpeg' | relative_url }}
 )
+
+Aplica un poco de Lanocoat, un tratamiento a base de lanolina, el aceite de la
+lana de oveja. Es muy bueno. Previene la corrosión y el agarrotamiento.
+Cepillando alguna de esta aquí, dándole una buena capa liberal de la
+misma, esperamos ser capaces de desmontar esto dentro de diez años. Ya veremos.
+
+Usa un poco de fijador de roscas. Ahora empuja la tuerca hasta el
+final. Echa otro vistazo. Asegúrate de que ninguno de los hilos de alambre haya
+caído en la ranura del cono. Toma el ojo, deslízalo sobre el extremo.
+Introdúcelo en la rosca. Enrosca, enrosca, enrosca, enroscándolo ahí. Saca el
+destornillador, ponlo en el ojo. Continúa girando hasta que se detenga.
 
 ![description](
   {{ 'assets/images/2025/06Jarcia/IMG_0426.jpeg' | relative_url }}
 )
 
-![description](
-  {{ 'assets/images/2025/06Jarcia/IMG_0430.jpeg' | relative_url }}
-)
-
-![description](
-  {{ 'assets/images/2025/06Jarcia/IMG_0431.jpeg' | relative_url }}
-)
+Retuércelo. Echa un vistazo rápido. Todos los alambres exteriores colocados en
+una bonita espiral sobre la parte superior del cono. Es simplemente hermoso.
+Enroscamos el ojo de nuevo. Lo giramos a mano y luego le damos media vuelta con
+la palanca del destornillador y listo.
 
 ![description](
   {{ 'assets/images/2025/06Jarcia/IMG_0433.jpeg' | relative_url }}
@@ -64,6 +103,9 @@ enteros.
 ![description](
   {{ 'assets/images/2025/06Jarcia/IMG_0434.jpeg' | relative_url }}
 )
+
+Límpialo y ahí está. Tenemos un terminal de ojo instalado en nuestro cable de
+acero.
 
 ![description](
   {{ 'assets/images/2025/06Jarcia/IMG_0435.jpeg' | relative_url }}
