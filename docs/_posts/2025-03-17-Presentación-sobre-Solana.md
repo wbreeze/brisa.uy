@@ -6,7 +6,11 @@ tags: Solana
 excerpt: En este presentación exploramos la blockchain llamada Solana.
 ---
 
-En este presentación exploramos la blockchain llamada Solana.
+Este presentación explora la blockchain llamada Solana.  Explica blockchain,
+los monederos, la capacidad de Solana y el potencial para revolucionar las
+finanzas.  Incluye demostraciones en directo de las aplicaciones de Solana.
+La presentación está dirigida a un público general. No está muy pulida. La
+calidad del audio no es perfecta. El contenido es revolucionario.
 
 {% include video.html
   source='2025/Solana20250514.mp4'
