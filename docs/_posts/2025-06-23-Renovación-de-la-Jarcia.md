@@ -79,7 +79,7 @@ aceite de linaza recubrirá los alambres para evitar la corrosión.
   {{ 'assets/images/2025/06Jarcia/IMG_0422.jpeg' | relative_url }}
 )
 
-Ahora, coge el cono. A veces los conos tienen una pequeña cinta de metal en su
+Ahora, agarra el cono. A veces los conos tienen una pequeña cinta de metal en su
 interior procedente del mecanizado y es necesario sacarla de la ranura y
 deshacerse de ella. Desliza el cono sobre el núcleo del cable metálico, dentro
 de la tulipa. Empújalo hacia abajo. Procura que los alambres exteriores no te
