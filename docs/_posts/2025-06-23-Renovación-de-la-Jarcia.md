@@ -33,25 +33,30 @@ a la longitud del cable anterior. Todas las medidas están en centímetros. La
 precisión de un centímetro es bastante buena y me permitió trabajar con números
 enteros.
 
-
-| | Tens hilos top | Tens lon | Ojo a ojo lon | Cable lon | Tens lon menos opt | Lon deseado |
+| | Tens hilos top | Tens lon | Ojo a ojo lon | Cable lon | Tens lon menos opt | Lon deseado | Lon Actual |
 | :-- | --: | --: | --: | --: | --: | --: |
-| Backstay | 4,4 | 36,8 | 1421 | 1415 | 2,0 | 1417 |
-| Forestay | 0 | 27,9 | 1341 | 1335 | -6,9 | 1329 |
-| Inner stay | 3,1 | 34,2 | 917 | 911 | -0,6 | 911 |
-| Port fwd shroud | 0,9 | 29,8 | 601 | 595 | -5,0 | 590 |
-| Port upper shoud | 2,2 | 32,3 | 1277 | 1271 | -2,5 | 1269 |
-| Port aft shroud | 2,2 | 32,3 | 605 | 599 | -2,5 | 597 |
-| Star  fwd shroud | 0,6 | 29,2 | 597 | 591 | -5,6 | 586 |
-| Star upper shroud | 2,2 | 32,3 | 1276 | 1270 | -2,5 | 1268 |
-| Star aft shroud | 1,2 | 30,5 | 595 | 589 | -4,4 | 585 |
-| Bobstay | 4,4 | 36,8 | 285 | 279 | 2,0 | 281 |
-| Port whisker | 1,9 | 31,7 | 326 | 320 | -3,1 | 317 |
-| Star whisker | 1,5 | 31,1 | 321 | 315 | -3,7 | 312 |
-| Port boomkin | 3,1 | 34,2 | 100 | 94 | 0 | 94 |
-| Star boomkin | 3,4 | 34,9 | 97 | 91 | 0 | 91 |
-|  |  |  |  |  |  |
-| Suma en metros |  |  |  |  |  | 109,76 |
+| Backstay|4,45|36,83|1421|1415|1,98|1417|1533|
+| Forestay|3,45|34,84|1349|1343|-0,00|1343|1348|
+| Inner stay|3,45|34,84|923|917|-0,00|917|917|
+| Port fwd shroud|0,9525|29,845|601|595|-5,00|590|597|
+| Starb  fwd shroud|0,635|29,21|597|591|-5,64|586|597|
+| Port aft shroud|2,2225|32,385|605|599|-2,46|597|597|
+| Starb aft shroud|1,27|30,48|595|589|-4,37|585|597|
+| Port upper shoud|2,2225|32,385|1277|1271|-2,46|1269|1269|
+| Starb upper shroud|2,2225|32,385|1276|1270|-2,46|1268|1269|
+| Bobstay|4,445|36,83|285|279|1,98|281||
+| Port whisker|1,905|31,75|326|320|-3,10|317|317|
+| Starb whisker|1,5875|31,115|321|315|-3,73|312|312|
+| Port boomkin|3,175|34,29|100|94|0|94|94|
+| Starb boomkin|3,4925|34,925|97|91|0|91|91|
+|||||||
+|Suma en metros|||||||121,90|
+|||||||||
+|Tens lon deseado|34,85|||||||
+|Tens lon max|37,15|||||||
+|Tens lon min|27,94|||||||
+|Tens disp|9,2075|||||||
+|Lon de un ojo |3|||||||
 
 ![description](
   {{ 'assets/images/2025/06Jarcia/IMG_0419.jpeg' | relative_url }}
