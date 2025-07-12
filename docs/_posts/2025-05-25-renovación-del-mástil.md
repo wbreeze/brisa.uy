@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Renovación Terminada
+title: Renovación del Mástil
 date: 2025-05-25
 tags: mantenimiento mástil McCotters
 excerpt: La renovación del mástil está terminada.
