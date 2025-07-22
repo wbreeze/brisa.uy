@@ -3,42 +3,37 @@ layout: post
 title: Super Gas
 date: 2025-07-11
 tags: mantenemiento super-gas
-excerpt: I redid the propane locker.
-link_note: "[text for internal link]({{ '/2021/11/15/Sara-M.html' | relative_url }})"
-image_note: "![image description]({{ '/assets/images/image.jpeg' | relative_url }})"
-video_note: "{% include video.html source='2022/CorrientesDos.mp4' still='2022/CostaRica/CorrientesUno.png' %}"
-audio_note: "{% include audio.html source='/assets/audio/2021/Cantante.m4a' %}"
+excerpt: Rehice el armario de propano.
 ---
 
-I redid the propane locker. I took out the old tanks. I
-cleaned it.  I took out the old regulator and solenoid valve. I repaired the
-mounts. I installed a new regulator and a solenoid valve with
-many fewer connections than was there before-- probably half is many.
-It is more solid and direct. I imagine it is quite nicely sealed.
- I'm sure of it actually. It is not leaking.
+Rehice el armario de propano. Saqué los tanques viejos. Saqué el regulador y la
+electroválvula viejos.  Lo limpié. Reparé los soportes. Instalé un nuevo
+regulador y una electroválvula.
+Lo hice con muchas menos conexiones que antes,
+probablemente la mitad. Es más sólido y directo. Me imagino que está muy bien
+sellado. De hecho, estoy seguro. No tiene fugas.
 
-I have in that locker a propane
-detector that would -- it was connected to a bit of electronics that, if it
-detected propane, it would interrupt the propane supply by shutting
-the solenoid. (That is if the solenoid was not already shut.)
+La taquilla tiene un detector de propano que, si está conectado a un sistema
+electrónico, cuando detecta propano, interrumpe el suministro de propano
+cerrando el solenoide. (Eso si el solenoide no estaba ya cerrado).
 
-I disconnected it.  I have a detector on the front of my face that works every
-time that I open that locker.
+Lo desconecté. Tengo un detector en la parte delantera de la cara que funciona
+cada vez que abro esa taquilla.
 
-If a detector finds propane in the propane locker, it is not
-so threatening. That goes overboard, outside of the boat.
-To prevent me from being able to continue to function-- to
-cook my coffee --because of that detector... it is drastic and robotic; so, I
-disconnected it.
+Si un detector encuentra propano en el armario del propano, no es tan
+amenazador. Eso va por la borda, fuera del barco. Impedirme seguir funcionando
+-cocinar mi café- por culpa de ese detector... es drástico y robótico; así que
+lo desconecté.
 
-What I do have is a detector that is independent. It is mounted under the
-stove, wired to twelve votes, always powered. If it detects
-propane fumes, or the fumes of isopropol alcohol that I'm using to clean something,
-or the fumes of acetone, or butane when I refill the lighter... If it detects
-any of those it will chirp madly and insist on attention.
+Lo que sí tengo es un detector que es independiente. Está montado debajo de la
+estufa, conectado a doce voltios, siempre alimentado. Si detecta vapores de
+propano, o los vapores del alcohol isopropílico que estoy usando para limpiar
+algo, o los vapores de la acetona, o del butano cuando recargo el encendedor...
+Si detecta cualquiera de ellos chirriará locamente e insistirá en que le preste
+atención.
 
-In this case I mute it or disconnect it, because I know that it is the
-acetone fumes, and reconnect it later.  So there, I do have something that
-reliably detects the presence of propane fumes and will advise me to do
-something urgently.
+En este caso lo silencio o desconecto, porque sé que son los humos de la
+acetona, y lo vuelvo a conectar más tarde. Así que ya está, tengo algo que
+detecta de forma fiable la presencia de humos de propano y me avisa para que
+haga algo urgentemente.
 
