@@ -9,8 +9,16 @@ excerpt: Navegación por el estrecho de Albermarle
 Los dragón vuela. Los dragón vuela en las guardamancebos esta mañana. Y en la
 driza de la bandera. Y también moscas picando.
 
+![Dragón vuela](
+  {{ 'assets/images/2025/07Alligator/dragón.jpeg' | relative_url }}
+)
+
 Fue testigo al atardecer y el amanezer. Me tranquiliza que el mundo todavía
 gira.
+
+![Atardecer](
+  {{ 'assets/images/2025/07Alligator/atardecer.JPG' | relative_url }}
+)
 
 Ahora estoy navegando, recorriendo millas con el motor. Se está formando
 un sistema de alta presión que traerá fuertes vientos, directos al frente,
@@ -21,8 +29,16 @@ motor por el Alligator, en dirección norte.
 Estaba muy motivado para conectar el Starlink anoche porque no tenía señal de
 celular. Me llevó toda la tarde y lo conseguí. Ya tengo Starlink.
 
+![Antena de Starlink](
+  {{ 'assets/images/2025/07Alligator/starlink.jpeg' | relative_url }}
+)
+
 Algúna yerba cosechado en Brazil, vendido en Uruguay, llegó al Río
 Alligator en Carolina del Norte de Estados Unidos.
+
+![Yerba en el Río Alligator](
+  {{ 'assets/images/2025/07Alligator/mate.jpeg' | relative_url }}
+)
 
 Es la temporada de recolección del [jaiba][azul], conocido acá como "cangrejo
 azul". Lo que a algunos parece gustarles comer. Los barcos cangrejeros están
@@ -32,6 +48,10 @@ fuera del canal. A la inversa, si estás fuera del canal, estás viendo las
 boyas.
 
 [azul]: https://es.wikipedia.org/wiki/Callinectes_sapidus
+
+![Orrilla del Río Norte con boya de caladero](
+  {{ 'assets/images/2025/07Alligator/boya.JPG' | relative_url }}
+)
 
 No soy un marinero de verdad. Un marinero de verdad navegaría y... Hablé con un
 conocido que acababa de comprar su barco. Me dijo: "Ja. Bueno. ¿No puedo
@@ -58,6 +78,10 @@ la dirección equivocada. ¡Sal y navega un poco! No. Lo que voy a hacer es
 intentar cruzar con motor. Voy a ser golpeado con ocho nudos al frente tal
 vez. Veremos.
 
+![Canal Alligator a Pungo](
+  {{ 'assets/images/2025/07Alligator/canal.JPG' | relative_url }}
+)
+
 Ayer en el canal toqué fondo un par de veces. Una vez fue durante unos diez
 segundos mientras maniobraba para escapar. Lo que pasó fue que me acerqué
 demasiado al borde. Hice un ajuste con el piloto de timón y me quedé inmóvil,
@@ -66,11 +90,16 @@ timón para tomar control y luego ponerlo de nuevo. También hubo otros factores
 Lo que me enseñó fue no quedarme pasivo. Si me acercaba demasiado al borde, por
 ejemplo, debía desviarme inmediatamente.
 
+![Baliza diurna en el Río Alligator](
+  {{ 'assets/images/2025/07Alligator/daymarker.JPG' | relative_url }}
+)
+
 Al final tuve calma la mayor parte del trayecto, desde el sur del [puente
 giratorio][puente] del Río Alligator y a través del Sonido Albermarle hasta casi
 la entrada del Río Norte. En Río Norte, un viento flojo me robó medio nudo.
-Remontando el Río Norte, media hora antes de llegar a Coinjock, vi a un par
-de delfines jugar con el barco. Era extraño verlos tan lejos del océano.
+Remontando el Río Norte, media hora antes de llegar a Coinjock, disfruté viendo
+a un par de delfines jugando en mi estela. Era extraño verlos tan lejos del
+océano.
 
 [puente]: https://es.wikipedia.org/wiki/Puente_giratorio
 
