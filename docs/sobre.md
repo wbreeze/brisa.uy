@@ -31,8 +31,8 @@ piloto de jets corporativos y a la acrobacia aérea.  Habiendo conocido Uruguay
 en 2017, lo convertí en mi segunda patria. Ahí entonces
 comienzo a concretar mi vieja aspiración.
 
-![el navegante Douglas Lovell](
-  {{ '/assets/images/2021/el_navegante.jpeg' | relative_url }}
+![el navegante Douglas Lovell en 2025 y 2021](
+  {{ '/assets/images/2025/el_navegante.jpeg' | relative_url }}
 )
 
 Asociado al [Club Nautilus][nyc] de la Rambla Gandhi en Montevideo.
@@ -57,16 +57,25 @@ artículos en la [página del inicio][lista].
 )
 
 He [cruzado por el canal de Panamá][canal] al lado Caribe en Mayo de 2022.
-Desde allí, navegaré [por el Caribe y Atlántico del Norte][agenda] hacia
-los Cayos Verdes. Desde los Cayos Verdes cruzaré el ecuador al Atlántico
-sur, Sudamérica, y Uruguay.
+Navegué bastante en Panamá durante el año 2023, incluyendo algunas visitas
+preciosas de amigos y amigas que vienen desde Uruguay.
 
 [canal]: /2022/05/06/El-Canal-de-Panam%C3%A1.html
-[agenda]: /2022/11/20/Agenda-2023.html
 
-![Ruta Atlántica](
-  {{ '/assets/images/2022/Agenda/combined_maps.png' | relative_url }}
+Desde allí, en 2024, navegué tras el Caribe a Gran Caimán, México y la
+costa Atlantica de Estados Unidos a Nueva York. Desde Nueva York, navegué
+a Boston. Después dió la vuelta a Nueva York, las bahías de Delaware y
+el Chesapeake para terminar en Carolina del Norte.
+
+![Ruta 2024](
+  {{ '/assets/images/2025/Navegación2024.jpg' | relative_url }}
 )
+
+En este momento, julio de 2025, he navegado más o menos 6.500 millas naúticas,
+aproximadamente doce mil kilometros con el velero Brisa.  Desde acá, ya
+veremos. Donde me lleve. Quizá navegaré a las Islas Britanicas o los Azores.
+Desde allí, la ruta a Uruguay pasa por los Cayos Verdes y cruza el ecuador al
+Atlántico sur y Sudamérica.
 
 ## Audiencia
 
