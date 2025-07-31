@@ -2,255 +2,299 @@
 layout: post
 title: Motor de dos Caballos
 date: 2025-07-30
-tags:
-excerpt:
-link_note: "[text for internal link]({{ '/2021/11/15/Sara-M.html' | relative_url }})"
-image_note: "![image description]({{ '/assets/images/image.jpeg' | relative_url }})"
-video_note: "{% include video.html source='2022/CorrientesDos.mp4' still='2022/CostaRica/CorrientesUno.png' %}"
-audio_note: "{% include audio.html source='/assets/audio/2021/Cantante.m4a' %}"
+tags: equipamiento mantenimiento
+excerpt: Me parece que una mula sería más dispuesto a complacer.
 ---
 
 Es un milagro de verdad. Dos caballos en un paquete de treinta centimetros
 cuadrados. Me parece que una mula sería más dispuesto a complacer.
 
-I emptied out the gasoline from the tank of the little 2-1/2 horsepower
-outboard motor that powers my dinghy, that I can put around in, get from
-ship to shore and back again. I put fresh
-gas in it. I tried to start it.  After about two hundred pulls
-on the starting cord it came to life. It ran and remained running.
-I let it warm up for a while. Then I went out to explore. At first, I stayed
-near the boat in case it quit, and I had to row back.  So I did that. For about
-twenty minutes, went up a creek, explored it, came back out onto the main waterway.
-Went up and down a little bit within sight of the boat.
+![Jet Ski](
+  {{ 'assets/images/2025/07Fueraborda/DCL_4786.JPG' | relative_url }}
+)
 
-I decided that
-the engine was working just fine. I went up Blackwater Creek. I thought I'd
-go to the Blackwater Creek Trading Post and have a look that looked like,
-according to Google Maps, they had ice cream there. Cold drinks. It was hot.
-That would be fine. So I
-started up in this maze of waterways among the two meter high rushes
-growing, with dragonflies and blackbirds, sometimes a stump, the occasional tree. I
-worried about whether I'd find my way back because little water
-passage ways led off the main creek.
+Vacié la combustible del tanque del pequeño motor fueraborda de 2,5 caballos de
+potencia, lo que impulsa mi bote. Con el bote puedo desplazarme, ir del barco a la
+costa y volver. Le eché combustible nueva. Intenté arrancarlo. Después de tirar
+unas doscientas veces de la cuerda de arranque, cobró vida. Arrancó y siguió
+funcionando. Lo dejé calentar un rato. Luego salí a explorar. Al principio, me
+quedé cerca del barco por si se paraba y tenía que remar de vuelta. Así lo
+hice. Durante unos veinte minutos, remonté un arroyo, lo exploré y volví a la
+vía navegable principal. Subí y bajé un poco sin perder de vista el barco.
 
- I began to feel frightened that I wouldn't be able
-to find my bed, that I'd make a wrong turn and be lost in this maze of rushes
-for hours until nighttime. But of course, I had my phone with me with my
-nautical map on it. It was really no worry.  Provided the phone worked, had a
-location, got some kind of a cell signal. Even then, I have my maps downloaded.
-Even with no cell signal, I could find my way back.
+Decidí que el motor funcionaba perfectamente. Subí por Blackwater Creek. Pensé
+en ir al Blackwater Creek Trading Post y echar un vistazo, ya que, según Google
+Maps, allí vendían helados y bebidas frías. Hacía calor. Eso estaría bien. Así
+que me adentré en ese laberinto de canales entre juncos de dos metros de
+altura, con libélulas y mirlos, algún que otro tocón y algún árbol. Me
+preocupaba no encontrar el camino de vuelta, porque había pequeños canales que
+se desviaban del arroyo principal.
 
-So I'm going along, and
-then the motor starts running rough. Then it quits.  Now I'm about
-three kilometers from
-the boat.  And I think, "Ooh. I guess I'll have to row back."
-Of course it's upwind rowing back. The wind isn't too strong, though.
-I row.
+![laberinto de juncos](
+  {{ 'assets/images/2025/07Fueraborda/DCL_4778.JPG' | relative_url }}
+)
 
-Every once
-in a while I stop to take a rest. I rest myself by pulling on the starter cord
-of the engine to try to make it run. It would start with the throttle wide
-open.  As soon as I started to close the throttlele, it would quit. Or as soon
-as I put it into gear to engage the prop, it would quit. Sounds like I don't
-know what's wrong with this engine.  I don't know why it doesn't work. What's
-wrong with my engine? Why doesn't it work?  I meditate on that while
-rowing.
+Empecé a sentir miedo de no poder encontrar mi cama, de dar un giro equivocado
+y perderme en este laberinto de juncos durante horas hasta que cayera la noche.
+Pero, por supuesto, llevaba mi teléfono conmigo con el mapa náutico. No había
+nada de qué preocuparse.  Siempre y cuando el teléfono funcionara, tuviera
+ubicación y captara alguna señal de móvil. Incluso en ese caso, tengo mis mapas
+descargados. Aunque no hubiera señal de móvil, podría encontrar el camino de
+vuelta.
 
-Eventually, I found my way back to the boat. It was all good.  
-Back with the boat I put the engine away. Oh, well. I'll have to work this
-out. I'll get it straight later.
+![description](
+  {{ 'assets/images/2025/07Fueraborda/DCL_4783.JPG' | relative_url }}
+)
 
-Are you still with me? I went back.  You know, to the dead engine.
-In Norfolk, in the anchorage. It isn't really too far to
-row to shore. No problem, the row to shore. What I really like is to have the
-engine working. With the engine working, I could motor across the
-river, across the big wide channel.  I don't think I want to row across the big
-wide channel. I can row into the marina. To row across the big white channel
-with the barges going by and big boats and so forth, going fast, might not be
-a smart thing to do. It would be like crossing the road along the rambla
-hopping on one foot at rush hour.
+Así que sigo adelante, y entonces el motor empieza a funcionar mal. Luego se
+apaga. Ahora estoy a unos tres kilómetros del barco. Y pienso: «Vaya, supongo
+que tendré que remar de vuelta». Por supuesto, hay que remar contra el viento.
+Aunque el viento no es demasiado fuerte. Remo.
 
-I tried for most of the day to get the engine
-running. I tried various things.  One of the things I tried was-- the engine
-works really well when it has that ethanol free gasoline. That is gas that doesn't have
-any ethanol in it. I thought, "Well, where do I get ethanol free gas?"
-It turns out that you can make it. You just mix some water in your
-fuel. The water absorbs the ethanol. Then, of course,
-you have to have it let it settle. If you think fuel with ethanol isn't
-going to burn in my engine, you can be sure that fuel with water isn't going to
-burn in my engine.
+De vez en cuando me detengo para descansar. Me descanso tirando de la cuerda de
+arranque del motor para intentar que funcione. Arrancaba con el acelerador a
+fondo. En cuanto empezaba a cerrar el acelerador, se apagaba. O en cuanto metía
+la marcha para activar la hélice, se apagaba. Parece que no sé qué le pasa a
+este motor. No sé porqué no funciona. ¿Qué le pasa a mi motor?
+Medito sobre eso mientras remo.
 
-I put the water in the tank. I let it sit and separate overnight, actually, before
-draining the water out from the bottom, as supposedly with the ethanol in it,
-until I smelled gas.  I tried again.
-I didn't have any success. Oh.
+![description](
+  {{ 'assets/images/2025/07Fueraborda/DCL_4818.jpeg' | relative_url }}
+)
 
-I emptied the tank again.
-There was still a lot of water in the tank.
-I had emptied it into a cup, into a paint cup.
-I saw it separating. So I let sit there and separate and then siphoned-off the
-gasoline that was on the top, into the tank. Then I tried starting it
-again.  This time it tried to start, but it didn't actually run. It was better.
+Finalmente, encontré el camino de vuelta al barco. Todo salió bien.  De nuevo
+con el barco, guardé el motor. Bueno, tendré que resolver esto. Lo solucionaré
+más tarde.
 
-Then, oh, let me check the spark plug.  I took the spark plug
-out. The spark plug is fine. It is a brand new spark plug as the engine is
-brand new and it is fine. It is good.  I
-cleaned off the points anyway. They weren't even truly dirty.
-I rubbed the contacts with some 300 grit sand paper. I sprayed it with some electronics
-cleaner. Nice and shiny.
+![atardecer viste por la portilla](
+  {{ 'assets/images/2025/07Fueraborda/DCL_4787.JPG' | relative_url }}
+)
 
-With the spark plug reinstalled of course there is no difference. The engine
-performance is the same. Vacant. Missing. Uncooperative. Useless. Well.
-Not useless. I'm getting excellent arm exercise.
+¿Sigues conmigo? Volví. Ya sabes, al motor averiado. En Norfolk, en el
+fondeadero. No está muy lejos remar hasta la orilla. No hay problema, remar
+hasta la orilla. Lo que realmente me gusta es que el motor funcione. Con el
+motor en marcha, podría cruzar el río, cruzar el gran canal ancho.  No creo que
+quiera remar por el gran canal ancho. Puedo remar hasta el puerto deportivo en
+este mismo lado. Remar por el gran canal ancho con las barcazas pasando y los
+barcos grandes y demás, yendo rápido, «quizás no sea lo más inteligente». Sería
+como cruzar la calle por la rambla saltando a la pata coja en hora punta.
 
-The next day I'm out, I thought, ah, let me try going to a hardware store.
- Sometimes they sell ethanol free gasoline. I rowed to the shore and I had
-lunch and I started using public transportation to get me places, riding the
-buses. Waiting for a bus I think, well let me call the hardware store. That way
-it is easier. I don't have to go all the way out there. I call them. Of course,
-the little boy who answers doesn't know what I'm talking about.
+Pasé casi todo el día intentando arrancar el motor. Probé varias cosas. Una de
+las cosas que probé fue... el motor funciona muy bien cuando lleva combustible sin
+etanol. Pensé: «Bueno, ¿y dónde
+consigo combustible sin etanol?». Resulta que se puede fabricar. Solo hay que
+mezclar un poco de agua con el combustible. El agua absorbe el etanol. Luego,
+por supuesto, hay que dejar que se asiente. Si crees que el combustible con
+etanol no va a quemarse en mi motor, puedes estar seguro de que el combustible
+con agua tampoco lo hará.
 
-"Do you sell gasoline in cans?"
+Puse el agua en el tanque. La dejé reposar y separarse durante toda la noche,
+antes de drenar el agua por la parte inferior, ya que supuestamente contenía
+etanol, hasta que olí combustible. Lo intenté de nuevo. No tuve éxito. Pah.
 
-"Yes, we sell gas cans."
+Volví a vaciar el tanque. Todavía quedaba mucha agua en el tanque. La había
+vaciado en una taza, en una taza para pintura. Vi que se separaba. Así que la
+dejé reposar y separarse y luego extraje con un sifón la combustible que estaba en
+la parte superior y la vertí en el tanque. Luego intenté arrancarlo de nuevo.
+Esta vez intentó arrancar, pero en realidad no funcionó. Estaba... ¿mejor?
 
-"No, do you gasoline that
-doesn't have ethanol?  Ehanol free gasoline? Do you sell that?"
+Entonces, ta, déjame comprobar la bujía. Saqué la bujía. La bujía está bien. Es
+una bujía nueva, ya que el motor es nuevo y está bien. Está bien. De todos
+modos, limpié los puntos. Ni siquiera estaban realmente sucios. Froté los
+contactos con papel de lija de grano 300. Los rocié con un poco de limpiador
+electrónico. Quedaron bonitos y brillantes.
 
-"No, we
-don't sell gasoline."
+Con la bujía reinstalada, por supuesto, no hay ninguna diferencia. El
+rendimiento del motor es el mismo. Vacío. Fallido. Poco cooperativo. Inútil.
+Bueno, no inútil. Estoy haciendo un excelente ejercicio para los brazos.
 
-"Sometimes, you know, a hardware store will have
-canned, pure gasoline-- gallon cans with gasoline for for a small engines,
-for, you know, your yard lawn equipment."
+Al día siguiente pensé: «Bueno, voy a probar en la ferretería. A veces venden
+combustible sin etanol». Remé hasta la orilla, almorcé y empecé a usar el
+transporte público para desplazarme, viajando en omnibús. Mientras esperaba el
+omnibús, pensé: «Bueno, voy a llamar a la ferretería. Así será más fácil». No
+tengo que ir hasta allí. Les llamo. Por supuesto, el niño que contesta no sabe
+de qué estoy hablando.
 
-"No, we don't we don't sell that."
+«¿Venden combustible en bidones?».
 
-Okay! Saves me a trip. Maybe. Or maybe he didn't know what he
-was talking about because he didn't know what I was talking about.
- And if, in
-fact, it was the story, that he didn't know about it...  I decided to take his
-word for it, the young kid, probably at the cash register. Worked there a
-month and hadn't explored the store. I don't know.  Hopefully,
-he understood me and knew what he was talking about.
+«Sí, vendemos bidones de combustible».
 
-So I didn't go to the hardware store. but I
-had gotten on the bus and found myself out into the suburban wasteland. You
-don't have to go very far out of Norfolk to be in the suburban wasteland.  You
-know how it is-- nothing but roads and cars. Gas stations.
-I'm using the maps on my phone to guide me. I thought oh, well, let me search
-online. I search online, "where to find ethanol free gas."  It suggested adding,
-"near me."
-Okay, "near me." Up pops a couple
-of gas stations and they're like around the corner, you know,
-half a kilometer walking. So I walk over in the heat in the
-brutal sun beaten heat of the day. I look at the pumps that all say,
-"Contains up to ten percent ethanol." I go inside.  They don't know what I'm
-talking about either. "No ethanol free gas, no. We sell... I don't know what
-that is.  We sell what's on the pumps." "We don't sell anything else, no." Okay.
+«No, ¿tienen combustible sin etanol? ¿Venden eso?»
 
-So, even though my artificially intelligent online source thought that they
-would sell it, they don't. There was another one right around the corner.
-Let me try that
-one.  No, not that either.
+«No, no vendemos combustible».
 
-I don't know what to do. My engine doesn't run.
-Do I take it apart? Do I take apart the carburator and put it back together
-again? Do I try the water trick again to make ethanol free gas?
+«A veces, ya sabe, las ferreterías tienen combustible pura en lata, latas de
+un galón con combustible para motores pequeños, para, ya sabe, los equipos de
+jardinería».
 
-Here's what happened. The two cycle engines,
-two stroke engines, work just fine.  They are very reliable. They work
-really well. They are not legal anymore because they are too dirty.
-They are too noisy. They have too many emissions. All
-those little marine engines and lown mower engines were destroying the environment.
-The Environmental Protection Agency made
-them illegal. You can't buy a two cycle engine in the United States.
+«No, no vendemos eso».
 
-I bought one of these new, four cycle engines, four strokes.
-The thing about the carbureted four stroke engines is that they do
-really poorly on gas that has ethanol in it. They just don't burn ethanol well.
-The fuel injected engines manage it, no problem. A carbureted engine, no.
-Try getting a fuel injected, four stroke, two and a half horsepower engine for a
-little dingy. You just can't get it.  It's too small an engine to
-have fuel injection. So it is carburated.
+Vale! Me ahorra el viaje. Quizás. O quizás no sabía de lo que estaba hablando
+porque no sabía de lo que yo estaba hablando. Y si, de hecho, era la historia,
+que él no sabía nada al respecto... Decidí creerle, al chico joven,
+probablemente en la caja. Llevaba un mes trabajando allí y no
+había explorado la tienda. No lo sé.  Espero que me entendiera y supiera de lo
+que estaba hablando.
 
-Now gasoline without
-ethanol, you know, it is not efficient.  It doesn't have any
-renewable resources in it, so, I don't know, for whatever reason, the
-government decided that all gasoline will have 10% ethanol in it.
-Cars can run on it, after all. It makes the gasoline at least 10% renewable.
-Grow more corn. Who knows what the motivations were? who lobbied
-for it, or whatever it is.
+Así que no fui a la ferretería. Pero me subí al omnibús y me encontré en medio
+de la nada suburbana. No hay que alejarse mucho de Norfolk para estar en medio
+de la nada suburbana. Ya sabes cómo es: nada más que carreteras y coches.
+Estaciones de combustible. Terrenos vacantes. Estoy usando los mapas de mi
+teléfono para guiarme. Pensé: «Bueno, voy a buscar en Internet». Busco en
+Internet «dónde encontrar combustible sin etanol». Me sugiere añadir «cerca de
+mí». Vale, «cerca de mí». Aparecen un par de estaciones y están a la vuelta de
+la esquina, a medio kilómetro caminando.  Así que voy caminando bajo el calor
+abrasador del sol. Miro los surtidores y todos dicen: «Contiene hasta un diez
+por ciento de etanol». Entro. Tampoco saben de qué les estoy hablando. «No, no
+tenemos combustible sin etanol.  Vendemos... No sé qué es eso. Vendemos lo que
+hay en los surtidores». «No vendemos nada más, no». Vale.
 
-You can't buy a two cycle engine and you
-can't buy ethanol free gas. So my poor little two and a half horsepower,
-carbureted dinghy motor is left out.  There's no way to support it.
-I'm surprised that I was able to buy it. Oh, well, the place I bought
-it, in Florida-- they had ethanol free gas.
- In Key West, Florida. I don't know.
-I guess, there are still places in the world where you can get ethanol free
-gas. If you go traveling, you're not going to find them.  Not in the United
-States anyway.
+Así que, aunque mi fuente online con inteligencia artificial pensaba que lo
+venderían, no es así. Había otra justo a la vuelta de la esquina, una más grande,
+más nuevo. Voy a probar esa.  No, esa tampoco.
 
-That's life of the United States. That's how it works.  If
-you're anywhere out of the mainstream, you're just out on a limb.
-I feel very alienated by it. It is a fact. The
-people making the rules haven't considered my
-way of life or my needs. That doesn't matter. The majority
-find that a world in which you can only get ten percent ethanol fuel and can't
-get a two cycle engine to be perfectly acceptable. It is not a problem for them.
+No sé qué hacer. Mi motor no arranca. ¿Lo desmonto? ¿Desmonto el carburador y
+lo vuelvo a montar? ¿Vuelvo a probar el truco del agua para obtener gasolina
+sin etanol?
 
-I don't know what I'm going to do with the engine.
-Sometimes I have to resist
-mightily the temptation to simply throw it overboard.
-That is what I did with the last one, essentially. I left it on a street
-in Key West with a note, "Take me. I'm yours. Beware. I'll give you trouble."
+Esto es lo que sucedió. Los motores de dos tiempos funcionan perfectamente. Son
+muy fiables. Funcionan muy bien. Ya no son legales porque son demasiado
+contaminantes. Son demasiado ruidosos. Emiten demasiadas emisiones. Todos esos
+pequeños motores marinos y motores de cortacésped estaban destruyendo el medio
+ambiente. La Agencia de Protección Ambiental los declaró ilegales. No se pueden
+comprar motores de dos tiempos en Estados Unidos.
 
-I bought three liters of gas and shook five-hunddred mililiters of water in it.
-In the morning I siphoned-off the gas from the top.
-If you are a desperate alcoholic or bent on suicide, you push the straw all of
-the way to the bottom and drink out the ethanol. That is not a suggestion.
+[Compré uno de estos nuevos motores][compra] de cuatro tiempos. El problema de
+los motores de cuatro tiempos con carburador es que funcionan muy mal con
+combustible que contiene etanol. Simplemente no queman bien el etanol. Los
+motores con inyección de combustible lo gestionan sin problemas. Un motor con
+carburador, no. Intenta conseguir un motor de inyección, cuatro tiempos y dos
+caballos y medio de potencia para una pequeña embarcación. Es imposible. Es un
+motor demasiado pequeño para tener inyección de combustible. Por eso tiene
+carburador.
 
-The ethanol free gas did not help. It did not start with the ethanol free gas.
-It is something else.  I took apart the carburetor and found a problem.
-The inside was all gummed-up with gooey, brown fuel, like shellac.
-This is what happens to the gasoline when it sits
-too long. It turns into shellac. Any fuel does this. The fuel stabilizer
-that I put in is supposed to help prevent it. I left the engine for a long,
-long time, more than half a year. From November until July.
-Without running it. That gas was just sitting in there, turning
-into shellac inside the carburetor.
+[compra]: {{ '/2024/02/12/Cayo-Hueso.html' | relative_url }}
 
-The carburetor cleaner spray. I had to be careful not to get it on my skin.
-It burned on contact. It was just painful to get it on me.
-It's from Mexico. It is probably illegal in the United States.
-It did the job.
+Ahora bien, la gasolina sin etanol, como sabes, no es eficiente. No contiene
+recursos renovables, así que, no sé, por alguna razón, el gobierno decidió que
+toda la gasolina tuviera un 10 % de etanol. Al fin y al cabo, los coches pueden
+funcionar con ella. Hace que la gasolina sea renovable al menos en un 10 %.
+Cultivar más maíz. ¿Quién sabe cuáles fueron las motivaciones? Quién presionó
+para que se hiciera, o lo que sea.
 
-The carburetor was quite brown and gummy.
-It is very clear that the gasoline that sat in the carburetor for so long
-had turned to shellac and gummed up the carburetor. Why it ran for a little
-while is a mystery beyond my understanding. I must have been lucky.
+No se pueden comprar motores de dos tiempos ni gasolina sin etanol. Así que mi
+pobre motor de dos caballos y medio con carburador para botes se queda fuera.
+No hay forma de mantenerlo. Me sorprende haber podido comprarlo. Bueno, en el
+lugar donde lo compré, en Florida, tenían combustible sin etanol. En Cayo
+Hueso, Florida. No lo sé. Supongo que todavía hay lugares en el mundo donde se
+puede conseguir combustible sin etanol. Si te vas de viaje, no los vas a
+encontrar. Al menos, no en Estados Unidos.
 
-I cleaned it out. Now you know. It is not only the ethanol in the gas.  The
-ethanol will corrode the gaskets and the metal parts, but that is not the
-problem, yet.  The problem is leaving the fuel in there too long.  Gasoline,
-even with stabilizer in it. It will turn into shellac and gum up. This is how
-I'm destroying the engines-- by not using them.
+Así es la vida en Estados Unidos. Así es como funciona. Si te sales de la
+norma, te quedas solo. Me siento muy alienado por ello. Es un hecho. Las
+personas que establecen las normas no han tenido en cuenta mi forma de vida ni
+mis necesidades. Eso no importa. La mayoría considera aceptable un mundo en el
+que solo se puede obtener combustible con un 10 % de etanol y no se pueden
+adquirir motores de dos tiempos. Es perfecto. Para ellos no es un problema.
 
-Apparently what you can do is... I found a
-little dream valve that will drain out the carburetor. I could try
-pickling my carburetor when I'm not going to use the engine for a while.  So
-long as I know that I'm not using it for a while. It's another thing to pay
-attention to.  I can do that. "A while" would be, I'd say two months
-would be plenty long. Then I should drain it and maybe pour some
-fuel stabilizer into it to take its place, not just air. We'll see.
-I have never read that people pickle with fuel stabilizer. I have read in the
-manual a recommendation that you drain the tank if you're not going to use it.
+No sé qué voy a hacer con el motor. A veces tengo que resistir con todas mis
+fuerzas la tentación de tirarlo por la borda. Eso es lo que hice con el último,
+básicamente. Lo dejé en una calle de Cayo Hueso con una nota que decía:
+«Llévame.  Soy tuyo. Ten cuidado. Te daré problemas».
 
-So. It is me.
-It is not the world.  I can blame the world. I can blame ethanol. I can blame
-the EPA.  What it is is the way I live and what I do. I don't do enough in
-terms of taking care of that engine to keep it running. I didn't know
-enough. That's the way. 
+Volvamos al presente. Compré tres litros de combustible y le añadí quinientos
+mililitros de agua. Por la mañana, extraje el combustible de la parte superior.
+Si eres un alcohólico desesperado o estás decidido a suicidarte, empuja la
+pajita hasta el fondo y bebe el etanol. No es una sugerencia.
 
+La gasolina sin etanol no sirvió de nada. No arrancó con la gasolina sin
+etanol. Es otra cosa. Desmonté el carburador y encontré un problema. El
+interior estaba todo pegajoso, cubierto de un combustible marrón y viscoso,
+como laca. Esto es lo que le pasa a la gasolina cuando se queda parada
+demasiado tiempo. Se convierte en laca. Le pasa a cualquier combustible. El
+estabilizador de combustible que le puse debería ayudar a evitarlo. Dejé el
+motor parado durante mucho tiempo. Tanto tiempo, más de medio año. Desde
+noviembre hasta julio. Sin ponerlo en marcha. El combustible se quedó ahí,
+convirtiéndose en goma laca dentro del carburador.
+
+El spray limpiador de carburadores. Tenía que tener cuidado de que no me cayera
+sobre la piel. Quemaba al contacto. Era muy doloroso si me salpicaba. Es de
+México. Lo llevo conmigo desde hace cinco años. Probablemente sea ilegal en
+Estados Unidos. Cumplió su función.
+
+El carburador estaba bastante marrón y pegajoso. Es evidente que la gasolina
+que permaneció tanto tiempo en el carburador se había convertido en goma laca y
+lo había obstruido. Por qué funcionó durante un tiempo es un misterio que
+escapa a mi comprensión. Debí de tener suerte.
+
+Lo limpié. Ahora ya lo sabes. No es solo el etanol del combustible. El etanol
+corroe las juntas y las piezas metálicas, pero ese no es el problema, todavía.
+El problema es dejar el combustible ahí dentro demasiado tiempo. La gasolina,
+incluso con estabilizador. Se convierte en goma laca y se pega. Así es como
+estoy destruyendo los motores: sin usarlos.
+
+Al parecer, lo que se puede hacer es... Encontré una pequeña válvula que drena
+el carburador. Podría intentar vaciar el carburador cuando no vaya a utilizar
+el motor durante un tiempo. Siempre y cuando sepa que no lo voy a utilizar
+durante un tiempo. Es otra cosa a la que hay que prestar atención. Puedo
+hacerlo. «Un tiempo» sería, diría yo, dos meses sería suficiente. Entonces
+debería vaciarlo y tal vez echarle un poco de estabilizador de combustible para
+sustituirlo, no solo aire. Ya veremos. Nunca he leído que la gente lo conserve
+con estabilizador de combustible. He leído en el manual una recomendación de
+que se vacíe el tanque cuando no se vaya a utilizar el motor.
+
+Así que es yo. No es el mundo. Puedo culpar al mundo. Puedo culpar al etanol.
+Puedo culpar a la Agencia de Protección Ambiental. Lo que pasa es que es mi
+forma de usarlo y lo que hago.  No hago lo suficiente para cuidar ese motor y
+mantenerlo en funcionamiento. No sabía lo suficiente. Así son las cosas.
+
+El motor sigue sin arrancar. Quizás lo haya destrozado.
+
+![description](
+  {{ 'assets/images/2025/07Fueraborda/DCL_4826.JPG' | relative_url }}
+)
+
+![description](
+  {{ 'assets/images/2025/07Fueraborda/DCL_4829.JPG' | relative_url }}
+)
+
+![description](
+  {{ 'assets/images/2025/07Fueraborda/DCL_4835.JPG' | relative_url }}
+)
+
+![description](
+  {{ 'assets/images/2025/07Fueraborda/DCL_4841.JPG' | relative_url }}
+)
+
+![description](
+  {{ 'assets/images/2025/07Fueraborda/DCL_4843.JPG' | relative_url }}
+)
+
+![description](
+  {{ 'assets/images/2025/07Fueraborda/DCL_4845.JPG' | relative_url }}
+)
+
+![description](
+  {{ 'assets/images/2025/07Fueraborda/DCL_4846.JPG' | relative_url }}
+)
+
+![description](
+  {{ 'assets/images/2025/07Fueraborda/DCL_4850.JPG' | relative_url }}
+)
+
+![description](
+  {{ 'assets/images/2025/07Fueraborda/DCL_4856.JPG' | relative_url }}
+)
+
+![description](
+  {{ 'assets/images/2025/07Fueraborda/IMG_0587.jpeg' | relative_url }}
+)
+
+![description](
+  {{ 'assets/images/2025/07Fueraborda/IMG_0589.jpeg' | relative_url }}
+)
+
+![description](
+  {{ 'assets/images/2025/07Fueraborda/IMG_0590.jpeg' | relative_url }}
+)
 
