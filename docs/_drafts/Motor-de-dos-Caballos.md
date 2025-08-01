@@ -245,15 +245,13 @@ etanol. Es otra cosa. Desmonté el carburador y encontré un problema. El
 interior estaba todo pegajoso, cubierto de un combustible marrón y viscoso,
 como laca. Esto es lo que le pasa a la gasolina cuando se queda parada
 demasiado tiempo. Se convierte en laca. Le pasa a cualquier combustible. El
-estabilizador de combustible que le puse debería ayudar a evitarlo. Dejé el
-motor parado durante mucho tiempo. Tanto tiempo, más de medio año. Desde
-noviembre hasta julio. Sin ponerlo en marcha. El combustible se quedó ahí,
-convirtiéndose en goma laca dentro del carburador.
+estabilizador de combustible que le puse debería ayudar a evitarlo.
 
-El spray limpiador de carburadores. Tenía que tener cuidado de que no me cayera
-sobre la piel. Quemaba al contacto. Era muy doloroso si me salpicaba. Es de
-México. Lo llevo conmigo desde hace cinco años. Probablemente sea ilegal en
-Estados Unidos. Cumplió su función.
+La botella de estabilizador dice que funciona «Hasta dos años». «**Hasta** dos
+años».  No es una guarantia que funciona ni una mes. De verdad, no significa
+nada.  Dejé el motor parado durante mucho tiempo. Tanto tiempo, más de medio
+año.  Desde noviembre hasta julio. Sin ponerlo en marcha. El combustible se
+quedó ahí, convirtiéndose en goma laca dentro del carburador.
 
 El carburador estaba bastante marrón y pegajoso. Es evidente que la gasolina
 que permaneció tanto tiempo en el carburador se había convertido en goma laca y
@@ -264,7 +262,12 @@ escapa a mi comprensión. Debí de tener suerte.
   {{ 'assets/images/2025/07Fueraborda/Carburador.jpg' | relative_url }}
 )
 
-Lo limpié. Ahora ya lo sabes. No es solo el etanol del combustible. El etanol
+Lo limpié.  El spray limpiador de carburadores: Tenía que tener cuidado de que
+no me cayera sobre la piel. Quemaba al contacto. Era muy doloroso si me
+salpicaba. Es de México. Lo llevo conmigo desde hace cinco años. Probablemente
+sea ilegal en Estados Unidos. Cumplió su función.
+
+Ahora ya lo sabes. No es solo el etanol del combustible. El etanol
 corroe las juntas y las piezas metálicas, pero ese no es el problema, todavía.
 El problema es dejar el combustible ahí dentro demasiado tiempo. La gasolina,
 incluso con estabilizador. Se convierte en goma laca y se pega. Así es como
