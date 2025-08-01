@@ -25,7 +25,7 @@ vía navegable principal. Subí y bajé un poco sin perder de vista el barco.
 Decidí que el motor funcionaba perfectamente. Subí por Blackwater Creek. Pensé
 en ir al Blackwater Creek Trading Post y echar un vistazo, ya que, según Google
 Maps, allí vendían helados y bebidas frías. Hacía calor. Eso estaría bien. Así
-que me adentré en ese laberinto de canales entre juncos de dos metros de
+que me adentré en ese laberinto de canales entre juncos de tres metros de
 altura, con libélulas y mirlos, algún que otro tocón y algún árbol. Me
 preocupaba no encontrar el camino de vuelta, porque había pequeños canales que
 se desviaban del arroyo principal.
@@ -79,6 +79,10 @@ este mismo lado. Remar por el gran canal ancho con las barcazas pasando y los
 barcos grandes y demás, yendo rápido, «quizás no sea lo más inteligente». Sería
 como cruzar la calle por la rambla saltando a la pata coja en hora punta.
 
+![Construcción de portaaviones, Norfolk, Virginia, EE.UU.](
+  {{ 'assets/images/2025/07Fueraborda/DCL_4826.JPG' | relative_url }}
+)
+
 Pasé casi todo el día intentando arrancar el motor. Probé varias cosas. Una de
 las cosas que probé fue... el motor funciona muy bien cuando lleva combustible sin
 etanol. Pensé: «Bueno, ¿y dónde
@@ -87,6 +91,10 @@ mezclar un poco de agua con el combustible. El agua absorbe el etanol. Luego,
 por supuesto, hay que dejar que se asiente. Si crees que el combustible con
 etanol no va a quemarse en mi motor, puedes estar seguro de que el combustible
 con agua tampoco lo hará.
+
+![Puerto de Norfolk, Virginia, EE.UU.](
+  {{ 'assets/images/2025/07Fueraborda/DCL_4841.JPG' | relative_url }}
+)
 
 Puse el agua en el tanque. La dejé reposar y separarse durante toda la noche,
 antes de drenar el agua por la parte inferior, ya que supuestamente contenía
@@ -98,6 +106,10 @@ dejé reposar y separarse y luego extraje con un sifón la combustible que estab
 la parte superior y la vertí en el tanque. Luego intenté arrancarlo de nuevo.
 Esta vez intentó arrancar, pero en realidad no funcionó. Estaba... ¿mejor?
 
+![Viste desde el Río Elizabeth en Norfolk, EE.UU.](
+  {{ 'assets/images/2025/07Fueraborda/DCL_4829.JPG' | relative_url }}
+)
+
 Entonces, ta, déjame comprobar la bujía. Saqué la bujía. La bujía está bien. Es
 una bujía nueva, ya que el motor es nuevo y está bien. Está bien. De todos
 modos, limpié los puntos. Ni siquiera estaban realmente sucios. Froté los
@@ -107,6 +119,11 @@ electrónico. Quedaron bonitos y brillantes.
 Con la bujía reinstalada, por supuesto, no hay ninguna diferencia. El
 rendimiento del motor es el mismo. Vacío. Fallido. Poco cooperativo. Inútil.
 Bueno, no inútil. Estoy haciendo un excelente ejercicio para los brazos.
+
+![Viste desde el Río Elizabeth en Norfolk, EE.UU.](
+  {{ 'assets/images/2025/07Fueraborda/DCL_4843.JPG' | relative_url }}
+)
+
 
 Al día siguiente pensé: «Bueno, voy a probar en la ferretería. A veces venden
 combustible sin etanol». Remé hasta la orilla, almorcé y empecé a usar el
@@ -136,6 +153,10 @@ probablemente en la caja. Llevaba un mes trabajando allí y no
 había explorado la tienda. No lo sé.  Espero que me entendiera y supiera de lo
 que estaba hablando.
 
+![Vista del Río Elizabeth, Puerto de Narfolk, Virginia, EE.UU.](
+  {{ 'assets/images/2025/07Fueraborda/DCL_4835.JPG' | relative_url }}
+)
+
 Así que no fui a la ferretería. Pero me subí al omnibús y me encontré en medio
 de la nada suburbana. No hay que alejarse mucho de Norfolk para estar en medio
 de la nada suburbana. Ya sabes cómo es: nada más que carreteras y coches.
@@ -157,6 +178,10 @@ No sé qué hacer. Mi motor no arranca. ¿Lo desmonto? ¿Desmonto el carburador 
 lo vuelvo a montar? ¿Vuelvo a probar el truco del agua para obtener gasolina
 sin etanol?
 
+![Gruas alrededor del buques de nave, Puerto de Narfolk, Virginia, EE.UU.](
+  {{ 'assets/images/2025/07Fueraborda/DCL_4845.JPG' | relative_url }}
+)
+
 Esto es lo que sucedió. Los motores de dos tiempos funcionan perfectamente. Son
 muy fiables. Funcionan muy bien. Ya no son legales porque son demasiado
 contaminantes. Son demasiado ruidosos. Emiten demasiadas emisiones. Todos esos
@@ -177,10 +202,14 @@ carburador.
 
 Ahora bien, la gasolina sin etanol, como sabes, no es eficiente. No contiene
 recursos renovables, así que, no sé, por alguna razón, el gobierno decidió que
-toda la gasolina tuviera un 10 % de etanol. Al fin y al cabo, los coches pueden
-funcionar con ella. Hace que la gasolina sea renovable al menos en un 10 %.
+toda la gasolina tuviera un 10% de etanol. Al fin y al cabo, los coches pueden
+funcionar con ella. Hace que la gasolina sea renovable al menos en un 10%.
 Cultivar más maíz. ¿Quién sabe cuáles fueron las motivaciones? Quién presionó
 para que se hiciera, o lo que sea.
+
+![Buque de vela clásica, turística en el Puerto de Norfolk, Virginia, EE.UU.](
+  {{ 'assets/images/2025/07Fueraborda/DCL_4846.JPG' | relative_url }}
+)
 
 No se pueden comprar motores de dos tiempos ni gasolina sin etanol. Así que mi
 pobre motor de dos caballos y medio con carburador para botes se queda fuera.
@@ -194,13 +223,17 @@ Así es la vida en Estados Unidos. Así es como funciona. Si te sales de la
 norma, te quedas solo. Me siento muy alienado por ello. Es un hecho. Las
 personas que establecen las normas no han tenido en cuenta mi forma de vida ni
 mis necesidades. Eso no importa. La mayoría considera aceptable un mundo en el
-que solo se puede obtener combustible con un 10 % de etanol y no se pueden
+que solo se puede obtener combustible con un 10% de etanol y no se pueden
 adquirir motores de dos tiempos. Es perfecto. Para ellos no es un problema.
 
 No sé qué voy a hacer con el motor. A veces tengo que resistir con todas mis
 fuerzas la tentación de tirarlo por la borda. Eso es lo que hice con el último,
 básicamente. Lo dejé en una calle de Cayo Hueso con una nota que decía:
 «Llévame.  Soy tuyo. Ten cuidado. Te daré problemas».
+
+![Sifón de combustible](
+  {{ 'assets/images/2025/07Fueraborda/IMG_0587.jpeg' | relative_url }}
+)
 
 Volvamos al presente. Compré tres litros de combustible y le añadí quinientos
 mililitros de agua. Por la mañana, extraje el combustible de la parte superior.
@@ -227,6 +260,10 @@ que permaneció tanto tiempo en el carburador se había convertido en goma laca 
 lo había obstruido. Por qué funcionó durante un tiempo es un misterio que
 escapa a mi comprensión. Debí de tener suerte.
 
+![Carburador](
+  {{ 'assets/images/2025/07Fueraborda/Carburador.jpg' | relative_url }}
+)
+
 Lo limpié. Ahora ya lo sabes. No es solo el etanol del combustible. El etanol
 corroe las juntas y las piezas metálicas, pero ese no es el problema, todavía.
 El problema es dejar el combustible ahí dentro demasiado tiempo. La gasolina,
@@ -243,6 +280,10 @@ sustituirlo, no solo aire. Ya veremos. Nunca he leído que la gente lo conserve
 con estabilizador de combustible. He leído en el manual una recomendación de
 que se vacíe el tanque cuando no se vaya a utilizar el motor.
 
+![Norfolk, Virginia de noche, desde el fondeadero](
+  {{ 'assets/images/2025/07Fueraborda/DCL_4850.JPG' | relative_url }}
+)
+
 Así que es yo. No es el mundo. Puedo culpar al mundo. Puedo culpar al etanol.
 Puedo culpar a la Agencia de Protección Ambiental. Lo que pasa es que es mi
 forma de usarlo y lo que hago.  No hago lo suficiente para cuidar ese motor y
@@ -251,50 +292,6 @@ mantenerlo en funcionamiento. No sabía lo suficiente. Así son las cosas.
 El motor sigue sin arrancar. Quizás lo haya destrozado.
 
 ![description](
-  {{ 'assets/images/2025/07Fueraborda/DCL_4826.JPG' | relative_url }}
-)
-
-![description](
-  {{ 'assets/images/2025/07Fueraborda/DCL_4829.JPG' | relative_url }}
-)
-
-![description](
-  {{ 'assets/images/2025/07Fueraborda/DCL_4835.JPG' | relative_url }}
-)
-
-![description](
-  {{ 'assets/images/2025/07Fueraborda/DCL_4841.JPG' | relative_url }}
-)
-
-![description](
-  {{ 'assets/images/2025/07Fueraborda/DCL_4843.JPG' | relative_url }}
-)
-
-![description](
-  {{ 'assets/images/2025/07Fueraborda/DCL_4845.JPG' | relative_url }}
-)
-
-![description](
-  {{ 'assets/images/2025/07Fueraborda/DCL_4846.JPG' | relative_url }}
-)
-
-![description](
-  {{ 'assets/images/2025/07Fueraborda/DCL_4850.JPG' | relative_url }}
-)
-
-![description](
   {{ 'assets/images/2025/07Fueraborda/DCL_4856.JPG' | relative_url }}
-)
-
-![description](
-  {{ 'assets/images/2025/07Fueraborda/IMG_0587.jpeg' | relative_url }}
-)
-
-![description](
-  {{ 'assets/images/2025/07Fueraborda/IMG_0589.jpeg' | relative_url }}
-)
-
-![description](
-  {{ 'assets/images/2025/07Fueraborda/IMG_0590.jpeg' | relative_url }}
 )
 
