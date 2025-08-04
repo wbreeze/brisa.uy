@@ -21,7 +21,7 @@ esperándome en el almacén.
 )
 
 Mientras navegaba con treinta nudos de viento desde Dry Tortugas a Cayo Hueso,
-observé cómo estas vergas arrancaban los pernos de la cubierta.
+observé cómo estos palos arrancaban los pernos de la cubierta.
 
 En lugar de intentar reparar este esquema, evidentemente defectuoso, compré un
 nuevo boomkin de acero inoxidable que se fija al casco.
