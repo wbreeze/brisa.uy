@@ -292,9 +292,11 @@ Puedo culpar a la Agencia de Protección Ambiental. Lo que pasa es que es mi
 forma de usarlo y lo que hago.  No hago lo suficiente para cuidar ese motor y
 mantenerlo en funcionamiento. No sabía lo suficiente. Así son las cosas.
 
-El motor sigue sin arrancar. Quizás lo haya destrozado.
+El motor sigue sin funcionar. Lo he tirado unas cuantas cientos de veces más y
+lo he comprobado todo. Sigue sin arrancar. Tengo a bordo del Brisa un excelente
+aparato para hacer ejercicio.
 
-![description](
+![Muelle en Hampton, Virginia, EE.UU.](
   {{ 'assets/images/2025/07Fueraborda/DCL_4856.JPG' | relative_url }}
 )
 
