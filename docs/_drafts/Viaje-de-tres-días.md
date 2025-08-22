@@ -12,10 +12,18 @@ I always take that as a good sign. Pelicans are marvelous to see, as well as
 dolphins. Dolphins were playing alongside me in the strong current
 flowing against me there by Fort Monroe and Point Comfort.
 
+![description](
+  {{ 'assets/images/2025/08ViDeTres//DCL_4941.JPG' | relative_url }}
+)
+
 The pelicans are fishing.  They are having a good time in their lives. Well, I
 say they are having a good time.  They appear friendly and fond to me. That is
 what I mean. My impression is that they are having a good time.  The dolphins
 and the pelicans are part of the life that I enjoy out here sailing.
+
+![description](
+  {{ 'assets/images/2025/08ViDeTres//DCL_4858.jpeg' | relative_url }}
+)
 
 A pair of container ships play chicken in the channel. "We'll see each other
 port to port," they agree. "One whistle." They pass with a boat length between
@@ -33,6 +41,10 @@ The next day the wind comes up. It comes up fiercely, like a lion, right on
 the bow. White caps form everywhere cresting waves of nearly a meter.
 The waves stop the boat dead, nearly dead sometimes. I cannot make more than
 two knots on average motoring against these waves and wind.
+
+![description](
+  {{ 'assets/images/2025/08ViDeTres//DCL_4945.JPG' | relative_url }}
+)
 
 I tack offshore close to the wind, but still away, back, losing ground.
 I want to do it early, before the wind clocks east as it is forecast to do.
@@ -57,6 +69,10 @@ street lights blaze like fires along the Jersey Shore. At two in the morning
 some early recreational fishing boats make bee-lines away from Manesquan inlet,
 out to sea, with powerful headlamps on towers, pointed over their bows, burning
 ahead of them into the darkness.
+
+![description](
+  {{ 'assets/images/2025/08ViDeTres//DCL_4946.JPG' | relative_url }}
+)
 
 This is so exciting. I'm approaching Sandy Hook. It's five thirty in the
 morning and oh, the world is starting to be dusky gray. Something like that.
@@ -87,6 +103,10 @@ of them either. Just enough to keep me going. I had one delightful run of
 snatches after I watched a barge pass me, when there was still sailing and there
 was still wind. And then I woke up and it was over because a gust of wind had
 come to move the boat at six knots-- over five knots steady.
+
+![description](
+  {{ 'assets/images/2025/08ViDeTres/Cartas.jpg' | relative_url }}
+)
 
 I think, "Why do we speed up like this." I came out and all of a sudden I saw
 that there are all of these dark clouds setting-in over the shoreline. Ahead is
@@ -122,6 +142,10 @@ Sandy Hook. If I was there now, I would be swimming upstream. No. I'm not there
 yet.  I won't be there for another two hours. By then it will have abated.  It
 will have slacked enough not to harm me, anyway.
 
+![description](
+  {{ 'assets/images/2025/08ViDeTres//DCL_4948.JPG' | relative_url }}
+)
+
 No, no. I'll round the hook and put down the anchor and try to get some sleep.
 According to the chart it'll be about nine o'clock by then. There. Four hours.
 I have to survive four hours.  I have to go sleep deprived through the little
@@ -146,6 +170,10 @@ like it's getting light fast. It feels like it's taking forever.  I know.
 Yesterday the sun came up a big orange ball. I was out in the Atlantic where,
 down by Cape May...  What a day that was. Now I don't know if I'll see the sun
 rise. All I see is that the world is getting lighter.
+
+![description](
+  {{ 'assets/images/2025/08ViDeTres//DCL_4958.JPG' | relative_url }}
+)
 
 I don't even know what day it is. I do know. It's Saturday.  I left
 on Wednesday night, Thursday night, Friday night. Wednesday, Thursday, three
