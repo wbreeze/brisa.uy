@@ -1,6 +1,6 @@
 ---
 layout: post
-title: La Orilla Occidental de Manhattan
+title: La Costa Occidental de Manhattan
 date: 2025-08-29
 tags: Navegación Nueva_York Río_Hudson Manhattan
 excerpt: La ciudad de Nueva York por El Río Hudson
@@ -11,7 +11,7 @@ Island, se puede ver toda la parte occidental de Manhattan, toda la costa
 occidental de Manhattan. Es la primera costa occidental de los Estados Unidos.
 Para muchos de los que viven allí, en Manhattan, es la frontera de su mundo.
 
-![description](
+![El Torre de libertad en el sur de Manhattan](
   {{ 'assets/images/2025/08Hudson/DCL_4972.JPG' | relative_url }}
 )
 
@@ -22,7 +22,7 @@ rellenado el espacio detrás del muro para crear más terreno, más inmuebles qu
 poseer y desarrollar. Para construir. Para levantar edificios, parques,
 instalaciones recreativas y atracciones. Los edificios son magníficos.
 
-![description](
+![Torre de apartamentos en Battery Park City, Manhattan](
   {{ 'assets/images/2025/08Hudson/DCL_4987.JPG' | relative_url }}
 )
 
@@ -32,7 +32,7 @@ pasajeros contra el World Trade Center y causaron una gran cantidad de víctimas
 mortales. En fin, destruyeron cosas que se habían construido y creado. Sí, ¿por
 qué me desvié por ahí?
 
-![description](
+![El Empire State Building con las torres del centro de la ciudad detrás](
   {{ 'assets/images/2025/08Hudson/DCL_4992.JPG' | relative_url }}
 )
 
@@ -40,7 +40,7 @@ Ahora, mucho tiempo después, la zona vuelve a estar en pleno esplendor. Es un
 lugar precioso. Hay un monumento conmemorativo del atentado. Donde estaban los
 cimientos de las Torres Gemelas, ahora hay fuentes.
 
-![description](
+![Hoboken Terminal desde el Río Hudson](
   {{ 'assets/images/2025/08Hudson/DCL_5000.JPG' | relative_url }}
 )
 
@@ -49,7 +49,7 @@ comer, cosas que ver. Arquitectura antigua y moderna. El Oculus. Wall Street.
 El Ayuntamiento. El puente de Brooklyn. South Street Seaport. Tiendas de lujo
 en el SoHo. Chinatown.
 
-![description](
+![atracción de diversión en lancha rápida, "The Beast", Río Hudson](
   {{ 'assets/images/2025/08Hudson/beast.jpg' | relative_url }}
 )
 
@@ -59,35 +59,25 @@ escultura es de Jaume Plensa, monumental y hermosa.
 
 [alma]: https://jaumeplensa.com/works-and-projects/public-space/waters-soul-2020
 
-![description](
+![El alma del agua, de Jaume Plensa, Jersey City, NJ, desde el Río Hudson](
   {{ 'assets/images/2025/08Hudson/DCL_4995.JPG' | relative_url }}
 )
 
-Pasa por el museo Intrepid. Es un portaaviones con algunos aviones en la parte
-superior. Junto a él, encontrarás un avión supersónico Concord de British
-Airways. Es muy pequeño. Al menos, junto al portaaviones parece diminuto.
-
-![description](
-  {{ 'assets/images/2025/08Hudson/DCL_5014.jpeg' | relative_url }}
-)
-
-Quizás sea una maqueta a escala. Uno casi se sorprende de lo pequeño que es.
-¿Qué más?
-
 La terminal de cruceros de Manhattan. Habrá un crucero. Pasamos por Chelsea
-Piers. Aquí hay otro grupo de edificios muy bonitos.
+Piers. Aquí hay otro grupo de edificios muy bonitos. Es «Hudson Yards» por
+el fondo.
 
-![description](
+![Edificios de Hudson Yards](
   {{ 'assets/images/2025/08Hudson/DCL_5005.jpeg' | relative_url }}
 )
 
-Quedan muy bien juntos, Chelsea Piers.
+Quedan muy bien juntos, Chelsea Piers y Hudson Yards.
 
 Había una réplica del mismo tipo de barco que se utiliza en Francia, en el río
 Sena, para navegar por el río en París, con un restaurante en su interior. Es
 un restaurante flotante, el [«Celestial»][bateaux].
 
-![description](
+![El barco restaurante Bateaux, Celestial, de City Cruises](
   {{ 'assets/images/2025/08Hudson/Bateaux.jpg' | relative_url }}
 )
 
@@ -97,7 +87,25 @@ techo de cristal, almorzando, tomando café o té, socializando.
 
 [bateaux]: https://www.cityexperiences.com/new-york/city-cruises/bateaux-luxury-sightseeing-lunch-cruise/
 
-![description](
+Pasa por el [museo Intrepid][intrepid]. Es un portaaviones con algunos aviones
+en la parte superior. Junto a él, encontrarás un avión supersónico Concord de
+British Airways. Es muy pequeño. Al menos, junto al portaaviones parece
+diminuto.
+
+[intrepid]: https://intrepidmuseum.org/
+
+![El museo Intrepid, Muelle 86, Manhattan](
+  {{ 'assets/images/2025/08Hudson/DCL_5014.jpeg' | relative_url }}
+)
+
+Quizás sea una maqueta a escala. Uno casi se sorprende de lo pequeño que es.
+¿Qué más?
+
+Ahore estamos a la parte alta de Manhattan, en el Upper West Side. La
+autopista del lado oeste se eleva aquí y comienza hacia el norte. El Riverside
+Park comienza abajo, junto al agua.
+
+![La comienza del parque Riverside y la autopista West Side de Manhattan](
   {{ 'assets/images/2025/08Hudson/DCL_5023.JPG' | relative_url }}
 )
 
@@ -106,16 +114,14 @@ Rejduch cuenta en su libro, _Hasta donde me lleve el viento_ de su estadia allí
 en los primeros meses de su gran voyaje de viente años. Ahora se encuentra en
 desuso, cerrado.
 
-![description](
+![Puerto deportivo de la calle 79](
   {{ 'assets/images/2025/08Hudson/IMG_0634.jpeg' | relative_url }}
 )
 
-Pasamos a la parte alta de Manhattan, en el Upper West Side. La
-autopista del lado oeste se eleva aquí y comienza hacia el norte. El Riverside
-Park comienza abajo, junto al agua. En la ladera y por encima de él se alzan
-magníficos edificios de apartamentos de ladrillo.
+En la ladera y por encima del parque Riverside se alzan magníficos edificios de
+apartamentos de ladrillo.
 
-![description](
+![Edificios de ladrillo del Upper West Side, Manhattan](
   {{ 'assets/images/2025/08Hudson/DCL_5025.jpeg' | relative_url }}
 )
 
@@ -126,7 +132,7 @@ El general Grant está enterrado en la tumba. Fue general del bando ganador en
 la guerra civíl de los Estados Unidos. (Fue la Unión del norte
 industrial contra la Confederación del sur agrícola y esclavista).
 
-![description](
+![La tumba de Ulysses S. Grant, Manhattan](
   {{ 'assets/images/2025/08Hudson/DCL_5030.jpeg' | relative_url }}
 )
 
@@ -151,7 +157,7 @@ que consideramos lo mejor, el aprendizaje más elevado y evolucionado.
 
 [columbia]: https://www.columbia.edu/
 
-![description](
+![Estación de residuos, Harlem, Calle 135](
   {{ 'assets/images/2025/08Hudson/DCL_5035.JPG' | relative_url }}
 )
 
@@ -167,9 +173,8 @@ y coches, taxis, autobuses, Ubers, ambulancias, coches de policía, vehículos d
 construcción. Cuando estás debajo, es como un ruido ensordecedor. Es como estar
 debajo de un tren. Es increíblemente ruidoso.
 
-![description](
-  {{ 'assets/images/2025/08Hudson/DCL_5159.JPG' | relative_url }}
-)
+![George Washington Bridge desde el norte, con edificios de Manhattan en el
+fondo]( {{ 'assets/images/2025/08Hudson/DCL_5159.JPG' | relative_url }})
 
 ¿Y después de eso, qué hay? Todo está cubierto de bosques a lo largo de la
 costa. No está muy urbanizado, la verdad. No mucho.
@@ -180,7 +185,7 @@ con tapices medievales, armaduras, armas y muebles. Reproduce un castillo
 medieval. Cómo vivían los ricos en la Edad Media, los entonces ultra ricos,
 cómo era su vida.
 
-![description](
+![Spuyten Duyval desde el Río Hudson](
   {{ 'assets/images/2025/08Hudson/IMG_0678.jpeg' | relative_url }}
 )
 
@@ -198,7 +203,7 @@ del Río Hudson.
 La autopista West Side Highway cruza un puente elevado y se convierte en la
 Henry Hudson Parkway.
 
-![description](
+![Marina deportiva Dyckman, The Cloisters](
   {{ 'assets/images/2025/08Hudson/DCL_5161.JPG' | relative_url }}
 )
 
@@ -208,7 +213,7 @@ altura.
 
 [palisades]: https://es.wikipedia.org/wiki/Palisades_(r%C3%ADo_Hudson)
 
-![description](
-  {{ 'assets/images/2025/08Hudson/DCL_5183.JPG' | relative_url }}
+![Monasterio de las hermanas de san José en lo alto de los acantilados de
+Palisades]( {{ 'assets/images/2025/08Hudson/DCL_5183.JPG' | relative_url }}
 )
 
