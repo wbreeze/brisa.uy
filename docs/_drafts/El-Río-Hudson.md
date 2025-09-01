@@ -1,8 +1,8 @@
 ---
 layout: post
-title: El Río Hudson
+title: La Orilla Occidental de Manhattan
 date: 2025-08-29
-tags: Navegación Nueva_York Río_Hudson
+tags: Navegación Nueva_York Río_Hudson Manhattan
 excerpt: La ciudad de Nueva York por El Río Hudson
 ---
 
@@ -81,10 +81,11 @@ Piers. Aquí hay otro grupo de edificios muy bonitos.
   {{ 'assets/images/2025/08Hudson/DCL_5005.jpeg' | relative_url }}
 )
 
-Quedan muy bien juntos, Chelsea Piers. Había una réplica del mismo tipo de
-barco que se utiliza en Francia, en el río Sena, para navegar por el río en
-París, con un restaurante en su interior. Es un restaurante flotante, el
-[«Celestial»][bateaux].
+Quedan muy bien juntos, Chelsea Piers.
+
+Había una réplica del mismo tipo de barco que se utiliza en Francia, en el río
+Sena, para navegar por el río en París, con un restaurante en su interior. Es
+un restaurante flotante, el [«Celestial»][bateaux].
 
 ![description](
   {{ 'assets/images/2025/08Hudson/Bateaux.jpg' | relative_url }}
@@ -161,8 +162,8 @@ enseñanza y la investigación.
 ¿Qué opinas? La Universidad de Columbia.
 
 Después de cruzar por debajo del puente George Washington... Es uno de los
-puentes más transitados del país. Siempre está lleno de tráfico, con camiones y
-coches, taxis, autobuses, Ubers, ambulancias, coches de policía, vehículos de
+puentes más transitados del país. Siempre está lleno de tránsito, con camiones
+y coches, taxis, autobuses, Ubers, ambulancias, coches de policía, vehículos de
 construcción. Cuando estás debajo, es como un ruido ensordecedor. Es como estar
 debajo de un tren. Es increíblemente ruidoso.
 
@@ -173,7 +174,7 @@ debajo de un tren. Es increíblemente ruidoso.
 ¿Y después de eso, qué hay? Todo está cubierto de bosques a lo largo de la
 costa. No está muy urbanizado, la verdad. No mucho.
 
-Por encima del puente George Washington en la isla de Manhatten. Allí encuentra
+Por encima del puente George Washington en la isla de Manhattan. Allí encuentra
 «The Cloisters». Es un museo medieval del Museo Metropolitano de Arte. Cuenta
 con tapices medievales, armaduras, armas y muebles. Reproduce un castillo
 medieval. Cómo vivían los ricos en la Edad Media, los entonces ultra ricos,
