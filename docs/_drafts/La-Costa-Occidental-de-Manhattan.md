@@ -177,31 +177,13 @@ debajo de un tren. Es increíblemente ruidoso.
 fondo]( {{ 'assets/images/2025/08Hudson/DCL_5159.JPG' | relative_url }})
 
 ¿Y después de eso, qué hay? Todo está cubierto de bosques a lo largo de la
-costa. No está muy urbanizado, la verdad. No mucho.
+costa. No está muy urbanizado, la verdad. Son parques. El parque «Inwood Hill.»
 
 Por encima del puente George Washington en la isla de Manhattan. Allí encuentra
 «The Cloisters». Es un museo medieval del Museo Metropolitano de Arte. Cuenta
 con tapices medievales, armaduras, armas y muebles. Reproduce un castillo
 medieval. Cómo vivían los ricos en la Edad Media, los entonces ultra ricos,
 cómo era su vida.
-
-![Spuyten Duyval desde el Río Hudson](
-  {{ 'assets/images/2025/08Hudson/IMG_0678.jpeg' | relative_url }}
-)
-
-A final llegamos a Spuyten Duyval. Es el punto más al norte de la isla de
-Manhattan.  El río Harlem se bifurca desde el Hudson aquí, en el puente
-giratorio ferroviario de Spuyten Duyval. El Harlem es un río muy estrecho que
-divide los distritos neoyorquinos de Manhattan y el Bronx.
-
-Los trenes de cercanías Metro-North pasan por allí.  Doblan la esquina y siguen
-la orilla norte del río Harlem en su camino hacia la estación Grand Central
-Terminal.  Las vías en dirección norte desde Penn Station cruzan el puente. Se
-unen a las de Grand Central Terminal por la vía que sigue la orilla oriental
-del Río Hudson.
-
-La autopista West Side Highway cruza un puente elevado y se convierte en la
-Henry Hudson Parkway.
 
 ![Marina deportiva Dyckman, The Cloisters](
   {{ 'assets/images/2025/08Hudson/DCL_5161.JPG' | relative_url }}
@@ -216,4 +198,22 @@ altura.
 ![Monasterio de las hermanas de san José en lo alto de los acantilados de
 Palisades]( {{ 'assets/images/2025/08Hudson/DCL_5183.JPG' | relative_url }}
 )
+
+A final llegamos a Spuyten Duyval. Es el punto más al norte de la isla de
+Manhattan.  El río Harlem se bifurca desde el Hudson aquí, en el puente
+giratorio ferroviario de Spuyten Duyval. El Harlem es un río muy estrecho que
+divide los distritos neoyorquinos de Manhattan y el Bronx.
+
+![Spuyten Duyval desde el Río Hudson](
+  {{ 'assets/images/2025/08Hudson/IMG_0678.jpeg' | relative_url }}
+)
+
+Los trenes de cercanías Metro-North pasan por allí.  Doblan la esquina y siguen
+la orilla norte del río Harlem en su camino hacia la estación Grand Central
+Terminal.  Las vías en dirección norte desde Penn Station cruzan el puente. Se
+unen a las de Grand Central Terminal por la vía que sigue la orilla oriental
+del Río Hudson.
+
+La autopista West Side Highway cruza un puente elevado y se convierte en la
+Henry Hudson Parkway. A partir de ahí, la vida sigue. Manhattan, no.
 
