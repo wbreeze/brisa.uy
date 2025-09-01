@@ -15,9 +15,9 @@ Para muchos de los que viven allí, en Manhattan, es la frontera de su mundo.
   {{ 'assets/images/2025/08Hudson/DCL_4972.JPG' | relative_url }}
 )
 
-Bueno, en la costa oeste de Manhattan, se empieza en Battery Park y luego está
-Battery Park City, que es una urbanización. Todo esto está construido sobre
-terrenos ganados al mar... Han construido un muro a lo largo del río. Han
+Bueno, en la costa occidental de Manhattan, se empieza en Battery Park y luego
+está Battery Park City, que es una urbanización. Todo esto está construido
+sobre terrenos ganados al mar... Han construido un muro a lo largo del río. Han
 rellenado el espacio detrás del muro para crear más terreno, más inmuebles que
 poseer y desarrollar. Para construir. Para levantar edificios, parques,
 instalaciones recreativas y atracciones. Los edificios son magníficos.
@@ -168,7 +168,7 @@ construcción. Cuando estás debajo, es como un ruido ensordecedor. Es como esta
 debajo de un tren. Es increíblemente ruidoso.
 
 ![description](
-  {{ 'assets/images/2025/08Hudson/DCL_5040.JPG' | relative_url }}
+  {{ 'assets/images/2025/08Hudson/DCL_5159.JPG' | relative_url }}
 )
 
 ¿Y después de eso, qué hay? Todo está cubierto de bosques a lo largo de la
@@ -181,7 +181,7 @@ medieval. Cómo vivían los ricos en la Edad Media, los entonces ultra ricos,
 cómo era su vida.
 
 ![description](
-  {{ 'assets/images/2025/08Hudson/DCL_5038.JPG' | relative_url }}
+  {{ 'assets/images/2025/08Hudson/IMG_0678.jpeg' | relative_url }}
 )
 
 A final llegamos a Spuyten Duyval. Es el punto más al norte de la isla de
@@ -198,6 +198,17 @@ del Río Hudson.
 La autopista West Side Highway cruza un puente elevado y se convierte en la
 Henry Hudson Parkway.
 
+![description](
+  {{ 'assets/images/2025/08Hudson/DCL_5161.JPG' | relative_url }}
+)
+
 Hay un pequeño club náutico allí, con veleros. Es muy bonito. Y al otro lado,
-frente a él, los acantilados de Palisades, de cincuenta metros de altura.
+frente a él, los [acantilados de Palisades][palisades], de cien metros de
+altura.
+
+[palisades]: https://es.wikipedia.org/wiki/Palisades_(r%C3%ADo_Hudson)
+
+![description](
+  {{ 'assets/images/2025/08Hudson/DCL_5183.JPG' | relative_url }}
+)
 
