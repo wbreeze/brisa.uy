@@ -1,0 +1,65 @@
+---
+layout: post
+title: Argo y Ariadne
+date: 2025-09-10
+tags: curiosidades buques
+excerpt: Era extraño cómo el barco podía mantenerse
+  completamente inmóvil sin... No vi ninguna rueba de contacto con el suelo.
+---
+
+Bajando por el río desde el puente Bear Mountain, pasando por el paso allí,
+hacia Peakskill. Justo en la segunda curva, en la parte sur de la curva en
+forma S, había un barco de investigación llamado «Argo», un barco de tamaño
+mediano, que permanecía inmóvil en el agua. No se movía.
+
+![Barco de investigación en el Río Hudson](
+  {{ 'assets/images/2025/09Argo/DCL_5123.JPG' | relative_url }}
+)
+
+No tenía el ancla echada. Era extraño cómo el barco podía mantenerse
+completamente inmóvil sin... No vi ninguna prueba de contacto con el suelo.
+Debía de ser un barco muy inteligente con propulsores muy ágiles. Creo que era
+como una nave espacial.
+
+![Proa del barco Ariadne](
+  {{ 'assets/images/2025/09Argo/DCL_5117.JPG' | relative_url }}
+)
+
+Un barco grande. Parecía que estaba justo en medio del río, pero no era así.
+Estaba hacia la orilla norte, pero al doblar la curva, parecía que estaba justo
+en medio del río. Así que fui hacia el sur y, cuando miré atrás, vi que en
+realidad estaba bastante más hacia el lado norte. El lado rojo del río. Argo.
+Me pregunto qué era. Algún tipo de barco de investigación. No se movían.
+Estaban estudiando algo allí.
+
+![Ariadne con el puente Tappan Zee](
+  {{ 'assets/images/2025/09Argo/DCL_5112.JPG' | relative_url }}
+)
+
+Al salir de Nyack había otro muy similar, el Ariadne, justo al norte del puente
+Tappan Zee.
+
+![buque cablerío](
+  {{ 'assets/images/2025/09Argo/Ariadne.JPG' | relative_url }}
+)
+
+Según mis investigaciones en Internet, ambos barcos pertenecen a una empresa
+llamada [«Asso.subsea»][asso], con sede en Grecia. La empresa se dedica a
+tender cables submarinos, incluidos cables de comunicación y cables eléctricos
+para parques eólicos marinos.
+
+[asso]: https://www.assogroup.com/our-fleet/
+
+![description](
+  {{ 'assets/images/2025/09Argo/DCL_5121.JPG' | relative_url }}
+)
+
+Según la descripción de Ariadne, lleva a bordo algo llamado [«sistema de
+posicionamiento dinámico»][dp]. Este sistema está conectado a los sensores,
+hélices, timones y propulsores del barco para mantener su posición. Los barcos
+están equipados con propulsores adicionales y poco habituales para este fin. Al
+parecer, esta es la magia que ha permitido a estos barcos permanecer inmóviles
+en el río, a pesar de las corrientes y los vientos, sin necesidad de anclas.
+
+[dp]: https://www.kongsberg.com/maritime/products/positioning-and-manoeuvring/dynamic-positioning/dynamic-positioning-system-dual-redundant/
+
