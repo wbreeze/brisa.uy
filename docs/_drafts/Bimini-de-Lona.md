@@ -12,9 +12,17 @@ centímetros por debajo del agua. Me dan envidia esas maravillosas toldos que
 colocan en la parte trasera, alrededor de la cabina, esos toldos bimini que los
 protegen completamente de los elementos.
 
+![Lona del Velero Utopia](
+  {{ 'assets/images/2025/09Bimini/DCL_5240.JPG' | relative_url }}
+)
+
 Me pregunto qué pasa con toda esa lona en una tormenta. Cuánto resistencia al
 viento crean, qué le hace al barco, cómo aguanta. Creo que evitan las tormentas
 por completo. Nunca se acercan a una tormenta. Yo tampoco, gracias a Dios.
+
+![Lona del Velero Valhalla](
+  {{ 'assets/images/2025/09Bimini/DCL_5241.JPG' | relative_url }}
+)
 
 La cabina del Brisa no tiene nada de esa lona. Tengo bastantes artilugios.
 Tengo un Starlink. Tengo mi antena de iridio y puedo conectarla si quiero
@@ -28,6 +36,10 @@ solo los faxes meteorológicos de la radio HF me proporcionaban el clima en alta
 mar. PredictWind funcionará con Iridium, supuestamente. La previsión
 meteorológica de Garmin inReach es inútilmente imprecisa.
 
+![Lona del Velero Quest II](
+  {{ 'assets/images/2025/09Bimini/DCL_5242.JPG' | relative_url }}
+)
+
 No tengo un navegador cartográfico. La mayoría de estos barcos tienen un
 navegador cartográfico. Yo uso un iPad con Navionics. Estos barcos tienen todo
 tipo de instrumentos: velocidad del viento, dirección del viento, velocidad del
@@ -35,6 +47,10 @@ barco en el agua, temperatura del aire, temperatura del agua. Muchos de ellos
 tienen radar. Yo tengo profundidad porque es esencial para fondear. Eso es
 todo. Tengo una cuerda marcada en brazas, con un peso en el extremo, por si
 falla la sonda.
+
+![Lona del Velero Il Sogno](
+  {{ 'assets/images/2025/09Bimini/DCL_5243.JPG' | relative_url }}
+)
 
 Así que esta mañana me he trasladado del fondeadero abarrotado, que está
 abarrotado porque está cerca de todas las instalaciones, a este fondeadero más
@@ -47,16 +63,20 @@ durante la noche. Todos los modelos muestran vientos constantes de hasta 17
 nudos, todos del sur.
 
 Esto ocurrió ayer por la tarde durante tres o cuatro horas: vientos de veinte
-nudos. Se puso bastante agitado, con olas por todas partes, de medio metro
-aproximadamente, y era incómodo.
+nudos. Se puso bastante agitado, con corderos por todas partes, olas de medio
+metro aproximadamente, y era incómodo.
+
+![Velero sin Lona](
+  {{ 'assets/images/2025/09Bimini/DCL_5244.JPG' | relative_url }}
+)
 
 Así que aquí, en la parte sur de la bahía, encontré este otro barco. Mira esto,
 como yo. Sin cabina cubierta con lona. Y los dos somos los suficientemente
 inteligentes, me gusta decirme a mí mismo, como para buscar una costa a
 barlovento para el viento que se avecina esta noche. Las olas no serán tan
-terribles porque solo tienen unos 100 metros para formarse desde la costa.  No
-lo sé. «Creo que hay una diferencia. Solo digo. Hay cruceros costeros cómodos y
-casuales. Otros a veces atraviesan alta mar. El Briza está preparado para
-navegar en el océano. Veamos si tengo el valor.
-
+terribles porque solo tienen unos cien metros para formarse desde la costa.  No
+lo sé. Creo que hay una diferencia. Solo digo. Hay cruceros costeros cómodos
+y casuales. Otros a veces atraviesan alta mar. Algien dijo que Brisa es
+un velero «salado.» Brisa está preparado para navegar en el océano. Veamos si
+tengo el valor.
 
