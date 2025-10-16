@@ -25,7 +25,7 @@ por completo. Nunca se acercan a una tormenta. Yo tampoco, gracias a Dios.
 )
 
 La cabina del Brisa no tiene nada de esa lona. Tengo bastantes artilugios.
-Tengo un Starlink. Tengo mi antena de iridio y puedo conectarla si quiero
+Tengo un Starlink. Tengo mi antena de Iridium y puedo conectarla si quiero
 contratar una suscripción. Tengo el transpondedor AIS. Todo el mundo tiene una
 radio VHF, es un equipo obligatorio. Tengo una radio HF, SSB para
 comunicaciones marítimas, más allá del horizonte. Eso es más raro hoy en día.
