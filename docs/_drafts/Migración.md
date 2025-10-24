@@ -10,14 +10,16 @@ video_note: "{% include video.html source='2022/CorrientesDos.mp4' still='2022/C
 audio_note: "{% include audio.html source='/assets/audio/2021/Cantante.m4a' %}"
 ---
 
-Por si acaso hay duda sobre los movimientos de los veleros in este templado,
-puesto dos grabaciones de la carta náutica. La carta muestra los otros
-barcos con el sistema de identificación (AIS). Mira en que dirección se van
-todos los veleros.
+Para resolver cualquier duda sobre los movimientos de los veleros en esta
+temporada, echa un vistazo a esto. Aquí hay dos capturas de pantalla de la
+carta náutica. La carta muestra otros barcos que cuentan con el sistema de
+identificación (AIS). Fíjate en la dirección en la que se dirigen todos los
+veleros.
 
-La primera esta el 17 de octubre, sobre la costa Atlantica del estado Nueva
-Jersey entre la ciudad de Nueva York y Cabo de Mayo. La segunda esta el 23 de
-octubre en la Bahía Chesapeake. Nos vamos al sur casi todos.
+La primera se tomó el 17 de octubre, frente a la costa atlántica de Nueva
+Jersey, entre la ciudad de Nueva York y Cape May. La segunda se tomó el 23 de
+octubre en la bahía de Chesapeake. Casi todos nos dirigimos hacia el sur.
+
 
 ![Navegación el 17 de Octubre](
   {{ 'assets/images/2025/10Migración/IMG_0442.jpeg' | relative_url }}
@@ -27,8 +29,8 @@ octubre en la Bahía Chesapeake. Nos vamos al sur casi todos.
   {{ 'assets/images/2025/10Migración/IMG_0447.jpeg' | relative_url }}
 )
 
-Este barquito dice, "¡Apártense! ¡Voy a pasar!" Nota el color amarillo.
-Es un buque de la empresa Dole.
+Este barquito dice: «¡A un lado! ¡Voy a pasar!». Fíjate en el color amarillo.
+Es un barco que pertenece a la empresa Dole.
 
 ![Buque Dole](
   {{ 'assets/images/2025/10Migración/IMG_0789.jpeg' | relative_url }}
@@ -47,24 +49,24 @@ Sí, yo, de paso, captando algunos rayos cósmicos.
   {{ 'assets/images/2025/10Migración/IMG_0792.jpeg' | relative_url }}
 )
 
-Este goleta de madera se llama Lynx (Lince). Lo ví en el canal entre
-el Río Delaware y el Río Elk que fluye hacia la Bahía Chesapeake.
-A mi me parece muy orgulloso con todas las banteras.
+Esta goleta de madera se llama Lynx (lince). Navegaba por el canal entre el río
+Delaware y el río Elk, que desemboca en la bahía de Chesapeake. Se ve muy
+majestuosa con todas sus banderas.
 
 ![Galeta de madera en el canal de Chesapeake y Delaware](
   {{ 'assets/images/2025/10Migración/IMG_0799.jpeg' | relative_url }}
 )
 
-Mira esto. Parece una favela en Río. En realidád es un parque de casas móviles.
-Al otro lado del ría hay casas grandes y monitas. ¿Cuál crees que tiene
-mejares vistas?
+Mira esto. Parece una favela de Río. En realidad es un parque de casas móviles.
+Al otro lado del río hay casas grandes y bonitas. ¿Cuál crees que tiene mejores
+vistas?
 
 ![Parque de casas móviles Playa Buttonwood](
   {{ 'assets/images/2025/10Migración/IMG_0800.jpeg' | relative_url }}
 )
 
-A final, el gran puente de la Bahía Chesapeake. Es como una puerta.
-Al sur de aquí se encuentra la bahía propiamente dicha.
+Por último, el gran puente de la bahía de Chesapeake. Es como una puerta de
+entrada. Al sur de aquí se encuentra la bahía propiamente dicha.
 
 ![Los puentes del Bahía Chesapeake](
   {{ 'assets/images/2025/10Migración/IMG_0808.jpeg' | relative_url }}
