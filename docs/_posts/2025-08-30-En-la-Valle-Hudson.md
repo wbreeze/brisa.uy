@@ -3,7 +3,7 @@ layout: post
 title: En la Valle Hudson
 date: 2025-08-30
 tags: filosofía historia valle_hudson
-excerpt: Hablo del valle, sus origines, la visita mía actuál
+excerpt: Hablo del valle, algunos detalles, la visita mía actuál
 ---
 
 Fondeé en Foundry Cove, justo encima de Constitution Island, que es la propiedad
