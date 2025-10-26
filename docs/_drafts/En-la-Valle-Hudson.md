@@ -6,11 +6,12 @@ tags: filosofía historia valle_hudson
 excerpt: Hablo del valle, sus origines, la visita mía actuál
 ---
 
-En Foundry Cove, justo encima de Constitution Island, que es la propiedad
+Fondeé en Foundry Cove, justo encima de Constitution Island, que es la propiedad
 situada en la orilla este del Hudson que pertenece al gobierno de los Estados
-Unidos y, más concretamente, a la [Academia Militar de West Point][west]. La
-academia, situada en la orilla occidental del río, es la escuela de formación
-de oficiales del Ejército de los Estados Unidos. Así que tienen sus
+Unidos y, más concretamente, a la [Academia Militar de West Point][west].
+
+La academia, situada en la orilla occidental del río, es la escuela de
+formación de oficiales del Ejército de los Estados Unidos. Así que tienen sus
 helicópteros militares sobrevolando la zona, dando vueltas en círculos, y yo
 grabé algunos en vídeo. Debajo, en la ensenada, hay mucha gente practicando
 kayak.
@@ -18,7 +19,7 @@ kayak.
 [west]: https://es.wikipedia.org/wiki/Academia_Militar_de_los_Estados_Unidos
 
 ![Helicópteros de la armada](
-  {{ 'assets/images/2025/08Valle/Helicopteros.png' | relative_url }}
+  {{ 'assets/images/2025/08Valle/Helicopteros.jpeg' | relative_url }}
 )
 
 Hay gente en kayaks remando y hice un video con mi hija menor. Ella me dio algo
@@ -66,24 +67,28 @@ frentes fríos y sistemas de baja presión en la costa.
 
 Esos lugares que estaban protegidos y eran accesibles para los barcos son los
 lugares donde han surgido estas ciudades. En aquella época, todo estaba
-conectado por el agua. Todo era transporte marítimo o travesías en barco. No es
-casualidad que lo llamemos «transporte marítimo». Todo comenzó con los barcos.
+conectado por el agua. Todo era transporte marítimo o travesías en barco.  No
+es casualidad que en inglés llamemos a las entregas «shipping» (envío).  Todo
+comenzó con los barcos.
 
-![description](
+![Remolcadores anclados en el Río Hudson frente a Yonkers](
   {{ 'assets/images/2025/08Valle/DCL_5145.JPG' | relative_url }}
 )
 
 En Yonkers, la ciudad situada justo al norte del río, por encima de la ciudad
 de Nueva York, los remolcadores con barcazas están anclados en medio del río,
-esperando su turno para algo. Hacia el norte se llega al puente Tappan Zee.
-Ahora se llama puente Mario Cuomo. Cuando yo vivía aquí, era el puente Tappan
-Zee y era un puente diferente, porque el puente Tappan Zee, este puente Mario
-Cuomo, es un puente nuevo que sustituyó al antiguo. El otro fue derribado y se
-lo llevaron para chatarra. Sin embargo, yo sigo llamándolo puente Tappan Zee.
-Para mí siempre será el Tappan Zee. Por la noche está todo iluminado. Todos los
-pilares y todos los cables brillan en la oscuridad. Es un puente precioso.
+esperando su turno para algo.
 
-![description](
+Hacia el norte se llega al puente Tappan Zee.  Ahora se llama puente Mario
+Cuomo. Cuando yo vivía aquí, era el puente Tappan Zee y era un puente
+diferente, porque el puente Tappan Zee, este puente Mario Cuomo, es un puente
+nuevo que sustituyó al antiguo. El otro fue derribado y se lo llevaron para
+chatarra. Sin embargo, yo sigo llamándolo puente Tappan Zee.  Todos los barcos
+que estaban en la radio hicieron lo mismo.  Para mí siempre será el Tappan Zee.
+Por la noche está todo iluminado. Todos los pilares y todos los cables brillan
+en la oscuridad. Es un puente precioso.
+
+![El Puente Tappan Zee de noche](
   {{ 'assets/images/2025/08Valle/DCL_5049.JPG' | relative_url }}
 )
 
@@ -112,10 +117,10 @@ Zuckerberg. El es fundador y director de Meta Corp, propietaria de Facebook,
 Instagram y WhatsApp, las aplicaciones más utilizadas en Uruguay.
 
 Allí arriba, en Foundry Cove, junto a Cold Spring, me acurruqué, cómodo y a
-gusto en el interior, sobre un banco de arena muy estrecho. Al entrar y salir,
-miré menos de una braza de agua durante medio minuto.
+gusto en el interior, detrás de un banco de arena muy estrecho. Al entrar y
+salir, miré menos de una braza de profundidad durante medio minuto.
 
-Cold Spring me vino muy bien porque hay una estación de metro al norte que va
+Cold Spring me vino muy bien porque hay una estación de metro norte que va
 hasta la ciudad. Bajé para ver el partido de los Yankees. El tren va hacia el
 norte, a la siguiente ciudad, Beacon, donde visité a unos amigos en la galería
 Marion Royal, a Steve y Barbara y al círculo de personas que los rodea.
@@ -138,21 +143,21 @@ dualidad en todas partes: vivo, muerto; animado, inanimado; cerca, lejos;
 izquierda, derecha; día, noche; dentro, fuera; uno, muchos; luz, oscuridad; Yin
 y Yang.
 
-Esta tarde se ha puesto difícil en el fondeadero. Pienso en cuando compré el
-barco, cuando estaba fondeado en el Magathon en La Paz. Curiosamente, lo daba
-por sentado. Y ahora, las olas de medio metro y las crestas blancas que se
-alargan en el fondeadero con una brisa moderada me hacen sentir incómodo.
-Interesante. ¿No crees?
-
-![description](
+![Puente Bear Mountain](
   {{ 'assets/images/2025/08Valle/DCL_5058.JPG' | relative_url }}
 )
 
-![description](
+![Casa por la orilla del Hudson](
   {{ 'assets/images/2025/08Valle/DCL_5052.JPG' | relative_url }}
 )
 
-![description](
+![Casa por la orilla del Hudson](
   {{ 'assets/images/2025/08Valle/DCL_5054.JPG' | relative_url }}
 )
+
+Esta tarde se ha puesto difícil en el fondeadero. Pienso en cuando compré el
+barco, cuando estaba fondeado en el Magathon en La Paz, BCS. Curiosamente, lo
+daba por sentado. Y ahora, las olas de medio metro y las crestas blancas que se
+alargan en el fondeadero con una brisa moderada me hacen sentir incómodo.
+Interesante. ¿No crees?
 
