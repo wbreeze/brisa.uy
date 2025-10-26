@@ -40,35 +40,36 @@ de la marea. En mi caso, sentí una desaceleración repentina al entrar. No era
 tan poco profundo como para no poder forzar el paso utilizando un poco más de
 empuje del motor. Profundicé el canal unos centímetros más.
 
-![description](
+![La ciudad de Nueva York vista desde Verrazano Narrows](
   {{ 'assets/images/2025/10Sheepshead/IMG_0769.jpeg' | relative_url }}
 )
 
-![description](
+![El puente Verrazano Narrows](
   {{ 'assets/images/2025/10Sheepshead/IMG_0771.jpeg' | relative_url }}
 )
 
-![description](
+![Playa de Isla Coney](
   {{ 'assets/images/2025/10Sheepshead/IMG_0772.jpeg' | relative_url }}
 )
 
-![description](
+![Cisnas en Sheepshead Bay](
   {{ 'assets/images/2025/10Sheepshead/IMG_0775.jpeg' | relative_url }}
 )
 
-![description](
+![Puesta de sol vista desde un amarre en Sheepshead Bay](
   {{ 'assets/images/2025/10Sheepshead/IMG_0776.jpeg' | relative_url }}
 )
 
-![description](
+![Anuncio en ruso de una adivina y exposición de frutas decoradas para
+  Halloween](
   {{ 'assets/images/2025/10Sheepshead/frutas.jpeg' | relative_url }}
 )
 
-![description](
+![Letreros de restaurantes en Emmons Avenue, en Sheepshead Bay](
   {{ 'assets/images/2025/10Sheepshead/cartelas.jpeg' | relative_url }}
 )
 
-![description](
+![Sheepshead Bay vista desde uno de los muelles](
   {{ 'assets/images/2025/10Sheepshead/IMG_0787.jpeg' | relative_url }}
 )
 
