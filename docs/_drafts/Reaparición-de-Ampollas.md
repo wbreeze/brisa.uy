@@ -15,6 +15,10 @@ años después, en el puerto deportivo Point Lookout Marina, en la parte norte d
 la desembocadura del río Potomac, saqué el velero del agua para repintar la
 parte inferior.  Descubrí que la pesadilla había vuelto.
 
+![popa del casco en Point Lookout](
+  {{ 'assets/images/2025/11Ampollas/IMG_0840.jpeg' | relative_url }}
+)
+
 Al lijar las ampollas, encontré dos tipos:
 
 - Una es una ampolla pequeña y muy superficial que apenas penetra en el
@@ -36,16 +40,20 @@ Mientras lijo el material de reparaciones anteriores, no solo estoy haciendo un
 excelente ejercicio, sino que también tengo mucho tiempo para especular sobre
 el motivo del fallo.
 
+![ampollas lijadas en la popa del lado de babor](
+  {{ 'assets/images/2025/11Ampollas/IMG_0865.jpeg' | relative_url }}
+)
+
 He renovado la pintura antiincrustante con la frecuencia necesaria. En Carolina
 del Norte, en mayo de 2024, saqué el velero del agua para renovar la pintura
 antiincrustante. Estaba en perfectas condiciones. Recuerdo haber encontrado una
 ampolla, nada más.
 
+Apliqué dos capas más de pintura para cascos antes de zarpar.
+
 ![Brisa en mayo de 2024](
   {{ "/assets/images/2024/BrisaFS/X10HauledForPaint.jpg" }}
 )
-
-Apliqué dos capas más de pintura para cascos antes de zarpar.
 
 Creo que la causa principal fue esta: no eliminé los restos marinos de percebes
 y algas con la frecuencia necesaria. En las aguas cristalinas de los trópicos,
@@ -64,6 +72,10 @@ Como causa secundaria, puedo especular que las reparaciones anteriores
 presentaban un punto débil y una oportunidad. Eso es obvio. La mayoría de las
 ampollas aparecen en los bordes de las reparaciones anteriores. Especulo sobre
 esa debilidad.
+
+![Fotos en primer plano de las ampollas](
+  {{ 'assets/images/2025/11Ampollas/ampollas.jpeg' | relative_url }}
+)
 
 Recuerdo haberle dado a César, el hombre que hizo las reparaciones en México,
 una botella con atomizador de alcohol isopropílico. Recuerdo que no la utilizó
@@ -93,6 +105,10 @@ pequeños trozos cuando introduzco la espátula en la grieta para separarlo. Los
 pocos que tenían suficiente endurecedor se desprenden enteros, de una sola
 pieza. Cuando lijo el material blando hasta que desaparece la grieta, lo que se
 adhiere al borde tiene una textura similar al papel, muy blanda y porosa.
+
+![Vista del arroyo desde mi sitio en el astillero](
+  {{ 'assets/images/2025/11Ampollas/IMG_0870.jpeg' | relative_url }}
+)
 
 Al hacer estas reparaciones yo mismo esta vez, aprecio aún más el trabajo de
 César. Tuvo que llevar a cabo esta difícil tarea con una temperatura de 30
