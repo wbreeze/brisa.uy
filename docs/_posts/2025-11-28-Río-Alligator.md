@@ -69,5 +69,5 @@ Solo unas horas más de esto y luego tendré luz del día y me dirigiré al río
 Pungo. Este frío es raro para esta época del año y este lugar. Es una especie
 de récord de frío extremo. Hoy será un viaje frío, ya sea navegando a vela o a
 motor, al aire libre en la cabina, dirigiendo el barco. Tendré que ponerme toda
-mi ropa, capa tras capa, para mantenerme caliente.
+mi ropa, capa tras capa, para mantenerme abrigado.
 
