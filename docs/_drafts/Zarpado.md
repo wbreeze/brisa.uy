@@ -2,7 +2,7 @@
 layout: post
 title: Zarpado
 date: 2025-11-21
-tags: mantenemiento astillero
+tags: mantenemiento astillero casco
 excerpt: 27 oct se saca; zarpa 21 nov
 ---
 
@@ -20,6 +20,10 @@ La inesperada fue:
 
 La inesperada cuesta dos semanas.
 
+![Ampollas](
+  {{ 'assets/images/2025/11Zarpado/Ampollas.jpg' | relative_url }}
+)
+
 Encima de eso, decidé reemplacer el fregadero de la cocina una segunda vez.
 Cuando saqué el fregadero actuál experimenté un ataque de panico.
 Me di cuenta que la espenada requiere renovación para acomodar el tamaño
@@ -28,6 +32,10 @@ reducido del nuevo fregadero.
 El proyecto de sustitución del fregadero no me impediría volver a zarpar, ni
 tampoco la renovación de la encimera de la cocina. Trabajé en ellos cuando no
 podía avanzar en las cosas necesarias para volver al agua.
+
+![Timón de viento, toca al agua](
+  {{ 'assets/images/2025/11Zarpado/Viento.jpg' | relative_url }}
+)
 
 Primero lijé el casco. Luego lijé las ampollas y moví el pasacascos. Quité las
 letras del antiguo puerto de escala, lijé y pinté las zonas descascarilladas de
@@ -43,39 +51,7 @@ Al pasar por Cayo Hueso en enero de 2024, me llevé una impresión negativa. Sol
 les interesaba sacar dinero a los turistas y no eran especialmente amables con
 los barcos. Están saturados de barcos. No necesitan más barcos.
 
-![Primer paso, lo lijo](
-  {{ 'assets/images/2025/11Zarpado/IMG_0852.jpeg' | relative_url }}
-)
-
-![description](
-  {{ 'assets/images/2025/11Zarpado/IMG_0857.jpeg' | relative_url }}
-)
-
-![description](
-  {{ 'assets/images/2025/11Zarpado/IMG_0865.jpeg' | relative_url }}
-)
-
-![description](
-  {{ 'assets/images/2025/11Zarpado/IMG_0916.jpeg' | relative_url }}
-)
-
-![description](
-  {{ 'assets/images/2025/11Zarpado/IMG_0922.jpeg' | relative_url }}
-)
-
-![description](
-  {{ 'assets/images/2025/11Zarpado/IMG_0935.jpeg' | relative_url }}
-)
-
-![description](
-  {{ 'assets/images/2025/11Zarpado/IMG_0947.jpeg' | relative_url }}
-)
-
-![description](
-  {{ 'assets/images/2025/11Zarpado/IMG_0948.jpeg' | relative_url }}
-)
-
-![description](
-  {{ 'assets/images/2025/11Zarpado/IMG_0957.jpeg' | relative_url }}
+![Zafar y Zarpar](
+  {{ 'assets/images/2025/11Zarpado/Zafar.jpg' | relative_url }}
 )
 
