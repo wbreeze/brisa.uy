@@ -32,10 +32,10 @@ fuego acogedor.
 
 El fregadero de la cocina sigue en una caja en la proa. La encimera apenas se
 puede usar porque no quiero manchar su superficie y, actualmente, no es muy
-resistente a las manchas. Es viernes. En otras ochenta millas llegaré a Oxford,
-en el río Neuse. Antes de eso, tengo que terminar el Alligator, recorrer el
-canal Alligator Pungo, bajar por el Pungo, cruzar el Pamlico, recorrer el canal
-Goose Creek, salir de la desembocadura del río Bay y entrar en el Neuse.
+resistente a las manchas. En otras ochenta millas llegaré a Oriental, en el río
+Neuse. Antes de eso, tengo que terminar el Alligator, recorrer el canal
+Alligator Pungo, bajar por el Pungo, cruzar el Pamlico, recorrer el canal Goose
+Creek, salir de la desembocadura del río Bay y entrar en el Neuse.
 
 Estoy lavando los platos en el pequeño lavabo del baño. Ayer fue Acción de
 Gracias, un día festivo en Estados Unidos. Hice brownies, camotes, frijoles
@@ -48,7 +48,7 @@ preparando para hacer una ensalada Waldorf.
   source='2025/encimera.mov'
   still='2025/11Alligator/encimera.jpeg' %}
 
-En Oxford podré terminar la encimera de la cocina e instalar el fregadero. El
+En Oriental podré terminar la encimera de la cocina e instalar el fregadero. El
 lunes llegará mi envío de Amazon con el equipo y los suministros que necesito.
 Me gustaría llegar allí también el lunes. Espero que haya un muelle gratuito
 disponible. Así no tendré que fondear en su estrecho puerto y botar el bote
