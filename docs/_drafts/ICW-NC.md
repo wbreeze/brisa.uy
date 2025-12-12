@@ -1,0 +1,109 @@
+---
+layout: post
+title: ICW Carolina del Norte
+date: 2025-12-11
+tags: navegación
+excerpt: Crossing the gulf stream is a commitment. The window
+  for crossing closes like a gate behind. Perhaps I have commitment issues.
+---
+
+Tenía en mente partir de Beaufort, Carolina del Norte, cruzar la corriente del
+Golfo y luego navegar hacia el sur por el suroeste del Atlántico Norte hasta
+llegar a Puerto Rico. Ah, los trópicos. Ah, el agua cristalina. Ah, el aire
+cálido y el sol.
+
+![Mapa de navegación desde Beaufort a Puerto Rico](
+  {{ 'assets/images/2025/12ICW/IMG_1021.jpeg' | relative_url }}
+)
+
+Cruzar la corriente del Golfo es peligroso cuando el viento sopla en contra de
+la corriente. Al igual que la resaca en la playa provoca que se formen olas y
+luego rompan, lo mismo ocurre con la corriente del Golfo cuando las olas van en
+contra de ella. Estas olas empinadas pueden volcar el barco. Por supuesto, el
+barco se enderezará por sí solo. Aun así, no sería nada divertido. Me pareció
+prudente evitarlo.
+
+La corriente del Golfo pasa tan cerca del cabo Hatteras que es posible salir
+desde la ensenada de Beaufort, al sur del cabo Hatteras, encontrarse con la
+corriente y cruzarla en unas treinta horas. Esto significa que se dispone de un
+pronóstico meteorológico actualizado y a corto plazo para realizar la travesía
+en las mejores condiciones posibles.
+
+![Alimentos para el viaje](
+  {{ 'assets/images/2025/12ICW/IMG_1052.jpeg' | relative_url }}
+)
+
+En Beaufort esperé un periodo de viento del sur en el que las olas giraran
+desde el sur. Por desgracia, el viento del sur en esta estación siempre va
+seguido de un frente en el que el viento se intensifica rápidamente. La mejor
+oportunidad que encontré después de una semana me llevó a un viento de treinta
+nudos con rachas de cuarenta y olas de cinco a siete metros después de cruzar
+la corriente. Es posible navegar en estas condiciones o, como mínimo, capear
+durante doce horas hasta que pase. Brisa lo soportaría sin
+apenas problemas, siempre que la preparara adecuadamente.
+
+El problema era que yo mismo no estaba preparado para vivir esta experiencia.
+Habría sido una prueba al principio, seguida de dos semanas de navegación
+tranquila, lejos, muy lejos de tierra, hasta llegar a Puerto Rico. Podría ser
+Colón. Muchos han hecho esta travesía. En este momento de mi vida, con mi nivel
+de experiencia, me parecía peligroso y, lo siento, simplemente no me apetecía.
+Por no hablar de que habría hecho mucho frío. No me sentía preparado para ello.
+
+Además, cruzar la corriente del Golfo es un compromiso. La ventana para cruzar
+se cierra como una puerta detrás. Quizás tengo problemas para hacer
+compromisos.
+
+![Extremo norte de la zona de tiro real de Camp Lejune](
+  {{ 'assets/images/2025/12ICW/DCL_5407.JPG' | relative_url }}
+)
+
+En lugar de ir a Puerto Rico, estoy navegando por la vía navegable
+intracosteral del Atlántico, «viajando por la zanja», como dicen. «La zanja»,
+porque es un canal más profundo dragado en aguas poco profundas. Hace frío.
+Tengo que permanecer afuera, en la cabina, para dirigir el barco. No puedo
+bajar a la cabina y viajar cómodamente.
+
+![urbanización de apartamentos en la playa](
+  {{ 'assets/images/2025/12ICW/DCL_5412.JPG' | relative_url }}
+)
+
+Soñaré con la alternativa que rechacé. En dos semanas veremos dónde estoy, si
+sigo soñando, si me arrepiento de no haber llegado en Puerto Rico. Fue un
+viaje de dos semanas.
+
+![bosque por la orilla](
+  {{ 'assets/images/2025/12ICW/DCL_5413.JPG' | relative_url }}
+)
+
+A menudo se ven pequeños grupos de dos o tres delfines en el canal. Vienen por
+aquí. Se alimentan aquí. Supongo que hay muchos peces para ellos. Hace
+suficiente calor como para que haya pelícanos. Los pelícanos no toleran el frío
+helado. Luego hay muchos cormoranes y gaviotas, por supuesto. Hay tramos de
+marismas salvajes intercalados con tramos de casas y muelles atractivos y bien
+cuidados.
+
+![casa de campo en la orilla](
+  {{ 'assets/images/2025/12ICW/DCL_5415.JPG' | relative_url }}
+)
+
+A veces pongo música bailable y bailo en la cabina solo para mantenerme
+caliente. A veces hace un poco de brisa y esa brisa es un poco cortante. Oh,
+¿qué es eso? ¿Diez grados, verdad? No hace tanto frío. Al fin y al cabo, no es
+un frío glacial. Hoy brilla el sol. Mañana brillará el sol. Me desplazo hacia
+el sur (o suroeste) a un ritmo constante, cinco millas náuticas por hora.
+
+![pescadores deportivos disfrutando de los humedales](
+  {{ 'assets/images/2025/12ICW/DCL_5420.JPG' | relative_url }}
+)
+Es realista navegar hasta el río Saint Mary's, en la frontera entre Georgia y
+Florida, al oeste de la corriente del Golfo, sin cruzarla, con un tiempo de
+viaje de unos pocos días. Mi travesía desde la desembocadura del Chesapeake
+hasta Nueva York duró tres días. Esto es más o menos lo mismo. Puedo salir
+desde Cape Fear. Qué apropiado me parece el nombre «Cape Fear» (Cabo Miedo).
+Quizás lo intente.
+
+{% include video.html
+  source='2025/ICW.NC.mp4'
+  still='2025/12ICW/DCL_5421.JPG'
+%}
+
