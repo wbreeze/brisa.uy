@@ -4,7 +4,6 @@ title: Cruzo la corriente del Golfo
 date: 2025-12-30
 tags: navegación
 excerpt: Charleston, St. Augustine, el río, Bahamas
-video_note: "{% include video.html source='2022/CorrientesDos.mp4' still='2022/CostaRica/CorrientesUno.png' %}"
 ---
 
 [Once de diciembre]({{ '/2025/12/11/ICW-NC.html' | relative_url }}) me pregunté
@@ -12,6 +11,10 @@ si me arrepentiría de no haber soportado un período de malas condiciones para
 emprender una travesía a Puerto Rico. Escribí: «En dos semanas veremos dónde
 estoy, si sigo soñando, si me arrepiento de no haber llegado en Puerto Rico.»
 Sinceramente, no me lo arrepiento.
+
+![ICW Florida](
+  {{ 'assets/images/2025/12Corriente/IMG_1214.jpeg' | relative_url }}
+)
 
 Podría visitar la ciudad de Charleston en Carolina del Norte por segunda vez.
 Fui a la zona francesa para ver las luces de Navidad. Olía a estiércol de los
@@ -21,6 +24,10 @@ sensación que me recordó a las películas de la época de la ocupación nazi d
 Francia o de las dictaduras del Cono Sur durante los años setenta. Quizás fuera
 cosa mía.
 
+![Luces de Navidad, Charleston](
+  {{ 'assets/images/2025/12Corriente/IMG_1126.jpeg' | relative_url }}
+)
+
 La novia, una conocida que me buscó cuando estaba en Nueva York, en octubre, me
 quitó el día antes de llegar a Saint Augustine, en Florida. Voy a extrañar
 compartir noticias y fotos diarias con ella.
@@ -29,6 +36,10 @@ En Saint Augustine el ambiente era mucho más festivo. La gente reía y charlaba
 entre sí. Me hace preguntarme qué había en las noticias cuando visité
 Charleston. Quizás sea bueno que no siga el ciclo diario de noticias en Estados
 Unidos.
+
+![Luces de Navidad, Saint Augustine](
+  {{ 'assets/images/2025/12Corriente/IMG_1150.jpeg' | relative_url }}
+)
 
 Decidí cruzar la corriente del Golfo (el Golfo de América, no de México, según
 todos los documentos y publicaciones recientemente revisados, como la
@@ -68,7 +79,7 @@ Hay algunos barcos aquí conmigo. He visto un par de cruceros. Un buque de
 carga. Otros pocos más a lo lejos. Ningún otro barco de recreo. Creo que esto
 es una pista. Si no vas a cruzar con una flota de otros barcos de recreo, puede
 que no sea un buen momento para hacerlo. Además, está claro que la mayoría
-parte desde más al sur de la costa de Florida. Fort Pierce es el punto de
+salen desde más al sur de la costa de Florida. Fort Pierce es el punto de
 partida más septentrional para las Bahamas después de Beaufort o Cape Fear.
 Desde Florida, quizá sea mejor partir desde Palm Beach o más al sur.
 
@@ -78,6 +89,10 @@ noreste, el mar está en calma. Durante el día, veo que es de color azul
 turquesa sobre un fondo de arena blanca. Es extraño navegar con solo tres a
 seis metros de agua debajo del barco. El agua es clara, por fin. No he visto mi
 ancla tocar el fondo desde que salí de México hace casi dos años.
+
+![Brisa por el banco de las Bahamas](
+  {{ 'assets/images/2025/12Corriente/DCL_5460.JPG' | relative_url }}
+)
 
 Aquí estoy, en las Bahamas, listo para comenzar otro año, otro capítulo. Estoy
 anclado en Great Sale Cay, bien protegido de los fuertes vientos del noroeste
@@ -95,6 +110,10 @@ marineros.
 
 Yo tampoco bajaré del barco hasta que me registre con las autoridades
 fronterizas tras llegar a Green Turtle Cay.
+
+![Brisa quarantined at Great Sale Cay](
+  {{ 'assets/images/2025/12Corriente/DCL_5469.JPG' | relative_url }}
+)
 
 Entonces, ¿por qué mi teléfono con inteligencia artificial no puede aprender
 que, cuando lo desenchufo y se enciende, yo, por reflejo, debido a algún
