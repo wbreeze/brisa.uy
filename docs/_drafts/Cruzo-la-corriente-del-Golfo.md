@@ -2,106 +2,107 @@
 layout: post
 title: Cruzo la corriente del Golfo
 date: 2025-12-30
-tags:
-excerpt:
-link_note: "[text for internal link]({{ '/2021/11/15/Sara-M.html' | relative_url }})"
-image_note: "![image description]({{ '/assets/images/image.jpeg' | relative_url }})"
+tags: navegación
+excerpt: Charleston, St. Augustine, el río, Bahamas
 video_note: "{% include video.html source='2022/CorrientesDos.mp4' still='2022/CostaRica/CorrientesUno.png' %}"
-audio_note: "{% include audio.html source='/assets/audio/2021/Cantante.m4a' %}"
 ---
 
-[Once de diciembre]({{ '/2025/12/11/ICW-NC.html' | relative_url }}) escribí
-como si va a orrepentir no sufrir un periodo de malas condiciones para salir en
-ruta a Puerto Rico.  Dije, «En dos semanas veremos dónde estoy, si sigo
-soñando, si me arrepiento de no haber llegado en Puerto Rico.» De verdád, no me
-lo arrepiento.
+[Once de diciembre]({{ '/2025/12/11/ICW-NC.html' | relative_url }}) me pregunté
+si me arrepentiría de no haber soportado un período de malas condiciones para
+emprender una travesía a Puerto Rico. Escribí: «En dos semanas veremos dónde
+estoy, si sigo soñando, si me arrepiento de no haber llegado en Puerto Rico.»
+Sinceramente, no me lo arrepiento.
 
-Pudiera visitar a la ciudad de Charlestown en Carolina de Norte una segunda
-ves. Fuí a la zona francesa para ver los luces. Tenía olor de horseshit from
-the horse drawn carriages that give tours. The mood of the people did not
-feel very festive. It felt more like a city under siege to me, the feeling
-of films from the time of the german occupation of france, or of the
-dictatorships in el cono del sur durante las setentas. Perhaps it was me.
+Podría visitar la ciudad de Charleston en Carolina del Norte por segunda vez.
+Fui a la zona francesa para ver las luces de Navidad. Olía a estiércol de los
+carruajes tirados por caballos que hacen recorridos turísticos. El ambiente de
+la gente no parecía muy festivo. Me pareció más bien una ciudad sitiada, una
+sensación que me recordó a las películas de la época de la ocupación nazi de
+Francia o de las dictaduras del Cono Sur durante los años setenta. Quizás fuera
+cosa mía.
 
-La novía, una conocida who looked me up cuando estaba en Nueva York, en octubre,
-me quitó el día ante que llegé a Saint Augustine en Florida. Voy a
-estrañar compartiendo noticias y fotos diarias con ella.
+La novia, una conocida que me buscó cuando estaba en Nueva York, en octubre, me
+quitó el día antes de llegar a Saint Augustine, en Florida. Voy a extrañar
+compartir noticias y fotos diarias con ella.
 
-En Saint Augustine the mood was much more festive. People were laughing
-and chattering with each other. It makes me wonder what was in the news
-when I visited Charlestown. Maybe it is good that I don't follow the
-daily news cycle of the United States.
+En Saint Augustine el ambiente era mucho más festivo. La gente reía y charlaba
+entre sí. Me hace preguntarme qué había en las noticias cuando visité
+Charleston. Quizás sea bueno que no siga el ciclo diario de noticias en Estados
+Unidos.
 
-Decidi cruzar el corriente del Golfo (el Golfo de America, no de Mexico,
-según todos los documentos y publicaciones recién revisadas como la propoganda
-en el libro, _Fahrenheit 451_ o el libro _1984_) desde Fort Pierce. Había
-un periodo de viento bajo. Anticipé un mar tranquilo para cruzar.
+Decidí cruzar la corriente del Golfo (el Golfo de América, no de México, según
+todos los documentos y publicaciones recientemente revisados, como la
+propaganda del libro _Fahrenheit 451_ o el libro _1984_) desde Fort Pierce en
+Florida.  Había un periodo de vientos flojos. Anticipé un mar tranquilo para
+cruzar.
 
-Desde Fort Pierce,
-The idea is to begin with some miles south, then direct myself perpendicular to
-the stream to get across as rapidly as possible. The stream carries me
-north. Once across, recuperate the miles south.
+Desde Fort Pierce, la idea es comenzar unas millas al sur y luego dirigirme
+perpendicularmente a la corriente para cruzarlo lo más rápido posible. La
+corriente me lleva hacia el norte unas dieciocho o veinte millas. Una vez
+cruzado, recupero las millas hacia el sur.
 
-A las uno de la mañana, noté:
+A la una de la madrugada, anoté:
 
-«There's hardly any wind. Maybe be a breath of wind from the south. The sea
-the surface of the sea
-service as the sea is fairly smooth. The swell is from the northeast.  It is
-against the current. Half to one and a half meters. every once in a while, a set
-of one and a half meter waves comes along with faces that are quite steep. They
-roll about really good.  Stuff clatters around, you know. Sometimes things
-shake loose and fly about. It's difficult to move about the cabin.
-The good news is that I'm ahead of my forecast position, so I'm
-making good time. This will be all over and a couple few hours.»
+«Apenas hay viento. Quizás una ligera brisa del sur. La superficie del mar está
+bastante tranquila. Hay oleaje del noreste.  Va en contra de la corriente, con
+olas de entre medio metro y metro y medio de altura. Cada minuto más o menos
+llega una serie de olas de metro y medio con crestas bastante empinadas. Al
+llegar de costado, me sacuden violentamente. Las cosas traquetean, ya sabes. A
+veces se sueltan y salen volando. Es difícil moverse por la cabina. La buena
+noticia es que voy por delante de mi posición prevista, así que voy bien de
+tiempo. Todo esto habrá terminado en un par de horas o poco más».
 
-One can't always have ideal conditions. I realize that it isn't necessary to
-beat myself up when I don't have them. Conditions will sometimes be marginal,
-for example:
+No siempre se pueden tener las condiciones ideales. Me doy cuenta de que no es
+necesario castigarme cuando no las tengo. A veces las condiciones serán
+marginales, por ejemplo:
 
-- motoring directly into fifteen knots of wind with the change
-in the current delayed because of the wind blowing the water in, seeing only
-2.7 knots; or 
-- getting rocked violenty by short but steep waves broadside on the boat
-while motoring across the gulf stream.
+- navegar con una velocidad de solo 2,7 nudos en contra de vientos de quince
+  nudos y un cambio en la corriente retrasado debido al viento que empuja el
+  agua hacia adentro; o
+- ser sacudido violentamente por olas cortas y empinadas que golpean el costado
+  del barco mientras se navega a motor a través de la corriente del golfo.
 
-The upside when those things happen will always be that things will improve.
+La ventaja cuando suceden esas cosas siempre será que las cosas mejoran.
 
-There are some ships out here with me. A pair of cruise ships I saw. A cargo
-ship.  A few others distant. No other pleasasure boats. I think this is a clue.
- If you're not leaving to cross with an armada of other pleasure boats, it
-might be a bad time to do it. Also, clearly, the majority start from further
-down the coast of Florida. Fort Pierce is the very most northern departure
-point for the Bahamas. It might be better to start from Palm Beach or further
-south.
+Hay algunos barcos aquí conmigo. He visto un par de cruceros. Un buque de
+carga. Otros pocos más a lo lejos. Ningún otro barco de recreo. Creo que esto
+es una pista. Si no vas a cruzar con una flota de otros barcos de recreo, puede
+que no sea un buen momento para hacerlo. Además, está claro que la mayoría
+parte desde más al sur de la costa de Florida. Fort Pierce es el punto de
+partida más septentrional para las Bahamas después de Beaufort o Cape Fear.
+Desde Florida, quizá sea mejor partir desde Palm Beach o más al sur.
 
-Arriving at the little bahamas bank north of Grand Bahama Island, well past the
-gulf stream and sheltered by the barrier reef to the northeast, the sea is
-flat. With daytime I see that it is turquoise blue over a white sand bottom. It
-is strange to sail with only three to six meters of water beneath the boat. The
-water is clear, at last. I haven't seen my anchor touch bottom since leaving
-Mexico nearly two years ago.
+Al llegar al banco de las Bahamas, al norte de la isla Gran Bahama, muy
+por encima de la corriente del Golfo y protegido por la barrera de coral al
+noreste, el mar está en calma. Durante el día, veo que es de color azul
+turquesa sobre un fondo de arena blanca. Es extraño navegar con solo tres a
+seis metros de agua debajo del barco. El agua es clara, por fin. No he visto mi
+ancla tocar el fondo desde que salí de México hace casi dos años.
 
-Here I am in the Bahamas ready for the start of another year, another chapter.
-I'm anchored at Great Sail Cay, well sheltered from fresh northwest winds
-brought by a passing cold front. There have been a couple of showers.  I'm
-flying the quarentine flag, the solid yellow letter 'Q' from the starboard flag
-halyard. This signifies that no-one should visit.
+Aquí estoy, en las Bahamas, listo para comenzar otro año, otro capítulo. Estoy
+anclado en Great Sale Cay, bien protegido de los fuertes vientos del noroeste
+que trae un frente frío que está pasando. Ha habido un par de chaparrones.
+Tengo izada la bandera de cuarentena, la letra «Q» amarilla de la driza de
+estribor. Esto significa que nadie debe visitarme.
 
-None of the other boats anchored here would come visiting, anyway. We have the
-internet, now. We all got here navigating by GPS, with highly accurate,
-supercomputer generated wind, wave and current forecasts. Any half-baked idiot
-with money to spend can do it, myself included.  It's nothing special.  There
-is no need to visit personally or be neighborly in the old-fashioned way.
+De todos modos, ninguno de los otros seis barcos anclados aquí vendría a
+visitarme. Ahora tenemos Internet.  Todos llegamos aquí navegando con GPS, con
+mapas detallados y pronósticos muy precisos de viento, olas y corrientes
+generados por supercomputadoras.  Cualquier idiota con dinero para gastar puede
+hacerlo, yo incluido. No es nada especial. No hay necesidad de visitar
+personalmente o ser amable con los vecinos a la antigua usanza de los
+marineros.
 
-I will not be leaving the boat, either, until I check-in with the border
-authorities after arriving at Green Turtle Cay.
+Yo tampoco bajaré del barco hasta que me registre con las autoridades
+fronterizas tras llegar a Green Turtle Cay.
 
-So why is it that my artificially intelligent phone can't learn that when I
-unplug it and it comes on, I have reflexively, due to some earlier training,
-pressed the power button? It turns off and then I have to press the power
-button again to turn it on. How is it not intelligent enough to see that
-pattern and learn not to turn on when I unplug it, or not to turn off when I
-unplug it and press the button? No. It wants to train me instead, not to press
-the power button when I unplug it. Who is in control here? Am I, or is it the
-machine?
+Entonces, ¿por qué mi teléfono con inteligencia artificial no puede aprender
+que, cuando lo desenchufo y se enciende, yo, por reflejo, debido a algún
+entrenamiento anterior, he pulsado el botón de encendido? Se apaga y entonces
+tengo que volver a pulsar el botón de encendido para encenderlo. ¿Cómo es
+posible que no sea lo suficientemente inteligente como para detectar ese patrón
+y aprender a no encenderse cuando lo desenchufo, o a no apagarse cuando lo
+desenchufo y pulso el botón? No. En cambio, quiere enseñarme a no pulsar el
+botón de encendido cuando lo desenchufo. ¿Quién tiene el control aquí? ¿Soy yo
+o es la máquina inteligente?
 
