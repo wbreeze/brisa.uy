@@ -3,8 +3,8 @@ layout: post
 title: Green Turtle Cay
 date: 2026-01-06
 tags: Bahamas
-excerpt: Llego a la marina donde quede Brisa hasta que vuelvo de viaje a
-  Uruguay
+excerpt: Llego al puerto deportivo donde Brisa estará amarrada hasta que
+  regrese de mi viaje a Uruguay.
 ---
 
 Contemplé la puesta de sol del año 2025 en Great Sale Cay, en las Bahamas. Es
