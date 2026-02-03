@@ -1,5 +1,5 @@
 ---
-title: Sobre
+title: Acerca de Brisa
 permalink: /sobre/
 ---
 
