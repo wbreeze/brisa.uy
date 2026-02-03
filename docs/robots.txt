@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /assets/
+Disallow: /fotos/
+
+Sitemap: https://brisa.uy/sitemap.xml
