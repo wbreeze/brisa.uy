@@ -5,9 +5,9 @@ permalink: /sobre/
 
 # Sobre Brisa.uy
 
-El propósito de este sitio es compartir historias y aventuras sobre la
-navegación de un pequeño velero soltando las olas, viajando por doquier, cuyo
-destino final es Uruguay.
+El objetivo de este sitio es compartir historias y aventuras sobre la
+navegación en el Brisa. Este pequeño velero surca las olas, siguiendo el viento
+y la corriente, siempre con la mirada puesta en Uruguay.
 
 ## El Velero
 
@@ -25,10 +25,10 @@ Essick][essick]
 
 ## El Navegante
 
-Quien les escribe es Douglas Lovell, estadounidense de nacimiento. Dediqué la
-mayor parte de mi vida profesional a la informática, la aviación comercial como
-piloto de jets corporativos y a la acrobacia aérea.  Habiendo conocido Uruguay
-en 2017, lo convertí en mi segunda patria. Ahí entonces
+Quien les escribe es Douglas Lovell, estadounidense de nacimiento, neoyorquino.
+Dediqué la mayor parte de mi vida profesional a la informática, la aviación
+comercial como piloto de jets corporativos y a la acrobacia aérea.  Habiendo
+conocido Uruguay en 2017, lo convertí en mi segunda patria. Ahí entonces
 comienzo a concretar mi vieja aspiración.
 
 ![el navegante Douglas Lovell en 2025 y 2021](
@@ -71,11 +71,12 @@ el Chesapeake para terminar en Carolina del Norte.
   {{ '/assets/images/2025/Navegación2024.jpg' | relative_url }}
 )
 
-En este momento, julio de 2025, he navegado más o menos 6.500 millas naúticas,
-aproximadamente doce mil kilometros con el velero Brisa.  Desde acá, ya
-veremos. Donde me lleve. Quizá navegaré a las Islas Britanicas o los Azores.
-Desde allí, la ruta a Uruguay pasa por los Cayos Verdes y cruza el ecuador al
-Atlántico sur y Sudamérica.
+En este momento, febrero de 2026, he navegado aproximadamente 7000 millas
+náuticas, unos catorce mil kilómetros, en el velero Brisa. A partir de aquí, ya
+veremos. Dondequiera que me lleve. Quizás navegue hasta las Azores. Desde allí,
+la ruta hacia Uruguay pasa por las Islas Canarias, luego por las Islas Verdes,
+antes de cruzar el ecuador hacia el Atlántico Sur y Sudamérica. Quizás haga un
+desvío por la costa mediterránea de España.
 
 ## Audiencia
 
