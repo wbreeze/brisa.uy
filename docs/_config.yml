@@ -8,11 +8,14 @@ license: Licencia Creative Commons
   Atribución-NoComercial-CompartirIgual 4.0 Internacional
 
 plugins:
+ - jekyll-remote-theme
  - jekyll-feed
  - jekyll-seo-tag
  - jekyll-paginate
 
 paginate: 7
+
+remote_theme: pages-themes/minimal
 
 header_pages:
  - index.html

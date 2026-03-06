@@ -1,0 +1,57 @@
+---
+---
+
+$spacing-unit: 30px;
+$base-line-height: 1.5;
+$text-color: #727272;
+$background-color: #fff;
+$grey-color:       #828282 !default;
+$grey-color-light: lighten($grey-color, 40%) !default;
+$grey-color-dark:  darken($grey-color, 25%) !default;
+$on-small: 480px;
+$on-medium: 720px;
+$on-large: 960px;
+
+@import "{{ site.theme }}";
+
+@import "fonts";
+@import "rouge-github";
+@import "site-menu";
+@import "front-matter";
+@import "list-of-posts";
+@import "prev-next-post";
+@import "paginate";
+@import "album";
+
+video {
+  width:90%;
+}
+
+a {
+  color:#267CB9;
+  text-decoration:none;
+  font-weight:bold;
+}
+
+a:hover, a:focus {
+  color:#069;
+  text-decoration:underline;
+}
+
+a small {
+  font-size:11px;
+  color:#777;
+  margin-top:-0.3em;
+  display:block;
+}
+
+a:hover small {
+  color:#777;
+}
+
+footer {
+  ul {
+    list-style:none;
+    padding:0;
+  }
+}
