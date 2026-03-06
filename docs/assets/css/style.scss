@@ -14,14 +14,32 @@ $on-large: 960px;
 
 @import "{{ site.theme }}";
 
-@import "fonts";
-@import "rouge-github";
 @import "site-menu";
 @import "front-matter";
 @import "list-of-posts";
 @import "prev-next-post";
 @import "paginate";
 @import "album";
+
+section, header, footer {
+  float:none;
+  position:relative;
+}
+
+section {
+  width:auto;
+}
+
+header, footer {
+  ul {
+    list-style:none;
+    padding:0;
+
+    a:active {
+      background-color:#f0f0f0;
+    }
+  }
+}
 
 video {
   width:90%;
@@ -49,9 +67,19 @@ a:hover small {
   color:#777;
 }
 
-footer {
-  ul {
-    list-style:none;
-    padding:0;
+header ul a strong {
+  font-size:14px;
+  display:block;
+  color:#222;
+}
+
+div.categories {
+  font-size:11px;
+}
+
+@media print {
+  nav, div.categories, p.navigation, div.recents, .pagination {
+    display: none;
   }
 }
+
