@@ -278,6 +278,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-docs
+  minima
   webrick
 
 BUNDLED WITH
