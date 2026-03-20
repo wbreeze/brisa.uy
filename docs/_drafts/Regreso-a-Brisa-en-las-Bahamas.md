@@ -18,21 +18,21 @@ pintura del casco cuando me sacan del agua.
   {{ 'assets/images/2026/03MVD/IMG_1401.jpeg' | relative_url }}
 )
 
-Tengo suficiente de yerba, la hierba Epilobio y tabletas de tamsulosina
-clorhidrato hasta la próxima visita. Lo espero la próxima. Me siento tanta
-nostalgia para Montevideo que, cuando pienso en eso, las lágrimas vienen a mis
-ojos. Lamentablemente, me percatea de no tener suficiente de chocolate amargo.
-El chocolate amargo me reconforta. No me siento la nostalgia de ninguna menera
-saliendo de Brisa de vuelta a Montevideo. Con las vueltas me siento alegre.
+Tengo suficiente de yerba, la hierba, epilobio, y tabletas de tamsulosina
+clorhidrato hasta la próxima visita. Lo espero la próxima. Me siento tan
+nostálgico por Montevideo que, cuando pienso en eso, las lágrimas vienen a mis
+ojos. Lamentablemente, me percato de no tener suficiente chocolate amargo. El
+chocolate amargo me reconforta. No me siento la nostalgia de ninguna manera
+saliendo de Brisas de vuelta a Montevideo. Con las vueltas me siento alegre.
 
 ![Río de la Plata desde Calle Ciudadela, Montevideo](
   {{ 'assets/images/2026/03MVD/IMG_1312.jpeg' | relative_url }}
 )
 
-Hay cosas buenas. La vida aborda de Brisa no me molesta. La disfruto. La paz
-del noche era la primera cosa que noté. Puedo oír el zumbido de mis oídos.
-Medito. Acá flotando, anclado al sotavento de el cayo Tortuga Verde, con su
-playa arenosa blanca en el sol, el agua cristalina turquesa-- sí, relajo. Hay
+Hay cosas buenas. La vida a bordo de Brisa no me molesta. La disfruto. La paz
+de la noche era la primera cosa que noté. Puedo oír el zumbido de mis oídos.
+Medito. Acá, flotando, anclado al sotavento de el Cayo Tortuga Verde, con su
+playa arenosa blanca en el sol, el agua cristalina turquesa —sí, relajo. Hay
 viento de veinte nudos. Con la temperatura de veinte grados, no me anima tanto
 echarme bajo el sol en la playa o meterme en el agua. No obstante, hay espacio
 para respirar y liberar el alma.
@@ -41,13 +41,13 @@ para respirar y liberar el alma.
   {{ 'assets/images/2026/03MVD/IMG_1321.jpeg' | relative_url }}
 )
 
-Estoy preocupado con preparaciones para el viaje a Bermuda. Miro el pronóstico
-cada mañana. Por la ruta, todavía vienen tempuestas subtropicales desde la
-costa atlántica de Estados Unidos al noreste, con frentes fríos soplando
-vientos de veinticinco o treinta nudos. Los vientos orientales de estas
-latitudes todavía no dominan. Sigo mirando. En abril los borrascos disminuyen.
-Estaré listo para zarpar en tres semanas. Mientras tanto, miro atentamente para
-detectar los patrones, para reconocer cuando el patrón cambia.
+Estoy preocupado con las preparaciones para el viaje a Bermudas. Miro el
+pronóstico cada mañana. Por la ruta, todavía vienen tormentas subtropicales
+desde la costa atlántica de Estados Unidos al noreste, con frentes fríos
+soplando vientos de veinticinco o treinta nudos. Los vientos orientales de
+estas latitudes todavía no dominan. Sigo mirando. En abril, los borrascas
+disminuyen. Estaré listo para zarpar en tres semanas. Mientras tanto, miro
+atentamente para detectar los patrones, para reconocer cuándo el patrón cambia.
 
 ![Escultura de We Weishan, Parque Batlle, Montevideo](
   {{ 'assets/images/2026/03MVD/LauTse.jpg' | relative_url }}
@@ -65,12 +65,12 @@ lo que hay que hacer es abrirla.
   {{ 'assets/images/2026/03MVD/IMG_1331.jpeg' | relative_url }}
 )
 
-En Montevideo. Montevideo era genial. Fui al teatro de verano diez veces, al
-tablado del parque una docena de veces, al Cinemateca hasta que me reconocen
-allí (me hice socio), al Teatro Zabala de Teatro Solís y a la Cinema Alfabeta.
-Fui la primera vez al estadio Centenario para un clasico. Hice un par de
-talleres en la Escuela de Cine Uruguaya. Comí tan rico. Siempre gano uno o dos
-kilos. Visité con amigos. Montevideo es un sueño para mí.
+En Montevideo. Montevideo era genial. Fui al Teatro de Verano diez veces, al
+Tablado del Parque una docena de veces, al Cinemateca hasta que me reconocen
+allí (me hice socio), al Sala Zavala Muniz en Teatro Solís y a la Cinema
+Alfabeta. Fui la primera vez al estadio Centenario para un clásico. Hice un par
+de talleres en la Escuela de Cine Uruguaya. Comí tan rico. Siempre gano uno o
+dos kilos. Visité con amigos. Montevideo es un sueño para mí.
 
 ![Puesta del sol fondeado en Green Turtle Cay (Cayo Tortuga Verde)](
   {{ 'assets/images/2026/03MVD/IMG_1402.jpeg' | relative_url }}
@@ -78,6 +78,7 @@ kilos. Visité con amigos. Montevideo es un sueño para mí.
 
 ¿Ahora qué? La navegación. Solo faltan compañeros uruguayos.
 El video tiene algo de la porquería que grabó durante mi visita.
+Lo de las murgas no es porquería.
 
 {% include video.html
   source='2026/Carnaval2026.mp4'
