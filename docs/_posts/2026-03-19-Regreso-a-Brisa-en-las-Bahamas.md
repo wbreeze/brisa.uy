@@ -3,7 +3,7 @@ layout: post
 title: Regreso a Brisa en las Bahamas
 date: 2026-03-19
 tags: montevideo bahamas
-excerpt: Expirimento nostalgia para Montevideo
+excerpt: Experimento nostalgia para Montevideo
 ---
 
 Abordo Brisa de nuevo tras la visita de seis semanas en Montevideo. Seis
