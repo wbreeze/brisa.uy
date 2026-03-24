@@ -3,7 +3,8 @@ layout: post
 title: Cayo Manjack
 date: 2026-03-23
 tags: naturaleza bahamas
-excerpt:
+excerpt: Navegando sobre aguas turquesas. En la hermosa bahía de Manjack, eché
+  el ancla.
 ---
 
 Qué diferencia hace un día. Remé hasta el pueblo para buscar gasolina para el
@@ -34,16 +35,16 @@ Hay unas pocas especies que aún resisten.
 
 Una familia pasó en una lancha, todos vestidos con telas ligeras, de colores
 vivos, sintéticas y repelentes de los rayos UV. Los niños llevaban chalecos
-salvavidas nuevos, bien ajustados y que cumplían con las normas. El bote estaba
+salvavidas nuevos, que se ajustan bien y no abultan. El bote estaba
 pulido y reluciente. Un par de motores de trescientos caballos de fuerza
 funcionaban a ralentí en la popa, impulsando el bote lentamente a través de las
 aguas poco profundas.
 
-Una mujer les dijo a sus hijos: «¿Quién quiere una manzana?». El esposo: «Yo
-quiero una manzana». La mujer: «Solo tengo una manzana». El hombre: «Entonces
-me quedo con la mitad de la manzana». Silencio.
+Aborda la lancha, una mujer les dijo a sus hijos: «¿Quién quiere una manzana?».
+El esposo: «Yo quiero una manzana». La mujer: «Solo tengo una manzana». El
+hombre: «Entonces me quedo con la mitad de la manzana». Silencio.
 
-![description](
+![Cabezas pintadas del paseo del arte, Manjack Cay, Bahamas](
   {{ 'assets/images/2026/03Manjack/heads.jpeg' | relative_url }}
 )
 
@@ -56,15 +57,15 @@ convierten en cabezas humanas graciosas. Hay muchas cosas del tipo «estuvimos
 aquí». La gente marca algo con sus nombres, el nombre del barco y la fecha. A
 veces marcan de dónde son y a qué distancia se encuentra.
 
-![description](
+![Escultora de una abeja, Manjack Cay, Bahamas](
   {{ 'assets/images/2026/03Manjack/IMG_1423.jpeg' | relative_url }}
 )
 
 Había un puñado de piezas escultóricas artísticas. Cocos tallados. Una mujer
 con pechos de coco y cabeza de coco. Una abeja gigante hecha de flotadores
-pintados de negro y amarillo, con alas de malla de alambre.
+pintados de rojo y amarillo, con alas de malla de alambre.
 
-![description](
+![Instalaciones artísticos del paseo del arte, Manjack Cay, Bahamas](
   {{ 'assets/images/2026/03Manjack/grove.jpeg' | relative_url }}
 )
 
@@ -88,7 +89,7 @@ luna, las estrellas, los mares. Estaban aquí mucho antes que yo y mucho antes
 que nosotros. También estarán aquí por mucho tiempo después. No te preocupes.
 Aprecia. Sea feliz.
 
-![description](
+![Catamaran charter al atardecer, Manjack Cay, Bahamas](
   {{ 'assets/images/2026/03Manjack/IMG_1428.jpeg' | relative_url }}
 )
 
