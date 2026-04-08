@@ -3,77 +3,85 @@ layout: post
 title: Pascual
 date: 2026-04-07
 tags: sociedad bahamas
-excerpt: ¿Que dice the easter egg hunt sobre nosotros?
+excerpt: Búsquedas de huevos
 link_note: "[text for internal link]({{ '/2021/11/15/Sara-M.html' | relative_url }})"
 image_note: "![image description]({{ '/assets/images/image.jpeg' | relative_url }})"
 video_note: "{% include video.html source='2022/CorrientesDos.mp4' still='2022/CostaRica/CorrientesUno.png' %}"
 audio_note: "{% include audio.html source='/assets/audio/2021/Cantante.m4a' %}"
 ---
 
-Easter is a strange holiday in the United States and here in this little
-Bahamas town. In times of lore it was a springtime fertility, end of winter
-festival celebration of plants growing again, flowers blooming, birds nesting,
-mammals mating and reproducing. The egg represented fertility, birth and
-growth.
+La Pascua es una fiesta peculiar en los Estados Unidos y aquí, en este
+pequeño pueblo de las Bahamas. En tiempos antiguos, era una celebración
+primaveral de la fertilidad, el fin del invierno, en la que se conmemoraba el
+renacer de las plantas, el florecimiento de las flores, la anidación de las
+aves y el apareamiento y la reproducción de los mamíferos. El huevo
+representaba la fertilidad, el nacimiento y el crecimiento.
 
-Christians overlayed the festival with the resurrection of Christ.
-Christ is risen.  After being hung on the cross and left for dead in the tomb,
-he emerges to live again, briefly, with a few close friends.
+Los cristianos superpusieron a esta fiesta la resurrección de Cristo.
+Cristo ha resucitado. Después de ser crucificado y dejado por muerto en la
+tumba, resurge para vivir de nuevo, brevemente, con unos pocos amigos cercanos.
 
-Outside of the packed to overflowing church, late arrivals, all of the women
-and girls in dresses, gathered at the open windows. A mockingbird worked to
-line a nest of sticks with grass.
+Fuera de la iglesia metodista, repleta, los que llegaron tarde, todas las
+mujeres y niñas con vestidos, se reunieron junto a las ventanas abiertas. Un
+pájaro imitador se afanaba en forrar un nido de ramitas con hierba.
 
-The English Queen Victoria's mother brought a germanic tradition of
-the Easter Egg hunt to her palacial home.  The children enjoyed the novelty of
-finding hard boiled eggs with tinted or painted shells lying in little nests of
-grass in odd places around the palace. Boiling the eggs with a heavy dose of
-onion skin makes them golden. What the royals do, others like to do.
-The practice spread in England, and so to the British Empire.
+La madre de la reina Victoria de Inglaterra llevó a su palacio la tradición
+germánica de la búsqueda de huevos de Pascua. Los niños disfrutaban de la
+novedad de encontrar huevos duros con cáscaras teñidas o pintadas, colocados en
+pequeños nidos de hierba en lugares insólitos alrededor del palacio. Hervir los
+huevos con una buena dosis de cáscara de cebolla les da un color dorado. Lo que
+hace la realeza, a otros les gusta hacerlo. La costumbre se extendió por
+Inglaterra y, de ahí, al Imperio Británico.
 
-In my home when we were young we hunted around the house for candy on easter
-morning. The eggs were chocolate wrapped in colorful foil. Later this devolved
-into a basket of candy on the breakfast table.  I think this was because
-getting to church on time had greater priority for my parents than diversionary
-foraging in the family room and patio.  There was always a solid chocolate
-bunny in the basket.  My brother and I would devour the ears first, then the
-head, then the body. The bunny's body being solid, the ears were the easy
-pickings.
+En mi hogar de Nueva Inglaterra, cuando éramos pequeños, buscábamos dulces por
+toda la casa la mañana de Pascua. Los huevos eran de chocolate envueltos en
+papel de aluminio de colores. Más tarde, esto se convirtió en una canasta de
+dulces sobre la mesa del desayuno. Creo que esto se debía a que llegar a tiempo
+a la iglesia era una prioridad mayor para mis padres que la búsqueda de
+diversión en la sala y el patio. Siempre había un conejito de chocolate macizo
+en la canasta. Mi hermano y yo devorábamos primero las orejas, luego la cabeza
+y después el cuerpo. Como el cuerpo del conejito era macizo, las orejas eran el
+blanco más fácil.
 
-Sometime in the last fifty years churches began to sponsor easter egg hunts
-in their church yards as a diversionary attraction for families with
-children to attend the easter worship service.  Now a group of children
-were running around the yard picking-up candy.  The event becomes less like a
-private, at home diversion and more like mass plunder.  The childen compete to
-find and collect as much candy as they can before the church yard has been
-picked clean.
+En algún momento de los últimos cincuenta años, las iglesias cristianas de
+Estados Unidos comenzaron a patrocinar búsquedas de huevos de Pascua en sus
+patios como una atracción de distracción para que las familias con niños
+asistieran al servicio de adoración de Pascua. Ahora un grupo de niños corría
+por el patio recogiendo dulces. El evento se vuelve menos como una diversión
+privada en casa y más como un saqueo masivo. Los niños compiten por encontrar y
+recolectar tantos dulces como puedan antes de que el patio de la iglesia quede
+limpio.
 
-This feeling is amplified when municipalities become involved, sponsoring "egg
-hunts" in parks, open to the public. The children are held behind a gate.  On
-signal they flood the park and begin picking up bits of wrapped or packaged
-candy that has been strewn about for them to find, sometimes cased in colored
-plastic eggs.
+Esta sensación se amplifica cuando los municipios se involucran, patrocinando
+«búsquedas de huevos» en parques, abiertas al público. A los niños se les
+mantiene detrás de una puerta. A la señal, inundan el parque y comienzan a
+recoger trocitos de dulces envueltos o empaquetados que han sido esparcidos
+para que los encuentren, a veces dentro de huevos de plástico de colores.
 
-The children madly gather every piece that they can get to before another child
-gets to it.  Parents encourage their children to show them how great a portion
-of plunder they have collected.
+Los niños recogen frenéticamente cada pieza a la que pueden llegar antes de que
+otro niño la alcance. Los padres animan a sus hijos a que les muestren la gran
+cantidad de botín que han recogido.
 
-Unlike the private home tradition of Germany and later, Victorian England,
-this new, evolved form of the Easter egg hunt is a true reflection of the
-European colonial and western capitalist spirit. The municipality purchases
-a large quantity of manufactured candy. The children compete to grab whatever
-treasure they can find before someone else does. So the evolution of the
-Easter egg hunt tracks the evolution of industrialized society.
+A diferencia de la tradición en hogares privados de Alemania y, más tarde, de
+la Inglaterra victoriana, esta nueva y evolucionada forma de la búsqueda de
+huevos de Pascua es un fiel reflejo del espíritu colonial europeo y del
+capitalismo occidental. El municipio compra una gran cantidad de dulces
+industriales. Los niños compiten por hacerse con cualquier tesoro que puedan
+encontrar antes de que lo haga otra persona. Así, la evolución de la búsqueda
+de huevos de Pascua sigue la estela de la evolución de la sociedad
+industrializada.
 
-Here we are in 2026, in a park in a little British colonized island off the
-Atlantic coast of North America, with a perrenial group of privileged American
-and British families who visit each winter, together with some locals, training
-our children in what we do best. Dress for success and plunder under cover of
-religeon and tradition.
+Aquí estamos en 2026, en un parque de una pequeña isla colonizada por los
+británicos frente a la costa atlántica de América del Norte, con un grupo
+habitual de familias privilegiadas estadounidenses y británicas que visitan el
+lugar cada invierno, junto con algunos lugareños, enseñando a nuestros hijos lo
+que mejor sabemos hacer: vestirnos para triunfar y saquear al amparo de la
+religión y la tradición.
 
-To be honest, looking over the photos, most of the children had fun.
-Children do know how to make fun out of what we set up for them, even how
-to make their own fun. There are probably as many stories here as there are
-people. This perspective of mine lacks a sense of humor. We are what we are.
-Participate, appreciate, laugh, love, enjoy. Let the world take care of itself.
+Para ser honesto, al revisar las fotos, la mayoría de los niños se divirtieron.
+Los niños sí saben cómo divertirse con lo que les preparamos, incluso cómo
+crear su propia diversión. Probablemente haya tantas historias aquí como
+personas.  Espero que a esta perspectiva mía no le falte sentido del humor.
+Somos lo que somos.  Participar, apreciar, reír, amar, disfrutar. Dejemos que
+el mundo se las arregle solo.
 
