@@ -1,13 +1,9 @@
 ---
 layout: post
-title: Pascual
+title: Fiesta de la Pascua
 date: 2026-04-07
-tags: sociedad bahamas
+tags: sociedad bahamas filosofía
 excerpt: Búsquedas de huevos
-link_note: "[text for internal link]({{ '/2021/11/15/Sara-M.html' | relative_url }})"
-image_note: "![image description]({{ '/assets/images/image.jpeg' | relative_url }})"
-video_note: "{% include video.html source='2022/CorrientesDos.mp4' still='2022/CostaRica/CorrientesUno.png' %}"
-audio_note: "{% include audio.html source='/assets/audio/2021/Cantante.m4a' %}"
 ---
 
 La Pascua es una fiesta peculiar en los Estados Unidos y aquí, en este
@@ -16,6 +12,10 @@ primaveral de la fertilidad, el fin del invierno, en la que se conmemoraba el
 renacer de las plantas, el florecimiento de las flores, la anidación de las
 aves y el apareamiento y la reproducción de los mamíferos. El huevo
 representaba la fertilidad, el nacimiento y el crecimiento.
+
+![Una familia posa para una foto de recuerdo tras el servicio de Pascua en la iglesia metodista de Hope Town, Ábaco, Bahamas](
+  {{ 'assets/images/2026/04Pascua/DCL_5561.JPG' | relative_url }}
+)
 
 Los cristianos superpusieron a esta fiesta la resurrección de Cristo.
 Cristo ha resucitado. Después de ser crucificado y dejado por muerto en la
@@ -32,6 +32,10 @@ pequeños nidos de hierba en lugares insólitos alrededor del palacio. Hervir lo
 huevos con una buena dosis de cáscara de cebolla les da un color dorado. Lo que
 hace la realeza, a otros les gusta hacerlo. La costumbre se extendió por
 Inglaterra y, de ahí, al Imperio Británico.
+
+![Niña en el jardín con su mejor atuendo de Pascua, Hope Town, Ábaco, Bahamas](
+  {{ 'assets/images/2026/04Pascua/DCL_5595.JPG' | relative_url }}
+)
 
 En mi hogar de Nueva Inglaterra, cuando éramos pequeños, buscábamos dulces por
 toda la casa la mañana de Pascua. Los huevos eran de chocolate envueltos en
@@ -52,6 +56,10 @@ privada en casa y más como un saqueo masivo. Los niños compiten por encontrar 
 recolectar tantos dulces como puedan antes de que el patio de la iglesia quede
 limpio.
 
+![Comienza del saqueo masivo, búsqueda de huevos de Pascua](
+  {{ 'assets/images/2026/04Pascua/DCL_5582.JPG' | relative_url }}
+)
+
 Esta sensación se amplifica cuando los municipios se involucran, patrocinando
 «búsquedas de huevos» en parques, abiertas al público. A los niños se les
 mantiene detrás de una puerta. A la señal, inundan el parque y comienzan a
@@ -61,6 +69,10 @@ para que los encuentren, a veces dentro de huevos de plástico de colores.
 Los niños recogen frenéticamente cada pieza a la que pueden llegar antes de que
 otro niño la alcance. Los padres animan a sus hijos a que les muestren la gran
 cantidad de botín que han recogido.
+
+![Los niños recogen caramelos del jardín](
+  {{ 'assets/images/2026/04Pascua/DCL_5586.JPG' | relative_url }}
+)
 
 A diferencia de la tradición en hogares privados de Alemania y, más tarde, de
 la Inglaterra victoriana, esta nueva y evolucionada forma de la búsqueda de
@@ -77,6 +89,10 @@ habitual de familias privilegiadas estadounidenses y británicas que visitan el
 lugar cada invierno, junto con algunos lugareños, enseñando a nuestros hijos lo
 que mejor sabemos hacer: vestirnos para triunfar y saquear al amparo de la
 religión y la tradición.
+
+![Tres niños muestran su botín a sus padres](
+  {{ 'assets/images/2026/04Pascua/DCL_5622.JPG' | relative_url }}
+)
 
 Para ser honesto, al revisar las fotos, la mayoría de los niños se divirtieron.
 Los niños sí saben cómo divertirse con lo que les preparamos, incluso cómo
