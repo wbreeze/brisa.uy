@@ -11,14 +11,20 @@ audio_note: "{% include audio.html source='/assets/audio/2021/Cantante.m4a' %}"
 ---
 
 Easter is a strange holiday in the United States and here in this little
-Bahamas town. It was a springtime fertility, end of winter, earth blooming
+Bahamas town. In times of lore it was a springtime fertility, end of winter
 festival celebration of plants growing again, flowers blooming, birds nesting,
 mammals mating and reproducing. The egg represented fertility, birth and
-growth.  Christians overlayed the festival with the resurrection of Christ.
+growth.
+
+Christians overlayed the festival with the resurrection of Christ.
 Christ is risen.  After being hung on the cross and left for dead in the tomb,
 he emerges to live again, briefly, with a few close friends.
 
-The English Queen Victoria's mother was german, and brought a tradition of 
+Outside of the packed to overflowing church, late arrivals, all of the women
+and girls in dresses, gathered at the open windows. A mockingbird worked to
+line a nest of sticks with grass.
+
+The English Queen Victoria's mother brought a germanic tradition of
 the Easter Egg hunt to her palacial home.  The children enjoyed the novelty of
 finding hard boiled eggs with tinted or painted shells lying in little nests of
 grass in odd places around the palace. Boiling the eggs with a heavy dose of
@@ -28,26 +34,29 @@ The practice spread in England, and so to the British Empire.
 In my home when we were young we hunted around the house for candy on easter
 morning. The eggs were chocolate wrapped in colorful foil. Later this devolved
 into a basket of candy on the breakfast table.  I think this was because
-getting to church on time had greater priority than diversionary foraging in
-the family room and patio.  There was always a solid chocolate bunny in the
-basket.  My brother and I would devour the ears first, then the head, then the
-body. The bunny's body being solid, the ears were the easy pickings.
+getting to church on time had greater priority for my parents than diversionary
+foraging in the family room and patio.  There was always a solid chocolate
+bunny in the basket.  My brother and I would devour the ears first, then the
+head, then the body. The bunny's body being solid, the ears were the easy
+pickings.
 
 Sometime in the last fifty years churches began to sponsor easter egg hunts
-in their church yards as a diversionary social activity for families with
-children that attended the easter worship service.  Now a group of children
-were running around the yard picking-up candy.  The event is less like a
+in their church yards as a diversionary attraction for families with
+children to attend the easter worship service.  Now a group of children
+were running around the yard picking-up candy.  The event becomes less like a
 private, at home diversion and more like mass plunder.  The childen compete to
 find and collect as much candy as they can before the church yard has been
 picked clean.
 
-This feeling is multiplied when municipalities become involved, sponsoring "egg
+This feeling is amplified when municipalities become involved, sponsoring "egg
 hunts" in parks, open to the public. The children are held behind a gate.  On
 signal they flood the park and begin picking up bits of wrapped or packaged
-candy that has been strewn about for them to find. The children madly gather
-every piece that they can get to before another child gets to it.  Parents
-encourage their children to show them how great a portion of plunder they have
-collected.
+candy that has been strewn about for them to find, sometimes cased in colored
+plastic eggs.
+
+The children madly gather every piece that they can get to before another child
+gets to it.  Parents encourage their children to show them how great a portion
+of plunder they have collected.
 
 Unlike the private home tradition of Germany and later, Victorian England,
 this new, evolved form of the Easter egg hunt is a true reflection of the
@@ -58,8 +67,9 @@ Easter egg hunt tracks the evolution of industrialized society.
 
 Here we are in 2026, in a park in a little British colonized island off the
 Atlantic coast of North America, with a perrenial group of privileged American
-and British families who visit each winter, training our children in what we do
-best. Dress for success and plunder under cover of tradition and religion.
+and British families who visit each winter, together with some locals, training
+our children in what we do best. Dress for success and plunder under cover of
+religeon and tradition.
 
 To be honest, looking over the photos, most of the children had fun.
 Children do know how to make fun out of what we set up for them, even how
