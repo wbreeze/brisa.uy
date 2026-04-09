@@ -1,0 +1,17 @@
+[text for internal link](
+  {{ '/2021/11/15/Sara-M.html' | relative_url }}
+)
+
+![image description](
+  {{ '/assets/images/image.jpeg' | relative_url }}
+)
+
+{% include video.html
+  source='2022/CorrientesDos.mp4'
+  still='2022/CostaRica/CorrientesUno.png'
+%}
+
+{% include audio.html
+  source='/assets/audio/2021/Cantante.m4a'
+%}
+
