@@ -15,7 +15,7 @@ día tranquilo y con el motor.
 
 Me quedé en Cayo Guana unos cinco días mirando las puestas de sol.
 
-![description](
+![Puesta del sol con velero, Cayo Guana, Abaco, Bahamas](
   {{ 'assets/images/2026/04Faro/DCL_5502.JPG' | relative_url }}
 )
 
@@ -23,7 +23,7 @@ Tras una navegación tranquila de unas doce millas náuticas, llegué al
 puerto de Marsh Harbour. Acá pude renovar las viandas en un supermercado
 y rellenar los tanques de agua, gasóil y supergas.
 
-![description](
+![Brisa navegando a vela, con brisa ligera, sobre agua turquesa](
   {{ 'assets/images/2026/04Faro/IMG_1435.jpeg' | relative_url }}
 )
 
@@ -35,7 +35,7 @@ en esta zona son de menos de un metro.
 
 [dorian]: https://es.wikipedia.org/wiki/Hurac%C3%A1n_Dorian
 
-![description](
+![Casa con techos nuevos en el puerto de Marsh Harbour, Bahamas](
   {{ 'assets/images/2026/04Faro/DCL_5508.JPG' | relative_url }}
 )
 
@@ -46,7 +46,7 @@ terminarla antes de navegar a Bermudas. Si me pilla una ola por la cubierta,
 esto asegura que no entre agua en la cabina bajo la tapa del paso de popa.
 Espero que sirva.
 
-![description](
+![Cubierta de la bosilla en la que se coloca la tapa deslizante](
   {{ 'assets/images/2026/04Faro/cubierta.jpeg' | relative_url }}
 )
 
@@ -55,21 +55,21 @@ viento bonancible hasta el fondeadero situado fuera de Hope Town, detrás de
 Elbow Cay.  Allí hay un faro que quería visitar.
 
 Una hora después de mi llegada, llegó una goleta de tres mástiles y fondeó
-cerca de mí. Ver la goleta con el faro me alegró mucho.
+cerca de mí. Ver la goleta con el faro me alegró mucho.  La goleta es una
+goleta de poco calado construida en acero, con deseño de Thomas Colvin.  La
+quilla de poco calado se puede extender para mejorar el rendimiento en ceñida
+en aguas más profundas Una familia vive en ella.  Navegan por aquí en invierno
+y vuelven con el velero a Cape Cod, en Nueva Inglaterra, en verano.
 
-La goleta es un reproducción en acero de las goletas de carga estilo
-[name that design] del [name that era]. Una familia vive en ella.
-Navegan por aquí en invierno y vuelven con el velero a Cape Cod, en Nueva
-Inglaterra, en verano. Lo compraron como salvamento después del huracán Dorian.
-
-Recuperaron los mástiles del fondo llano del mar. La razón del extremo ángulo
-de inclinación de los mástiles es que los usan para izar la carga por tangones
-desde los bodegas del barco.
+Lo compraron como salvamento después del huracán Dorian.  Recuperaron los
+mástiles del fondo llano del mar. La razón del extremo ángulo de inclinación de
+los mástiles es que los usan para izar la carga por tangones desde los bodegas
+del barco. Sin embargo, esta versión está equipada con salones, no con bodegas.
 
 Con este velero han navegado hasta Puerto Rico y la República Dominicana. Me
 parece muy adecuado para la navegación en alta mar.
 
-![description](
+![Faro y Goleta, Hope Town, Cayo Elbow, Abaco, Bahamas](
   {{ 'assets/images/2026/04Faro/DCL_5515.JPG' | relative_url }}
 )
 
@@ -92,14 +92,14 @@ Este faro es uno de los pocos que todavía se opera a mano. Tiene un farero que
 se levanta a menos cada dos horas para dar cuerda al mecanismo que hace girar
 las lentes y mantener el flujo de queroseno presurizado.
 
-![description](
+![Puerta y vista del faro de Cayo Elbow, Hope Town, Abaco, Bahamas](
   {{ 'assets/images/2026/04Faro/faro.jpeg' | relative_url }}
 )
 
 Está permitido entrar, explorar y subir para mirar los mecanismos y las vistas.
 Fue posible ver a Brisa fondeado en la bahía llana que hay al oeste del cayo.
 
-![description](
+![Vista del bahía donde Brisa está fondeado, Cayo Elbow, Hope Town, Bahamas](
   {{ 'assets/images/2026/04Faro/IMG_1450.jpeg' | relative_url }}
 )
 
@@ -108,16 +108,16 @@ congelada.  Más allá, vi los arrecifes con las quebradas del océano Atlántic
 En esa dirección no hay tierra hasta llegar a las islas de Cabo Verde, a tres
 mil millas náuticas de distancia hacia al este.
 
-![description](
+![Vista del pueblo Hope Town y el océano Atlántico, Cayo Elbow, Bahamas](
   {{ 'assets/images/2026/04Faro/IMG_1453.jpeg' | relative_url }}
 )
 
 Ayer llovió con fuerza durante unos minutos por la tarde. Intenté capturar
-con una foto la calidad de la superficie del mar en esta foto. A pesar del viento, la lluvia
+la calidad de la superficie del mar en esta foto. A pesar del viento, la lluvia
 lo deja más liso, sin ovejas ni olas que se rompan. Parece una alfombra
 o un peluche.  Es divino.
 
-![description](
+![Lluvia sobre la superficie del mar](
   {{ 'assets/images/2026/04Faro/DCL_5630.JPG' | relative_url }}
 )
 
@@ -134,7 +134,7 @@ De verdad, tengo la cadena nueva, renovada en Carolina del Norte. No obstante,
 prefiero las noches tranquilas como la de la foto anteanoche. Son las noches
 más comunes, por suerte.
 
-![description](
+![Brisa fondeado sobre el mar tranquilo, Cayo Elbow, Abaco, Bahamas](
   {{ 'assets/images/2026/04Faro/IMG_1458.jpeg' | relative_url }}
 )
 
