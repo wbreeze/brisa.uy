@@ -13,6 +13,10 @@ galleries, parks, libraries and museums. There is a baseball stadium.
 
 [charles]: {{ '/fotos/2024/ICW_Carolinas/index.html' | relative_url }}
 
+![Fuente y jardín, Charleston, SC](
+  {{ 'assets/images/2026/04Charleston/IMG_1517.jpeg' | relative_url }}
+)
+
 This time I entered from another country. As with the first and [only
 other time][tortugas] I have entered the United States with the boat, I had bad
 luck with the authorities.
@@ -42,6 +46,10 @@ more funds to my cell phone balance. The morning was advancing. I wanted
 to move up the Ashley river to a better protected anchorage before the
 current became strong against me.
 
+![Fachadas de edificios, Charleston, SC](
+  {{ 'assets/images/2026/04Charleston/alm.jpeg' | relative_url }}
+)
+
 ## Police welcome
 
 Pulling-up the anchor, who should appear but a border patrol officer riding a
@@ -57,7 +65,6 @@ that was about, he said that he was giving me a warning because I hadn't
 checked-in right away.
 
 I reminded him that I had tried three times to check-in with their app that
-wasn't working.  He said, okay then you should have called us. Oh well! Why
 didn't I think of that? He threatened me with a violation. He said he wasn't
 giving me a violation because I had tried to check-in with the app.
 
@@ -85,6 +92,10 @@ and productivity. If you're a policeman, you are expected to work hard and
 demonstrate that you are working hard. Therefore the police go around molesting
 the otherwise law abiding, well behaved populace with tickets and warnings and
 whatever they can come up with to show evidence that they are working hard.
+
+![Portales en Charleston, NC](
+  {{ 'assets/images/2026/04Charleston/pue.jpeg' | relative_url }}
+)
 
 I think, in my perfect world, the police are very lazy. They serve as a
 deterrent. They only get involved with people who are truly doing harm.
@@ -160,6 +171,10 @@ conditions, then you verify email and phone number by receiving and entering
 verification codes.  Inside all of this are silent profile lookups to "prevent
 fraud" and "filter bots." When you have cleared these hurdles and been vetted,
 you can agree to more terms and conditions in order to pay for your ticket.
+
+![Vivienda en una calle empedrada, Charleston, SC](
+  {{ 'assets/images/2026/04Charleston/IMG_1532.jpeg' | relative_url }}
+)
 
 Somehow everyone gets through this and gets to watch a baseball game. I'm
 not sure how we put up with it. It is because I am old and remember when it
