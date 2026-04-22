@@ -1,15 +1,16 @@
 ---
 layout: post
-title: Landing from offshore at Charlestown
+title: Bienvenido a Estados Unidos
 date: 2026-04-22
 tags: sociedad
-excerpt: Welcome back to the man
+excerpt: Respondiendo a la autoridad
 ---
 
-Here I am in [Charlestown again][charles]. I want to like Charlestown. It has
-classical southern charm. The women are beautiful. The French Quarter
-has enchanting homes with lovely gardens and covered porches. There are
-galleries, parks, libraries and museums. There is a baseball stadium.
+Aquí estoy, en [Charleston otra vez][charles]. Me gustaría que Charleston me
+gustara. Tiene ese encanto clásico sureño. Las mujeres son hermosas. El Barrio
+Francés cuenta con casas encantadoras con jardines preciosos y porches
+cubiertos. Hay galerías, parques, bibliotecas y museos. Hay un estadio de
+béisbol.
 
 [charles]: {{ '/fotos/2024/ICW_Carolinas/index.html' | relative_url }}
 
@@ -17,191 +18,215 @@ galleries, parks, libraries and museums. There is a baseball stadium.
   {{ 'assets/images/2026/04Charleston/IMG_1517.jpeg' | relative_url }}
 )
 
-This time I entered from another country. As with the first and [only
-other time][tortugas] I have entered the United States with the boat, I had bad
-luck with the authorities.
+Esta vez llegué desde otro país. Al igual que [la primera y única otra
+vez][tortugas] que he entrado a Estados Unidos en barco, tuve mala suerte con
+las autoridades.
 
 [tortugas]: {{ '/2024/01/27/Tortugas-Secos.html' | relative_url }}
 
-Watching the sun set as I motored into the Charleston Harbor,
-dead tired after four-and-a-half days on offshore passage, after
-putting down the anchor, before sleeping, I opened the CBP Roam App that
-the United States border patrol wants you to use to notify them
-of your arrival. I connected it using the starlink. It had trouble with
-my location-- port of entry. It knew I was in South Carolina, but didn't
-offer any port selections nor offer a keyboard so that I could type it.
-It wouldn't let me skip it, either.
+Mientras contemplaba la puesta de sol al entrar a motor en el puerto de
+Charleston, muerto de cansancio tras cuatro días y medio de travesía en alta
+mar, después de echar el ancla y antes de dormir, abrí la aplicación CBP Roam
+que la Patrulla Fronteriza de Estados Unidos quiere que uses para notificarles
+tu llegada. Me conecté usando Starlink. La aplicación tuvo problemas con mi
+ubicación: el puerto de entrada. Sabía que estaba en Carolina del Sur, pero no
+ofrecía ninguna opción de puerto ni un teclado para que pudiera escribirlo.
+Tampoco me dejaba saltarlo.
 
 ![CBP Roam no funcionaba](
   {{ 'assets/images/2026/04Charleston/app.jpg' | relative_url }}
 )
 
-After several attempts, I gave up and went to sleep. I slept hard for about
-eleven hours.
+Después de varios intentos, me rendí y me fui a dormir. Dormí profundamente
+durante unas once horas.
 
-The next morning over coffee I tried the app again with the same result.
-I decided that maybe it wanted celular internet and tried to purchase
-some cellular data. That failed. I had to go online with the bank to add
-more funds to my cell phone balance. The morning was advancing. I wanted
-to move up the Ashley river to a better protected anchorage before the
-current became strong against me.
+A la mañana siguiente, mientras tomaba café, volví a probar la aplicación con
+el mismo resultado. Pensé que tal vez necesitaba conexión a Internet móvil e
+intenté comprar datos móviles. No funcionó. Tuve que entrar en la página del
+banco para recargar el saldo de mi celular. La mañana avanzaba. Quería remontar
+el río Ashley hasta un fondeadero más protegido antes de que la corriente se
+volviera demasiado fuerte en mi contra.
 
 ![Fachadas de edificios, Charleston, SC](
   {{ 'assets/images/2026/04Charleston/alm.jpeg' | relative_url }}
 )
 
-## Police welcome
+## La policía de la bienvenida
 
-Pulling-up the anchor, who should appear but a border patrol officer riding a
-powerful inflatable launch operated by the sherrif. I told him, "Great! Would
-you help me with this app? It isn't letting me check-in." He said, "Sure. In
-fact, I'll check you in. Please allow me to board." This is not really a
-request. They claim the right to board. It is written into law.
+Justo cuando terminaba de levantar el ancla, apareció un oficial de la patrulla
+fronteriza a bordo de una potente lancha inflable operada por el sheriff. Le
+dije: «¡Genial! ¿Me podrías ayudar con esta aplicación? No me deja
+registrarme». Él respondió: «Claro. De hecho, yo mismo te registraré. Por
+favor, déjame subir a bordo». En realidad, esto no es una simple petición.
+Ellos reclaman el derecho a subir a bordo. Está estipulado en la ley.
 
-The border patrol officer was very nice. We had a good time together trying
-the app and then letting him do his thing with my documents. Then he was
-doing another form on which he had written "Warning" at the top. Asked what
-that was about, he said that he was giving me a warning because I hadn't
-checked-in right away.
+El oficial de la patrulla fronteriza fue muy amable. La pasamos bien juntos
+probando la aplicación. Estuvo de acuerdo conmigo en que no funcionaba, y luego
+empezó a hacer lo suyo con mis documentos. Quería tomarme una foto. Me dijo que
+era para el reconocimiento facial.
 
-I reminded him that I had tried three times to check-in with their app that
-didn't I think of that? He threatened me with a violation. He said he wasn't
-giving me a violation because I had tried to check-in with the app.
+Cuando pensé que había terminado, comenzó a llenar otro formulario en el que
+había escrito «Advertencia» en la parte superior. Le pregunté de qué se trataba
+y me dijo que me estaba dando una advertencia porque no me había registrado de
+inmediato.
 
-A day later I'm still angry about it. If their app, the method that they tell
-people to use, if it had worked, we wouldn't have been having the conversation.
-Now I have a record of violation. If I ever run into them again they'll treat
-me harshly because I have a record.  If anything ever happens, the press will
-say, "...and he had a record of violations with the CBP."
+Le recordé que había intentado registrarme tres veces con su aplicación y que
+no había funcionado. Me respondió que debería haber llamado por teléfono. ¿Ah,
+sí? ¿Por qué no se me ocurrió eso? Me amenazó con ponerme una multa. Dijo que
+no me iba a poner una multa porque había intentado registrarme con la
+aplicación.
+
+Días después sigo enojado por eso. Si su app, el método que le dicen a la gente
+que use, hubiera funcionado, no estaríamos teniendo esta conversación. Ahora
+tengo un registro de infracción. Si alguna vez me los vuelvo a encontrar, me
+tratarán con dureza porque tengo un registro. Si alguna vez pasa algo, la
+prensa dirá: «... y tenía un registro de infracciones con la CBP».
 
 ![Lancha de la policía](
   {{ 'assets/images/2026/04Charleston/IMG_1506.jpeg' | relative_url }}
 )
 
-Well, whatever. Welcome to the United States of America. We have a lot of
-rules here. Never mind that you're dead tired arriving from offshore. The first
-thing on the minds of the people who greet you is that you have complied with
-requirements that some overweight, balding, idealistic, white bureacrat wrote
-while sitting in a comfy office after having a martini over lunch. There are no
-excuses if you don't conform.
+Bienvenido a los Estados Unidos de América. Aquí tenemos un montón de reglas.
+No importa que llegues muerto de cansancio desde el extranjero. Lo primero que
+les preocupa a quienes te reciben es que hayas cumplido con los requisitos que
+algún burócrata blanco, con sobrepeso, calvo e idealista redactó mientras
+estaba sentado en una cómoda oficina después de tomarse un martini durante el
+almuerzo. No hay excusas si no cumples con ellos.
 
-The officer, he's doing his job. In the United States, the police are very
-hard. It's because you have to work hard in the United States. If you are an
-engineer, you're expected to work hard and show evidence of your hard work
-and productivity. If you're a policeman, you are expected to work hard and
-demonstrate that you are working hard. Therefore the police go around molesting
-the otherwise law abiding, well behaved populace with tickets and warnings and
-whatever they can come up with to show evidence that they are working hard.
+El oficial está haciendo su trabajo. En Estados Unidos, la policía es muy
+estricta. Es porque en Estados Unidos hay que trabajar duro. Si eres ingeniero,
+se espera que trabajes duro y demuestres tu esfuerzo y productividad. Si eres
+policía, se espera que trabajes duro y demuestres que lo estás haciendo. Por
+eso la policía anda por ahí molestando a la población, que por lo demás respeta
+la ley y se comporta bien, con multas, advertencias y cualquier cosa que se les
+ocurra para demostrar que están trabajando duro.
 
 ![Portales en Charleston, NC](
   {{ 'assets/images/2026/04Charleston/pue.jpeg' | relative_url }}
 )
 
-I think, in my perfect world, the police are very lazy. They serve as a
-deterrent. They only get involved with people who are truly doing harm.
-They don't harass the public so that the people feel policed. But, no. In
-the United States you are expected to work hard and show something for your
-work. Therefore, if you're a policeman, you have to write tickets.
+Creo que, en mi mundo ideal, la policía sería muy perezosa. Serviría como
+elemento disuasorio. Solo se ocuparía de quienes realmente causan daño. No
+acosaría al público para que la gente se sintiera vigilada. Pero no. En Estados
+Unidos se espera que trabajes duro y demuestres resultados por tu trabajo. Por
+lo tanto, si eres policía, tienes que poner multas.
 
-On top of that, in the United States, there are a lot of police. From town
-to township, to county, to state, to federal... at every level and anywhere
-there is government there are police forces and sometimes sheriffs as well.
-The federal government has all sorts of police-- DEA, FBI, CBP, ICE --four
-that I can come-up with without thinking too hard.  They are well funded, well
-equiped and always armed. You don't argue with them. If they decide you are
-going to do something, you do it.
+Además de eso, en Estados Unidos hay mucha policía. Desde la ciudad hasta el
+municipio, pasando por el condado, el estado y el gobierno federal... en todos
+los niveles y en cualquier lugar donde haya gobierno hay fuerzas policiales y,
+a veces, también sheriffs. El gobierno federal tiene todo tipo de policías: la
+DEA, el FBI, la CBP, el ICE; cuatro que se me ocurren sin pensar mucho. Están
+bien financiados, bien equipados y siempre armados. No se discute con ellos. Si
+deciden que vas a hacer algo, lo haces.
 
-I have to ask the people in Uruguay who want more police, who think that will
-bring more security, if they really want to feel policed. Also, if they think
-that the highly policed United States of America is safer than Montevideo.
-Somehow, I don't think more police is the answer. I think it's a mistake
-on the part of the people to ask for more police. We have lots of police here.
-It's no fun. I feel more threatened by the police than by anyone else.
+Tengo que preguntarles a los uruguayos que quieren más policía, que creen que
+eso traerá más seguridad, si realmente quieren sentirse vigilados. Y también si
+creen que los Estados Unidos de América, con su fuerte presencia policial, son
+más seguros que Montevideo. De alguna manera, no creo que más policía sea la
+solución. Creo que es un error por parte de la gente pedir más policía. Aquí
+tenemos mucha policía. No es nada divertido. Me siento más amenazado por la
+policía que por cualquier otra persona.
 
-## Baseball
+Cuando la gente pide más policía, piensa que la policía trabaja para ellos y en
+contra de alguien más. Se olvidan de que la policía es un arma de doble filo, o
+más bien algo más contundente que eso, un garrote. Si quieres afinar algo,
+tienes que contratar a un abogado. ¿Quién puede permitírselo? ¿Ves adónde lleva
+esto?
 
-When I had decided to divert to Charleston I had remembered that there is
-a baseball stadium here a short walk from the dock. I had looked it up and
-seen that there would be some games. I could go see them. I like watching
-baseball.
+## Béisbol
+
+Cuando decidí, a unos cien kilómetros de la costa, en la corriente del Golfo,
+desviarme hacia Charleston, recordé que aquí hay un estadio de béisbol a pocos
+pasos del muelle. Lo había buscado y vi que habría algunos partidos. Podría ir
+a verlos. Me gusta ver el béisbol. Eso me animó un poco.
 
 ![Estadio de beisbol detras la muelle](
   {{ 'assets/images/2026/04Charleston/IMG_1510.jpeg' | relative_url }}
 )
 
-Back in the day, when I lived in the Hudson Valley, I would go to the stadium
-four or five times during the season. It was like going to Tablado del Parque.
-You would toss a sweater into a bag to put on as the evening chilled. You
-showed-up at the stadium and bought a ticket at the box office. You took the
-ticket to the gate where they scanned it. You enjoyed the game.
+En aquellos tiempos, cuando vivía en el Valle del Hudson de Nueva York, solía
+ir al estadio cuatro o cinco veces durante la temporada. Era como ir al Tablado
+del Parque.  Metías un suéter en la mochila para ponértelo cuando empezaba a
+refrescar por la noche. Llegabas al estadio y comprabas una entrada en la
+boletería. Llevabas la entrada a la puerta de acceso, donde te la escaneaban.
+Disfrutabas del partido.
 
-Showing up, I find no box office. A nice young person directs me to scan a QR
-code with my phone to purchase online. Of course, I haven't arranged any
-cellular data.  Looking around, I see a line of people, some of them holding
-little purses of transparent vinyl plastic that make the contents visible.
-There is signage about bag size limits.  There are separate entry lines for
-bags and no bags.  Before I get anywhere with purchasing the ticket, the person
-there who can't sell me a ticket but can direct me to scan a QR code kindly
-warns me that I won't be allowed to enter with my bag.
+Al llegar al estadio, no encuentro boletería ninguna. Un joven muy amable me
+indica que escanee un código QR con mi teléfono para comprar en línea. Por
+supuesto, no tengo datos móviles. Al mirar a mi alrededor, veo una fila de
+personas, algunas de ellas con bolsos pequeños de plástico vinílico
+transparente que dejan ver el contenido. Hay letreros sobre los límites de
+tamaño de los bolsos. Hay filas de entrada separadas para personas con bolsos y
+sin bolsos. Antes de llegar a ningún lado con la compra de la entrada, la
+persona que está allí, que no puede venderme una entrada pero puede indicarme
+que escanee un código QR, me advierte amablemente que no me permitirán entrar
+con mi bolso.
 
-This angered me and I threw a tantrum. I said that America had too many rules
-and that it's a shitty country. I'm embarrased about it. I was primed
-for the trigger by my encounter with the diligent border patrol officer.
+Esto me enfureció y me puse a patalear. Dije que Estados Unidos tenía
+demasiadas reglas y que era un país de mierda. Me da vergüenza haberlo dicho.
+Mi encuentro con ese diligente agente de la patrulla fronteriza me había puesto
+a flor de piel.
 
-In hindsight, I think it has something to do with the United States having
-attacked Iran. This means that large congregations of Americans are
-targets for the enemies we are making. It means that security has to be
-stepped-up to protect us. It's for our own good.
+En retrospectiva, creo que tiene algo que ver con que Estados Unidos haya
+atacado a Irán. Esto significa que las grandes concentraciones de
+estadounidenses son objetivos para los enemigos que nos estamos creando.
+Significa que hay que reforzar la seguridad para protegernos. Es por nuestro
+propio bien.
 
 ![Equipo del partido](
   {{ 'assets/images/2026/04Charleston/IMG_1509.jpeg' | relative_url }}
 )
 
-The security and surveillance apparatus in the USA is not state run as it is
-in China. Instead, private corporations are enabled to run it for profit.
-They surveil, classify and manipulate the public for retention, attention and
-consumption. They sell us to advertisers. They grant law enforcement access to
-any of our behavior data upon request. This is not something I have made up.
-It's written in the terms, conditions and policies that everyone agrees-to
-without reading.  It's there for you to read. You won't.
+El aparato de seguridad y vigilancia de EE. UU. no está gestionado por el
+Estado, como ocurre en China. En su lugar, se permite que empresas privadas lo
+gestionen con fines lucrativos. Estas vigilan, clasifican y manipulan al
+público para retenerlo, captar su atención y fomentar su consumo. Nos venden a
+los publicistas. Y, cuando las fuerzas del orden lo solicitan, les conceden
+acceso a cualquiera de nuestros datos de comportamiento. Esto no es algo que me
+haya inventado. Está escrito en los términos, condiciones y políticas que todo
+el mundo acepta sin leer. Está ahí para que lo leas. Pero no lo harás.
 
-The online ticketing program vets purchasers with secure identity checks. You
-have to make an account.  To make an account, you agree to terms and
-conditions, then you verify email and phone number by receiving and entering
-verification codes.  Inside all of this are silent profile lookups to "prevent
-fraud" and "filter bots." When you have cleared these hurdles and been vetted,
-you can agree to more terms and conditions in order to pay for your ticket.
+El programa de venta de entradas en línea verifica a los compradores mediante
+controles de identidad seguros. Tienes que crear una cuenta. Para crear una
+cuenta, aceptas los términos y condiciones, y luego verificas tu correo
+electrónico y número de teléfono recibiendo e ingresando códigos de
+verificación. Dentro de todo esto hay búsquedas silenciosas de perfiles para
+«prevenir el fraude» y «filtrar bots». Cuando has superado estos obstáculos y
+has sido verificado, puedes aceptar más términos y condiciones para poder pagar
+tu entrada.
 
 ![Vivienda en una calle empedrada, Charleston, SC](
   {{ 'assets/images/2026/04Charleston/IMG_1532.jpeg' | relative_url }}
 )
 
-Somehow everyone gets through this and gets to watch a baseball game. I'm
-not sure how we put up with it. It is because I am old and remember when it
-was simple. I conjecture that we feel somehow smart and resourceful,
-privileged and connected. Look how rightly we purchased these nifty
-transparent purses so that all of us can feel secure going to the baseball
-stadium!
+De alguna manera, todos logramos superar esto y llegar a ver un partido de
+béisbol. No sé muy bien cómo lo aguantamos. Quizás sea porque soy mayor y
+recuerdo cuando todo era más sencillo. Supongo que, de alguna forma, nos
+sentimos inteligentes e ingeniosos, privilegiados y conectados. ¡Mira qué
+acierto haber comprado estos estupendos bolsos transparentes para que todos
+podamos sentirnos seguros al ir al estadio de béisbol!
 
-We listen to our national anthem before the game, celebrating "the land of the
-free and the home of the brave." We feel it. We believe it.  Here we are in the
-great states, securely free; bravely inspected.  There is nothing in it, as in
-the anthem of Uruguay, suggesting that liberty is something that all of us must
-mindfully and heroically protect every day. It simply is, because we say it is.
-Maybe we believe that our police and armed-forces are doing it for us--
-protecting our liberty.
+Antes de que comience el partido, escuchamos nuestro himno nacional. En su
+final triunfal, celebra la «tierra de los libres y el hogar de los valientes».
+Lo sentimos. Lo creemos. Aquí estamos en los grandes Estados Unidos,
+seguramente libres; valientemente inspeccionados. No hay nada en él, como en el
+himno de Uruguay, que sugiera que la libertad es algo que sabremos
+cumplir conscientemente y heroicamente todos los días. Simplemente es, porque
+decimos que lo es. Quizás creemos que nuestra policía y nuestras fuerzas
+armadas lo están haciendo por nosotros: protegiendo nuestra libertad.
 
-It took me an hour, online back at the boat, to get to the place where I
-could pay for a ticket. Somehow when I got there, as badly as I wanted to
-see a little baseball, as much as I thought it might improve my mood and
-bring a nice end to a day that had started with a police welcome, I couldn't
-bring myself to agree to more terms and fill-out the form with payment
-information-- name, card number, CVV code, street address, city, state, postal
-code.
+Me llevó una hora, una vez de vuelta en el barco y conectado a Internet, llegar
+al punto en el que pude pagar la entrada. De alguna manera, cuando llegué allí,
+por mucho que quisiera ver un poco de béisbol, por mucho que pensara que podría
+mejorar mi estado de ánimo y poner un buen final a un día que había comenzado
+con una bienvenida policial, no me animé a aceptar más condiciones y llenar el
+formulario con la información de pago: nombre, número de tarjeta, código CVV,
+dirección, ciudad, estado y código postal.
 
-![Maleta](
+![Bolsa](
   {{ 'assets/images/2026/04Charleston/IMG_1508.jpeg' | relative_url }}
 )
 
-I was already late for the game anyway. I bagged it.
+De todos modos, ya llegaba tarde al partido. Así que lo colgué; lo metí en la
+bolsa.
 
