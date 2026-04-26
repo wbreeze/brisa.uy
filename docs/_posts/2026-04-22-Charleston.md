@@ -43,9 +43,12 @@ durante unas once horas.
 A la mañana siguiente, mientras tomaba café, volví a probar la aplicación con
 el mismo resultado. Pensé que tal vez necesitaba conexión a Internet móvil e
 intenté comprar datos móviles. No funcionó. Tuve que entrar en la página del
-banco para recargar el saldo de mi celular. La mañana avanzaba. Quería remontar
-el río Ashley hasta un fondeadero más protegido antes de que la corriente se
-volviera demasiado fuerte en mi contra.
+banco para recargar el saldo de mi celular.
+
+Esta aplicación es un engorro. Si sólo ponen un número de teléfono. Les
+llamaría y se lo diría.  La mañana avanzaba. Quería remontar el río Ashley
+hasta un fondeadero más protegido antes de que la corriente se volviera
+demasiado fuerte en mi contra.
 
 ![Fachadas de edificios, Charleston, SC](
   {{ 'assets/images/2026/04Charleston/alm.jpeg' | relative_url }}
@@ -65,6 +68,10 @@ probando la aplicación. Estuvo de acuerdo conmigo en que no funcionaba, y luego
 empezó a hacer lo suyo con mis documentos. Quería tomarme una foto. Me dijo que
 era para el reconocimiento facial.
 
+Me pregunté a mí mismo si quería también un autógrafo. Mientras tanto, izé la
+bandera de mi embarcación de la Guardia Costera y bajé la bandera de las
+Bahamas.
+
 Cuando pensé que había terminado, comenzó a llenar otro formulario en el que
 había escrito «Advertencia» en la parte superior. Le pregunté de qué se trataba
 y me dijo que me estaba dando una advertencia porque no me había registrado de
@@ -76,42 +83,28 @@ sí? ¿Por qué no se me ocurrió eso? Me amenazó con ponerme una multa. Dijo q
 no me iba a poner una multa porque había intentado registrarme con la
 aplicación.
 
-Días después sigo enojado por eso. Si su app, el método que le dicen a la gente
-que use, hubiera funcionado, no estaríamos teniendo esta conversación. Ahora
-tengo un registro de infracción. Si alguna vez me los vuelvo a encontrar, me
-tratarán con dureza porque tengo un registro. Si alguna vez pasa algo, la
-prensa dirá: «... y tenía un registro de infracciones con la CBP».
+Esta vez sí, de verdad quería mi autógrafo. Ahora, si alguna vez me los vuelvo
+a encontrar, me tratarán con dureza porque tengo un registro. Su aplicación de
+mala calidad es irrelevante.
 
 ![Lancha de la policía](
   {{ 'assets/images/2026/04Charleston/IMG_1506.jpeg' | relative_url }}
 )
 
-Bienvenido a los Estados Unidos de América. Aquí tenemos un montón de reglas.
-No importa que llegues muerto de cansancio desde el extranjero. Lo primero que
-les preocupa a quienes te reciben es que hayas cumplido con los requisitos que
-algún burócrata blanco, con sobrepeso, calvo e idealista redactó mientras
-estaba sentado en una cómoda oficina después de tomarse un martini durante el
-almuerzo. No hay excusas si no cumples con ellos.
-
 El oficial está haciendo su trabajo. En Estados Unidos, la policía es muy
-estricta. Es porque en Estados Unidos hay que trabajar duro. Si eres ingeniero,
+dura. Es porque en Estados Unidos hay que trabajar duro. Si eres ingeniero,
 se espera que trabajes duro y demuestres tu esfuerzo y productividad. Si eres
 policía, se espera que trabajes duro y demuestres que lo estás haciendo. Por
 eso la policía anda por ahí molestando a la población, que por lo demás respeta
 la ley y se comporta bien, con multas, advertencias y cualquier cosa que se les
-ocurra para demostrar que están trabajando duro.
+ocurra para demostrar que están trabajando duro. Con las tantas reglas que
+tenemos, no faltan oportunidades.
 
 ![Portales en Charleston, NC](
   {{ 'assets/images/2026/04Charleston/pue.jpeg' | relative_url }}
 )
 
-Creo que, en mi mundo ideal, la policía sería muy perezosa. Serviría como
-elemento disuasorio. Solo se ocuparía de quienes realmente causan daño. No
-acosaría al público para que la gente se sintiera vigilada. Pero no. En Estados
-Unidos se espera que trabajes duro y demuestres resultados por tu trabajo. Por
-lo tanto, si eres policía, tienes que poner multas.
-
-Además de eso, en Estados Unidos hay mucha policía. Desde la ciudad hasta el
+Hay mucha policía en Estados Unidos. Desde la ciudad hasta el
 municipio, pasando por el condado, el estado y el gobierno federal... en todos
 los niveles y en cualquier lugar donde haya gobierno hay fuerzas policiales y,
 a veces, también sheriffs. El gobierno federal tiene todo tipo de policías: la
@@ -122,23 +115,15 @@ deciden que vas a hacer algo, lo haces.
 Tengo que preguntarles a los uruguayos que quieren más policía, que creen que
 eso traerá más seguridad, si realmente quieren sentirse vigilados. Y también si
 creen que los Estados Unidos de América, con su fuerte presencia policial, son
-más seguros que Montevideo. De alguna manera, no creo que más policía sea la
-solución. Creo que es un error por parte de la gente pedir más policía. Aquí
-tenemos mucha policía. No es nada divertido. Me siento más amenazado por la
-policía que por cualquier otra persona.
-
-Cuando la gente pide más policía, piensa que la policía trabaja para ellos y en
-contra de alguien más. Se olvidan de que la policía es un arma de doble filo, o
-más bien algo más contundente que eso, un garrote. Si quieres afinar algo,
-tienes que contratar a un abogado. ¿Quién puede permitírselo? ¿Ves adónde lleva
-esto?
+más seguros que Montevideo.  Aquí tenemos mucha policía. No es nada divertido.
+Me siento más amenazado por la policía que por cualquier otra persona.
 
 ## Béisbol
 
 Cuando decidí, a unos cien kilómetros de la costa, en la corriente del Golfo,
 desviarme hacia Charleston, recordé que aquí hay un estadio de béisbol a pocos
-pasos del muelle. Lo había buscado y vi que habría algunos partidos. Podría ir
-a verlos. Me gusta ver el béisbol. Eso me animó un poco.
+pasos del muelle. Lo había buscado y vi que habría algunos partidos.
+Me parecía que sería genial ver a uno o dos de estos.
 
 ![Estadio de beisbol detras la muelle](
   {{ 'assets/images/2026/04Charleston/IMG_1510.jpeg' | relative_url }}
@@ -153,25 +138,21 @@ Disfrutabas del partido.
 
 Al llegar al estadio, no encuentro boletería ninguna. Un joven muy amable me
 indica que escanee un código QR con mi teléfono para comprar en línea. Por
-supuesto, no tengo datos móviles. Al mirar a mi alrededor, veo una fila de
-personas, algunas de ellas con bolsos pequeños de plástico vinílico
-transparente que dejan ver el contenido. Hay letreros sobre los límites de
-tamaño de los bolsos. Hay filas de entrada separadas para personas con bolsos y
-sin bolsos. Antes de llegar a ningún lado con la compra de la entrada, la
-persona que está allí, que no puede venderme una entrada pero puede indicarme
-que escanee un código QR, me advierte amablemente que no me permitirán entrar
-con mi bolso.
+supuesto, no tengo datos móviles. Es igual con los partidos de fútbol en
+Uruguay. Solo podés entrar con una app.
 
-Esto me enfureció y me puse a patalear. Dije que Estados Unidos tenía
-demasiadas reglas y que era un país de mierda. Me da vergüenza haberlo dicho.
-Mi encuentro con ese diligente agente de la patrulla fronteriza me había puesto
-a flor de piel.
+Al mirar a mi alrededor, veo una fila de personas, algunas de ellas con bolsos
+pequeños de plástico vinílico transparente que dejan ver el contenido. Hay
+letreros sobre los límites de tamaño de los bolsos. Hay filas de entrada
+separadas para personas con bolsos y sin bolsos. Antes de llegar a ningún lado
+con la compra de la entrada, la persona que está allí, que no puede venderme
+una entrada pero puede indicarme que escanee un código QR, me advierte
+amablemente que no me permitirán entrar con mi bolso.
 
-En retrospectiva, creo que tiene algo que ver con que Estados Unidos haya
+Creo que tiene algo que ver con que Estados Unidos haya
 atacado a Irán. Esto significa que las grandes concentraciones de
 estadounidenses son objetivos para los enemigos que nos estamos creando.
-Significa que hay que reforzar la seguridad para protegernos. Es por nuestro
-propio bien.
+Significa que hay que reforzar la seguridad para protegernos.
 
 ![Equipo del partido](
   {{ 'assets/images/2026/04Charleston/IMG_1509.jpeg' | relative_url }}
@@ -200,8 +181,8 @@ tu entrada.
 )
 
 De alguna manera, todos logramos superar esto y llegar a ver un partido de
-béisbol. No sé muy bien cómo lo aguantamos. Quizás sea porque soy mayor y
-recuerdo cuando todo era más sencillo. Supongo que, de alguna forma, nos
+béisbol. No sé muy bien cómo lo aguantamos.
+Supongo que, de alguna forma, nos
 sentimos inteligentes e ingeniosos, privilegiados y conectados. ¡Mira qué
 acierto haber comprado estos estupendos bolsos transparentes para que todos
 podamos sentirnos seguros al ir al estadio de béisbol!
@@ -215,11 +196,16 @@ cumplir conscientemente y heroicamente todos los días. Simplemente es, porque
 decimos que lo es. Quizás creemos que nuestra policía y nuestras fuerzas
 armadas lo están haciendo por nosotros: protegiendo nuestra libertad.
 
+De hecho, no es nada real. Es parte del espectáculo. Es marketing. Es la forma
+que toma para encantar al público. No es un derecho a ver un partido de béisbol
+organizado por una corporación nacional. De verdad, podemos colgarlo. Lo que no
+podemos evitar son los deberes de la Patrulla Fronteriza. 
+
 Me llevó una hora, una vez de vuelta en el barco y conectado a Internet, llegar
 al punto en el que pude pagar la entrada. De alguna manera, cuando llegué allí,
-por mucho que quisiera ver un poco de béisbol, por mucho que pensara que podría
-mejorar mi estado de ánimo y poner un buen final a un día que había comenzado
-con una bienvenida policial, no me animé a aceptar más condiciones y llenar el
+por mucho que quisiera ver un poco de béisbol profesional, por mucho que
+pensara que pondría un buen final a un día que había comenzado con una
+bienvenida policial, no me animé a aceptar más condiciones y llenar el
 formulario con la información de pago: nombre, número de tarjeta, código CVV,
 dirección, ciudad, estado y código postal.
 
@@ -228,5 +214,9 @@ dirección, ciudad, estado y código postal.
 )
 
 De todos modos, ya llegaba tarde al partido. Así que lo colgué; lo metí en la
-bolsa.
+bolsa. Hice algo creativo a la vez. Escribí esto. Los indios que forman su
+propia liga de cricket en Rambla Gandhi; los cubanos que forman su liga de
+béisbol; los uruguayos que participan en partidos de fútbol en los clubes
+—ellos tienen la idea buena. Que el regulado mundo corporativo va a la mierda.
+Nos la pasaremos bien. Lo haremos a nuestra propia manera.
 
