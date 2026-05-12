@@ -84,3 +84,39 @@ There was much celebration on board Brisa. The Atlantic crossing ahead;
 the United States behind.
 
 
+![description](
+  {{ 'assets/images/2026/04Beaufort/DCL_5646.JPG' | relative_url }}
+)
+
+![description](
+  {{ 'assets/images/2026/04Beaufort/IMG_1541.jpeg' | relative_url }}
+)
+
+![description](
+  {{ 'assets/images/2026/04Beaufort/IMG_1556.jpeg' | relative_url }}
+)
+
+![description](
+  {{ 'assets/images/2026/04Beaufort/IMG_1557.jpeg' | relative_url }}
+)
+
+![description](
+  {{ 'assets/images/2026/04Beaufort/IMG_1559.jpeg' | relative_url }}
+)
+
+![description](
+  {{ 'assets/images/2026/04Beaufort/IMG_1562.jpeg' | relative_url }}
+)
+
+![description](
+  {{ 'assets/images/2026/04Beaufort/IMG_1565.jpeg' | relative_url }}
+)
+
+![description](
+  {{ 'assets/images/2026/04Beaufort/IMG_1567.jpeg' | relative_url }}
+)
+
+![description](
+  {{ 'assets/images/2026/04Beaufort/IMG_1570.jpeg' | relative_url }}
+)
+
