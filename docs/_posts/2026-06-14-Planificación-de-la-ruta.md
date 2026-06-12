@@ -3,14 +3,14 @@ layout: post
 title: Planificación de la ruta
 date: 2026-06-14
 tags: navegación
-excerpt: No importa tanta la ruta directa de great circle
+excerpt: No importa tanta la ruta directa de gran círuculo
 ---
 
 Durante la travesía desde las Bermudas hasta las Azores, vi y oí a muchos de
 mis compatriotas navegantes experimentar un temporal tras otro. Durante este
 tiempo, en el Atlántico medio había un temporal cada tres días. Los temporales
-fueron interminables. Yo experimenté vientos fuertes durante un día entero y
-medio día. ¿Cuál fue el secreto?
+fueron interminables. Yo experimenté vientos fuertes durante un día y
+medio. ¿Cuál fue el secreto?
 
 ![Océano Atlántico a la popa de Brisa](
   {{ 'assets/images/2026/06RutaClimatica/IMG_1690.jpeg' | relative_url }}
@@ -23,13 +23,9 @@ gran círculo. Decidí ocuparme de esquivar los vientos fuertes. A partir de
 entonces, intenté mantener una dirección hacia el este, acercándome al destino
 de alguna manera, sin preocuparme por la ruta directa.
 
-
-
 El resultado fue que navegué doscientas cincuenta millas náuticas al sur de la
 ruta directa de gran círculo. Como salía tan lejos al sur, tuve que establecer
 una nueva ruta de gran círculo como referencia para navegar.
-
-
 
 Dos veces al día, por la mañana y antes de ponerse el sol, saqué los
 pronósticos de viento de PredictWind. Eso fue posible gracias a tener una
@@ -39,18 +35,14 @@ mundo nuevo. El único inconveniente es que la antena consume mucha energía
 cuando está funcionando. Yo lo enciendo por periodos cortos. No puedo dejarlo
 siempre encendido.
 
-
-
 Además, siempre bajo el paquete de fax meteorológico actual de los servicios
 meteorológicos de Estados Unidos. Este paquete contiene cartas de viento y
 olas, análisis de superficie y análisis de 500 hPa para la situación actual y
 previsiones a doce, veinticuatro, cuarenta y ocho y noventa y seis horas.
 
-
-![description](
+![Previsión meteorológica en superficie](
   {{ 'assets/images/2026/06RutaClimatica/IMG_1699.jpeg' | relative_url }}
 )
-
 
 La aplicación de PredictWind se llama «Offshore». Construye archivos de formato
 GRIB para los modelos, periodo y frecuencia que prefieras. Yo he utilizado los
@@ -59,11 +51,9 @@ periodo de cinco días. El archivo incluía viento, rachas, presión, lluvia, ol
 y CAPE para los modelos que lo proporcionaban. Con los archivos preparados y
 descargados, podrá consultarlos en cualquier momento sin encender el Starlink.
 
-
-![description](
+![Opciones de descarga de PredictWind](
   {{ 'assets/images/2026/06RutaClimatica/modelos.jpg' | relative_url }}
 )
-
 
 Además de preparar archivos GRIB con datos meteorológicos, PredictWind crea una
 ruta para cada modelo de viento. Utiliza datos sobre la velocidad del velero en
@@ -71,7 +61,7 @@ condiciones de viento diversas para simular la navegación en el tiempo previsto
 en la posición.
 
 
-![description](
+![rutas de PredictWind](
   {{ 'assets/images/2026/06RutaClimatica/rutas.jpg' | relative_url }}
 )
 
@@ -85,7 +75,7 @@ era poder comparar los modelos. A menudo había modelos que producían rutas
 cuanto a la ruta preferida.
 
 
-![description](
+![rutas de PredictWind por los tormentas](
   {{ 'assets/images/2026/06RutaClimatica/temporal.jpg' | relative_url }}
 )
 
@@ -96,7 +86,7 @@ pronóstico y determiné una ruta de navegación para el día o para la noche.
 Repite el proceso por la mañana y por la noche, día tras día.
 
 
-![description](
+![Vista hacia estribor desde la cabina de mando del Brisa](
   {{ 'assets/images/2026/06RutaClimatica/IMG_1700.jpeg' | relative_url }}
 )
 
