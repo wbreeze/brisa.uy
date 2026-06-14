@@ -1,48 +1,50 @@
 ---
 layout: post
-title: Big Blow
+title: Gran tormenta
 date: 2026-05-08
 tags: navegación
-excerpt: Dentro el velero in a big wind
+excerpt: Dentro el velero con una gran tormenta
 ---
 
-Getting ready for the big blow. Forecast twenty knots plus--
-fresh winds with strong gusts for the run angling southeast
-to Bermuda. On deck, stowing the yankee, a big tanker passed
-a mile astern. AIS said it was 250m, a quarter kilometer long.
+Prepareándose para el gran temporal. Se pronostican más de veinte nudos:
+vientos frescos con fuertes ráfagas para la travesía en dirección sureste hacia
+las Bermudas. En cubierta, mientras guardaba la vela yankee, un gran petrolero
+pasó a una milla a popa. El AIS indicaba que medía 250 m, un cuarto de
+kilómetro de eslora.
 
-Yesterday was anxous close reaching, easting without southing.
-It worked out. Last night averaged six knots and the sea smoothed out.
+Ayer fue una navegación de ceñida muy tensa, avanzando hacia el este sin
+desviarnos hacia el sur. Funcionó. Anoche mantuvimos una media de seis nudos y
+el mar se calmó.
 
-Now. This is brutal. It is difficult to move about the cabin.
-I tried making hot chocolate. First the cup went over with the powder.
-Then I couldn't hold the cup without splashing. It's warm.
-The sun is shining. The wind is howling and the sea is heaped up.
+Ahora. Esto es brutal. Es difícil moverse por la cabina. Intenté preparar
+chocolate caliente. Primero se volcó la taza con el polvo. Luego no pude
+sostener la taza sin salpicar. Hace calor. El sol brilla. El viento aúlla y el
+mar está embravecido.
 
-What a tough night. Inside, cacophonous creeks and pops everywhere as
-the stresses move about the boat. water rushing and crashing on the
-hull. howling in the rigging, the sound carried into the hull by the chain
-plates. motion so severe and sudden it's difficult to move safely.
-Feeling hot and cold at the same time. Blankets. No blankets. Sweatshirt.
-No sweatshirt. Impossible to cook or even hold a cup of coffee.
-The boat racing along at seven knots.
+Qué noche tan dura. Adentro, crujidos y chasquidos cacofónicos por todas partes
+mientras las tensiones se desplazan por el barco. El agua corre y se estrella
+contra el casco. Aullidos en el aparejo, el sonido se transmite al casco a
+través de las cadenotes. El movimiento es tan severo y repentino que es difícil
+moverse con seguridad. Siento calor y frío al mismo tiempo. Mantas. Sin mantas.
+Sudadera. Sin sudadera. Imposible cocinar o incluso sostener una taza de café.
+El barco navega a siete nudos.
 
-Outside feels calmer. The waves are visible. You can see what's coming.
-All of the sounds are more subdued. Everything makes sense.
-It's necessary to wear rain gear because of the spray.
+Afuera se siente más tranquilo. Las olas son visibles. Se puede ver lo que se
+viene. Todos los sonidos son más tenues. Todo tiene sentido. Es necesario usar
+ropa impermeable debido a las salpicaduras.
 
-I made Bermuda in the morning. Pulled into Saint George Harbor at
-9am local. I sailed rally slowly overnight so to arrive in daylight.
-It was a pair of downwind tacks that took me fifteen miles offshore.
+Llegué a las Bermudas por la mañana. Atracé en el puerto de Saint George a las
+9 a. m., hora local. Navegué muy lentamente durante la noche para llegar con
+luz del día. Fueron un par de viradas a favor del viento que me llevaron quince
+millas mar adentro.
 
-There isn't much land here. There is a lot of reef unseen underwater.
-Customs was a chore. Not so bad in the end. Long wait for my turn.
-I chatted with another guy sailing by himself on his way to the Azores.
-He had come up from the Virgin Islands.
+No hay mucha tierra aquí. Hay muchos arrecifes ocultos bajo el agua. La aduana
+fue una tarea tediosa. Al final no estuvo tan mal. Larga espera hasta que llegó
+mi turno. Plateé con otro navegante que iba solo de camino a las Azores. Había
+venido desde las Islas Vírgenes.
 
-This passage. There were times I thought I was out of my mind to be doing it.
-Other times serenely enjoyable.
-I'm not worried about hitting the ocean between here and the Azores.
-I've seen more wind than ever and made it through.
-A few things broke. It was a bit of a shakedown.
+Esta travesía. Hubo momentos en los que pensé que estaba loco por hacerla.
+Otros momentos fueron de un disfrute sereno. No me preocupa enfrentarme al
+océano entre aquí y las Azores. He visto más viento que nunca y lo he superado.
+Se rompieron algunas cosas. Fue una especie de puesta a prueba.
 
