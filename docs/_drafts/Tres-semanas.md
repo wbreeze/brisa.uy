@@ -3,19 +3,19 @@ layout: post
 title: Tres semanas
 date: 2026-06-06
 tags: navegación
-excerpt: Tres Semanas en alta mar
+excerpt: Cruzo el Atlántico del Norte desde las Bermudas a las Azores
 ---
 
-El 20 de Mayo, 2026 salí del puerto Saint Georges en las Bahamas para navegar
-a Horta, en la isla Faial de las Azores. La distancia directa entre si es
-de mil-ochocientos millas náuticas o tres mil y trescientos kilometros.
+El 20 de Mayo de 2026 salí del Puerto Saint Georges en las Bahamas para navegar
+a Horta, en la Isla Faial de las Azores. La distancia directa entre si es de
+mil ochocientas millas náuticas, o tres mil trescientos kilómetros.
 
 Al inicio del viaje, vi cómo la luna creciente se hundía en el océano. Escorpio
 está saliendo. Contemplé la puesta de sol. Se ocultó de repente y volvió a
 asomar brevemente mientras el barco cabeceaba con el oleaje. Con la oscuridad,
 la estela brillaba con noctilucas.
 
-![description](
+![Vista de popa de Brisa navegando](
   {{ 'assets/images/2026/06TresSemanas/DCL_5767.JPG' | relative_url }}
 )
 
@@ -25,7 +25,7 @@ tal vez al norte, hacia Nueva York o Block Island. Un día, pensé, extrañament
 que podría cambiar de opinión y dirigirme a Nueva Inglaterra. Eso aún estaba
 mucho más cerca que las Azores. Sorprender a todos. Mudarme a Brooklyn.
 
-![description](
+![Mar con brisa bonancible](
   {{ 'assets/images/2026/06TresSemanas/DCL_5788.JPG' | relative_url }}
 )
 
@@ -35,7 +35,7 @@ Europa y en Uruguay. Como Don Quijote le dice a Sancho, en el capítulo XX: «As
 que me ha puesto en corazón de acometer ahora esta tan no vista y tan temorosa
 aventura». Qué tarado soy.
 
-![description](
+![Olas de dos metros](
   {{ 'assets/images/2026/06TresSemanas/DCL_5793.JPG' | relative_url }}
 )
 
@@ -45,7 +45,7 @@ control.  El océano lo reduce a lo esencial. La vida es así. Nuestro control e
 una ilusión. El mundo, el universo, hace lo que hace y nosotros elegimos cómo
 responder, nada más.
 
-![description](
+![Mar con brisa flojo](
   {{ 'assets/images/2026/06TresSemanas/DCL_5805.JPG' | relative_url }}
 )
 
@@ -55,7 +55,7 @@ atención. Además de eso, navego: mantengo el barco en movimiento hacia el
 destino y, en la medida de lo posible, alejado del mal tiempo, los vientos
 fuertes y las olas grandes.
 
-![description](
+![Otro velero visto a distancia](
   {{ 'assets/images/2026/06TresSemanas/DCL_5810.JPG' | relative_url }}
 )
 
@@ -65,7 +65,7 @@ observando y haciendo ajustes a medida que cambian las condiciones. No requiere
 tanta atención como conducir un auto, pero sí más que viajar en omnibús. Se
 parece más a pilotar un avión que a viajar en la parte de atrás.
 
-![description](
+![Atardecer con sol filtrado](
   {{ 'assets/images/2026/06TresSemanas/DCL_5814.JPG' | relative_url }}
 )
 
@@ -106,17 +106,17 @@ suficiente en la cabina de mando. Me quedo abajo la mayor parte del tiempo. Una
 tarde hacía calor y brillaba el sol. Me quedé en la cabina de mando
 calentándome al sol.
 
-![description](
+![Velero deportivo encontrado por la ruta](
   {{ 'assets/images/2026/06TresSemanas/DCL_5825.JPG' | relative_url }}
 )
 
 Al final del viaje, por fin me encontré con delfines. Algunos jugaban con el
 barco. La mañana del penúltimo día, navegué entre una manada de delfines y una
-bandada de pardelas que pescaban. De la tarde decidi bañarme. Puse la fender
-naranja al fin de un cuerdo para seguridad. Me divertió una velella usandolo
-para descansarse.
+bandada de pardelas que pescaban.  De la tarde decidí bañarme. Puse la defensa
+de bola naranja al final de un cuerda para seguridad. Me divertí una veleta
+usándolo para descansar.
 
-![Velella sobre un fender](
+![Velella sobre la defensa](
   {{ 'assets/images/2026/06TresSemanas/DCL_5866.JPG' | relative_url }}
 )
 
@@ -134,7 +134,7 @@ del agua es la espuma de la estela que se extiende desde el costado y el rastro
 de agua que sale de la popa, alisado por el paso del barco y decorado con hilos
 y rastros de espuma.
 
-![description](
+![Mar tranquilo](
   {{ 'assets/images/2026/06TresSemanas/DCL_5857.JPG' | relative_url }}
 )
 
@@ -156,7 +156,7 @@ cola de Leo.
 Al igual que al principio, el final del viaje disfrutó de viento lijero o
 escaso.
 
-![description](
+![Proa de Brisa con viento ligero](
   {{ 'assets/images/2026/06TresSemanas/DCL_5860.JPG' | relative_url }}
 )
 
@@ -172,7 +172,7 @@ en los detalles, preparados para mí por supercomputadoras. A la partida y a la
 llegada conté con una carta náutica detallada donde se representaba mi barco en
 su posición, exactamente en relación con todo lo demás que figuraba en ella.
 
-![description](
+![Aproximo a la Isla Faial](
   {{ 'assets/images/2026/06TresSemanas/DCL_5883.JPG' | relative_url }}
 )
 
@@ -181,7 +181,7 @@ Muchos lo hacen, generalmente como un pequeño grupo familiar o de amigos. Me
 encontré con una docena de otros veleros en el camino, prácticamente tantos
 como buques de carga y petroleros.
 
-![description](
+![Pueblo de Horta al lado sur de la Isla Faial](
   {{ 'assets/images/2026/06TresSemanas/DCL_5906.JPG' | relative_url }}
 )
 
@@ -193,13 +193,17 @@ de emprender esa travesía, superando dudas y temores. Cuando llegues no serás
 el mismo. Llegarás cargado de presencia, de actos mínimos que se convierten en
 totales y resignifican la vida.»
 
-![description](
+![Monte de Guia, Faial](
   {{ 'assets/images/2026/06TresSemanas/guia.jpg' | relative_url }}
 )
 
+Navegué dos mil quinientas sesenta y una millas náuticas para atravesar una
+distancia de mil ochocientas millas.
+Transcurren 21 días, 23 horas y diez minutos de subir hasta bajar la ancla.
+
 Lo que dijo mi amiga sabia. Por eso es.
 
-![description](
+![Puerto de Horta, Faial, Azores](
   {{ 'assets/images/2026/06TresSemanas/DCL_5927.JPG' | relative_url }}
 )
 
