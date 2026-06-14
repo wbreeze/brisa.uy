@@ -2,125 +2,138 @@
 layout: post
 title: Tres semanas
 date: 2026-06-06
-tags:
+tags: navegación
 excerpt: Tres Semanas en alta mar
 ---
 
-At the start of the journey I watched the crescent moon sink into the ocean.
-Scorpio is rising.  Watched the sun set.  It set suddenly and rose again
-briefly as the boat rode a swell.  With the dark, the wake sparkled with
-noctilucas.
+Al inicio del viaje, vi cómo la luna creciente se hundía en el océano. Escorpio
+está saliendo. Contemplé la puesta de sol. Se ocultó de repente y volvió a
+asomar brevemente mientras el barco cabeceaba con el oleaje. Con la oscuridad,
+la estela brillaba con noctilucas.
 
-In the beginning I kept forgetting that I was far to sea, committed to weeks
-of sailing.  The closest land was back to Bahamas or maybe north to NYC or Block
-Island.  A day out I thought, strangely, that I could change my mind and head
-to New England.  That was still much closer than the Azores.  Surprise
-everybody. Move to Brooklyn.
+Al principio no dejaba de olvidar que estaba lejos en el mar, comprometido a
+semanas de navegación. La tierra más cercana estaba de regreso a las Bahamas o
+tal vez al norte, hacia Nueva York o Block Island. Un día, pensé, extrañamente,
+que podría cambiar de opinión y dirigirme a Nueva Inglaterra. Eso aún estaba
+mucho más cerca que las Azores. Sorprender a todos. Mudarme a Brooklyn.
 
-I was teary eyed just thinking about it.  I don't think that is my destiny.
-That is my past.  Although I feel nostalgic for it, my future is in Europe and
-in Uruguay.  As Don Quijote asserts to Sancho, in Chapter XX, «Así que me ha
-puesto en corazón de acometer ahora esta tan no vista y tan temorosa aventura.»
-Qué tarado soy.
+Se me llenaron los ojos de lágrimas solo de pensarlo. No creo que ese sea mi
+destino. Ese es mi pasado. Aunque siento nostalgia por él, mi futuro está en
+Europa y en Uruguay. Como Don Quijote le dice a Sancho, en el capítulo XX: «Así
+que me ha puesto en corazón de acometer ahora esta tan no vista y tan temorosa
+aventura». Qué tarado soy.
 
-You sail for miles and miles and hundreds of miles and never change the view.
-Only the sea and the sky change around you.  They are in control. The ocean
-breaks it down to basics. Life is like this. Our control is an illusion.  The
-world, the universe does as it does and we choose how to respond, no more.
+Se puede navegar por kilómetros y kilómetros y cientos de kilómetros y la vista
+nunca cambia. Solo el mar y el cielo cambian a tu alrededor. Ellos tienen el
+control.  El océano lo reduce a lo esencial. La vida es así. Nuestro control es
+una ilusión. El mundo, el universo, hace lo que hace y nosotros elegimos cómo
+responder, nada más.
 
-I cook, eat, sleep, read, write, watch the weather, meditate,
-communicate. I maintain order in the cabin and fix things that break or need
-attention. On top of that I navigate-- keep the boat moving toward
-the destination and as much as possible out of hard weather, strong winds and
-big waves.
+Cocino, como, duermo, leo, escribo, miro el clima, medito, me comunico.
+Mantengo el orden en la cabina y arreglo las cosas que se rompen o necesitan
+atención. Además de eso, navego: mantengo el barco en movimiento hacia el
+destino y, en la medida de lo posible, alejado del mal tiempo, los vientos
+fuertes y las olas grandes.
 
-You look at the forecasts and develop a strategy. Then you manage the sails
-and sailing direction. With the boat moving steadily you keep watching and
-making adjustments as conditions change. It doesn't take as much attention
-as driving a car and requires more attention than riding a bus. It is more
-like flying the airplane than riding in the back.
+Miro los pronósticos y desarrollo una estrategia. Luego manejo las velas y
+la dirección de navegación. Con el barco avanzando de manera constante, sigo
+observando y haciendo ajustes a medida que cambian las condiciones. No requiere
+tanta atención como conducir un auto, pero sí más que viajar en omnibús. Se
+parece más a pilotar un avión que a viajar en la parte de atrás.
 
-My morning in the only storm I suffered, day four, I had strong winds and the
-main flogging slightly. It took concentration and careful planning and placement,
-cautious movements and braced body positions to make instant coffee and soak
-some rolled oats in hot water. Waves splashing over the cabin top sent water
-nearly pouring through the lips around the skylight. I got outside and put a
-third reef in the main.  The reef settled the boat some.
+En la mañana de la única tormenta que sufrí, el cuarto día, había vientos
+fuertes y la vela mayor batía ligeramente. Se requirió concentración y una
+planificación y ubicación cuidadosas, movimientos cautelosos y posiciones
+corporales firmes para preparar café instantáneo y remojar unos copos de avena
+en agua caliente. Las olas que salpicaban sobre la parte superior de la cabina
+hacían que el agua casi se derramara por los bordes alrededor de la claraboya.
+Salí y le puse un tercer rizo a la vela mayor. El rizo estabilizó un poco el
+barco.
 
-It was still rough. Too rough to write easily. Fresh wind. Big sea still,
-although it calmed down a great deal through the day. A wave still comes once
-in a while to slam the side of the boat and wash over the cabin top.
+Seguía siendo agitado. Demasiado agitado para escribir con facilidad. Viento
+fresco. El mar seguía agitado, aunque se calmó mucho a lo largo del día. De vez
+en cuando sigue llegando una ola que golpea el costado del barco y se derrama
+sobre la cubierta de la cabina.
 
-After that I resolved to avoid the storms.
+Después de eso, decidí evitar las tormentas.
 
-Along the way I've seen few creatures.
+En el camino he visto pocas criaturas:
 
-- Jellyfish with sails that look like plastic water bottles
-- Flying fish, mainly found on deck
-- Shearwater birds
-- One pair and one lone tropicbird.
-- Sargasso
+- Velella: vela de mar, medusas (cnidarios) azules, con velas que parecen
+  botellas de plástico
+- Peces voladores, que se encuentran principalmente en la cubierta
+- Pájaros pardelas
+- Una pareja y un pájaro tropical solitario
+- Sargazo
 
-Sometimes I don't see much life all day.  I didn't see shearwater birds for a
-while.  I glimpsed a pair of dolphin: the tips of their dorsal fins for a split
-second and gone.  They didn't show themselves to me. A boat that I crossed
-paths with said that they saw a whale, not too close. It could be that I'm not
-up in the cockpit enough. I stay below for the most part. One afternoon the
-weather was warm and the sun shining. I hung-out in the cockpit warming in the
-sun.
+A veces no veo mucha vida en todo el día. No vi pardelas durante un tiempo.
+Divisé un par de delfines: las puntas de sus aletas dorsales por una fracción
+de segundo y desaparecieron. No se me mostraron. Un barco con el que me crucé
+dijo que habían visto una ballena, no muy cerca. Puede ser que no esté lo
+suficiente en la cabina de mando. Me quedo abajo la mayor parte del tiempo. Una
+tarde hacía calor y brillaba el sol. Me quedé en la cabina de mando
+calentándome al sol.
 
-I poke my head outside and look around. Sometimes it doesn't feel like the
-boat is moving at all. The GPS says five knots. The ocean itself has no
-point of reference for the movement. There is nothing that I am passing by,
-nothing floating on the surface that the boat passes. There's no more sargasso.
-There are only wind waves overlapping a long swell coming from the west,
-lifting the boat up on top of a long hill with a vast circle of horizon all
-about and then lowering it again into a valley with a view of the next hill of
-water approaching.
+Al final del viaje, por fin me encontré con delfines. Algunos jugaban con el
+barco. La mañana del penúltimo día, navegué entre una manada de delfines y una
+bandada de pardelas que pescaban.
 
-The only indication that the boat itself is moving among all of this movement
-of water is the foam of the wake spreading from the side and the trail of
-water off of the stern, ironed by the passing of the boat and decorated with
-strings and trails of foam.
+Asomo la cabeza afuera y miro a mi alrededor. A veces parece que el barco no se
+mueve en absoluto. El GPS marca cinco nudos. El océano en sí no tiene ningún
+punto de referencia para el movimiento. No hay nada por lo que esté pasando,
+nada flotando en la superficie que el barco rebase. Ya no hay sargazo. Solo hay
+olas de viento que se superponen a un largo oleaje que viene del oeste,
+elevando el barco a la cima de una larga colina con un vasto círculo de
+horizonte a su alrededor y luego bajándolo de nuevo a un valle con vista a la
+siguiente colina de agua que se aproxima.
 
-The moon was nearly full for several days during the journey, lighting the
-sea at night. Near the end it was waning, less than half. It rose late.
+La única indicación de que el barco se mueve en medio de todo este movimiento
+del agua es la espuma de la estela que se extiende desde el costado y el rastro
+de agua que sale de la popa, alisado por el paso del barco y decorado con hilos
+y rastros de espuma.
 
-One night was clear with a calm sea. With this comes the blessing of a star
-show.  Mercury is always a rare sight, immediately after sunset. There it is
-eight degrees above the horizon, shining brightly along with Venus and Jupiter
-in the western sky. The last time I saw it was five years ago, on passage from
-Baja to mainland Mexico.
+La luna estuvo casi llena durante varios días del viaje, iluminando el mar por
+la noche. Hacia el final estaba menguando, a menos de la mitad. Salía tarde.
 
-Out here in the ocean, the sky is dark. I look for dim stars and clusters of
-stars that you can seldom see anymore, anywhere else. Here is a pretty group
-called Coma Berenices in the empty space between the nose of the bear and the
-tail of Leo.
+Una noche estuvo despejada con el mar en calma. Con esto viene la bendición de
+un espectáculo de estrellas. Mercurio es siempre una vista poco común,
+inmediatamente después de la puesta del sol. Ahí está, a ocho grados sobre el
+horizonte, brillando intensamente junto con Venus y Júpiter en el cielo
+occidental. La última vez que lo vi fue hace cinco años, en la travesía de Baja
+California al México continental.
 
-As with the beginning, the end of the trip enjoyed light, almost no wind.
+Aquí en el océano, el cielo está oscuro. Busco estrellas tenues y cúmulos de
+estrellas que ya casi nunca se ven en ningún otro lugar. Aquí hay un bonito
+grupo llamado Coma Berenices en el espacio vacío entre la nariz del oso y la
+cola de Leo.
 
-## Epilogo
+Al igual que al principio, el final del viaje disfrutó de viento lijero o
+escaso.
 
-This journey. Perhaps only a few thousand people have crossed the Atlantic
-alone in a sailboat.  That people did it with a sextant and by looking at sea
-and sky, this impresses me. So long as I had battery, I had my location on
-the ocean, a dozen different ways, accurate to within a few meters. I was able
-to connect to the global internet for wind forecasts, days ahead, accurate
-in character if not in detail, prepared for me by supercomputers.
-On departure and arrival I had a detailed chart with my boat depicted
-in position, exactly relative to everything else on it.
+## Epílogo
 
-These days, anyone with bank, a boat and interest can cross. Many do, generally
-as a small family group or group of friends.  I encountered dozens of other
-sailboats along the way, practically as many as cargo ships and tankers.
+Este viaje. Quizás solo unos pocos miles de personas hayan cruzado el Atlántico
+en solitario en un velero. Me impresiona que lo hicieran con un sextante y
+observando el mar y el cielo. Mientras tuve batería, supe mi ubicación en el
+océano de una docena de maneras diferentes, con una precisión de unos pocos
+metros. Pude conectarme a la red global de Internet para ver pronósticos de
+viento, con días de anticipación, precisos en su carácter si no en los
+detalles, preparados para mí por supercomputadoras. A la partida y a la llegada
+conté con una carta náutica detallada donde se representaba mi barco en su
+posición, exactamente en relación con todo lo demás que figuraba en ella.
 
-In the end what matters is what matters to me. My dear friend, Raquel put it
-best, «todo lo que sentís, y cómo lo hacés consciente, es más que haber hecho
-un retiro en uno de esos monasterios tibetanos que están en las cimas de las
-montañas  de Nepal...». Hah! De verdad. Además, «tuviste la decisión de
-emprender esa travesía, superando dudas y temores. Cuando llegues no serás el
-mismo. Llegarás cargado de presencia, de actos mínimos que se convierten en
+Hoy en día, cualquiera que tenga plata, un barco e interés puede cruzar.
+Muchos lo hacen, generalmente como un pequeño grupo familiar o de amigos. Me
+encontré con una docena de otros veleros en el camino, prácticamente tantos
+como buques de carga y petroleros.
+
+Al final, lo que importa es lo que me importa a mí. Mi querida amiga Raquel lo
+expresó mejor: «Todo lo que sientes, y cómo lo haces consciente, es más que
+haber hecho un retiro en uno de esos monasterios tibetanos que están en las
+cimas de las montañas de Nepal…». ¡Ja! De verdad. Además, «tuviste la decisión
+de emprender esa travesía, superando dudas y temores. Cuando llegues no serás
+el mismo. Llegarás cargado de presencia, de actos mínimos que se convierten en
 totales y resignifican la vida.»
 
-Lo que dijo mi amiga sabia. Por eso es. For that, it is.
+Lo que dijo mi amiga sabia. Por eso es.
 
