@@ -3,7 +3,7 @@ layout: post
 title: La Cerradura Master
 date: 2026-06-10
 tags: mantenimiento
-excerpt: My outboard motor is a captive of the sea
+excerpt: Mi motor fuera de borda está cautivo del mar
 ---
 
 Pah! El candado que puse en el motor fuera de borda de la lancha se oxidó y se
