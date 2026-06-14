@@ -6,51 +6,53 @@ tags: navegación
 excerpt: Cómo se va un día en alta mar
 ---
 
-When light comes outside the windows I get up and look around.
-Usually I need more sail. I go shake out a reef or raise a foresail or both.
-Inside I have coffee and oatmeal. Whole rolled oats with raisins and walnuts is
-my favorite meal of the day. I've been having it for thirty years. I don't
-cook them but merely soak them in boiling water as if they were instant.
-It is not a mushy oatmeal porridge.
+Cuando la luz entra por las ventanas, me levanto y echo un vistazo a mi
+alrededor. Por lo general, necesito más vela. Salgo a soltar una riza o a izar
+la vela de proa, o ambas cosas.
 
-I make the coffee in an italian coffee maker, a Birletti. It is the only way
-and the best cup of the day.
+Dentro, tomo café y avena. La avena arrojada con pasas y nueces es mi
+comida favorita del día. La he estado tomando desde hace treinta años. No la
+cocino, sino que simplemente la remojo en agua hirviendo como si fuera
+instantánea. No es una papilla de avena blanda.
 
-With breakfast or after I'll write in my diary about the day before, then I'll
-connect the internet and check the weather and messages. The weather gets close
-attention. I update my plan of navigation, then go out and make any adjustments
-to course and sail trim.
+Preparo el café en una cafetera italiana, una Birletti. Es la única manera y la
+mejor taza del día.
 
-Through the day I continue to monitor the actual and forecast weather and
-make adjustments to the sails. I might alter course, add or remove a reef,
-raise or lower the head sail or change the head sail for a larger or smaller
-one.
+Durante el desayuno o después, escribo en mi diario sobre el día anterior;
+luego me conecto a Internet y reviso el clima y los mensajes. Le presto mucha
+atención al clima. Actualizo mi plan de navegación, luego salgo y hago los
+ajustes necesarios al rumbo y al trimado de las velas.
 
-Other parts of morning routine are: taking care of me, keeping me clean and
-checking-in with the regular meeting on the short wave radio. I give a position
-report. Mainly it is to hear familiar voices and to share news of my location
-and conditions with someone in real time. After the first week, however,
-I cannot hear them anymore.
+A lo largo del día sigo monitoreando el clima actual y el pronóstico, y hago
+ajustes a las velas. Puedo alterar el rumbo, añadir o quitar un rizo, subir o
+bajar la vela de proa o cambiarla por una más grande o más pequeña.
 
-During the day I can fuss about the weather and navigation, take care of
-projects on the boat, read, nap, watch the ocean and feed myself. It is hard to
-concentrate on difficult reading material or to study. Good narrative fiction
-in English is best. I keep a list of squawks-- problems I've found. If these
-can be addressed under way, while the boat is in motion under sail, I address
-them. If I am ever becalmed, or when I get to port, the rest of the squawks can
-keep me busy.
+Otras partes de la rutina matutina son: cuidarme, mantenerme limpio y
+reportarme en la reunión regular por la radio de onda corta. Doy un informe de
+posición. Principalmente es para escuchar voces conocidas y compartir noticias
+sobre mi ubicación y las condiciones con alguien en tiempo real. Sin embargo,
+después de la primera semana, ya no puedo escucharlos.
 
-Late in the afternoon I do another round of checking weather and corresponding
-with the internet. This is another time that I revise my plan of navigation
-and make adjustments. An hour before sunset I'll determine if I should reduce
-sail for the night. I take a reef in the main sail if there is any chance of a
-sudden wind increase especially or any increase in general. I almost always
-drop the head sail. That is the most difficult and dangerous sail to
-lower because I have to go up on the bow pulpit to secure the sail.
+Durante el día puedo preocuparme por el clima y la navegación, ocuparme de
+proyectos en el barco, leer, dormir la siesta, observar el océano y
+alimentarme. Es difícil concentrarse en material de lectura difícil o estudiar.
+Lo mejor es una buena ficción narrativa en inglés. Llevo una lista de «squawks»
+—problemas que he encontrado—. Si estos pueden resolverse en el camino,
+mientras el barco navega a vela, los resuelvo. Si alguna vez me quedo en calma
+chicha, o cuando llego a puerto, el resto de los «squawks» pueden mantenerme
+ocupado.
 
-This is what happens day after day while at sea. Some days are easier than
-others. When the boat is sailing olong peacefully on light winds is the best.
-When the boat is being tossed by waves in strong winds is the worst.
-My mood, my level of stress, my sanity. They depend on the weather.
+A última hora de la tarde hago otra ronda de checar el clima y comunicarme por
+internet. Este es otro momento en el que reviso mi plan de navegación y hago
+ajustes. Una hora antes del atardecer, determino si debo reducir las velas para
+la noche. Hago un rizo en la vela mayor si hay alguna posibilidad de un aumento
+repentino del viento, especialmente, o de cualquier aumento en general. Casi
+siempre bajo la vela de proa. Esa es la vela más difícil y peligrosa de bajar
+porque tengo que subir al púlpito de proa para asegurarla.
 
+Esto es lo que ocurre día tras día mientras estoy en el mar. Algunos días son
+más fáciles que otros. Lo mejor es cuando el barco navega tranquilamente con
+vientos suaves. Lo peor es cuando el barco es zarandeado por las olas con
+vientos fuertes. Mi estado de ánimo, mi nivel de estrés, mi cordura. Todo
+depende del clima.
 
