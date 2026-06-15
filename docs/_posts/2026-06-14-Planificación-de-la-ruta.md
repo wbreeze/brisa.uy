@@ -27,6 +27,10 @@ El resultado fue que navegué doscientas cincuenta millas náuticas al sur de la
 ruta directa de gran círculo. Como salía tan lejos al sur, tuve que establecer
 una nueva ruta de gran círculo como referencia para navegar.
 
+![Ruta de Brisa por el Océano Atlántico](
+  {{ 'assets/images/2026/06RutaClimatica/trazado.jpg' | relative_url }}
+)
+
 Dos veces al día, por la mañana y antes de ponerse el sol, saqué los
 pronósticos de viento de PredictWind. Eso fue posible gracias a tener una
 conexión a internet vía satélite proporcionada por el visionario Elon Musk, lo
