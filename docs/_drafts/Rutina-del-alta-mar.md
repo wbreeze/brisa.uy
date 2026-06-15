@@ -10,10 +10,18 @@ Cuando la luz entra por las ventanas, me levanto y echo un vistazo a mi
 alrededor. Por lo general, necesito más vela. Salgo a soltar una riza o a izar
 la vela de proa, o ambas cosas.
 
+![litera en el Brisa](
+  {{ 'assets/images/2026/06Rutina/IMG_1749.jpeg' | relative_url }}
+)
+
 Dentro, tomo café y avena. La avena arrojada con pasas y nueces es mi
 comida favorita del día. La he estado tomando desde hace treinta años. No la
 cocino, sino que simplemente la remojo en agua hirviendo como si fuera
 instantánea. No es una papilla de avena blanda.
+
+![Avena arrojada con pasas y nueces](
+  {{ 'assets/images/2026/06Rutina/IMG_1751.jpeg' | relative_url }}
+)
 
 Preparo el café en una cafetera italiana, una Birletti. Es la única manera y la
 mejor taza del día.
@@ -22,6 +30,10 @@ Durante el desayuno o después, escribo en mi diario sobre el día anterior;
 luego me conecto a Internet y reviso el clima y los mensajes. Le presto mucha
 atención al clima. Actualizo mi plan de navegación, luego salgo y hago los
 ajustes necesarios al rumbo y al trimado de las velas.
+
+![despacho y rincón del desayuno](
+  {{ 'assets/images/2026/06Rutina/IMG_1750.jpeg' | relative_url }}
+)
 
 A lo largo del día sigo monitoreando el clima actual y el pronóstico, y hago
 ajustes a las velas. Puedo alterar el rumbo, añadir o quitar un rizo, subir o
@@ -32,6 +44,10 @@ reportarme en la reunión regular por la radio de onda corta. Doy un informe de
 posición. Principalmente es para escuchar voces conocidas y compartir noticias
 sobre mi ubicación y las condiciones con alguien en tiempo real. Sin embargo,
 después de la primera semana, ya no puedo escucharlos.
+
+![Mesa de navegación](
+  {{ 'assets/images/2026/06Rutina/IMG_1748.jpeg' | relative_url }}
+)
 
 Durante el día puedo preocuparme por el clima y la navegación, ocuparme de
 proyectos en el barco, leer, dormir la siesta, observar el océano y
@@ -49,6 +65,10 @@ la noche. Hago un rizo en la vela mayor si hay alguna posibilidad de un aumento
 repentino del viento, especialmente, o de cualquier aumento en general. Casi
 siempre bajo la vela de proa. Esa es la vela más difícil y peligrosa de bajar
 porque tengo que subir al púlpito de proa para asegurarla.
+
+![Cocina](
+  {{ 'assets/images/2026/06Rutina/IMG_1747.jpeg' | relative_url }}
+)
 
 Esto es lo que ocurre día tras día mientras estoy en el mar. Algunos días son
 más fáciles que otros. Lo mejor es cuando el barco navega tranquilamente con
