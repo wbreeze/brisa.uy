@@ -33,9 +33,11 @@ algo de lo que habría tenido que ocuparme antes de salir de Estados Unidos, o
 al menos antes de partir de las Bermudas.
 
 Además, todas las compañías me preguntaron si navego la embarcación en
-solitario, «a una sola mano». Es muy probable que esto me descalifique. No
-intenté averiguarlo. En Estados Unidos, vivir a bordo era un motivo de
-exclusión.
+solitario, «a una sola mano».  Un agente al que consulté confirmó que esto
+constituye un motivo de rechazo.  En Estados Unidos, vivir a bordo era un
+motivo de exclusión.  Todos dicen: «Seguro que puede encontrar a alguien», como
+si solo fuera cuestión de buscar lo suficiente. No doy la impresión de ser una
+persona a la que esperarían que excluyeran.
 
 Por lo tanto, no visitaré Lisboa ni dejaré el barco atracado para explorar
 ciudades de Europa. En especial, no navegaré por el Mediterráneo. Continuaré mi
@@ -85,15 +87,21 @@ necesario ceñirse a un horario, tener reservaciones y contar con el respaldo de
 patrocinadores corporativos.
 
 Es la nueva normalidad. Así son las cosas. Los veteranos, los tradicionalistas…
-de todos modos, son una especie en extinción. Sin embargo, tenga cuidado. Usted
-es una rana en la olla. El futuro que está creando, el rumbo que está tomando…
-es una cultura de vigilancia con una clase privilegiada, una enorme clase
-marginada y unos pocos superricos que se aprovechan de todos ellos. Ustedes son
-realistas que se enfrentan al mundo tal como es, diseñado por abogados y
-empleadores para beneficiar a los propietarios y a las utilidades. Desprecian a
-los soñadores utópicos mientras participan en la creación de su propio futuro
-distópico, lo que algunos de nosotros estamos comenzando a ver como nuestro
-presente distópico.
+de todos modos, son una especie en extinción. Sin embargo, tenga cuidado.
+Ustedes son la rana en la olla. El futuro que están creando, el rumbo que están
+tomando… es una cultura de vigilancia con una clase privilegiada, una enorme
+clase marginada y unos pocos superricos que se aprovechan de todos ellos.
+Ustedes son realistas que se enfrentan al mundo tal como es, diseñado por
+abogados y empleadores para beneficiar a los propietarios y a las utilidades.
+Desprecian a los soñadores utópicos mientras participan en la creación de su
+propio futuro distópico, lo que algunos de nosotros estamos comenzando a ver
+como nuestro presente distópico.
+
+[Rendimos homenaje][solo] a los [navegantes en solitario][alone], siempre y
+cuando viajen con la autorización de una compañía de seguros
+
+[solo]: https://www.robinknox-johnston.co.uk/solo-circumnavigators
+[alone]: https://aroundtheworldalone.com/
 
 Adelante. Navegando. El gran y vasto océano. Ojalá nunca les quiten eso.
 
