@@ -3,7 +3,7 @@ layout: post
 title: Océano
 date: 2026-06-24
 tags: cinema navegación
-excerpt: A short film about passage from Bermuda to the Azores.
+excerpt: Un cortometraje sobre la travesía de las Bermudas a las Azores
 ---
 
 Hice un cortometraje sobre la travesía de las Bermudas a las Azores. No se
@@ -23,11 +23,19 @@ title="Océano"></iframe></div>
 Hubo algunas decisiones que tomé al realizar la película. No requieren
 explicación. Quizás le resulten entretenidas las razones que las motivaron.
 
+![El velero "Fun" unos cientos millas náuticas fuera de Horta](
+  {{ 'assets/images/2026/06Océano/DCL_5825.JPG' | relative_url }}
+)
+
 En primer lugar, todas las tomas duran diez segundos. La película cuenta con
 nueve minutos compuesta por cortes de diez segundos. Esto no solo busca
 expresar la monotonía de navegar por el océano. Refleja el movimiento del
 barco, siempre con un ritmo que coincide con el intervalo definido de las olas.
 Refleja el ritmo constante de la vida en el mar.
+
+![Olas del océano](
+  {{ 'assets/images/2026/06Océano/DCL_5780.JPG' | relative_url }}
+)
 
 Hay algunas secuencias que parecen más largas. Están ensambladas con tomas de
 diez segundos realizadas con una hora de diferencia entre ellas. Hay una
@@ -37,16 +45,28 @@ Al final, al llegar a Horta, aumenté la duración de las tomas. Esto refleja el
 alivio tras semanas de ser sacudido física y mentalmente a intervalos regulares
 por el océano.
 
+![Océano bonancible con velero a la distancia](
+  {{ 'assets/images/2026/06Océano/DCL_5805.JPG' | relative_url }}
+)
+
 En segundo lugar, utilicé un par de tomas desenfocadas. No fue mi intención
 hacer tomas desenfocadas. Resultaron así porque estaba estresado, cansado y
 visualmente agotado. Creo que incluirlas transmite esta sensación de tener
 dificultades para enfocar.
+
+![Atardecer con sol bien filtrado por la atmósfera](
+  {{ 'assets/images/2026/06Océano/DCL_5814.JPG' | relative_url }}
+)
 
 Decidí no incluir ningún tipo de narración en la película. Decidí no incluir
 ninguna toma de mi mismo en la película. Todo esto se debe simplemente a que
 parte de la experiencia consiste en no estar en contacto con los demás. Decidí
 presentárselo tal como yo lo vi, en mi propia mente, a solas, sin que nadie más
 lo observara, comentara o interpretara conmigo.
+
+![Carrusel artisenal con niños y familias, Maravilha, Horta, Faial](
+  {{ 'assets/images/2026/06Océano/DCL_5953.JPG' | relative_url }}
+)
 
 Al final incluí algunas tomas que grabé la primera vez que bajé a tierra, la
 tarde de mi llegada. Espero que puedan sentir, al menos en parte, lo mágico que
@@ -57,7 +77,15 @@ diferentes. Más que eso, fue hermoso y encantador. Espero que estén de acuerdo
 en que refleja lo mejor de la humanidad. Como primer encuentro con nuestra
 especie después de tres semanas, me conmovió profundamente verlo.
 
+![description](
+  {{ 'assets/images/2026/06Océano/DCL_5850.JPG' | relative_url }}
+)
+
 No hay muchas criaturas marinas en el video porque vi pocas. Debería haber una
 toma con la pardela. Estas eran compañeras frecuentes. Lamentablemente, no
 grabé ninguna. Vean si logran ver a los delfines. Aparecen en dos de las tomas.
+
+![description](
+  {{ 'assets/images/2026/06Océano/IMG_1706.jpeg' | relative_url }}
+)
 
