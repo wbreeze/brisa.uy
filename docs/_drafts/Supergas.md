@@ -6,27 +6,28 @@ tags: mantenimiento
 excerpt: habla habla habla
 ---
 
-When I was renovating the spars in North Carolina last year, I renovated
-the propane supply, including great expense to replace the tanks.
-Here in the Azores, on Isla Terceira, I cannot find anyone who will refill
-the tanks.
+Cuando estaba renovando los mástiles en Carolina del Norte el año pasado,
+[renové el sistema de suministro de propano][supergas], lo cual implicó un
+gasto considerable para reemplazar los tanques. Aquí en las Azores, en la Isla
+Terceira, no encuentro a nadie que recargue los tanques.
 
 [supergas]: {{ '/2025/07/11/Super-Gas.html' | relative_url }}
 
-Instead, I had to purchase a full tank, regulator and hose. This was not
-terribly expensive. To use them, I had to add some fittings to the supply
-side of the solenoid shutoff valve. The tank is lashed to the rail next
-to the stern anchor. An ugly hose runs to the cockpit and under the lid
-of the propane locker.
+En su lugar, tuve que comprar un tanque lleno, un regulador y una manguera.
+Esto no resultó muy costoso. Para poder utilizarlos, tuve que agregar algunos
+accesorios al lado de suministro de la válvula solenoide de cierre. El tanque
+está amarrado a la barandilla junto al ancla de popa. Una manguera poco
+estética se extiende hasta la cabina y pasa por debajo de la tapa del
+compartimento de propano.
 
-It was fortunate that I had the pieces to add this hose connection. I had
-a tee, a hose barb, the necessary size adapters. All of it is imperial thread
-sizes. Nothing is metric. If I hadn't had these spare fittings, I would have
-been in even more trouble. I guess I made myself a lucky break when I kept
-them.
+Tuve la suerte de contar con las piezas necesarias para agregar esta conexión
+de manguera. Tenía una T, un conector de espiga y los adaptadores del tamaño
+adecuado. Todo tiene roscas imperiales; nada es métrico. Si no hubiera tenido
+estos accesorios de repuesto, me habría encontrado en un problema aún mayor.
+Supongo que me di una oportunidad de suerte al guardarlos.
 
-I've decided to use this in port and disconnect it on passage. That is until
-I run low of the propane I'm carrying in the tank refilled in Bermuda. It's
-possible that I'll yet find somewhere that can refill my tanks. It's possible
-that I will not.
+He decidido usar esto cuando esté en puerto y desconectarlo durante la
+travesía. Al menos hasta que se me acabe el propano que llevo en el tanque
+recargado en Bermudas. Es posible que aún encuentre algún lugar donde puedan
+recargar mis tanques. Es posible que no lo encuentre.
 
