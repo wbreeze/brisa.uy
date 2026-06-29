@@ -19,74 +19,81 @@ excerpt: Una carta abierta para Porto de Recreio de Oeiras
 
 Estimados Porto de Recreio de Oeiras,
 
-Thank you for taking my reservation at your marina.  The TL/DR (too long,
-didn't read) of this message is that I will not be visiting, primarily because
-I will not be meeting your insurance requirements.
+Gracias por aceptar mi reservación en su puerto deportivo. El resumen de este
+mensaje es que no voy a visitarlo, principalmente porque no cumpliré con sus
+requisitos de seguro.
 
-I could very likely have faked it, since you were not able to tell me
-specifically what you are looking for. You very likely, barely look at the
-document as you file it away. That isn't my style, though.
+Probablemente podría haber falsificado los documentos, ya que no pudieron
+indicarme específicamente qué es lo que buscan. Es muy probable que apenas
+echen un vistazo al documento al archivarlo. Sin embargo, ese no es mi estilo.
 
-Shopping for insurance, what I found was that the insurance companies would
-require me to have a survey of my boat. This would be difficult to
-obtain in the Azores. It is something I would have needed to take care of
-before leaving the United States, or at least before departing from Bermuda.
+Al buscar un seguro, descubrí que las compañías de seguros me exigirían una
+inspección de mi embarcación. Esto sería difícil de obtener en las Azores. Es
+algo de lo que habría tenido que ocuparme antes de salir de Estados Unidos, o
+al menos antes de partir de las Bermudas.
 
-In addition, all of the companies asked if I sail the boat solo,
-"single-handed." This is very likely disqualifying. I didn't try to find out.
-In the United States, living aboard was disqualifying.
+Además, todas las compañías me preguntaron si navego la embarcación en
+solitario, «a una sola mano». Es muy probable que esto me descalifique. No
+intenté averiguarlo. En Estados Unidos, vivir a bordo era un motivo de
+exclusión.
 
-So, I won't be visiting Lisbon nor parking the boat to explore cities of
-Europe. I especially will not be sailing in the Mediterranean. I'll continue my
-journey south to Madeiras, the Canaries, Cabo Verde and beyond-- places with
-plenty of good anchorages (still, for the moment). I won't be leaving the boat
-to make any extended visits ashore. I won't be crossing your insurance wall,
-not entering your gates.
+Por lo tanto, no visitaré Lisboa ni dejaré el barco atracado para explorar
+ciudades de Europa. En especial, no navegaré por el Mediterráneo. Continuaré mi
+viaje hacia el sur, hacia Madeira, las Islas Canarias, Cabo Verde y más allá
+—lugares con abundantes y buenos fondeaderos (al menos, por el momento). No voy
+a abandonar el barco para realizar visitas prolongadas a tierra. No voy a
+cruzar su barrera de seguros, ni a cruzar sus puertas.
 
-Possibly it is your own insurance company requiring you to impose on your
-customers the requirement to have insurance, thus preserving themselves
-in perpetuity. Possibly local legislators have cooperated in requiring it.
-Yet, you embrace it.
+Es posible que sea su propia compañía de seguros la que les exija imponer a sus
+clientes el requisito de contar con un seguro, preservándose así a sí misma a
+perpetuidad. Es posible que los legisladores locales hayan colaborado al
+exigirlo. Sin embargo, ustedes lo aceptan.
 
-Looking into it, it is clear that this marina requirement for insurance
-coverage isn't entirely nor primarily about financial risk. The insurance
-companies demand a great deal of personal information disclosure and consent to
-personal investigation, including medical records, any criminal record, driving
-violations and even interviews with people who know the applicant. They do a
-kind of security clearance and background check on the skipper and the boat.
-You are relying on them as your gate keepers. I understand now why you got
-testy when I challenged the requirement.
+Al analizarlo, queda claro que este requisito de cobertura de seguro en el
+puerto deportivo no se trata, ni en su totalidad ni principalmente, de un
+riesgo financiero. Las compañías de seguros exigen la divulgación de una gran
+cantidad de información personal y el consentimiento para una investigación de
+antecedentes, incluyendo expedientes médicos, antecedentes penales,
+infracciones de tránsito e incluso entrevistas con personas que conocen al
+solicitante. Realizan una especie de autorización de seguridad y verificación
+de antecedentes tanto del capitán como del barco. Ustedes confían en ellas como
+sus guardianes. Ahora comprendo por qué se mostraron irritables cuando
+cuestioné ese requisito.
 
-None of that would be a problem for me. It's only that I don't find the invasion
-worth the perks. That is on top of the need to arrange and stand for a boat
-survey and whatever other agility demonstrations an insurance underwriter will
-require. Given all of that, I'll skip the marina.
+Nada de eso sería un problema para mí. Es solo que no considero que la invasión
+de la privacidad valga la pena a cambio de los beneficios. Eso se suma a la
+necesidad de coordinar y someterse a una inspección de la embarcación y a
+cualquier otra demostración de maniobrabilidad que exija la aseguradora.
+Teniendo en cuenta todo eso, prefiero prescindir del puerto deportivo.
 
-It is not the cost. I pour plenty of money into my boat. Paying for insurance,
-paying for a slip-- I would pay the going rate.
-I'm objecting to the invasiveness and to the exclusivity.
+No se trata del costo. Invierto mucho dinero en mi barco. Pagar el seguro,
+pagar el amarre… Pagaría la tarifa vigente. Lo que me molesta es la intrusión y
+la exclusividad.
 
-You will read this, if you got this far, shrug, and say "That's the way of the
-world. Everybody does it. That's the norm. Conform. What's so hard?" It is that
-you have co-opted the world of mariners, of true seamen and cruisers-- the
-world of Lin and Larry Pardey, Moitessier, Slocum, Chichester, Knox-Johnston.
-Sure, there were always wealthy yachtsmen. Regardless, a sailor received a
-sailor's welcome. Having made the journey was proof enough of their merit.
+Si ha llegado hasta aquí, leerá esto, se encogerá de hombros y dirá: «Así es el
+mundo. Todos lo hacen. Esa es la norma. Adáptese. ¿Qué tiene de difícil?». El
+problema es que se han apropiado del mundo de los marineros, de los verdaderos
+marineros y navegantes de crucero: el mundo de Lin y Larry Pardey, Moitessier,
+Slocum, Chichester, Knox-Johnston. Claro, siempre ha habido yatesmanes
+adinerados. A pesar de ello, a un marinero se le daba la bienvenida como tal.
+El mero hecho de haber realizado el viaje era prueba suficiente de su mérito.
 
-The reality of now is that you have taken over ports of call with private,
-corporate enclaves catering to a corpus of middle class privileged with an
-excess of disposable income.  To sail freely, it is necessary to keep to a
-schedule, have reservations and carry the blessing of corporate underwriters.
+La realidad actual es que se han apoderado de los puertos de escala con
+enclaves privados y corporativos que atienden a un grupo de privilegiados de
+clase media con un exceso de ingresos disponibles. Para navegar libremente, es
+necesario ceñirse a un horario, tener reservaciones y contar con el respaldo de
+patrocinadores corporativos.
 
-It's the new normal. It's just the way it is. The old timers, traditionalists--
-they're a dying breed anyway. Yet, be cautious. You're a frog in the pot.  The
-future you're creating, the way you are headed-- it is a surveillance culture
-with a privileged class, a huge underclass, and the super wealthy few who milk
-the lot of them. You are realists who deal with the world as it is, drawn up by
-lawyers and employers to benefit property holders and the bottom line. You
-dismiss utopian dreamers while participting in the creation of your own
-dystopian future, what some of us are beginning to view as our dystopian
-present.
+Es la nueva normalidad. Así son las cosas. Los veteranos, los tradicionalistas…
+de todos modos, son una especie en extinción. Sin embargo, tenga cuidado. Usted
+es una rana en la olla. El futuro que está creando, el rumbo que está tomando…
+es una cultura de vigilancia con una clase privilegiada, una enorme clase
+marginada y unos pocos superricos que se aprovechan de todos ellos. Ustedes son
+realistas que se enfrentan al mundo tal como es, diseñado por abogados y
+empleadores para beneficiar a los propietarios y a las utilidades. Desprecian a
+los soñadores utópicos mientras participan en la creación de su propio futuro
+distópico, lo que algunos de nosotros estamos comenzando a ver como nuestro
+presente distópico.
 
-Onward. Sailing. The big wide ocean. May you never take that away.
+Adelante. Navegando. El gran y vasto océano. Ojalá nunca les quiten eso.
 
