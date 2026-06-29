@@ -17,7 +17,7 @@ excerpt: Una carta abierta para Porto de Recreio de Oeiras
 > Best regards,
 > Porto de Recreio de Oeiras
 
-Dear Porto de Recreio de Oeiras,
+Estimados Porto de Recreio de Oeiras,
 
 Thank you for taking my reservation at your marina.  The TL/DR (too long,
 didn't read) of this message is that I will not be visiting, primarily because
@@ -51,26 +51,27 @@ Yet, you embrace it.
 Looking into it, it is clear that this marina requirement for insurance
 coverage isn't entirely nor primarily about financial risk. The insurance
 companies demand a great deal of personal information disclosure and consent to
-personal investigation, including any criminal record, driving violations and
-even interviews with people who know the applicant. They do a kind of security
-clearance and background check on the skipper and the boat.  You are relying on
-them as your gate keepers. I understand now why you got testy when I challenged
-the requirement.
+personal investigation, including medical records, any criminal record, driving
+violations and even interviews with people who know the applicant. They do a
+kind of security clearance and background check on the skipper and the boat.
+You are relying on them as your gate keepers. I understand now why you got
+testy when I challenged the requirement.
 
 None of that would be a problem for me. It's only that I don't find the invasion
-worth the perks. Notwithstanding the need to arrange and stand for a boat
+worth the perks. That is on top of the need to arrange and stand for a boat
 survey and whatever other agility demonstrations an insurance underwriter will
-require. You don't merit it.
+require. Given all of that, I'll skip the marina.
 
-I'm not objecting to the cost. I'm willing to pay the going rate.
-I'm objecting to the exclusion.
+It is not the cost. I pour plenty of money into my boat. Paying for insurance,
+paying for a slip-- I would pay the going rate.
+I'm objecting to the invasiveness and to the exclusivity.
 
 You will read this, if you got this far, shrug, and say "That's the way of the
-world. That's the norm. Conform. What's so hard?" It is that you have co-opted
-the world of mariners, of true seamen and cruisers-- the world of Lin and Larry
-Pardey, Moitessier, Slocum, Chichester, Knox-Johnston. Sure, there were always
-wealthy yachtsmen. Regardless, a sailor received a sailor's welcome. Having
-made the journey was proof enough of their merit.
+world. Everybody does it. That's the norm. Conform. What's so hard?" It is that
+you have co-opted the world of mariners, of true seamen and cruisers-- the
+world of Lin and Larry Pardey, Moitessier, Slocum, Chichester, Knox-Johnston.
+Sure, there were always wealthy yachtsmen. Regardless, a sailor received a
+sailor's welcome. Having made the journey was proof enough of their merit.
 
 The reality of now is that you have taken over ports of call with private,
 corporate enclaves catering to a corpus of middle class privileged with an
@@ -84,7 +85,7 @@ with a privileged class, a huge underclass, and the super wealthy few who milk
 the lot of them. You are realists who deal with the world as it is, drawn up by
 lawyers and employers to benefit property holders and the bottom line. You
 dismiss utopian dreamers while participting in the creation of your own
-dystopian future, what some of us are beginning to view as your dystopian
+dystopian future, what some of us are beginning to view as our dystopian
 present.
 
 Onward. Sailing. The big wide ocean. May you never take that away.
