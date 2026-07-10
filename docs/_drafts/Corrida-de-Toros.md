@@ -1,20 +1,24 @@
 ---
 layout: post
 title: Corrida de Toros
-date: 2026-07-09
-tags:
-excerpt: It was pageantry, gallantry, bravery.
+date: 2026-06-25
+tags: eventos toros azores
+excerpt: Era un espectáculo de pompa, galantería y valentía.
 ---
 
 Era un espectáculo de pompa, galantería y valentía. Los hombres eran hombres.
 Los toros eran toros.
 
-El estadio es perfectamente circular, no muy grande. La arena al medio mida
-cincuenta o sesenta metros de diámetro. El suelo es de tierra compactada,
-alisada hasta adquirir un
+![El estadio Praça de Toiros, Ilha Terceira, Azores](
+  {{ 'assets/images/2026/06Toros/IMG_1760.jpeg' | relative_url }}
+)
+
+El estadio Praça de Toiros, Ilha Terceira, Azores es perfectamente circular, no
+muy grande. La arena al medio mida cincuenta o sesenta metros de diámetro. El
+suelo es de tierra compactada, alisada hasta adquirir un
 tono marrón aterciopelado. Los hombres entran por un costado. Dejan sus huellas
 en la alfombra aterciopelada mientras cruzan para enfrentarse y saludar a los
-maestros de ceremonias, tres hombres en trajes, sentados en un palco especial
+maestros de ceremonias, cinco hombres en trajes, sentados en un palco especial
 con vista a la arena.
 
 La apertura es un espectáculo. Los hombres visten ropa ajustada, uniformes
@@ -22,6 +26,9 @@ bordados con hilo dorado. Una banda en el borde del estadio toca música de las
 praderas salvajes y abiertas, al estilo que se imita en las películas del oeste
 estadounidenses.
 
+![cruzan para enfrentarse y saludar a los maestros de ceremonias](
+  {{ 'assets/images/2026/06Toros/IMG_1770.jpeg' | relative_url }}
+)
 Los hombres se dispersan por el perímetro y saltan por encima de una barrera de
 unos 150 centímetros de altura, hecha de tablones de madera. La barrera forma
 un pasillo circular alrededor de la arena, dentro del estadio.
@@ -41,6 +48,10 @@ clavar sus cuernos en el costado del caballo. El jinete gira al caballo, se
 inclina y atraviesa al toro entre los omóplatos con la punta de una lanza
 corta. La lanza queda colgando de la espalda del toro.
 
+![El hombre hace galopar al caballo frente al toro](
+  {{ 'assets/images/2026/06Toros/IMG_1777.jpeg' | relative_url }}
+)
+
 En inglés tenemos el término «pissed» o «pissed-off». Indica ira extrema. El
 toro es la expresión literal de esto. Quizás este sea el origen del término. El
 toro está tan enojado que orina sin control mientras permanece de pie, jadeando
@@ -49,9 +60,9 @@ nuevo. De vez en cuando recibe otra lanza. Todo el tiempo lo provocan para que
 embista y lo esquivan hábilmente, lo burlan, lo acosan. Se me ocurre que esta
 es posiblemente el origen del término inglés para el acoso, «bullying».
 
-Los matadores entran a la arena para distraer al toro. A veces, un matador
+Los toreros entran a la arena para distraer al toro. A veces, un torero
 entra a la arena para hacer correr al toro con una capa roja y luego lo pincha
-con una lanza. El toro está enojado y frustrado. Sacude sus corvejones,
+con una lanza. El toro está enojado y frustrado. Sacude su espalda,
 tratando de deshacerse de las lanzas que cuelgan de él. Patea el suelo. A veces
 brama. Resopla y embiste, y vuelve a ser atravesado.
 
@@ -60,6 +71,10 @@ espalda, matándolo. Ahora lo atraviesan con lanzas. Cuando está lo
 suficientemente cansado y derrotado, lo empujan fuera de la arena. A veces lo
 distraen de su ira, para convencerlo de que salga de la arena, haciendo entrar
 a una manada de vacas.
+
+![Forcero enfrentandose a un toro](
+  {{ 'assets/images/2026/06Toros/IMG_1779.jpeg' | relative_url }}
+)
 
 Los hombres más valientes eran los forceros. Se alineaban detrás del toro
 mientras otros hombres fuera de la pared lo distraían. Uno de los forceros se
@@ -86,6 +101,10 @@ desliza en círculo mientras el toro gira en un sentido, luego da la vuelta y
 gira en el otro. Después de unas cuantas vueltas así, el toro se detiene. El
 hombre lo suelta. El toro se queda de pie, tal vez distraído por un torero. El
 hombre sale de la arena.
+
+![Toreros y forceros](
+  {{ 'assets/images/2026/06Toros/IMG_1766.jpeg' | relative_url }}
+)
 
 No todo esto es pura diversión para el hombre. Sí vi a un toro vengarse. Lo más
 peligroso que alguien puede hacer es recibir la embestida del toro en el pecho.
