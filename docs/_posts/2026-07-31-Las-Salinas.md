@@ -36,10 +36,6 @@ bombear agua de mar hacia terrazas construidas en la ladera junto al océano.
 Acumulada en estas terrazas, la luz solar y el aire seco evaporan el agua,
 dejando sal rica en minerales.
 
-La producción de sal proporcionaba algo valioso para intercambiar por las
-muchas cosas que no están disponibles en este desierto subtropical, como, por
-ejemplo, los alimentos.
-
 ![Laguna Janubio, Lanzarote, Las Palmas](
   {{ 'assets/images/2026/07Salinas/DCL_6147.JPG' | relative_url }}
 )
