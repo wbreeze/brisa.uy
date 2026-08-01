@@ -2,47 +2,49 @@
 layout: post
 title: Las Salinas
 date: 2026-07-31
-tags:
-excerpt:
+tags: Las_Palmas Islas_Canarias Lanzarote
+excerpt: Agua salada, sol y viento. Con ellos puedes extraer sal del mar.
 ---
 
-Salt. Sodium Chloride. Salt is essential to life. We must have a little salt
-in our diet or we die. Our blood is salty. Salt is the electrolyte that carries
-electrical charges through our nervous system. Our muscles cannot operate
-without it.  On top of that, very early in the history of the human race, we
-learned that salting meat and fish will preserve them. This is long
-before the times of refrigeration, an ice box even. We love the taste of salt.
-For a long time, salt was a prized commodity, hard to get in some places. We
-say, "they are worth their salt." It means that what they contribute merits
-what they demand in compensation or upkeep.
+Sal. Cloruro de sodio. La sal es esencial para la vida. Necesitamos un poco de
+sal en nuestra dieta o morimos. Nuestra sangre es salada. La sal es el
+electrolito que transporta cargas eléctricas a través de nuestro sistema
+nervioso. Nuestros músculos no pueden funcionar sin ella. Además, desde muy
+temprano en la historia de la humanidad, aprendimos que salar la carne y el
+pescado los conserva. Esto fue mucho antes de la era de la refrigeración,
+incluso antes de las hieleras. Nos encanta el sabor de la sal. Durante mucho
+tiempo, la sal fue un bien muy preciado, difícil de conseguir en algunos
+lugares. Decimos: «valen su sal». Significa que lo que aportan justifica lo que
+exigen como compensación o mantenimiento.
 
-In Lanzarote, the eastern most island of the Canary Islands, you find a
-stark, barren, dry climate. To the southeast, on the mainland of Africa, lies
-the Sahara desert. Natural resources that Lanzarote has in abundance are
-sunshine, wind, lava rock, sand and salt water. From these select three: salt
-water, sunshine and wind.  With those you can mine salt from the sea.
+En Lanzarote, la isla más oriental del archipiélago canario, el clima es árido,
+desolado y seco. Al sureste, en el continente africano, se extiende el desierto
+del Sáhara. Los recursos naturales que abundan en Lanzarote son el sol, el
+viento, la roca volcánica, la arena y el agua salada. De estos, selecciona
+tres: agua salada, sol y viento. Con ellos puedes extraer sal del mar.
 
-The wind will turn a wind turbine. That provides mechanical energy for
-pumping sea water into terraces built on the hillside next to the ocean.
-Pooled on these terraces, the sunshine and dry air evaporate the water,
-leaving mineral rich salt.
+El viento hará girar una turbina eólica. Esto proporciona energía mecánica para
+bombear agua de mar hacia terrazas construidas en la ladera junto al océano.
+Acumulada en estas terrazas, la luz solar y el aire seco evaporan el agua,
+dejando sal rica en minerales.
 
-Salt production provided something valuable to exchange for
-the many things that are unavailable in this sub-tropical desert, like for
-example, food.
+La producción de sal proporcionaba algo valioso para intercambiar por las
+muchas cosas que no están disponibles en este desierto subtropical, como, por
+ejemplo, los alimentos.
 
-Somehow in the industrial age we made salt abundant. It is widely available and
-cheap at the end of the nineteenth century. In France they experimented with
-taxes on salt. This is the state for you-- choose something everyone can't do
-without and put a tax on it. Salt taxes in France, British colonial taxes on
-salt in India, as with tea taxes in the British colonies of North America, fed
-revolutionary ardor.
+De alguna manera, en la era industrial logramos que la sal fuera abundante. A
+finales del siglo XIX era fácil de conseguir y barata. En Francia se
+experimentó con impuestos sobre la sal. Así es el Estado: elige algo de lo que
+nadie puede prescindir y aplícale un impuesto. Los impuestos sobre la sal en
+Francia, los impuestos coloniales británicos sobre la sal en la India, al igual
+que los impuestos sobre el té en las colonias británicas de América del Norte,
+alimentaron el ardor revolucionario.
 
-Now the majority of the salt production terraces on Lanzarote lie abandoned, or
-the land has converted to other uses. There is one area that still produces
-salt. Las Salinas de Janubio in the southwest of the island are situated
-next to a large lagoon that fills with sea water across a land bridge,
-isolating it from the violence of the ocean. Here continues mining of salt in
-the old way: evaporating sea water pumped into terraces.
-
+Hoy en día, la mayoría de las terrazas de producción de sal de Lanzarote están
+abandonadas, o bien la tierra se ha destinado a otros usos. Hay una zona que
+aún produce sal. Las Salinas de Janubio, en el suroeste de la isla, están
+situadas junto a una gran laguna que se llena de agua de mar a través de un
+puente de tierra, lo que la aísla de la violencia del océano. Aquí continúa la
+extracción de sal a la antigua usanza: evaporando el agua de mar bombeada a las
+terrazas.
 
