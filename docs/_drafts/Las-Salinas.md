@@ -2,7 +2,7 @@
 layout: post
 title: Las Salinas
 date: 2026-07-31
-tags: Las_Palmas Islas_Canarias Lanzarote
+tags: Las_Palmas Lanzarote
 excerpt: Agua salada, sol y viento. Con ellos puedes extraer sal del mar.
 ---
 
@@ -17,11 +17,19 @@ tiempo, la sal fue un bien muy preciado, difícil de conseguir en algunos
 lugares. Decimos: «valen su sal». Significa que lo que aportan justifica lo que
 exigen como compensación o mantenimiento.
 
+![Salina abandonaba, Puerto de Arrecife, Lanzarote, Las Palmas](
+  {{ 'assets/images/2026/07Salinas/IMG_1861.jpeg' | relative_url }}
+)
+
 En Lanzarote, la isla más oriental del archipiélago canario, el clima es árido,
 desolado y seco. Al sureste, en el continente africano, se extiende el desierto
 del Sáhara. Los recursos naturales que abundan en Lanzarote son el sol, el
 viento, la roca volcánica, la arena y el agua salada. De estos, selecciona
 tres: agua salada, sol y viento. Con ellos puedes extraer sal del mar.
+
+![Turbinas eólicas en Lanzarote, Las Palmas](
+  {{ 'assets/images/2026/07Salinas/IMG_1875.jpeg' | relative_url }}
+)
 
 El viento hará girar una turbina eólica. Esto proporciona energía mecánica para
 bombear agua de mar hacia terrazas construidas en la ladera junto al océano.
@@ -32,6 +40,10 @@ La producción de sal proporcionaba algo valioso para intercambiar por las
 muchas cosas que no están disponibles en este desierto subtropical, como, por
 ejemplo, los alimentos.
 
+![Laguna Janubio, Lanzarote, Las Palmas](
+  {{ 'assets/images/2026/07Salinas/DCL_6147.JPG' | relative_url }}
+)
+
 De alguna manera, en la era industrial logramos que la sal fuera abundante. A
 finales del siglo XIX era fácil de conseguir y barata. En Francia se
 experimentó con impuestos sobre la sal. Así es el Estado: elige algo de lo que
@@ -39,6 +51,10 @@ nadie puede prescindir y aplícale un impuesto. Los impuestos sobre la sal en
 Francia, los impuestos coloniales británicos sobre la sal en la India, al igual
 que los impuestos sobre el té en las colonias británicas de América del Norte,
 alimentaron el ardor revolucionario.
+
+![Las Salinas de Janubio, Lanzarote, Las Palmas](
+  {{ 'assets/images/2026/07Salinas/DCL_6146.JPG' | relative_url }}
+)
 
 Hoy en día, la mayoría de las terrazas de producción de sal de Lanzarote están
 abandonadas, o bien la tierra se ha destinado a otros usos. Hay una zona que
