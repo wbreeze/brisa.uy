@@ -13,11 +13,19 @@ de sotavento, al sur de Fuerteventura; una brisa fresca (6) en la zona de
 aceleración al suroeste de la isla; y luego vientos bonancible (4) a fresquito
 (5) con olas de un metro y medio.
 
+![description](
+  {{ 'assets/images/2026/08LasPalmas/DCL_6189.JPG' | relative_url }}
+)
+
 Navegué un poco ceñido por la ruta directa, pasando junto a los transbordadores
 mientras pasaban a toda velocidad a treinta nudos.  Hay tres empresas similares
 a Buquebus, con transbordadores similar con China Zorrilla.  Me rebasaron
 cuatro veces. Hicieron dos viajes de ida y vuelta durante mi travesía de un
 lado al otro.
+
+![description](
+  {{ 'assets/images/2026/08LasPalmas/DCL_6194.JPG' | relative_url }}
+)
 
 Es difícil describir la sensación de estar solo en el mar a bordo de un velero.
 Es una de esas cosas que hay que vivir en lugar de describir. Como todo,
@@ -25,6 +33,10 @@ supongo. Es como meditar. El océano se apodera de mi conciencia. Todo el ruido
 de la humanidad se siente como un estruendo lejano y se desvanece. Solo queda
 el zumbido en mis oídos. Siento una sensación de unidad y de conciencia
 tranquila, de objetividad. Todo simplemente es como es.
+
+![description](
+  {{ 'assets/images/2026/08LasPalmas/DCL_6196.JPG' | relative_url }}
+)
 
 Al final, había cometido un error. Debí haber navegado más cerca del viento
 para llegar más al norte. Al acercarme a Gran Canaria, el viento giró desde el
@@ -46,6 +58,10 @@ cuantos pequeños fondeaderos dentro del puerto industrial de Las Palmas. Están
 cerrados, o restringidos a períodos de alta demanda, cuando el puerto deportivo
 está lleno.
 
+![description](
+  {{ 'assets/images/2026/08LasPalmas/IMG_1930.jpeg' | relative_url }}
+)
+
 El puerto deportivo es un pequeño puerto dentro del puerto. Sin embargo, es
 enorme. Cuenta con amarres para mil doscientos embarcaciones. No responden por
 radio.  Preparé las defensas y las amarras por si acaso. Al entrar al puerto
@@ -61,6 +77,10 @@ color azul náutica, limpios y planchados. Si fuera británico, encajaría
 perfectamente en el papel de James Bond. Es serio y autoritario, todo negocios.
 Tiene ojos de un azul acerado. Su principal preocupación es que el puerto
 deportivo esté vacío y listo para la llegada del ARC.
+
+![description](
+  {{ 'assets/images/2026/08LasPalmas/IMG_1933.jpeg' | relative_url }}
+)
 
 El ARC, Rally Atlántico para Barcos de Recreo (Atlantic Rally for Cruisers), es
 una organización británica con fines de lucro. Atrae a 250 embarcaciones de
@@ -79,6 +99,10 @@ mayoría de los barcos de la ARC llevan sus propias lavadoras. Las duchas son
 el tipo con un botón para agua de temperatura predeterminada de periodo corto.
 Los barcos de la ARC tienen sus propias duchas.
 
+![description](
+  {{ 'assets/images/2026/08LasPalmas/IMG_1903.jpeg' | relative_url }}
+)
+
 Su clase se ha hecho cargo del mundo de los marineros, los verdaderos marineros
 y navegantes de crucero: el mundo de Lin y Larry Pardey, Moitessier, Slocum,
 Chichester, Knox-Johnston, las parejas rioplatenses Eduardo y Claudia, Alberto
@@ -92,6 +116,10 @@ fondeadores adequados con enclaves privados y corporativos que atienden a un
 grupo privilegiado, de clase media, con un exceso de ingresos disponibles. Para
 navegar libremente, tienes que ceñirte a un horario, hacer reservaciones y
 contar con el respaldo de patrocinadores corporativos.
+
+![description](
+  {{ 'assets/images/2026/08LasPalmas/IMG_1902.jpeg' | relative_url }}
+)
 
 No importa. Hay muchos a quienes no les agrada la gente de la ARC. Quedo en
 cuenta que simplemente son personas que buscan entretenerse dentro de la
