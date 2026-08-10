@@ -17,6 +17,10 @@ de 1730, entre las nueve y las diez de la noche, la tierra se abrió en
 Timanfaya, a dos leguas de Yaiza... y una enorme montaña se levantó del seno de
 la tierra.»
 
+![Capa de lava, Lanzarote](
+  {{ 'assets/images/2026/07Bodega/DCL_6131.JPG' | relative_url }}
+)
+
 La isla conquistada por Juan de Bethencourt y Gadifer de la Salle, en 1402
 (antes del «descubrimiento» del Nuevo Mundo) ya fue poblada y desorollada con la
 cultivación de trigo y otros cereales. Como resultado de las erupciones, un
@@ -30,6 +34,10 @@ de la cultivación es: una temperatura agradable durante casi todo
 el año en combinación con sol abundante. En contra hay la sequía y el viento
 fuertísimo. Estos factores son más o menos obvios para cualquiera que haya
 estado aquí unas horas. Hay otros dos factores mucho menos obvios.
+
+![Hoyas con cultivos de uva, Lanzarote](
+  {{ 'assets/images/2026/07Bodega/DCL_6129.JPG' | relative_url }}
+)
 
 En primer lugar, la ceniza volcánica —esa sustancia granular, gris oscuro, que
 no es exactamente grava ni arena— retiene la humedad. Aquí se le llama «picón».
@@ -46,6 +54,19 @@ cada noche, hasta bien entrada la mañana.) Finalmente, en la parte superior, un
 muro de piedra actúa como cortavientos para proteger la planta y evitar que el
 viento llene el hoyo.
 
+![vid que brota del suelo debajo de la roca, Lanzarote](
+  {{ 'assets/images/2026/07Bodega/IMG_1885.jpeg' | relative_url }}
+)
+
+![Hoya especialmente ámplia, normalmente profunda, que ofrece sombra a
+  las turistas de una bodega](
+  {{ 'assets/images/2026/07Bodega/IMG_1893.jpeg' | relative_url }}
+)
+
+![campo de hondonadas, Lanzarote](
+  {{ 'assets/images/2026/07Bodega/DCL_6138.JPG' | relative_url }}
+)
+
 No es un estilo de cultivo que se preste a la mecanización. Todo es trabajo
 manual. Principalmente, una vez que se construyen los hoyos y se planta, se
 necesita mano de obra para cosechar las uvas. No es un estilo de cultivo que se
@@ -53,10 +74,18 @@ preste a la producción a gran escala; sin embargo, aquí las laderas de La Geri
 causan impresión. Los viñedos son lo suficientemente grandes como para
 sustentar una pequeña economía de elaboración de vinos.
 
+![Viñeado de hondonadas en La Geria, Lanzarote](
+  {{ 'assets/images/2026/07Bodega/DCL_6136.JPG' | relative_url }}
+)
+
 Me detuve y probé un poco de vino. Pensé en llevar un poco de esa Malvasía tan
 poco común como regalo a Montevideo. Al final, no me pareció nada especial ni
 superior a lo que se produce en Uruguay y Argentina. Habría sido como traer
 miel al colmenero.
+
+![Viñedo del Grifo, Lanzarote](
+  {{ 'assets/images/2026/07Bodega/IMG_1890.jpeg' | relative_url }}
+)
 
 No obstante, es realmente impresionante hasta dónde estamos dispuestos a llegar
 para cultivar uvas y elaborar vino.
@@ -67,6 +96,6 @@ Referencias:
 - [Canarias Life: Viñedos de Lanzarote](https://canariaslife.com/vinedos-de-lanzarote-viticultura-entre-cenizas/)
 - [Wikipedia: Lanzarote](https://es.wikipedia.org/wiki/Lanzarote)
 - [Gobierno de Canarias: Historia Volcanica](https://www3.gobiernodecanarias.org/medusa/wiki/index.php?title=Historia_volc%C3%A1nica_de_Lanzarote)
-- [CafeBabel: Búhos a Atenas]: https://cafebabel.com/es/article/buhos-a-atenas-5ae00502f723b35a145dc9f4/
+- [CafeBabel: Búhos a Atenas](https://cafebabel.com/es/article/buhos-a-atenas-5ae00502f723b35a145dc9f4/)
 - Los fotos son mías
 
