@@ -2,7 +2,7 @@
 layout: post
 title: Lanzarote la Bodega
 date: 2026-07-29
-tags:
+tags: cultura Lanzarote Canarias
 excerpt: la tierra se abrió en Timanfaya y una enorme montaña se levantó del
   seno de la tierra
 ---
@@ -26,35 +26,37 @@ agricultura fue destruido. La hambruna resultante provocó la emigración de una
 gran parte de los habitantes de las islas.
 
 Desde entonces, desarolla un estilo de cultivación única. Lo que tiene en favor
-de la cultivacion es: primalmente, una temperatura agradable durante casi todo
-el año; la segunda, sol abundante. En contra hay la sequía y el viento
-fuertísimo. These factors are more or less obvious to anyone who has been
-here for a few hours. There are two more much less obvious factors.
+de la cultivacion es: una temperatura agradable durante casi todo
+el año en combinación con sol abundante. En contra hay la sequía y el viento
+fuertísimo. Estos factores son más o menos obvios para cualquiera que haya
+estado aquí unas horas. Hay otros dos factores mucho menos obvios.
 
-The volcanic ash-- the granular, grey not quite gravel, not quite sand --retains
-moisture. It is called «picón» here. Underneath this hard surface of lava rock,
-not far, only two or three meters below, lies the soil in which, before the
-erruptions of 1730, wheat was grown.
+En primer lugar, la ceniza volcánica —esa sustancia granular, gris oscuro, que
+no es exactamente grava ni arena— retiene la humedad. Aquí se le llama «picón».
+En segundo lugar, debajo de esta superficie dura de roca volcánica, no muy
+lejos, a solo dos o tres metros de profundidad, se encuentra el suelo en el
+que, antes de las erupciones de 1730, se cultivaba trigo.
 
-What you find then are these conical hoyos. Each supports a plant much larger
-than is traditionally grown on rows of trellises. At the bottom, the roots
-of the plant penetrate the soil. A cone of picón around it absorbs and retains
-the moisture from the air and the nightly dew that forms on the ground.
-(The deck of Brisa is wet with dew each night, into the morning.)
-Finally, at the top, a stone wall acts as a wind break to protect the
-plant and prevent the wind from filling-in the hole.
+Lo que se encuentra entonces son estos hoyos cónicos. Cada uno sostiene una
+planta mucho más grande que las que se cultivan tradicionalmente en hileras de
+enrejados. En el fondo, las raíces de la planta penetran en el suelo. Un cono
+de picón a su alrededor absorbe y retiene la humedad del aire y el rocío
+nocturno que se forma en el suelo. (La cubierta de Brisa se moja con el rocío
+cada noche, hasta bien entrada la mañana.) Finalmente, en la parte superior, un
+muro de piedra actúa como cortavientos para proteger la planta y evitar que el
+viento llene el hoyo.
 
-It is not a style of cultivation that lends itself to mechanization.
-It is all manual labor. Mainly, once the hoyos are constructed and planted,
-the labor is needed to harvest the grapes. It is not a style of cultivation
-that lends itself to scale, yet here the hillsides of La Geria make an
-impression. The vineyards are large enough to support a small economy of
-wine making.
+No es un estilo de cultivo que se preste a la mecanización. Todo es trabajo
+manual. Principalmente, una vez que se construyen los hoyos y se planta, se
+necesita mano de obra para cosechar las uvas. No es un estilo de cultivo que se
+preste a la producción a gran escala; sin embargo, aquí las laderas de La Geria
+causan impresión. Los viñedos son lo suficientemente grandes como para
+sustentar una pequeña economía de elaboración de vino.
 
-I stopped and sampled some of the wine. I thought of bringing some of the
-rare malvasía as gifts back to Montevideo. As it turns out, it didn't
-impress me as anything special nor superior to what is produced in Uruguay
-and Argentina. It would have been like bringing owls to Athens.
+Me detuve y probé un poco de vino. Pensé en llevar un poco de esa malvasía tan
+poco común como regalo a Montevideo. Al final, no me pareció nada especial ni
+superior a lo que se produce en Uruguay y Argentina. Habría sido como traer
+miel al colmenero.
 
 No obstante, es realmente impresionante hasta dónde estamos dispuestos a llegar
 para cultivar uvas y elaborar vino.
@@ -65,5 +67,6 @@ Referencias:
 - [Canarias Life: Viñedos de Lanzarote](https://canariaslife.com/vinedos-de-lanzarote-viticultura-entre-cenizas/)
 - [Wikipedia: Lanzarote](https://es.wikipedia.org/wiki/Lanzarote)
 - [Gobierno de Canarias: Historia Volcanica](https://www3.gobiernodecanarias.org/medusa/wiki/index.php?title=Historia_volc%C3%A1nica_de_Lanzarote)
+- [CafeBabel: Búhos a Atenas]: https://cafebabel.com/es/article/buhos-a-atenas-5ae00502f723b35a145dc9f4/
 - Los fotos son mías
 
