@@ -11,22 +11,22 @@ Es realmente impresionante hasta dónde estamos dispuestos a llegar para
 cultivar uvas y elaborar vino.
 
 La Isla de Lanzarote es la isla oriental y septrional del archipiélago de las
-Canarias.  En la primera tercera del siglo dieziocho hubieron erupciones
-volcánicas.  El párroco de Yaiza anotado en un diario, «El día 1 de septiembre
+Canarias.  En la primera tercera del siglo dieciocho hubo erupciones
+volcánicas.  El párroco de Yaiza anotó en un diario, «El día 1 de septiembre
 de 1730, entre las nueve y las diez de la noche, la tierra se abrió en
 Timanfaya, a dos leguas de Yaiza... y una enorme montaña se levantó del seno de
 la tierra.»
 
-La isla conquistado por Juan de Bethencourt y Gadifer de la Salle, en 1402
-(ante del «descubrimiento» del nuevo mundo) ya fue poblado y desorollado con la
+La isla conquistada por Juan de Bethencourt y Gadifer de la Salle, en 1402
+(antes del «descubrimiento» del Nuevo Mundo) ya fue poblada y desorollada con la
 cultivación de trigo y otros cereales. Como resultado de las erupciones, un
-cuarto de la isla fue cubrido con roca de lava. Pueblos enteros fueron
-destruyidos.  Con un segundo periodo de erupciones que comenzaban en 1824, la
-agricultura fue destruido. La hambruna resultante provocó la emigración de una
+cuarto de la isla fue cubierto con roca de lava. Pueblos enteros fueron
+destruidos.  Con un segundo periodo de erupciones que comenzaban en 1824, la
+agricultura fue destruida. La hambruna resultante provocó la emigración de una
 gran parte de los habitantes de las islas.
 
-Desde entonces, desarolla un estilo de cultivación única. Lo que tiene en favor
-de la cultivacion es: una temperatura agradable durante casi todo
+Desde entonces, desarrolla un estilo de cultivación única. Lo que tiene en favor
+de la cultivación es: una temperatura agradable durante casi todo
 el año en combinación con sol abundante. En contra hay la sequía y el viento
 fuertísimo. Estos factores son más o menos obvios para cualquiera que haya
 estado aquí unas horas. Hay otros dos factores mucho menos obvios.
@@ -51,9 +51,9 @@ manual. Principalmente, una vez que se construyen los hoyos y se planta, se
 necesita mano de obra para cosechar las uvas. No es un estilo de cultivo que se
 preste a la producción a gran escala; sin embargo, aquí las laderas de La Geria
 causan impresión. Los viñedos son lo suficientemente grandes como para
-sustentar una pequeña economía de elaboración de vino.
+sustentar una pequeña economía de elaboración de vinos.
 
-Me detuve y probé un poco de vino. Pensé en llevar un poco de esa malvasía tan
+Me detuve y probé un poco de vino. Pensé en llevar un poco de esa Malvasía tan
 poco común como regalo a Montevideo. Al final, no me pareció nada especial ni
 superior a lo que se produce en Uruguay y Argentina. Habría sido como traer
 miel al colmenero.
