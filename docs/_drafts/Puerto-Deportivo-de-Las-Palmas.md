@@ -109,13 +109,7 @@ Chichester, Knox-Johnston, las parejas rioplatenses Eduardo y Claudia, Alberto
 y Galre. No puedo contarme entre ellos. Sin embargo, antes se recibía a un
 marinero como tal. El mero hecho de haber realizado la travesía era prueba
 suficiente de su mérito. Ahora se orientan totalmente hacia el estilo lujo, de
-modo comercio.
-
-La realidad hoy en día es que se han apropriado los puertos que tenían
-fondeadores adequados con enclaves privados y corporativos que atienden a un
-grupo privilegiado, de clase media, con un exceso de ingresos disponibles. Para
-navegar libremente, tienes que ceñirte a un horario, hacer reservaciones y
-contar con el respaldo de patrocinadores corporativos.
+modo comercio. Ya hay muchísima gente que hace esto.
 
 ![description](
   {{ 'assets/images/2026/08LasPalmas/IMG_1902.jpeg' | relative_url }}
@@ -125,3 +119,15 @@ No importa. Hay muchos a quienes no les agrada la gente de la ARC. Quedo en
 cuenta que simplemente son personas que buscan entretenerse dentro de la
 seguridad de su propio círculo. Así es la naturaleza humana. Los perdonamos.
 
+> Now, it don’t seem to me quite so funny
+
+> What some people are gonna do f’r money
+
+> There’s a bran’ new gimmick every day
+
+> Just t’ take somebody’s money away
+
+*La masacre del picnic en Bear Mountain [(Bear Mountain Picnic Massacre
+Blues)][bmpm]*, Bob Dylan, 1962.
+
+[bmpm]: https://www.bobdylan.com/songs/talkin-bear-mountain-picnic-massacre-blues/
