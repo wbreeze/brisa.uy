@@ -3,7 +3,7 @@ layout: post
 title: Puerto Deportivo de Las Palmas
 date: 2026-08-05
 tags: navegación cultura philosofía
-excerpt: Al final, había cometido un error.
+excerpt: Nos revela cómo son nuestras almas
 ---
 
 Crucé el estrecho de Jandía hacia La Isleta, entre las islas de Fuerteventura y
@@ -87,9 +87,9 @@ una organización británica con fines de lucro. Atrae a 250 embarcaciones de
 recreo que se reúnen en Las Palmas para cruzar al Caribe. Los conocí en las
 Bermudas durante su rally desde Estados Unidos hacia las Azores. El ARC parte
 en una fecha fija, sin importar el clima. En Bermuda, llegaron en medio de un
-vendaval, con todo tipo de drama en la radio mientras pedían ayuda. Anclados en
-medio de la tormenta. Conté seis veleros que llegaban a duras penas con las
-velas de proa destrozadas.
+vendaval, con todo tipo de drama en la radio mientras pedían ayuda. Anclado en
+la bahía de Saint George, medio de la tormenta, conté seis veleros que llegaban
+a duras penas con las velas de proa destrozadas.
 
 Al observarlos, se comportaban como gallos y gallinas, pavoneándose y
 estableciendo su jerarquía, vestidos con ropa deportiva cara y luciendo todos
@@ -97,7 +97,8 @@ los artilugios imaginables en sus barcos gigantes. Este puerto deportivo no
 cuenta con una lavandería en funcionamiento. Eso podría deberse a que la
 mayoría de los barcos de la ARC llevan sus propias lavadoras. Las duchas son
 el tipo con un botón para agua de temperatura predeterminada de periodo corto.
-Los barcos de la ARC tienen sus propias duchas.
+Los barcos de la ARC tienen sus propias duchas, agua caliente, plantas de
+desalinación.
 
 ![description](
   {{ 'assets/images/2026/08LasPalmas/IMG_1903.jpeg' | relative_url }}
@@ -115,19 +116,23 @@ modo comercio. Ya hay muchísima gente que hace esto.
   {{ 'assets/images/2026/08LasPalmas/IMG_1902.jpeg' | relative_url }}
 )
 
+¿Qué es lo que quiero decir, que no parezco un perdedor celoso o un ludita?  Ya
+no nos ponemos pieles de animales ni, en general, nos cosemos nuestra propia
+ropa.  La energía solar, los sistemas de baterías de litio, el GPS, las
+comunicaciones por satélite y los pronósticos detallados del viento hacen que
+la navegación transoceánica sea accesible para mucha más gente.
+
+Nuestro mundo humano se desarrolla, evoluciona, progresa, se vuelve más
+refinado y complejo. Lo que quiero destacar es que, a medida que desarrollamos
+herramientas y organizaciones que nos protegen del peligro, eliminan el riesgo
+y nos brindan un sentido de comunidad, perdemos contacto con algo esencial y
+verdadero. Nos volvemos colectivamente egocéntricos, perdidos en nuestros feeds
+de WhatsApp e Instagram, en la drama de nuestros familias y circulos sociales,
+en la política y las intrigas de los Estados. El encuentro con el océano:
+ofrece mucho más que un tema de conversación para una fiesta. Cuando nos
+abrimos a él, nos revela cómo son nuestras almas, y la alma de la naturaleza.
+
 No importa. Hay muchos a quienes no les agrada la gente de la ARC. Quedo en
 cuenta que simplemente son personas que buscan entretenerse dentro de la
 seguridad de su propio círculo. Así es la naturaleza humana. Los perdonamos.
 
-> Now, it don’t seem to me quite so funny
-
-> What some people are gonna do f’r money
-
-> There’s a bran’ new gimmick every day
-
-> Just t’ take somebody’s money away
-
-*La masacre del picnic en Bear Mountain [(Bear Mountain Picnic Massacre
-Blues)][bmpm]*, Bob Dylan, 1962.
-
-[bmpm]: https://www.bobdylan.com/songs/talkin-bear-mountain-picnic-massacre-blues/
