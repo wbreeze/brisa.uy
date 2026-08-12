@@ -109,8 +109,8 @@ y navegantes de crucero: el mundo de Lin y Larry Pardey, Moitessier, Slocum,
 Chichester, Knox-Johnston, las parejas rioplatenses Eduardo y Claudia, Alberto
 y Galre. No puedo contarme entre ellos. Sin embargo, antes se recibía a un
 marinero como tal. El mero hecho de haber realizado la travesía era prueba
-suficiente de su mérito. Ahora se orientan totalmente hacia el estilo lujo, de
-modo comercio. Ya hay muchísima gente que hace esto.
+suficiente de su mérito. Ahora se orientan hacia el estilo lujo, de modo
+comercio. Ya hay muchísima gente que hace esto.
 
 ![description](
   {{ 'assets/images/2026/08LasPalmas/IMG_1902.jpeg' | relative_url }}
@@ -129,10 +129,20 @@ y nos brindan un sentido de comunidad, perdemos contacto con algo esencial y
 verdadero. Nos volvemos colectivamente egocéntricos, perdidos en nuestros feeds
 de WhatsApp e Instagram, en la drama de nuestros familias y circulos sociales,
 en la política y las intrigas de los Estados. El encuentro con el océano:
-ofrece mucho más que un tema de conversación para una fiesta. Cuando nos
-abrimos a él, nos revela cómo son nuestras almas, y la alma de la naturaleza.
+ofrece más que un tema de conversación para una fiesta o motivo para jactarse.
+Cuando nos abrimos a él, nos revela cómo son nuestras almas, y la alma de la
+naturaleza.
+
+![description](
+  {{ 'assets/images/2026/08LasPalmas/' | relative_url }}
+)
 
 No importa. Hay muchos a quienes no les agrada la gente de la ARC. Quedo en
 cuenta que simplemente son personas que buscan entretenerse dentro de la
 seguridad de su propio círculo. Así es la naturaleza humana. Los perdonamos.
+Tampoco les resulta inaccesible la experiencia de la trascendencia. Al fin y al
+cabo, al igual que todos los que se aventuran mar adentro, buscan una
+experiencia más allá y fuera de la vida cotidiana.
+
+Quizás podría pasar toda una caravana de camellos por el ojo de la aguja.
 
