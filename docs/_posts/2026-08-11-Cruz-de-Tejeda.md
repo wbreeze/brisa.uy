@@ -3,7 +3,7 @@ layout: post
 title: Cruz de Tejeda
 date: 2026-08-11
 tags: Gran_Canaria Turismo
-excerpt:
+excerpt: Esta altitud, a 1500 metros, me dio dolor de cabeza.
 ---
 
 Me subí a un ómnibus hasta el pueblo de San Mateo, aquí en la isla de Gran
