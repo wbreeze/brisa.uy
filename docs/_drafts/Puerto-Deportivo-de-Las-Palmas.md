@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Puerto Deportivo de Las Palmas
+title: Los Piratas Capitalistas
 date: 2026-08-05
 tags: navegación cultura filosofía
-excerpt: Nos revela cómo son nuestras almas
+excerpt: Simplemente son personas que buscan entretenerse
 ---
+
+## Canal de Jandía - La Isleta
 
 Crucé el estrecho de Jandía hacia La Isleta, entre las islas de Fuerteventura y
 Gran Canaria, en un día. Partí antes del amanecer desde un fondeadero
@@ -62,25 +64,30 @@ está lleno.
   {{ 'assets/images/2026/08LasPalmas/IMG_1930.jpeg' | relative_url }}
 )
 
-El puerto deportivo es un pequeño puerto dentro del puerto. Sin embargo, es
-enorme. Cuenta con amarres para mil doscientos embarcaciones. No responden por
-radio.  Preparé las defensas y las amarras por si acaso. Al entrar al puerto
-interior, un hombre me llamó. Creo que es el hombre que está de guardia fuera
-del horario habitual. Es genial. Me acerqué al amarre de recepción. Me ofreció
-de todo. Le dije: «No, no necesito nada más que un poco de descanso».
+## El Puerto Deportivo Las Palmas
 
-El gerente me encuentra por la mañana. Simplemente pasa por casualidad en su camino.
-Me indica que vaya a la oficina. Le digo: «Sí, ya voy». Es un hombre de mediana
-edad, atlético y en buena forma. Lleva una camisa deportiva blanca, con el
-emblema del puerto deportivo bordado sobre el corazón y pantalones cortos de
-color azul náutica, limpios y planchados. Si fuera británico, encajaría
-perfectamente en el papel de James Bond. Es serio y autoritario, todo negocios.
-Tiene ojos de un azul acerado. Su principal preocupación es que el puerto
-deportivo esté vacío y listo para la llegada del ARC.
+El puerto deportivo es un pequeño puerto dentro del puerto industrial. Sin
+embargo, es enorme. Cuenta con amarres para mil doscientos embarcaciones. No
+responden por radio.  Preparé las defensas y las amarras por si acaso. Al
+entrar al puerto interior, un hombre me llamó. Creo que es el hombre que está
+de guardia fuera del horario habitual. Es genial. Me acerqué al amarre de
+recepción. Me ofreció de todo. Le dije: «No, no necesito nada más que un poco
+de descanso».
+
+El gerente me encuentra por la mañana. Simplemente pasa por casualidad en su
+camino.  Me indica que vaya a la oficina. Le digo: «Sí, ya voy». Es un hombre
+de mediana edad, atlético y en buena forma. Lleva una camisa deportiva blanca,
+con el emblema del puerto deportivo bordado sobre el corazón y pantalones
+cortos de color azul náutica, limpios y planchados. Si fuera británico,
+encajaría perfectamente en el papel de James Bond. Es serio y autoritario, todo
+negocios.  Tiene ojos de un azul acerado. Su principal preocupación es que el
+puerto deportivo esté lo suficientemente vacío para la llegada del ARC.
 
 ![Veleros amarrados en el Puerto Deportivo de Las Palmas](
   {{ 'assets/images/2026/08LasPalmas/IMG_1933.jpeg' | relative_url }}
 )
+
+### El ARC
 
 El ARC, Rally Atlántico para Barcos de Recreo (Atlantic Rally for Cruisers), es
 una organización británica con fines de lucro. Atrae a 250 embarcaciones de
@@ -120,23 +127,35 @@ comercio. Ya hay muchísima gente que hace esto.
   {{ 'assets/images/2026/08LasPalmas/IMG_1902.jpeg' | relative_url }}
 )
 
-¿Qué es lo que quiero decir, que no parezco un perdedor celoso o un ludita?  Ya
-no nos ponemos pieles de animales ni, en general, nos cosemos nuestra propia
+### ¿Cuál es la problema?
+
+Ya no nos ponemos pieles de animales ni, en general, nos cosemos nuestra propia
 ropa.  La energía solar, los sistemas de baterías de litio, el GPS, las
 comunicaciones por satélite y los pronósticos detallados del viento hacen que
-la navegación transoceánica sea accesible para mucha más gente.
+la navegación transoceánica sea accesible para mucha más gente, con muchas de
+las comodidades de casa.
 
 Nuestro mundo humano se desarrolla, evoluciona, progresa, se vuelve más
-refinado y complejo. Lo que quiero destacar es que, a medida que desarrollamos
-herramientas y organizaciones que nos protegen del peligro, eliminan el riesgo
-y nos brindan un sentido de comunidad, perdemos contacto con algo esencial y
-verdadero. Nos volvemos colectivamente egocéntricos, perdidos en nuestros feeds
-de WhatsApp e Instagram, en la drama de nuestros familias y circulos sociales,
-en la política y las intrigas de los Estados.
+refinado y complejo. Ahora es necesario viajar con reservaciones de una marina
+corporativa a otra. A la gente le gusta la seguridad de la marina. Muchas de
+las barcos no llevan anclas adecuadas. Le gusta tener seguro un lugar con la
+llegada. También le gusta conectar sus botes a un enchufe eléctrico de
+cincuenta amperios.
+
+La aventura tiene un sabor diferente. Es como si la playa naturalista de
+Chihuahua o las posadas de Cabo se hubiera convertido en hoteles de Punta del
+Este.  Además de eso, a medida que desarrollamos herramientas y organizaciones
+que nos protegen del peligro, eliminan el riesgo y nos brindan un sentido de
+comunidad, perdemos contacto con algo esencial y verdadero. Nos volvemos
+colectivamente egocéntricos, perdidos en nuestros feeds de WhatsApp e
+Instagram, en la drama de nuestros familias y circulos sociales, en la política
+y las intrigas de los Estados.
 
 El encuentro con el océano: ofrece más que un tema de conversación para una
 fiesta o motivo para jactarse.  Cuando nos abrimos a él, nos revela cómo son
-nuestras almas, y la alma de la naturaleza.
+nuestras almas, y la alma de la naturaleza.  Esto no es una ilusión de un
+espiritualista de la Nueva Era (aunque yo soy así).  Es algo real y verdadero
+que puedes escuchar si te quedas en silencio.
 
 ![Montaje de imágenes tomadas en alta mar](
   {{ 'assets/images/2026/08LasPalmas/montage.jpg' | relative_url }}
