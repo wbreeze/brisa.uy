@@ -42,7 +42,7 @@ cabeza.
   {{ 'assets/images/2026/08Cruz/altura.jpg' | relative_url }}
 )
 
-Lo más destacado fue el viaje en el autobús. Al salir de la ciudad y subir por
+Lo más destacado fue el viaje en el ómnibus. Al salir de la ciudad y subir por
 las colinas, te sientes como en Los Ángeles. Las colinas son marrones y
 polvorientas con arbustos bajos y muchos nopales. Luego, la carretera estrecha,
 de dos carriles y sin pintar, tallada en las laderas de las colinas, sube
