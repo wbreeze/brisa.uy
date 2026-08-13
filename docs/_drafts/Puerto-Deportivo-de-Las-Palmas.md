@@ -2,7 +2,7 @@
 layout: post
 title: Puerto Deportivo de Las Palmas
 date: 2026-08-05
-tags: navegación cultura philosofía
+tags: navegación cultura filosofía
 excerpt: Nos revela cómo son nuestras almas
 ---
 
@@ -13,7 +13,7 @@ de sotavento, al sur de Fuerteventura; una brisa fresca (6) en la zona de
 aceleración al suroeste de la isla; y luego vientos bonancible (4) a fresquito
 (5) con olas de un metro y medio.
 
-![description](
+![Pueblo de Playitas, Fuerteventura, Islas Canarias](
   {{ 'assets/images/2026/08LasPalmas/DCL_6189.JPG' | relative_url }}
 )
 
@@ -23,7 +23,7 @@ a Buquebus, con transbordadores similar con China Zorrilla.  Me rebasaron
 cuatro veces. Hicieron dos viajes de ida y vuelta durante mi travesía de un
 lado al otro.
 
-![description](
+![Playa de Puerto Rico, Fuerteventura, Islas Canarias](
   {{ 'assets/images/2026/08LasPalmas/DCL_6194.JPG' | relative_url }}
 )
 
@@ -34,7 +34,7 @@ de la humanidad se siente como un estruendo lejano y se desvanece. Solo queda
 el zumbido en mis oídos. Siento una sensación de unidad y de conciencia
 tranquila, de objetividad. Todo simplemente es como es.
 
-![description](
+![Montañas Tao en el sur de Fuerteventure, desde el Mar](
   {{ 'assets/images/2026/08LasPalmas/DCL_6196.JPG' | relative_url }}
 )
 
@@ -58,7 +58,7 @@ cuantos pequeños fondeaderos dentro del puerto industrial de Las Palmas. Están
 cerrados, o restringidos a períodos de alta demanda, cuando el puerto deportivo
 está lleno.
 
-![description](
+![Entrada al puerto de Las Palmas de Gran Canaria](
   {{ 'assets/images/2026/08LasPalmas/IMG_1930.jpeg' | relative_url }}
 )
 
@@ -78,18 +78,22 @@ perfectamente en el papel de James Bond. Es serio y autoritario, todo negocios.
 Tiene ojos de un azul acerado. Su principal preocupación es que el puerto
 deportivo esté vacío y listo para la llegada del ARC.
 
-![description](
+![Veleros amarrados en el Puerto Deportivo de Las Palmas](
   {{ 'assets/images/2026/08LasPalmas/IMG_1933.jpeg' | relative_url }}
 )
 
 El ARC, Rally Atlántico para Barcos de Recreo (Atlantic Rally for Cruisers), es
 una organización británica con fines de lucro. Atrae a 250 embarcaciones de
-recreo que se reúnen en Las Palmas para cruzar al Caribe. Los conocí en las
-Bermudas durante su rally desde Estados Unidos hacia las Azores. El ARC parte
-en una fecha fija, sin importar el clima. En Bermuda, llegaron en medio de un
-vendaval, con todo tipo de drama en la radio mientras pedían ayuda. Anclado en
-la bahía de Saint George, medio de la tormenta, conté seis veleros que llegaban
-a duras penas con las velas de proa destrozadas.
+recreo que se reúnen en Las Palmas para cruzar el Atlántico con los vientos
+alisios.  La flota llega como una marea a Rodney Bay, en Santa Lucía, entre
+finales de noviembre y mediados de diciembre, y luego se dispersa por todo el
+Caribe.
+
+Los conocí en las Bermudas durante su rally desde Estados Unidos hacia las
+Azores. El ARC parte en una fecha fija, sin importar el clima. En Bermuda,
+llegaron en medio de un vendaval, con todo tipo de drama en la radio mientras
+pedían ayuda. Anclado en la bahía de Saint George, medio de la tormenta, conté
+seis veleros que llegaban a duras penas con las velas de proa destrozadas.
 
 Al observarlos, se comportaban como gallos y gallinas, pavoneándose y
 estableciendo su jerarquía, vestidos con ropa deportiva cara y luciendo todos
@@ -97,11 +101,11 @@ los artilugios imaginables en sus barcos gigantes. Este puerto deportivo no
 cuenta con una lavandería en funcionamiento. Eso podría deberse a que la
 mayoría de los barcos de la ARC llevan sus propias lavadoras. Las duchas son
 el tipo con un botón para agua de temperatura predeterminada de periodo corto.
-Los barcos de la ARC tienen sus propias duchas, agua caliente, plantas de
-desalinación.
+Los barcos de la ARC tienen sus propias duchas, agua caliente, plantas
+desalinizadoras.
 
-![description](
-  {{ 'assets/images/2026/08LasPalmas/IMG_1903.jpeg' | relative_url }}
+![Veleros participantes del ARC en Bahamas](
+  {{ 'assets/images/2026/08LasPalmas/arcBahamas.jpg' | relative_url }}
 )
 
 Su clase se ha hecho cargo del mundo de los marineros, los verdaderos marineros
@@ -112,7 +116,7 @@ marinero como tal. El mero hecho de haber realizado la travesía era prueba
 suficiente de su mérito. Ahora se orientan hacia el estilo lujo, de modo
 comercio. Ya hay muchísima gente que hace esto.
 
-![description](
+![Brisa en el Puerto Deportivo de Las Palmas](
   {{ 'assets/images/2026/08LasPalmas/IMG_1902.jpeg' | relative_url }}
 )
 
@@ -128,17 +132,18 @@ herramientas y organizaciones que nos protegen del peligro, eliminan el riesgo
 y nos brindan un sentido de comunidad, perdemos contacto con algo esencial y
 verdadero. Nos volvemos colectivamente egocéntricos, perdidos en nuestros feeds
 de WhatsApp e Instagram, en la drama de nuestros familias y circulos sociales,
-en la política y las intrigas de los Estados. El encuentro con el océano:
-ofrece más que un tema de conversación para una fiesta o motivo para jactarse.
-Cuando nos abrimos a él, nos revela cómo son nuestras almas, y la alma de la
-naturaleza.
+en la política y las intrigas de los Estados.
 
-![description](
-  {{ 'assets/images/2026/08LasPalmas/' | relative_url }}
+El encuentro con el océano: ofrece más que un tema de conversación para una
+fiesta o motivo para jactarse.  Cuando nos abrimos a él, nos revela cómo son
+nuestras almas, y la alma de la naturaleza.
+
+![Montaje de imágenes tomadas en alta mar](
+  {{ 'assets/images/2026/08LasPalmas/montage.jpg' | relative_url }}
 )
 
-No importa. Hay muchos a quienes no les agrada la gente de la ARC. Quedo en
-cuenta que simplemente son personas que buscan entretenerse dentro de la
+No importa.  Hay muchos que se sienten invadidos por la gente de la ARC. Quedo
+en cuenta que simplemente son personas que buscan entretenerse dentro de la
 seguridad de su propio círculo. Así es la naturaleza humana. Los perdonamos.
 Tampoco les resulta inaccesible la experiencia de la trascendencia. Al fin y al
 cabo, al igual que todos los que se aventuran mar adentro, buscan una
