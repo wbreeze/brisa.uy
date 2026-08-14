@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Los Piratas Capitalistas
+title: El aburguesamiento
 date: 2026-08-05
 tags: navegación cultura filosofía
 excerpt: Simplemente son personas que buscan entretenerse
