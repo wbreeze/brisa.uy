@@ -18,13 +18,13 @@ un mirador.
 
 La cruz es un crucifijo de piedra. Es extrañamente tosco, no como los de
 siempre, de piedra oscura, con formas más pesadas que ligeras, rasgos
-cuadrados, baja y rechoncha. Es casi en la carretera, justo donde esta hace
-una curva al llegar a la cima. Me dio un poco de repulsión. Para alejarme de
-ella, tenía que pararme en la carretera. Decidí dejarla ahí.
+cuadrados, baja y rechoncha. Es casi en la carretera, justo donde hace
+una curva al llegar a la cima. La cruz me dio un poco de repulsión. Para
+alejarme, tenía que pararme en la carretera. Decidí dejarla ahí.
 
 El lugar, al igual que el pueblo, estaba casi completamente vacío. Había un
-puñado de visitantes, nada más. Quizás el martes sea feriado. Le compré unos
-higos secos y una botella de agua a un vendedor. «Un buen precio», dijo. «Un
+puñado de visitantes, nada más. Quizás el martes sea feriado. Compré unos
+higos secos y una botella de agua de un vendedor. «Un buen precio», dijo. «Un
 buen precio para él», pensé. No importa, no fue tanto. Hay tan poca gente. El
 hombre tiene que comer. Tengo unos buenos higos.
 
