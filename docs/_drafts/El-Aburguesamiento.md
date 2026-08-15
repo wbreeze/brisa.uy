@@ -19,11 +19,11 @@ aceleración al suroeste de la isla; y luego vientos bonancible (4) a fresquito
   {{ 'assets/images/2026/08LasPalmas/DCL_6189.JPG' | relative_url }}
 )
 
-Navegué un poco ceñido por la ruta directa, pasando junto a los transbordadores
-mientras pasaban a toda velocidad a treinta nudos.  Hay tres empresas similares
-a Buquebus, con transbordadores similar con China Zorrilla.  Me rebasaron
-cuatro veces. Hicieron dos viajes de ida y vuelta durante mi travesía de un
-lado al otro.
+Navegué un poco ceñido por la ruta directa, cruzándose con los transbordadores
+mientras pasaban a toda velocidad de treinta nudos.  Hay tres empresas
+similares a Buquebus, con transbordadores similar con China Zorrilla.  Me
+rebasaron cuatro veces. Hicieron dos viajes de ida y vuelta durante mi travesía
+de un lado al otro.
 
 ![Playa de Puerto Rico, Fuerteventura, Islas Canarias](
   {{ 'assets/images/2026/08LasPalmas/DCL_6194.JPG' | relative_url }}
@@ -72,16 +72,17 @@ responden por radio.  Preparé las defensas y las amarras por si acaso. Al
 entrar al puerto interior, un hombre me llamó. Creo que es el hombre que está
 de guardia fuera del horario habitual. Es genial. Me acerqué al amarre de
 recepción. Me ofreció de todo. Le dije: «No, no necesito nada más que un poco
-de descanso».
+de descanso.»
 
 El gerente me encuentra por la mañana. Simplemente pasa por casualidad en su
-camino.  Me indica que vaya a la oficina. Le digo: «Sí, ya voy». Es un hombre
+camino.  Me indica que vaya a la oficina. Le digo: «Sí, ya voy.» Es un hombre
 de mediana edad, atlético y en buena forma. Lleva una camisa deportiva blanca,
 con el emblema del puerto deportivo bordado sobre el corazón y pantalones
 cortos de color azul náutica, limpios y planchados. Si fuera británico,
 encajaría perfectamente en el papel de James Bond. Es serio y autoritario, todo
-negocios.  Tiene ojos de un azul acerado. Su principal preocupación es que el
-puerto deportivo esté lo suficientemente vacío para la llegada del ARC.
+negocios.  Tiene ojos verdes que quedaron grabados en mi memoria como ojos de
+un azul acerado. Su principal preocupación es que el puerto deportivo esté lo
+suficientemente vacío para la llegada del ARC.
 
 ![Veleros amarrados en el Puerto Deportivo de Las Palmas](
   {{ 'assets/images/2026/08LasPalmas/IMG_1933.jpeg' | relative_url }}
