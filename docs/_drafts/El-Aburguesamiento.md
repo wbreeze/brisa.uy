@@ -25,8 +25,8 @@ similares a Buquebus, con transbordadores similar con China Zorrilla.  Me
 rebasaron cuatro veces. Hicieron dos viajes de ida y vuelta durante mi travesía
 de un lado al otro.
 
-![Playa de Puerto Rico, Fuerteventura, Islas Canarias](
-  {{ 'assets/images/2026/08LasPalmas/DCL_6194.JPG' | relative_url }}
+![Montañas Tao en el sur de Fuerteventure, desde el Mar](
+  {{ 'assets/images/2026/08LasPalmas/DCL_6196.JPG' | relative_url }}
 )
 
 Es difícil describir la sensación de estar solo en el mar a bordo de un velero.
@@ -36,8 +36,8 @@ de la humanidad se siente como un estruendo lejano y se desvanece. Solo queda
 el zumbido en mis oídos. Siento una sensación de unidad y de conciencia
 tranquila, de objetividad. Todo simplemente es como es.
 
-![Montañas Tao en el sur de Fuerteventure, desde el Mar](
-  {{ 'assets/images/2026/08LasPalmas/DCL_6196.JPG' | relative_url }}
+![Transbordador en alta mar, Islas Canarias](
+  {{ 'assets/images/2026/08LasPalmas/DCL_6223.JPG' | relative_url }}
 )
 
 Al final, había cometido un error. Debí haber navegado más cerca del viento
@@ -133,8 +133,8 @@ comercio. Ya hay muchísima gente que hace esto.
 Ya no nos ponemos pieles de animales ni, en general, nos cosemos nuestra propia
 ropa.  La energía solar, los sistemas de baterías de litio, el GPS, las
 comunicaciones por satélite y los pronósticos detallados del viento hacen que
-la navegación transoceánica sea accesible para mucha más gente, con muchas de
-las comodidades de casa.
+la navegación transoceánica sea accesible para mucha más gente, con mucha
+seguridad y muchas de las comodidades de casa.
 
 Nuestro mundo humano se desarrolla, evoluciona, progresa, se vuelve más
 refinado y complejo. Ahora es necesario viajar con reservaciones de una marina
@@ -149,8 +149,8 @@ Este.  Además de eso, a medida que desarrollamos herramientas y organizaciones
 que nos protegen del peligro, eliminan el riesgo y nos brindan un sentido de
 comunidad, perdemos contacto con algo esencial y verdadero. Nos volvemos
 colectivamente egocéntricos, perdidos en nuestros feeds de WhatsApp e
-Instagram, en la drama de nuestros familias y circulos sociales, en la política
-y las intrigas de los Estados.
+Instagram, en la drama de nuestros familias y circulos sociales, en los
+negocios y las compras, en la política y las intrigas de los Estados.
 
 El encuentro con el océano: ofrece más que un tema de conversación para una
 fiesta o motivo para jactarse.  Cuando nos abrimos a él, nos revela cómo son
@@ -162,9 +162,9 @@ que puedes escuchar si te quedas en silencio.
   {{ 'assets/images/2026/08LasPalmas/montage.jpg' | relative_url }}
 )
 
-No importa.  Hay muchos que se sienten invadidos por la gente de la ARC. Quedo
-en cuenta que simplemente son personas que buscan entretenerse dentro de la
-seguridad de su propio círculo. Así es la naturaleza humana. Los perdonamos.
+No importa.  Hay muchos que se sienten invadidos por la gente tipo de la ARC.
+Quedo en cuenta que simplemente son personas que buscan entretenerse dentro de
+la seguridad de su propio círculo. Así es la naturaleza humana. Los perdonamos.
 Tampoco les resulta inaccesible la experiencia de la trascendencia. Al fin y al
 cabo, al igual que todos los que se aventuran mar adentro, buscan una
 experiencia más allá y fuera de la vida cotidiana.
