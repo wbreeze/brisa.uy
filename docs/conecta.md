@@ -5,6 +5,7 @@ permalink: /conecta/
 ---
 
 Soy Gato, Douglas, un marinero formado en Uruguay. Te invito a conectarte conmigo.
+Consulta Wpp, email etc. a continuación y en cada página.
 
 Visita [la página web][sitio] de vez en cuando para ver fotos y leer nuevas
 historias. A veces hay algún vídeo. También hay una cuenta de Instagram, que es
