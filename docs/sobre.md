@@ -25,13 +25,13 @@ Essick][essick]
 
 ## El Navegante
 
-Quien les escribe es Douglas Lovell, estadounidense de nacimiento, neoyorquino.
-Dediqué la mayor parte de mi vida profesional a la informática, la aviación
-comercial como piloto de jets corporativos y a la acrobacia aérea.  Habiendo
-conocido Uruguay en 2017, lo convertí en mi segunda patria. Ahí entonces
-comienzo a concretar mi vieja aspiración.
+Quien les escribe es Gato, Douglas Lovell, estadounidense de nacimiento,
+neoyorquino.  Dediqué la mayor parte de mi vida profesional a la informática,
+la aviación comercial como piloto de jets corporativos y a la acrobacia aérea.
+Habiendo conocido Uruguay en 2017, lo convertí en mi segunda patria. Ahí
+entonces comienzo a concretar mi vieja aspiración.
 
-![el navegante Douglas Lovell en 2025 y 2021](
+![el navegante Gato en 2025 y 2021](
   {{ '/assets/images/2025/el_navegante.jpeg' | relative_url }}
 )
 
