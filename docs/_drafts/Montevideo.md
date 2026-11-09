@@ -3,7 +3,7 @@ layout: post
 title: Montevideo
 date: 2026-11-09
 tags: Montevideo
-excerpt: Seven weeks at home.
+excerpt: Siete semanas "en casa"
 ---
 
 Somewhere along the way between the Azores and the Canaries I took a look
