@@ -1,54 +1,57 @@
 ---
 layout: post
 title: Montevideo
-date: 2026-11-09
+date: 2026-10-22
 tags: Montevideo
 excerpt: Siete semanas "en casa"
 ---
 
-Somewhere along the way between the Azores and the Canaries I took a look
-at my cedula and realized that a trip to Montevideo was in the cards.
-It was time to renew my residency.
+En algún punto del trayecto entre las Azores y las Canarias eché un vistazo a
+mi cédula y me di cuenta de que un viaje a Montevideo estaba en mis planes. Era
+hora de renovar mi residencia.
 
-Over the course of my travels, since purchasing Brisa in La Paz, BCS, Mexico
-on the tail of the COVID mania, in December, 2020, I've returned to Montevideo
-every year for a couple of months. I usually try to time it for summer, to
-enjoy a little bit of beach time in Rocha and attend the Carnival performances
-in Montevideo.
+A lo largo de mis viajes, desde que compré Brisa en La Paz, BCS, México, en
+plena locura del COVID, en diciembre de 2020, he regresado a Montevideo cada
+año durante un par de meses. Por lo general, trato de programarlo para el
+verano, para disfrutar un poco de la playa en Rocha y asistir a los
+espectáculos del Carnaval en Montevideo.
 
-This year is different. Although I left Montevideo in March to sail from
-Bermuda and across the Atlantic, already in September it was time to come back.
-I put the boat in a sketchy marina on Tenerife, on a Med mooring rubbing rails
-with boats on either side when the groundswell of the ocean entered to surge
-the boats to and away from the wall. Crossing my fingers, I left to enjoy
-seven weeks at home.
+Este año es diferente. Aunque me fui de Montevideo en marzo para navegar desde
+las Bermudas y cruzar el Atlántico, ya en septiembre era hora de regresar. Dejé
+el barco en un puerto deportivo un poco precario en Tenerife, en un amarre del
+Mediterráneo donde los barcos rozaban los pasamanos a ambos lados cuando el
+oleaje del océano entraba y empujaba a los barcos hacia y lejos del muro. Con
+los dedos cruzados, me fui a disfrutar de siete semanas en casa.
 
-Even though I'm not in Montevideo enough that it makes sense to rent my own
-apartment, it's still home. Brisa has been my home away from home.
+Aunque no paso tanto tiempo en Montevideo como para que valga la pena alquilar
+mi propio departamento, sigue siendo mi hogar. Brisa ha sido mi hogar lejos de
+casa.
 
-This time AirBnB offered an apartment at Plaza Zabala in Ciudad Vieja.
-This is a really nice area except at night. At night it feels abandoned.
-During the day it can be a little bit much of the tourist trade. I think
-I still like Pocitos to live, or Barrio Sur, Cordón or Parque Rodó.
+Esta vez, Airbnb me ofreció un departamento en la Plaza Zabala, en la Ciudad
+Vieja. Es una zona muy bonita, excepto por la noche. De noche se siente
+abandonada. Durante el día, a veces puede haber demasiado turismo. Creo que
+sigo prefiriendo vivir en Pocitos, o en el Barrio Sur, el Cordón o el Parque
+Rodó.
 
-Ciudad Vieja had me close to Cinemateca and Teatro Solís. I watched a lot of
-movies and a few performances. The best was a pianist from China, Liya Wang.
-She was like a fairy from another universe. What she did with the piano was
-superhuman. Few on earth can play the piano like this.
+La Ciudad Vieja me tenía cerca de la Cinemateca y del Teatro Solís. Vi muchas
+películas y algunas obras de teatro. Lo mejor fue una pianista de China, Liya
+Wang. Era como un hada de otro universo. Lo que hacía con el piano era
+sobrehumano. Pocos en la tierra pueden tocar el piano así.
 
-She played Bach, Beethoven, Liszt, Ravel and Ginastera. Each work was more
-difficult than the prior. The more difficult the music, the more she seemed
-to enjoy it. In the end, the Ginastera, she played like a person possessed by
-a demon. It was beautiful to watch and to listen.
+Tocó a Bach, Beethoven, Liszt, Ravel y Ginastera. Cada obra era más difícil que
+la anterior. Cuanto más difícil era la música, más parecía disfrutarla. Al
+final, con la pieza de Ginastera, tocó como una persona poseída por un demonio.
+Fue hermoso de ver y de escuchar.
 
-There were a lot of other, more important things that I'm not going to record
-here. Chief among those are love, friendship and a closer connection with the
-earth mother who sustains us.  Love is key. I find it more here, in Uruguay,
-than in my country of origin. When I was a young adult in art school, in New
-York City I felt it.  Later, no. Now I find it in Uruguay.
+Hubo muchas otras cosas, más importantes, que no voy a mencionar aquí. Entre
+ellas destacan el amor, la amistad y una conexión más cercana con la Madre
+Tierra que nos sustenta. El amor es la clave. Lo encuentro más aquí, en
+Uruguay, que en mi país de origen. Cuando era un joven adulto en la escuela de
+arte, en la ciudad de Nueva York, lo sentí. Más tarde, no. Ahora lo encuentro
+en Uruguay.
 
-Whenever I arrive in Montevideo I am happy. When I leave, it is with regret.
-Back at the boat, it takes weeks to adjust. Then it is here as well. The
-ocean takes over. It is a more solitary connection, a little lonely, and
-a connection nonetheless.
+Cada vez que llego a Montevideo me siento feliz. Cuando me voy, lo hago con
+pesar. De regreso al barco, me lleva semanas adaptarme. Pero luego también lo
+siento aquí. El océano toma el control. Es una conexión solitaria, y al fin y
+al cabo verdaderamente una conexión.
 
