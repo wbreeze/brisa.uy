@@ -17,6 +17,10 @@ delante, decidí que lo mejor sería ocuparme de uno de los puntos por donde
 puede entrar agua en el barco, uno al que hacía tiempo que no prestaba
 atención.
 
+![Brisa en la grua, Puerto Deportivo Radazul, Tenerife, Islas Canarias](
+  {{ 'assets/images/2026/10Salida/IMG_2363.jpeg' | relative_url }}
+)
+
 Después de dejar el barco en un astillero de las Bahamas durante mi último
 viaje a Uruguay, al volver a lanzar el barco al agua en marzo, me di cuenta de
 que entraba un buen chorrito de agua a través de la junta que rodea el eje de
@@ -41,6 +45,10 @@ implica un mayor desgaste del material de la empaquetadura. No durará mucho. Si
 está bien ajustada, funciona sin calentarse, refrigerada por agua, con un goteo
 mientras navega y sin goteo cuando la hélice está al ralentí, parada.
 
+![Brisa en el astillero, Puerto Deportivo Radazul, Tenerife](
+  {{ 'assets/images/2026/10Salida/IMG_2372.jpeg' | relative_url }}
+)
+
 Hubo un error con la varada. Les permití que lavaran a presión el casco por
 debajo de la línea de flotación. Es una práctica bastante habitual. Vararlo.
 Lavarlo. No se me ocurrió no hacerlo. Lo incluyeron en el presupuesto y yo lo
@@ -62,6 +70,10 @@ desgastan. Da igual la preparación —un lijado y una limpieza minuciosos— se
 descascarilla. Si hay una próxima vez, usaré algo mejor. Una ventaja es que se
 puede aplicar con rodillo, sin necesidad de spray. He lijado las zonas dañadas
 y las he repintado por sexta vez, más o menos.
+
+![Brisa luce una nueva mirada](
+  {{ 'assets/images/2026/10Salida/IMG_2375.jpeg' | relative_url }}
+)
 
 Una novedad. He aplicado un hechizo mágico: unos ojos en la proa para ver más
 allá del mar. Llevaba mucho tiempo queriendo hacerlo. Mientras estaba sentado
