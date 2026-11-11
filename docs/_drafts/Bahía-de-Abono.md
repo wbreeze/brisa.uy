@@ -6,77 +6,87 @@ tags: navegación
 excerpt: Escondiéndome gracias a Windy
 ---
 
-I'm not certain why this bay is named for fertilizer. What it is, is one
-place in the entire archipelagio of the Canaries with protection from wind
-out of the northwest to southwest almost through to southeast. I'm tucked away
-in here with a dozen other boats-- there's plenty of room --while a pair of
-low pressure systems sweeps across the subtropical Atlantic from west to east.
+No hay ninguna razón aparente por la que esta bahía se llame
+«Abono». Lo que sí es, es uno de los pocos sitios de todo el archipiélago
+de las Canarias que está protegido del viento desde el noroeste hasta el
+suroeste, casi hasta el sureste. Estoy aquí refugiado con otra docena de barcos
+—hay espacio de sobra— mientras un par de sistemas de baja presión barren el
+Atlántico subtropical de oeste a este.
 
-I motored here three hours, aiming south-southwest out of the marina, along the
-coast.  The first half was on glassy water. For the second, I reached a local
-zone of moderate wind directly on the bow.  It got marginal for motoring. I
-lost a knot of speed, yet; I felt lazy. Time was I would have proudly raised
-sail and had fun tacking my way upwind for hours, through the afternoon,
-arriving late afternoon to the anchorage. Now, I only wanted to arrive, to get
-here. I'm tired.
+He navegado a motor hasta aquí durante tres horas, poniendo rumbo sur-suroeste
+desde la Marina Deportiva Radazul, bordeando la costa. La primera mitad del
+trayecto fue sobre aguas tranquilas. En la segunda, me topé con una zona local
+de viento moderado que me daba de frente. Se volvió un poco límite para navegar
+a motor.  Perdí un nudo de velocidad, pero aun así me sentía con pereza. Hubo
+un tiempo en el que habría izado con orgullo las velas y me habría divertido
+virando contra el viento durante horas, toda la tarde, para llegar al
+fondeadero al atardecer. Ahora, solo quería llegar, llegar hasta aquí. Estoy
+cansado.
 
-The southern winds don't make conditions too very favorable to head south yet,
-to Cabo Verde. In any case, it's too early. Even the ARC, who run on a fairly
-strict schedule and timeline, decided to delay the departure of their ARC+
-rally to Cabo Verde for a week.
+Los vientos del sur no hacen que las condiciones sean muy favorables para
+poner rumbo al sur, hacia Cabo Verde. De todos modos, es demasiado pronto.
+Incluso la ARC, que sigue un calendario y unos plazos bastante estrictos,
+decidió retrasar una semana la salida de su regata ARC+ hacia Cabo Verde.
 
-The day before yesterday, kite surfers were having fun with their foil surf
-boards. This is such a cool invention. The riders look like they are suspended
-half a meter over the water as they speed back and forth with minimum
-resistance. They are not even planing. They are literally flying, suspended by
-the wing in the water. There are plenty who do it off of the beach in Malvín
-and some in Pocitos. We had fifteen knots blowing steadily out from shore. It
-was ideal.
+Anteayer, los kitesurfistas se lo estaban pasando en grande con sus tablas de
+surf con foil. Es un invento genial. Parece que los riders están suspendidos
+medio metro sobre el agua mientras van y vienen a toda velocidad con una
+resistencia mínima. Ni siquiera planean. Literalmente están volando,
+suspendidos por el ala en el agua. Hay un montón de gente que lo practica en la
+playa de Malvín y algunos en Pocitos. Teníamos un viento constante de quince
+nudos soplando desde la costa. Era ideal.
 
-Yesterday it was too much wind. Even with a couple hundred meters of fetch
-offshore, the wind lifted the water into waves of a third of a meter cresting
-and breaking all around, ruffled on the surface. The boats sailed on their
-anchors back and forth like slow motion flags waving in a breeze. Only the
-catamarans stay in one place.
+Ayer hacía demasiado viento. Incluso con unos doscientos metros de alcance mar
+adentro, el viento levantaba el agua formando olas de un tercio de metro que
+coronaban y rompían por todas partes, con la superficie revuelta. Los barcos
+navegaban de un lado a otro amarrados a sus anclas, como banderas a cámara
+lenta ondeando con la brisa. Solo los catamaranes se quedan en el mismo sitio.
 
-Onshore, windmills are generating power for the hungry machines of
-civilization. Here on Brisa the solar panels run the computers, charge the
-phones, and power the LED lighting at night. I'm using Windy to keep an
-eye on weather patterns and observing up on deck the reality of the present.
-I'm sharing time with loved ones using the celular data connection onshore.
-I've been swimming and visited with some of the neighbors.
+En tierra, los molinos de viento generan energía para las máquinas voraces de
+la civilización. Aquí, en el Brisa, los paneles solares alimentan los
+ordenadores, cargan los móviles y dan luz a la iluminación LED por la noche.
+Estoy usando Windy para estar al tanto de los patrones meteorológicos y
+observando desde la cubierta la realidad del momento. Comparto tiempo con mis
+seres queridos usando la conexión de datos del móvil desde tierra. He estado
+nadando y he charlado con algunos vecinos.
 
-I'm afraid that Starlink has priced me out. At first it was affordable.
-Now it is $250 USD a month. This is too much for me. When I go offshore I'll
-likely return to the days before, when I sailed from Panama to Columbia,
-Columbia to Cayman Islands, from Cayman Islands to Mexico, from Mexico to the
-Florida Keys without internet, without global computer model wind forecasts.
+Estoy pensando de nuevo en las opciones meteorológicas para alta mar. Me temo
+que Starlink se me ha quedado caro. Al principio era accesible. Ahora cuesta
+250 dólares al mes. Es demasiado para mí. Cuando me vaya a alta mar,
+probablemente volveré a los viejos tiempos, cuando navegué de Panamá a
+Colombia, de Colombia a las Islas Caimán, de las Islas Caimán a México y de
+México a los Cayos de Florida sin internet, sin previsiones de viento de
+modelos informáticos globales.
 
-It was done before. It can still be done. It was cool having these for the
-Atlantic crossing from Beaufort to Bermuda, Bermuda to the Azores. It had me
-feeling like I knew what I was doing. (The fact of that is undetermined, other
-than here I am still sailing.) In any case, going down to Cabo Verde I'll try
-going without it. Let's see.
+Ya se hacía antes. Y todavía se puede hacer. Estuvo genial tener todo esto para
+la travesía del Atlántico, de Beaufort a las Bermudas y de las Bermudas a las
+Azores. Me hacía sentir como si supiera lo que estaba haciendo. (Aunque eso es
+algo que no está claro, más allá de que aquí sigo navegando.) En cualquier
+caso, de camino a Cabo Verde voy a intentar prescindir de ello. Ya veremos.
 
-Examining alternative weather sources, sources for tactical route decisions, I
-have the HF radio and the satellite messaging. The Golden Globe Race boats that
-passed through here last month have only the HF radio. I'll have to check on
-what they're doing. Even this is not true. The race managers advise them by
-satellite message and regular satellite phone briefings, especially in the face
-of severe weather. It's bad for the race image if a bunch of them shipwreck and
-drown.
+Al analizar fuentes meteorológicas alternativas y recursos para tomar
+decisiones tácticas sobre la ruta, cuento con la radio de alta frecuencia (HF)
+y la mensajería por satélite. Los barcos de la Golden Globe Race que pasaron
+por aquí el mes pasado solo tenían la radio de alta frecuencia. Tendré que ver
+qué están haciendo. Aunque ni siquiera eso es del todo cierto. Los
+organizadores de la regata les dan consejos mediante mensajes por satélite y
+reuniones informativas periódicas por teléfono satelital, sobre todo ante
+condiciones meteorológicas adversas. Es malo para la imagen de la regata si uno
+de ellos naufraga y se ahoga.
 
-In any case, Starlink was great until it wasn't. Windy and PredictWind (I pay
-for both.) are great until they aren't. You can't argue that they have not made
-this activity safer and more predictable, because they have. This is a great
-achievement. We reward the private interests who had the vision, resources,
-tenacity and ability to serve us these new products and make them
-indispensable.
+En cualquier caso, Starlink fue genial hasta que dejó de serlo. Windy y
+PredictWind (pago por ambos) son geniales hasta que dejan de serlo. No se puede
+negar que han hecho que esta actividad sea más segura y predecible, porque así
+es. Es un gran logro. Recompensamos a las empresas privadas que tuvieron la
+visión, los recursos, la tenacidad y la capacidad de ofrecernos estos nuevos
+productos y hacerlos indispensables. Si nos lo podemos permitir. Sin Starlink,
+PredictWind y Windy se quedan sordos, mudos y ciegos en cuanto la señal de
+datos móviles se queda fuera de cobertura.
 
-In the age of discovery, the days of Columbus, Magellan, Drake, Cook; In the
-days of adventure, the days of Pardy, Chicheser, Slocum, Knox-Johnston,
-Motissier; In those days there was high risk and high reward. These days,
-we either accept the risk as personal adventure or pay to reduce it to
-recreational levels. Not many think of that as a choice. It's obvious.
-We pay and we benefit. We have some safe fun. We go to sea and we come home.
-
+En la era de los descubrimientos, en los tiempos de Colón, Magallanes, Drake,
+Cook; en los tiempos de la aventura, los de los Pardey, Chicheser, Slocum,
+Knox-Johnston, Moitessier; en aquellos tiempos había mucho riesgo y grandes
+recompensas. Hoy en día, o bien aceptamos el riesgo como una aventura personal
+o pagamos para reducirlo a niveles recreativos. No hay mucha gente que lo vea
+como una elección. Es obvio. Pagamos y nos beneficiamos. Nos divertimos con
+seguridad. Nos hacemos a la mar y volvemos a casa.
